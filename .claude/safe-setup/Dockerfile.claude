@@ -19,10 +19,6 @@ RUN apk add --no-cache \
     python3 \
     py3-pip
 
-# Install packages for Golang enviroment
-# RUN apk add --no-cache \
-#    go
-
 # Recommanded setup on https://code.claude.com/docs/en/setup for Alpine
 RUN USE_BUILTIN_RIPGREP=0
 

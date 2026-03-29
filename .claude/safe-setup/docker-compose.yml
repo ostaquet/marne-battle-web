@@ -4,8 +4,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.claude
-    image: techanism/claude-dev
-    container_name: claude-dev
+    image: ostaquet/marne-battle-web
+    container_name: marne-battle-web-dev
     volumes:
       - ../..:/workspace
       - ./claude-data:/home/claude/.claude

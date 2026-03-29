@@ -1,10 +1,10 @@
-# Claude Development Guide for <ADD PROJECT NAME>
+# Claude Development Guide for marne-battle-web
 
-This document providers instructions for AI assistants (like Claude) working on <ADD PROJECT NAME>.
+This document providers instructions for AI assistants (like Claude) working on marne-battle-web.
 
 ## Project Overview
 
-<ADD QUICK DESCRIPTION ABOUT THE PROJECT>
+This is a migration project of the website https://www.sambre-marne-yser.be/ from Spip to Jekyll static website. The Spip environment is not available and broken on some part. The only way to get the content is by using the Internet Archive (https://archive.org). The goal is to assemble the original content from the Internet Archive, convert these into a Markdown static content and then use Jekyll to build a static website that will last forever.
 
 ## Design principles
 
@@ -12,7 +12,6 @@ This document providers instructions for AI assistants (like Claude) working on 
 - Function names are verbs, variable names are nouns.
 - Write understandable code, not clever code.
 - Functions must be short (max 60 lines).
-  <ADD OTHER DESIGN PRINCIPLES>
 
 ## Architecture
 
