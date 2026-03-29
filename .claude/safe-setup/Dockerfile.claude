@@ -1,0 +1,55 @@
+FROM alpine:latest
+
+# Install packages for basic environment
+# apk add libgcc libstdc++ ripgrep is needed for the claude cli to work, but it is not included in the base image.
+RUN apk update && apk add --no-cache \
+    bash \
+    curl \
+    git \
+    build-base \
+    sudo \
+    libgcc \
+    libstdc++ \
+    ripgrep \
+    docker-cli \
+    docker-cli-buildx
+
+# Install packages for Python environment (used also for general scripting by Claude)
+RUN apk add --no-cache \
+    python3 \
+    py3-pip
+
+# Install packages for Golang enviroment
+# RUN apk add --no-cache \
+#    go
+
+# Recommanded setup on https://code.claude.com/docs/en/setup for Alpine
+RUN USE_BUILTIN_RIPGREP=0
+
+# Create non-root user with sudo access
+RUN addgroup -S claude && adduser -S claude -G claude \
+    && echo "claude ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
+
+# Create wrapper script 'c' that adds dangerous permissions flag
+# It is typically to be used for the "make claude" command in the Makefile.
+RUN echo '#!/bin/bash' > /usr/local/bin/claude_skip_permissions && \
+    echo 'export PATH="$HOME/.local/bin:$PATH"' >> /usr/local/bin/claude_skip_permissions && \
+    echo 'exec claude --dangerously-skip-permissions "$@"' >> /usr/local/bin/claude_skip_permissions && \
+    chmod +x /usr/local/bin/claude_skip_permissions
+
+# Set up working directory
+WORKDIR /workspace
+
+# Copy and set up entrypoint
+COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+
+# Switch to non-root user
+USER claude
+
+# Install Claude Code CLI for the main user
+RUN curl -fsSL https://claude.ai/install.sh | bash -s stable
+RUN echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+
+ENTRYPOINT ["/entrypoint.sh"]
+CMD ["bash"]

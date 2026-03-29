@@ -1,0 +1,17 @@
+services:
+
+  dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.claude
+    image: techanism/claude-dev
+    container_name: claude-dev
+    volumes:
+      - ../..:/workspace
+      - ./claude-data:/home/claude/.claude
+      - ./claude-data/.claude.json:/home/claude/.claude.json
+      - /var/run/docker.sock:/var/run/docker.sock # Mount Docker socket for Docker-in-Docker access, required to run Docker commands from within the container (integration tests)
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true
