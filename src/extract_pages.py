@@ -1,6 +1,5 @@
 """Extract working versions of pages from Internet Archive"""
 
-import re
 import requests
 import time
 import yaml
@@ -140,52 +139,6 @@ def find_working_snapshot(
     return None
 
 
-def extract_timestamp_from_archive_url(archive_url: str) -> str:
-    """Extract timestamp from an archive.org URL
-
-    Args:
-        archive_url: Archive.org URL containing timestamp
-
-    Returns:
-        Timestamp string (14 digits)
-
-    Raises:
-        ValueError: If timestamp cannot be extracted
-    """
-    pattern: str = r"web\.archive\.org/web/(\d{14})/"
-    match: Optional[re.Match[str]] = re.search(pattern, archive_url)
-
-    if match:
-        return match.group(1)
-
-    raise ValueError(f"Cannot extract timestamp from URL: {archive_url}")
-
-
-def build_page(
-    page_type: PageType,
-    official_url: str,
-    archive_url: str
-) -> Page:
-    """Build a Page object
-
-    Args:
-        page_type: Type of the page
-        official_url: Original URL of the page
-        archive_url: Archive.org URL of the page
-
-    Returns:
-        Page object with extracted information
-    """
-    timestamp: str = extract_timestamp_from_archive_url(archive_url)
-
-    return Page(
-        page_type=page_type,
-        official_url=official_url,
-        archive_url=archive_url,
-        timestamp=timestamp,
-    )
-
-
 def extract_all_working_versions() -> Optional[Page]:
     """Extract all working versions from archive.org
 
@@ -204,7 +157,7 @@ def extract_all_working_versions() -> Optional[Page]:
     if not homepage_archive:
         return None
 
-    homepage: Page = build_page(
+    homepage: Page = Page(
         PageType.HOMEPAGE, homepage_url, homepage_archive
     )
 
@@ -219,7 +172,7 @@ def extract_all_working_versions() -> Optional[Page]:
         )
 
         if page_archive:
-            page: Page = build_page(PageType.PAGE, page_url, page_archive)
+            page: Page = Page(PageType.PAGE, page_url, page_archive)
             homepage.add_child(page)
 
     return homepage

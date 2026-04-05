@@ -1,14 +1,9 @@
-"""Unit tests for extract_pages.py"""
-
-import pytest
 import responses
 from datetime import datetime
 from extract_pages import (
     query_cdx_snapshots,
     is_page_functional,
     find_working_snapshot,
-    extract_timestamp_from_archive_url,
-    build_page,
 )
 from page import Page, PageType
 
@@ -192,28 +187,6 @@ class TestFindWorkingSnapshot:
         assert result is None
 
 
-class TestExtractTimestamp:
-    """Tests for extracting timestamp from archive URL"""
-
-    def test_extract_timestamp_from_valid_url(self) -> None:
-        """Test extracting timestamp from valid archive URL"""
-        archive_url: str = (
-            "https://web.archive.org/web/20131029060500/"
-            "http://sambre-marne-yser.be/sommaire.php3"
-        )
-
-        timestamp: str = extract_timestamp_from_archive_url(archive_url)
-
-        assert timestamp == "20131029060500"
-
-    def test_extract_timestamp_raises_on_invalid_url(self) -> None:
-        """Test that invalid URL raises ValueError"""
-        invalid_url: str = "https://example.com/page.html"
-
-        with pytest.raises(ValueError):
-            extract_timestamp_from_archive_url(invalid_url)
-
-
 class TestBuildPage:
     """Tests for building Page objects"""
 
@@ -227,7 +200,7 @@ class TestBuildPage:
             "http://sambre-marne-yser.be/sommaire.php3"
         )
 
-        page: Page = build_page(
+        page: Page = Page(
             PageType.HOMEPAGE,
             official_url=official_url,
             archive_url=archive_url

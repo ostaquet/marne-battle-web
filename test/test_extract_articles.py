@@ -1,5 +1,3 @@
-"""Unit tests for extract_articles.py"""
-
 import responses
 from datetime import datetime
 from extract_articles import (
@@ -164,7 +162,6 @@ children: []
                 "https://web.archive.org/web/20131029060500/"
                 "http://sambre-marne-yser.be/sommaire.php3"
             ),
-            timestamp="20131029060500",
         )
 
         save_page_to_yaml(page, str(yaml_file))
@@ -185,7 +182,6 @@ children: []
                 "https://web.archive.org/web/20130101120000/"
                 "http://www.sambre-marne-yser.be/page_01.php3"
             ),
-            timestamp="20130101120000",
         )
 
         save_page_to_yaml(original, str(yaml_file))
@@ -216,7 +212,6 @@ class TestFailSafeProcessing:
                 "http://www.sambre-marne-yser.be/"
                 "article=1.php3?id_article=1"
             ),
-            timestamp="20120101120000",
         )
 
         page: Page = Page(
@@ -226,9 +221,8 @@ class TestFailSafeProcessing:
                 "https://web.archive.org/web/20130101120000/"
                 "http://www.sambre-marne-yser.be/page_01.php3"
             ),
-            timestamp="20130101120000",
-            children=[article],
         )
+        page.add_child(article)
 
         initial_count: int = len(page.children)
 
@@ -251,7 +245,6 @@ class TestFailSafeProcessing:
                 "https://web.archive.org/web/20130101120000/"
                 "http://www.sambre-marne-yser.be/page_01.php3"
             ),
-            timestamp="20130101120000",
         )
 
         assert len(page.children) == 0

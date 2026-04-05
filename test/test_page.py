@@ -1,6 +1,5 @@
-"""Unit tests for page.py"""
-
-from page import Page, PageType
+from page import Page, PageType, load_from_dict
+import pytest
 
 
 class TestPageType:
@@ -30,8 +29,7 @@ class TestPage:
             archive_url=(
                 "https://web.archive.org/web/20131029060500/"
                 "http://sambre-marne-yser.be/sommaire.php3"
-            ),
-            timestamp="20131029060500",
+            )
         )
 
         assert page.page_type == PageType.HOMEPAGE
@@ -53,8 +51,7 @@ class TestPage:
             archive_url=(
                 "https://web.archive.org/web/20120101120000/"
                 "http://www.sambre-marne-yser.be/article=1.php3?id_article=1"
-            ),
-            timestamp="20120101120000",
+            )
         )
 
         parent: Page = Page(
@@ -64,9 +61,8 @@ class TestPage:
                 "https://web.archive.org/web/20130101120000/"
                 "http://www.sambre-marne-yser.be/page_01.php3"
             ),
-            timestamp="20130101120000",
-            children=[child],
         )
+        parent.add_child(child)
 
         assert len(parent.children) == 1
         assert parent.children[0] == child
@@ -80,7 +76,6 @@ class TestPage:
                 "https://web.archive.org/web/20131029060500/"
                 "http://sambre-marne-yser.be/sommaire.php3"
             ),
-            timestamp="20131029060500",
         )
 
         child: Page = Page(
@@ -90,7 +85,6 @@ class TestPage:
                 "https://web.archive.org/web/20130101120000/"
                 "http://www.sambre-marne-yser.be/page_01.php3"
             ),
-            timestamp="20130101120000",
         )
 
         parent.add_child(child)
@@ -107,7 +101,6 @@ class TestPage:
                 "https://web.archive.org/web/20131029060500/"
                 "http://sambre-marne-yser.be/sommaire.php3"
             ),
-            timestamp="20131029060500",
         )
 
         result: dict[str, object] = page.to_dict()
@@ -132,7 +125,6 @@ class TestPage:
                 "https://web.archive.org/web/20120101120000/"
                 "http://www.sambre-marne-yser.be/article=1.php3?id_article=1"
             ),
-            timestamp="20120101120000",
         )
 
         parent: Page = Page(
@@ -142,16 +134,16 @@ class TestPage:
                 "https://web.archive.org/web/20130101120000/"
                 "http://www.sambre-marne-yser.be/page_01.php3"
             ),
-            timestamp="20130101120000",
-            children=[child],
         )
+
+        parent.add_child(child)
 
         result: dict[str, object] = parent.to_dict()
 
         assert result["type"] == "page"
-        assert len(list(result["children"])) == 1
-        child_dict: object = list(result["children"])[0]
-        assert dict(child_dict)["type"] == "article"
+        assert len(list(result["children"])) == 1  # type: ignore
+        child_dict: object = list(result["children"])[0]  # type: ignore
+        assert dict(child_dict)["type"] == "article"  # type: ignore
 
     def test_page_from_dict(self) -> None:
         """Test creating page from dictionary"""
@@ -166,7 +158,7 @@ class TestPage:
             "children": [],
         }
 
-        page: Page = Page.from_dict(data)
+        page: Page = load_from_dict(data)
 
         assert page.page_type == PageType.HOMEPAGE
         assert (
@@ -204,7 +196,7 @@ class TestPage:
             ],
         }
 
-        page: Page = Page.from_dict(data)
+        page: Page = load_from_dict(data)
 
         assert page.page_type == PageType.PAGE
         assert len(page.children) == 1
@@ -219,14 +211,41 @@ class TestPage:
                 "https://web.archive.org/web/20131029060500/"
                 "http://sambre-marne-yser.be/sommaire.php3"
             ),
-            timestamp="20131029060500",
         )
 
         dict_repr: dict[str, object] = original.to_dict()
-        restored: Page = Page.from_dict(dict_repr)
+        restored: Page = load_from_dict(dict_repr)
 
         assert restored.page_type == original.page_type
         assert restored.official_url == original.official_url
         assert restored.archive_url == original.archive_url
         assert restored.timestamp == original.timestamp
         assert len(restored.children) == len(original.children)
+
+
+class TestExtractTimestamp:
+    """Tests for extracting timestamp from archive URL"""
+
+    def test_extract_timestamp_from_valid_url(self) -> None:
+        """Test extracting timestamp from valid archive URL"""
+        archive_url: str = (
+            "https://web.archive.org/web/20131029060500/"
+            "http://sambre-marne-yser.be/sommaire.php3"
+        )
+
+        page: Page = Page(PageType.HOMEPAGE, "", archive_url)
+        timestamp: str = page._extract_timestamp_from_archive_url(archive_url)
+        assert timestamp == "20131029060500"
+
+    def test_extract_timestamp_raises_on_invalid_url(self) -> None:
+        """Test that invalid URL raises ValueError"""
+        invalid_url: str = "https://example.com/page.html"
+
+        archive_url: str = (
+                    "https://web.archive.org/web/20131029060500/"
+                    "http://sambre-marne-yser.be/sommaire.php3"
+                )
+        page: Page = Page(PageType.HOMEPAGE, "", archive_url)
+
+        with pytest.raises(ValueError):
+            page._extract_timestamp_from_archive_url(invalid_url)

@@ -1,8 +1,6 @@
-"""Data structures for representing website pages"""
-
-from dataclasses import dataclass, field
 from enum import Enum
-from typing import Any, cast
+import re
+from typing import Any, Optional, cast
 
 
 class PageType(Enum):
@@ -13,7 +11,6 @@ class PageType(Enum):
     ARTICLE = "article"
 
 
-@dataclass
 class Page:
     """Represents a page from the website
 
@@ -25,11 +22,13 @@ class Page:
         children: List of child pages
     """
 
-    page_type: PageType
-    official_url: str
-    archive_url: str
-    timestamp: str
-    children: list["Page"] = field(default_factory=list)
+    def __init__(self, page_type: PageType, official_url: str, archive_url: str):
+        timestamp: str = self._extract_timestamp_from_archive_url(archive_url)
+        self.page_type = page_type
+        self.official_url = official_url
+        self.archive_url = archive_url
+        self.timestamp = timestamp
+        self.children: list[Page] = []
 
     def add_child(self, child: "Page") -> None:
         """Add a child page to this page
@@ -53,33 +52,43 @@ class Page:
             "children": [child.to_dict() for child in self.children],
         }
 
-    @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "Page":
-        """Create a Page from dictionary representation
+    def _extract_timestamp_from_archive_url(self, archive_url: str) -> str:
+        """Extract timestamp from an archive.org URL
 
         Args:
-            data: Dictionary containing page data
+            archive_url: Archive.org URL containing timestamp
 
         Returns:
-            Page instance created from the dictionary
+            Timestamp string (14 digits)
+
+        Raises:
+            ValueError: If timestamp cannot be extracted
         """
-        page_type: PageType = PageType(str(data["type"]))
-        official_url: str = str(data["official_url"])
-        archive_url: str = str(data["archive_url"])
-        timestamp: str = str(data["timestamp"])
+        pattern: str = r"web\.archive\.org/web/(\d{14})/"
+        match: Optional[re.Match[str]] = re.search(pattern, archive_url)
 
-        children_data: list[Any] = cast(
-            list[Any], data.get("children", [])
-        )
-        children: list[Page] = [
-            cls.from_dict(cast(dict[str, Any], child))
-            for child in children_data
-        ]
+        if match:
+            return match.group(1)
 
-        return cls(
-            page_type=page_type,
-            official_url=official_url,
-            archive_url=archive_url,
-            timestamp=timestamp,
-            children=children,
-        )
+        raise ValueError(f"Cannot extract timestamp from URL: {archive_url}")
+
+
+def load_from_dict(data: dict[str, Any]) -> Page:
+    page_type: PageType = PageType(str(data["type"]))
+    official_url: str = str(data["official_url"])
+    archive_url: str = str(data["archive_url"])
+
+    current_page: Page = Page(
+        page_type=page_type,
+        official_url=official_url,
+        archive_url=archive_url
+    )
+
+    children_data: list[Any] = cast(
+        list[Any], data.get("children", [])
+    )
+
+    for child in children_data:
+        current_page.add_child(load_from_dict(child))
+
+    return current_page

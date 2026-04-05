@@ -8,10 +8,10 @@ import yaml
 from datetime import datetime
 from typing import Any, Optional
 
-from page import Page, PageType
+from page import Page, PageType, load_from_dict
+
 from extract_pages import (
-    find_working_snapshot,
-    build_page,
+    find_working_snapshot
 )
 
 
@@ -80,7 +80,7 @@ def load_page_from_yaml(yaml_file: str) -> Page:
     with open(yaml_file, "r", encoding="utf-8") as file:
         data: Any = yaml.safe_load(file)
 
-    return Page.from_dict(data)
+    return load_from_dict(data)
 
 
 def save_page_to_yaml(page: Page, yaml_file: str) -> None:
@@ -137,7 +137,7 @@ def process_page_for_articles(
         )
 
         if archive_url:
-            article: Page = build_page(
+            article: Page = Page(
                 PageType.ARTICLE,
                 official_url,
                 archive_url
