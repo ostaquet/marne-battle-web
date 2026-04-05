@@ -25,7 +25,7 @@ The "articles" are accessible from the "pages". The URLs are under the form http
 
 The structure of the Spip website is composed by: 1 homepage -> X pages -> Y articles.
 
-The problem with the official URL is a broken MySQL instance; so, there are pages and articles unavailable. This is why we must download the content from https://archive.org.
+The problem with the official URL is a broken MySQL instance; so, there are pages and articles unavailable. This is why we must download the content from https://archive.org. The website didn't evolve since the death of the creator in 2009. Therefore, all downloads from https://archive.org must be performed after 2010 and before 2015.
 
 ## Architecture
 
