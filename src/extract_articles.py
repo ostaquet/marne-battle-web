@@ -100,6 +100,11 @@ def process_page_for_articles(
     if page.page_type != PageType.PAGE:
         return
 
+    # Skip pages that already have articles (fail-safe: resume capability)
+    if len(page.children) > 0:
+        print("  Skipping (already has articles)")
+        return
+
     # Download HTML from the page's archive URL
     html_content: str = download_html_from_archive(page.archive_url)
     if not html_content:
@@ -148,8 +153,11 @@ def extract_articles_from_pages(input_yaml: str, output_yaml: str) -> None:
         process_page_for_articles(page, start_date, end_date)
         print(f"  Found {len(page.children)} articles")
 
-    # Save the updated structure
-    save_page_to_yaml(homepage, output_yaml)
+        # Save after each page (fail-safe: preserve progress)
+        save_page_to_yaml(homepage, output_yaml)
+        print(f"  Progress saved to {output_yaml}")
+
+    print("All pages processed successfully")
 
 
 def main() -> None:

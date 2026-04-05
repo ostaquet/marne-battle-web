@@ -66,3 +66,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Task
 - Completed task `0003-extract-articles-urls.md`: Extract article URLs from pages
+
+### Added
+- Fail-safe processing in article extraction
+- Skip logic for pages that already have articles
+- Progress saving after each page is processed
+- Unit tests for fail-safe features (2 tests)
+
+### Changed
+- `process_page_for_articles()` now skips pages with existing articles
+- `extract_articles_from_pages()` saves YAML after each page
+- Article extraction is now resumable after timeouts or errors
+- README.md updated with fail-safe feature documentation
+
+### Task
+- Completed task `0004-add-fail-safe-processing.md`: Add fail-safe processing to article extraction

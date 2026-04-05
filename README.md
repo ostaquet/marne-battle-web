@@ -44,6 +44,11 @@ This will:
 4. Find working archive snapshots for each article
 5. Generate `assets/articles.yaml` with the complete structure
 
+**Fail-safe features:**
+- Progress is saved after each page is processed
+- Pages that already have articles are automatically skipped
+- Script can be safely re-run to resume after timeouts or errors
+
 ## Development
 
 ### Running Tests
