@@ -28,8 +28,8 @@ class TestExtractArticleLinks:
         links: list[str] = extract_article_links_from_html(html_content)
 
         assert len(links) == 2
-        assert "article=1.php3?id_article=5" in links
-        assert "article=2.php3?id_article=10" in links
+        assert "https://www.sambre-marne-yser.be/article=1.php3?id_article=5" in links
+        assert "https://www.sambre-marne-yser.be/article=2.php3?id_article=10" in links
 
     def test_extract_article_links_handles_absolute_urls(self) -> None:
         """Test extracting article links with absolute URLs"""
@@ -46,7 +46,7 @@ class TestExtractArticleLinks:
         links: list[str] = extract_article_links_from_html(html_content)
 
         assert len(links) == 1
-        assert "article=1.php3?id_article=5" in links
+        assert "https://www.sambre-marne-yser.be/article=1.php3?id_article=5" in links
 
     def test_extract_article_links_returns_empty_for_no_articles(
         self

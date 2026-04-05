@@ -12,6 +12,12 @@ from page import Page, PageType, load_from_dict
 from wayback_api import find_working_snapshot
 
 
+class ArticleLink:
+    def __init__(self, archive_url: str, original_url: str) -> None:
+        self.archive_url = archive_url
+        self.original_url = original_url
+
+
 def extract_article_links_from_html(html_content: str) -> list[str]:
     """Extract article links from HTML content
 
@@ -34,7 +40,8 @@ def extract_article_links_from_html(html_content: str) -> list[str]:
                 r'(article=\d+\.php3\?id_article=\d+)', match
             )
             if article_match:
-                article_links.add(article_match.group(1))
+                official_url: str = f"https://www.sambre-marne-yser.be/{article_match.group(1)}"
+                article_links.add(official_url)
 
     return list(article_links)
 
@@ -123,20 +130,15 @@ def process_page_for_articles(
 
     # For each article link, find a working snapshot
     for article_link in article_links:
-        # Build official URL
-        official_url: str = (
-            f"https://www.sambre-marne-yser.be/{article_link}"
-        )
-
         # Find working snapshot
         archive_url: Optional[str] = find_working_snapshot(
-            official_url, start_date, end_date
+            article_link, start_date, end_date
         )
 
         if archive_url:
             article: Page = Page(
                 PageType.ARTICLE,
-                official_url,
+                article_link,
                 archive_url
             )
             page.add_child(article)

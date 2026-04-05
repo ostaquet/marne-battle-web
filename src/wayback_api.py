@@ -31,6 +31,7 @@ def _query_all_available_snapshots(
         "filter": "statuscode:200",
     }
 
+    print(f"Querying available snapshots on {cdx_url} for {url}...")
     response: requests.Response = requests.get(cdx_url, params=params, timeout=60)
     response.raise_for_status()
 
