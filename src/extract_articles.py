@@ -9,10 +9,7 @@ from datetime import datetime
 from typing import Any, Optional
 
 from page import Page, PageType, load_from_dict
-
-from extract_pages import (
-    find_working_snapshot
-)
+from wayback_api import find_working_snapshot
 
 
 def extract_article_links_from_html(html_content: str) -> list[str]:

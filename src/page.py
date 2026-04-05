@@ -92,3 +92,29 @@ def load_from_dict(data: dict[str, Any]) -> Page:
         current_page.add_child(load_from_dict(child))
 
     return current_page
+
+
+class TestBuildPage:
+    """Tests for building Page objects"""
+
+    def test_build_page_creates_correct_structure(self) -> None:
+        """Test that build_page creates correct Page structure"""
+        official_url: str = (
+            "https://www.sambre-marne-yser.be/sommaire.php3"
+        )
+        archive_url: str = (
+            "https://web.archive.org/web/20131029060500/"
+            "http://sambre-marne-yser.be/sommaire.php3"
+        )
+
+        page: Page = Page(
+            PageType.HOMEPAGE,
+            official_url=official_url,
+            archive_url=archive_url
+        )
+
+        assert page.page_type == PageType.HOMEPAGE
+        assert page.official_url == official_url
+        assert page.archive_url == archive_url
+        assert page.timestamp == "20131029060500"
+        assert len(page.children) == 0

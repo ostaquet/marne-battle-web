@@ -1,11 +1,12 @@
-import responses
 from datetime import datetime
-from extract_pages import (
-    query_cdx_snapshots,
-    is_page_functional,
-    find_working_snapshot,
+
+import responses
+
+from wayback_api import (
+    _is_page_functional,
+    _query_all_available_snapshots,
+    find_working_snapshot
 )
-from page import Page, PageType
 
 
 class TestQueryCdxSnapshots:
@@ -28,12 +29,12 @@ class TestQueryCdxSnapshots:
 
         responses.add(
             responses.GET,
-            "http://web.archive.org/cdx/search/cdx",
+            "https://web.archive.org/cdx/search/cdx",
             body=cdx_response,
             status=200,
         )
 
-        snapshots: list[dict[str, str]] = query_cdx_snapshots(
+        snapshots: list[dict[str, str]] = _query_all_available_snapshots(
             url,
             start_date=datetime(2010, 1, 1),
             end_date=datetime(2015, 12, 31),
@@ -61,7 +62,7 @@ class TestIsPageFunctional:
         </html>
         """
 
-        assert is_page_functional(html_content) is False
+        assert _is_page_functional(html_content) is False
 
     def test_page_without_mysql_error_is_functional(self) -> None:
         """Test that page without MySQL error is functional"""
@@ -74,11 +75,11 @@ class TestIsPageFunctional:
         </html>
         """
 
-        assert is_page_functional(html_content) is True
+        assert _is_page_functional(html_content) is True
 
     def test_empty_page_is_not_functional(self) -> None:
         """Test that empty page is not functional"""
-        assert is_page_functional("") is False
+        assert _is_page_functional("") is False
 
 
 class TestFindWorkingSnapshot:
@@ -98,7 +99,7 @@ class TestFindWorkingSnapshot:
         )
         responses.add(
             responses.GET,
-            "http://web.archive.org/cdx/search/cdx",
+            "https://web.archive.org/cdx/search/cdx",
             body=cdx_response,
             status=200,
         )
@@ -157,7 +158,7 @@ class TestFindWorkingSnapshot:
         )
         responses.add(
             responses.GET,
-            "http://web.archive.org/cdx/search/cdx",
+            "https://web.archive.org/cdx/search/cdx",
             body=cdx_response,
             status=200,
         )
@@ -185,29 +186,3 @@ class TestFindWorkingSnapshot:
         )
 
         assert result is None
-
-
-class TestBuildPage:
-    """Tests for building Page objects"""
-
-    def test_build_page_creates_correct_structure(self) -> None:
-        """Test that build_page creates correct Page structure"""
-        official_url: str = (
-            "https://www.sambre-marne-yser.be/sommaire.php3"
-        )
-        archive_url: str = (
-            "https://web.archive.org/web/20131029060500/"
-            "http://sambre-marne-yser.be/sommaire.php3"
-        )
-
-        page: Page = Page(
-            PageType.HOMEPAGE,
-            official_url=official_url,
-            archive_url=archive_url
-        )
-
-        assert page.page_type == PageType.HOMEPAGE
-        assert page.official_url == official_url
-        assert page.archive_url == archive_url
-        assert page.timestamp == "20131029060500"
-        assert len(page.children) == 0
