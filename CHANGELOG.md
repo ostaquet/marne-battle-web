@@ -81,3 +81,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Task
 - Completed task `0004-add-fail-safe-processing.md`: Add fail-safe processing to article extraction
+
+### Added
+- Automatic delays between Internet Archive requests
+- Configurable delay parameter in HTTP request functions
+- Default 0.5s delay for CDX API queries
+- Default 1.0s delay for archive.org downloads
+- Delays even on request errors to avoid hammering the server
+
+### Changed
+- `query_cdx_snapshots()` now accepts delay parameter (default: 0.5s)
+- `find_working_snapshot()` now accepts delay parameter (default: 1.0s)
+- `download_html_from_archive()` now accepts delay parameter (default: 1.0s)
+- All tests updated to use delay=0 for fast execution
+- Prevents connection errors and rate limiting issues
+
+### Task
+- Completed task `0005-gentle-with-internet-archive.md`: Add delays to be gentle with Internet Archive

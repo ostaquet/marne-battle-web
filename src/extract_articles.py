@@ -2,6 +2,7 @@
 
 import re
 import requests
+import time
 import yaml
 from datetime import datetime
 from typing import Any, Optional
@@ -40,11 +41,15 @@ def extract_article_links_from_html(html_content: str) -> list[str]:
     return list(article_links)
 
 
-def download_html_from_archive(archive_url: str) -> str:
+def download_html_from_archive(
+    archive_url: str,
+    delay: float = 1.0
+) -> str:
     """Download HTML content from an archive URL
 
     Args:
         archive_url: Archive.org URL to download
+        delay: Seconds to wait after download (default: 1.0)
 
     Returns:
         HTML content, or empty string on error
@@ -52,7 +57,12 @@ def download_html_from_archive(archive_url: str) -> str:
     try:
         response: requests.Response = requests.get(archive_url, timeout=30)
         response.raise_for_status()
-        return response.text
+        content: str = response.text
+
+        # Be gentle with Internet Archive - add delay after request
+        time.sleep(delay)
+
+        return content
     except requests.RequestException:
         return ""
 

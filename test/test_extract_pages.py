@@ -41,7 +41,8 @@ class TestQueryCdxSnapshots:
         snapshots: list[dict[str, str]] = query_cdx_snapshots(
             url,
             start_date=datetime(2010, 1, 1),
-            end_date=datetime(2015, 12, 31)
+            end_date=datetime(2015, 12, 31),
+            delay=0
         )
 
         assert len(snapshots) == 3
@@ -137,7 +138,8 @@ class TestFindWorkingSnapshot:
         result: str | None = find_working_snapshot(
             url,
             start_date=datetime(2010, 1, 1),
-            end_date=datetime(2015, 12, 31)
+            end_date=datetime(2015, 12, 31),
+            delay=0
         )
 
         expected_url: str = (
@@ -183,7 +185,8 @@ class TestFindWorkingSnapshot:
         result: str | None = find_working_snapshot(
             url,
             start_date=datetime(2010, 1, 1),
-            end_date=datetime(2015, 12, 31)
+            end_date=datetime(2015, 12, 31),
+            delay=0
         )
 
         assert result is None

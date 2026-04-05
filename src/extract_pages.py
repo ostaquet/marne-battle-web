@@ -2,6 +2,7 @@
 
 import re
 import requests
+import time
 import yaml
 from datetime import datetime
 from typing import Optional
@@ -12,7 +13,8 @@ from page import Page, PageType
 def query_cdx_snapshots(
     url: str,
     start_date: datetime,
-    end_date: datetime
+    end_date: datetime,
+    delay: float = 0.5
 ) -> list[dict[str, str]]:
     """Query CDX API for snapshots of a URL within a date range
 
@@ -20,6 +22,7 @@ def query_cdx_snapshots(
         url: The URL to search for
         start_date: Start of date range (inclusive)
         end_date: End of date range (inclusive)
+        delay: Seconds to wait after request (default: 0.5)
 
     Returns:
         List of snapshot dictionaries with timestamp and url
@@ -36,6 +39,9 @@ def query_cdx_snapshots(
 
     response: requests.Response = requests.get(cdx_url, params=params, timeout=30)
     response.raise_for_status()
+
+    # Be gentle with Internet Archive - add delay after request
+    time.sleep(delay)
 
     start_timestamp: str = start_date.strftime("%Y%m%d%H%M%S")
     end_timestamp: str = end_date.strftime("%Y%m%d%H%M%S")
@@ -92,7 +98,8 @@ def is_page_functional(html_content: str) -> bool:
 def find_working_snapshot(
     url: str,
     start_date: datetime,
-    end_date: datetime
+    end_date: datetime,
+    delay: float = 1.0
 ) -> Optional[str]:
     """Find the first working snapshot for a URL
 
@@ -100,11 +107,14 @@ def find_working_snapshot(
         url: The URL to search for
         start_date: Start of date range
         end_date: End of date range
+        delay: Seconds to wait after each request (default: 1.0)
 
     Returns:
         Archive.org URL of first working snapshot, or None if not found
     """
-    snapshots: list[dict[str, str]] = query_cdx_snapshots(url, start_date, end_date)
+    snapshots: list[dict[str, str]] = query_cdx_snapshots(
+        url, start_date, end_date, delay=delay * 0.5
+    )
 
     for snapshot in snapshots:
         timestamp: str = snapshot["timestamp"]
@@ -116,10 +126,15 @@ def find_working_snapshot(
             response: requests.Response = requests.get(archive_url, timeout=30)
             response.raise_for_status()
 
+            # Be gentle with Internet Archive - add delay after request
+            time.sleep(delay)
+
             if is_page_functional(response.text):
                 return archive_url
 
         except requests.RequestException:
+            # Still add delay even on error to avoid hammering the server
+            time.sleep(delay)
             continue
 
     return None
