@@ -48,3 +48,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Task
 - Completed task `0002-structure-data.md`: Replace dict structure with Page dataclass
+
+### Added
+- `extract_articles.py` script to extract article links from pages
+- `extract_article_links_from_html()` function to parse HTML for articles
+- `download_html_from_archive()` function to fetch HTML from archive URLs
+- `load_page_from_yaml()` function to load Page structure from YAML
+- `save_page_to_yaml()` function to save Page structure to YAML
+- `process_page_for_articles()` function to find articles for a page
+- `extract_articles_from_pages()` orchestration function
+- Comprehensive unit tests for article extraction (9 tests)
+
+### Changed
+- Project now supports two-step extraction: pages first, then articles
+- Articles are added as children to their parent pages
+- README.md updated with article extraction workflow
+
+### Task
+- Completed task `0003-extract-articles-urls.md`: Extract article URLs from pages

@@ -26,6 +26,23 @@ python src/extract_working_versions.py
 
 This will generate `working_versions.yaml` containing the homepage and pages with their working archive.org URLs.
 
+## Extracting Articles
+
+After extracting pages, run the article extraction script to find and add article links:
+
+```bash
+source venv/bin/activate
+export PYTHONPATH="$PWD/src:$PYTHONPATH"
+python src/extract_articles.py
+```
+
+This will:
+1. Read the `working_versions.yaml` file
+2. Download HTML from each page's archive URL
+3. Extract article links from the HTML
+4. Find working archive snapshots for each article
+5. Generate `working_versions_with_articles.yaml` with the complete structure
+
 ## Data Structure
 
 The project uses a strongly-typed `Page` dataclass to represent website pages:
