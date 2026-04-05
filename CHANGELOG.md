@@ -132,3 +132,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0006-improve-retry.md`: Improve retry logic to resume from articles.yaml
+
+### Added
+
+- Comprehensive tests for loading real YAML files
+- Roundtrip test for save/load with articles (validates YAML integrity)
+- Tests for loading actual assets/pages.yaml and assets/articles.yaml files
+
+### Fixed
+
+- Removed corrupted articles.yaml file
+- Verified YAML save/load functionality works correctly
+- Added test coverage for real-world YAML file loading
+
+### Task
+
+- Completed task `0007-fix-loading-yaml-articles.md`: Fix and test loading of YAML articles
