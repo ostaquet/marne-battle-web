@@ -18,7 +18,7 @@ def extract_all_working_versions() -> Optional[Page]:
     # Extract homepage
     homepage_url: str = "https://www.sambre-marne-yser.be/sommaire.php3"
     homepage_archive: Optional[str] = find_working_snapshot(
-        homepage_url, start_date, end_date
+        homepage_url, start_date, end_date, 30
     )
 
     if not homepage_archive:
@@ -35,7 +35,7 @@ def extract_all_working_versions() -> Optional[Page]:
         )
 
         page_archive: Optional[str] = find_working_snapshot(
-            page_url, start_date, end_date
+            page_url, start_date, end_date, 30
         )
 
         if page_archive:

@@ -1,14 +1,14 @@
 from datetime import datetime
-import time
 from typing import Optional
 import requests
+
+from delay import wait_for
 
 
 def _query_all_available_snapshots(
     url: str,
     start_date: datetime,
-    end_date: datetime,
-    delay: float = 1.0
+    end_date: datetime
 ) -> list[dict[str, str]]:
     """Query Wayback API for all snapshots of a URL within a date range
 
@@ -32,11 +32,8 @@ def _query_all_available_snapshots(
     }
 
     print(f"Querying available snapshots on {cdx_url} for {url}...")
-    response: requests.Response = requests.get(cdx_url, params=params, timeout=60)
+    response: requests.Response = requests.get(cdx_url, params=params, timeout=120)
     response.raise_for_status()
-
-    # Be gentle with Internet Archive - add delay after request
-    time.sleep(delay)
 
     start_timestamp: str = start_date.strftime("%Y%m%d%H%M%S")
     end_timestamp: str = end_date.strftime("%Y%m%d%H%M%S")
@@ -94,7 +91,7 @@ def find_working_snapshot(
     url: str,
     start_date: datetime,
     end_date: datetime,
-    delay: float = 1.0
+    delay_in_seconds: int
 ) -> Optional[str]:
     """Find the first working snapshot for a URL on the wayback API
 
@@ -108,7 +105,7 @@ def find_working_snapshot(
         Archive.org URL of first working snapshot, or None if not found
     """
     snapshots: list[dict[str, str]] = _query_all_available_snapshots(
-        url, start_date, end_date, delay=delay
+        url, start_date, end_date
     )
 
     for snapshot in snapshots:
@@ -118,18 +115,18 @@ def find_working_snapshot(
         archive_url: str = f"https://web.archive.org/web/{timestamp}/{original_url}"
 
         try:
-            response: requests.Response = requests.get(archive_url, timeout=30)
+            response: requests.Response = requests.get(archive_url, timeout=120)
             response.raise_for_status()
 
             # Be gentle with Internet Archive - add delay after request
-            time.sleep(delay)
+            wait_for(delay_in_seconds)
 
             if _is_page_functional(response.text):
                 return archive_url
 
         except requests.RequestException:
             # Still add delay even on error to avoid hammering the server
-            time.sleep(delay)
+            wait_for(delay_in_seconds)
             continue
 
     return None

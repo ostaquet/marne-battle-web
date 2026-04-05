@@ -1,9 +1,6 @@
-"""Extract article links from pages and populate the YAML structure"""
-
 import os
 import re
 import requests
-import time
 import yaml
 from datetime import datetime
 from typing import Any, Optional
@@ -40,7 +37,8 @@ def extract_article_links_from_html(html_content: str) -> list[str]:
                 r'(article=\d+\.php3\?id_article=\d+)', match
             )
             if article_match:
-                official_url: str = f"https://www.sambre-marne-yser.be/{article_match.group(1)}"
+                relative_link: str = article_match.group(1)
+                official_url: str = f"https://www.sambre-marne-yser.be/{relative_link}"
                 article_links.add(official_url)
 
     return list(article_links)
@@ -48,25 +46,22 @@ def extract_article_links_from_html(html_content: str) -> list[str]:
 
 def download_html_from_archive(
     archive_url: str,
-    delay: float = 1.0
+    timeout: int = 120
 ) -> str:
     """Download HTML content from an archive URL
 
     Args:
         archive_url: Archive.org URL to download
         delay: Seconds to wait after download (default: 1.0)
+        timeout: Seconds for the timeout to download the HTML file
 
     Returns:
         HTML content, or empty string on error
     """
     try:
-        response: requests.Response = requests.get(archive_url, timeout=30)
+        response: requests.Response = requests.get(archive_url, timeout=timeout)
         response.raise_for_status()
         content: str = response.text
-
-        # Be gentle with Internet Archive - add delay after request
-        time.sleep(delay)
-
         return content
     except requests.RequestException:
         return ""
@@ -132,7 +127,7 @@ def process_page_for_articles(
     for article_link in article_links:
         # Find working snapshot
         archive_url: Optional[str] = find_working_snapshot(
-            article_link, start_date, end_date
+            article_link, start_date, end_date, 30
         )
 
         if archive_url:

@@ -100,7 +100,7 @@ class TestDownloadHtml:
             status=200,
         )
 
-        result: str = download_html_from_archive(archive_url, delay=0)
+        result: str = download_html_from_archive(archive_url)
 
         assert result == html_content
 
@@ -118,7 +118,7 @@ class TestDownloadHtml:
             status=404,
         )
 
-        result: str = download_html_from_archive(archive_url, delay=0)
+        result: str = download_html_from_archive(archive_url)
 
         assert result == ""
 
