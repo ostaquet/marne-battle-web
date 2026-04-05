@@ -45,12 +45,13 @@ This will:
 5. Generate `assets/articles.yaml` with the complete structure
 
 **Fail-safe features:**
+
 - Progress is saved after each page is processed
 - Pages that already have articles are automatically skipped
 - Script can be safely re-run to resume after timeouts or errors
 - Automatic delays between requests to be gentle with Internet Archive
-  - 0.5s delay after CDX API queries
-  - 1.0s delay after archive.org downloads
+  - delay after CDX API queries
+  - delay after archive.org downloads
   - Prevents connection errors and rate limiting
 
 ## Development

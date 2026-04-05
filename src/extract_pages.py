@@ -14,7 +14,7 @@ def query_cdx_snapshots(
     url: str,
     start_date: datetime,
     end_date: datetime,
-    delay: float = 0.5
+    delay: float = 1.0
 ) -> list[dict[str, str]]:
     """Query CDX API for snapshots of a URL within a date range
 
@@ -113,7 +113,7 @@ def find_working_snapshot(
         Archive.org URL of first working snapshot, or None if not found
     """
     snapshots: list[dict[str, str]] = query_cdx_snapshots(
-        url, start_date, end_date, delay=delay * 0.5
+        url, start_date, end_date, delay=delay
     )
 
     for snapshot in snapshots:
