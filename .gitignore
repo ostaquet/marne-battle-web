@@ -24,7 +24,3 @@ wheels/
 .mypy_cache/
 .coverage
 htmlcov/
-
-# Project specific
-working_versions.yaml
-working_versions_with_articles.yaml

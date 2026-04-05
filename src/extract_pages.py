@@ -225,7 +225,7 @@ def save_to_yaml(page: Page, output_file: str) -> None:
 
 def main() -> None:
     """Main entry point"""
-    print("Extracting working versions from Internet Archive...")
+    print("Extracting pages from Internet Archive...")
 
     homepage: Optional[Page] = extract_all_working_versions()
 
@@ -233,10 +233,10 @@ def main() -> None:
         print("Error: Could not find homepage in archive")
         return
 
-    output_file: str = "working_versions.yaml"
+    output_file: str = "assets/pages.yaml"
     save_to_yaml(homepage, output_file)
 
-    print(f"Working versions saved to {output_file}")
+    print(f"Pages saved to {output_file}")
 
 
 if __name__ == "__main__":

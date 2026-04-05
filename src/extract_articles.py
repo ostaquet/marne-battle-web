@@ -7,7 +7,7 @@ from datetime import datetime
 from typing import Any, Optional
 
 from page import Page, PageType
-from extract_working_versions import (
+from extract_pages import (
     find_working_snapshot,
     build_page,
 )
@@ -154,8 +154,8 @@ def extract_articles_from_pages(input_yaml: str, output_yaml: str) -> None:
 
 def main() -> None:
     """Main entry point"""
-    input_file: str = "working_versions.yaml"
-    output_file: str = "working_versions_with_articles.yaml"
+    input_file: str = "assets/pages.yaml"
+    output_file: str = "assets/articles.yaml"
 
     print("Extracting articles from pages...")
     extract_articles_from_pages(input_file, output_file)

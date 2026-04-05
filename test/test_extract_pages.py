@@ -1,9 +1,9 @@
-"""Unit tests for extract_working_versions.py"""
+"""Unit tests for extract_pages.py"""
 
 import pytest
 import responses
 from datetime import datetime
-from extract_working_versions import (
+from extract_pages import (
     query_cdx_snapshots,
     is_page_functional,
     find_working_snapshot,
