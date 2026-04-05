@@ -1,13 +1,16 @@
 """Unit tests for extract_working_versions.py"""
 
+import pytest
 import responses
 from datetime import datetime
 from extract_working_versions import (
     query_cdx_snapshots,
     is_page_functional,
     find_working_snapshot,
-    build_page_entry,
+    extract_timestamp_from_archive_url,
+    build_page,
 )
+from page import Page, PageType
 
 
 class TestQueryCdxSnapshots:
@@ -186,11 +189,33 @@ class TestFindWorkingSnapshot:
         assert result is None
 
 
-class TestBuildPageEntry:
-    """Tests for building page entry"""
+class TestExtractTimestamp:
+    """Tests for extracting timestamp from archive URL"""
 
-    def test_build_page_entry_creates_correct_structure(self) -> None:
-        """Test that build_page_entry creates correct YAML structure"""
+    def test_extract_timestamp_from_valid_url(self) -> None:
+        """Test extracting timestamp from valid archive URL"""
+        archive_url: str = (
+            "https://web.archive.org/web/20131029060500/"
+            "http://sambre-marne-yser.be/sommaire.php3"
+        )
+
+        timestamp: str = extract_timestamp_from_archive_url(archive_url)
+
+        assert timestamp == "20131029060500"
+
+    def test_extract_timestamp_raises_on_invalid_url(self) -> None:
+        """Test that invalid URL raises ValueError"""
+        invalid_url: str = "https://example.com/page.html"
+
+        with pytest.raises(ValueError):
+            extract_timestamp_from_archive_url(invalid_url)
+
+
+class TestBuildPage:
+    """Tests for building Page objects"""
+
+    def test_build_page_creates_correct_structure(self) -> None:
+        """Test that build_page creates correct Page structure"""
         official_url: str = (
             "https://www.sambre-marne-yser.be/sommaire.php3"
         )
@@ -199,12 +224,14 @@ class TestBuildPageEntry:
             "http://sambre-marne-yser.be/sommaire.php3"
         )
 
-        entry: dict[str, str] = build_page_entry(
-            page_id="homepage",
+        page: Page = build_page(
+            PageType.HOMEPAGE,
             official_url=official_url,
             archive_url=archive_url
         )
 
-        assert entry["id"] == "homepage"
-        assert entry["official_url"] == official_url
-        assert entry["archive_url"] == archive_url
+        assert page.page_type == PageType.HOMEPAGE
+        assert page.official_url == official_url
+        assert page.archive_url == archive_url
+        assert page.timestamp == "20131029060500"
+        assert len(page.children) == 0

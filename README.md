@@ -26,6 +26,23 @@ python src/extract_working_versions.py
 
 This will generate `working_versions.yaml` containing the homepage and pages with their working archive.org URLs.
 
+## Data Structure
+
+The project uses a strongly-typed `Page` dataclass to represent website pages:
+
+```python
+from page import Page, PageType
+
+# Page attributes:
+# - page_type: PageType (HOMEPAGE, PAGE, or ARTICLE)
+# - official_url: str
+# - archive_url: str
+# - timestamp: str (14-digit archive timestamp)
+# - children: list[Page]
+```
+
+This structure replaces the previous `dict[str, Any]` approach, providing better type safety and code clarity.
+
 ## Development
 
 ### Running Tests

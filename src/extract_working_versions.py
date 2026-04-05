@@ -1,9 +1,12 @@
 """Extract working versions of pages from Internet Archive"""
 
+import re
 import requests
 import yaml
 from datetime import datetime
-from typing import Any, Optional
+from typing import Optional
+
+from page import Page, PageType
 
 
 def query_cdx_snapshots(
@@ -122,38 +125,60 @@ def find_working_snapshot(
     return None
 
 
-def build_page_entry(
-    page_id: str,
-    official_url: str,
-    archive_url: str
-) -> dict[str, str]:
-    """Build a page entry for YAML output
+def extract_timestamp_from_archive_url(archive_url: str) -> str:
+    """Extract timestamp from an archive.org URL
 
     Args:
-        page_id: ID of the page (e.g., 'homepage', 'page_01')
+        archive_url: Archive.org URL containing timestamp
+
+    Returns:
+        Timestamp string (14 digits)
+
+    Raises:
+        ValueError: If timestamp cannot be extracted
+    """
+    pattern: str = r"web\.archive\.org/web/(\d{14})/"
+    match: Optional[re.Match[str]] = re.search(pattern, archive_url)
+
+    if match:
+        return match.group(1)
+
+    raise ValueError(f"Cannot extract timestamp from URL: {archive_url}")
+
+
+def build_page(
+    page_type: PageType,
+    official_url: str,
+    archive_url: str
+) -> Page:
+    """Build a Page object
+
+    Args:
+        page_type: Type of the page
         official_url: Original URL of the page
         archive_url: Archive.org URL of the page
 
     Returns:
-        Dictionary with page information
+        Page object with extracted information
     """
-    return {
-        "id": page_id,
-        "official_url": official_url,
-        "archive_url": archive_url,
-    }
+    timestamp: str = extract_timestamp_from_archive_url(archive_url)
+
+    return Page(
+        page_type=page_type,
+        official_url=official_url,
+        archive_url=archive_url,
+        timestamp=timestamp,
+    )
 
 
-def extract_all_working_versions() -> dict[str, Any]:
+def extract_all_working_versions() -> Optional[Page]:
     """Extract all working versions from archive.org
 
     Returns:
-        Dictionary structure with homepage, pages, and articles
+        Homepage Page with nested pages and articles, or None if not found
     """
     start_date: datetime = datetime(2010, 1, 1)
     end_date: datetime = datetime(2015, 12, 31)
-
-    result: dict[str, Any] = {}
 
     # Extract homepage
     homepage_url: str = "https://www.sambre-marne-yser.be/sommaire.php3"
@@ -161,38 +186,39 @@ def extract_all_working_versions() -> dict[str, Any]:
         homepage_url, start_date, end_date
     )
 
-    if homepage_archive:
-        result["homepage"] = build_page_entry(
-            "homepage", homepage_url, homepage_archive
-        )
-        result["homepage"]["pages"] = []
+    if not homepage_archive:
+        return None
+
+    homepage: Page = build_page(
+        PageType.HOMEPAGE, homepage_url, homepage_archive
+    )
 
     # Extract pages (01 to 99)
     for page_num in range(1, 100):
-        page_id: str = f"page_{page_num:02d}"
-        page_url: str = f"https://www.sambre-marne-yser.be/page_{page_num:02d}.php3"
+        page_url: str = (
+            f"https://www.sambre-marne-yser.be/page_{page_num:02d}.php3"
+        )
 
         page_archive: Optional[str] = find_working_snapshot(
             page_url, start_date, end_date
         )
 
         if page_archive:
-            page_entry: dict[str, Any] = build_page_entry(
-                page_id, page_url, page_archive
-            )
-            page_entry["articles"] = []
-            result["homepage"]["pages"].append(page_entry)
+            page: Page = build_page(PageType.PAGE, page_url, page_archive)
+            homepage.add_child(page)
 
-    return result
+    return homepage
 
 
-def save_to_yaml(data: dict[str, Any], output_file: str) -> None:
-    """Save data to a YAML file
+def save_to_yaml(page: Page, output_file: str) -> None:
+    """Save page data to a YAML file
 
     Args:
-        data: Dictionary to save
+        page: Page to save
         output_file: Path to output YAML file
     """
+    data: dict[str, object] = page.to_dict()
+
     with open(output_file, "w", encoding="utf-8") as file:
         yaml.dump(data, file, default_flow_style=False, allow_unicode=True)
 
@@ -201,10 +227,14 @@ def main() -> None:
     """Main entry point"""
     print("Extracting working versions from Internet Archive...")
 
-    data: dict[str, Any] = extract_all_working_versions()
+    homepage: Optional[Page] = extract_all_working_versions()
+
+    if not homepage:
+        print("Error: Could not find homepage in archive")
+        return
 
     output_file: str = "working_versions.yaml"
-    save_to_yaml(data, output_file)
+    save_to_yaml(homepage, output_file)
 
     print(f"Working versions saved to {output_file}")
 

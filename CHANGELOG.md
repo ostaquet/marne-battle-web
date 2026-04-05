@@ -29,3 +29,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Task
 - Completed task `0001-fix-project.md`: Adjust code to ensure everything follows linting rules
+
+### Added
+- `Page` dataclass in `src/page.py` for structured page representation
+- `PageType` enum with values: HOMEPAGE, PAGE, ARTICLE
+- `extract_timestamp_from_archive_url()` function to extract timestamps
+- `build_page()` function to create Page objects from URLs
+- Comprehensive unit tests for Page dataclass (11 tests)
+- Methods: `add_child()`, `to_dict()`, `from_dict()` for Page objects
+
+### Changed
+- Replaced `dict[str, Any]` with `Page` dataclass for type safety
+- Updated `extract_all_working_versions()` to return `Optional[Page]`
+- Updated `save_to_yaml()` to accept Page and convert to dict
+- Updated `build_page_entry()` to `build_page()` returning Page
+- Updated all related unit tests to work with Page objects
+- Updated README.md with documentation about the Page structure
+
+### Task
+- Completed task `0002-structure-data.md`: Replace dict structure with Page dataclass
