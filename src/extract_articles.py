@@ -1,5 +1,6 @@
 """Extract article links from pages and populate the YAML structure"""
 
+import os
 import re
 import requests
 import time
@@ -172,8 +173,17 @@ def extract_articles_from_pages(input_yaml: str, output_yaml: str) -> None:
 
 def main() -> None:
     """Main entry point"""
-    input_file: str = "assets/pages.yaml"
+    pages_file: str = "assets/pages.yaml"
     output_file: str = "assets/articles.yaml"
+
+    # Resume mode: if articles.yaml exists, use it as input
+    # First run mode: use pages.yaml as input
+    if os.path.exists(output_file):
+        input_file: str = output_file
+        print(f"Resuming from {output_file}...")
+    else:
+        input_file = pages_file
+        print(f"Starting from {pages_file}...")
 
     print("Extracting articles from pages...")
     extract_articles_from_pages(input_file, output_file)

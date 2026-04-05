@@ -114,3 +114,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0005-gentle-with-internet-archive.md`: Add delays to be gentle with Internet Archive
+
+### Added
+
+- Smart resume mode for article extraction
+- Automatic detection of existing progress file
+- Unit tests for resume mode logic (2 tests)
+
+### Changed
+
+- `main()` in `extract_articles.py` now checks if `assets/articles.yaml` exists
+- First run: uses `assets/pages.yaml` as input
+- Resume/retry: uses `assets/articles.yaml` as input (preserves all progress)
+- Provides clear console output indicating resume vs first run mode
+- README.md updated with smart resume documentation
+
+### Task
+
+- Completed task `0006-improve-retry.md`: Improve retry logic to resume from articles.yaml

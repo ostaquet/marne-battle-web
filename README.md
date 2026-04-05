@@ -48,6 +48,9 @@ This will:
 
 - Progress is saved after each page is processed
 - Pages that already have articles are automatically skipped
+- **Smart resume**: Automatically resumes from `assets/articles.yaml` if it exists
+  - First run: reads from `assets/pages.yaml`
+  - Subsequent runs: reads from `assets/articles.yaml` (preserves all progress)
 - Script can be safely re-run to resume after timeouts or errors
 - Automatic delays between requests to be gentle with Internet Archive
   - delay after CDX API queries
