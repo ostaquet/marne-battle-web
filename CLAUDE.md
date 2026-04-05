@@ -29,6 +29,15 @@ The problem with the official URL is a broken MySQL instance; so, there are page
 
 ## Architecture
 
+### Language and environment
+
+- Programs are written in Python
+- The virtual environment is defined in `venv`.
+- The required libraries are defined in `requirements.txt` and installed automatically in the virtual environment with the `./scripts/venv.sh` script.
+- To create or recreate the Virtual Environment, use `./scripts/venv.sh` script.
+- To run the linter, use `./scripts/lint.sh`
+- To run the test, use `./scripts/test.sh`
+
 ## Test-Driven Development
 
 - All implementation must be testable and unit tests must exists and pass.
@@ -43,7 +52,8 @@ When a tasks involves enhancing the project (typically adding a new feature), a 
 
 - Add the feature in the code.
 - Add the relevant unit tests for the code.
-- Run the unit tests to ensure that everything passes.
+- Run the linter and ensure that everything passes.
+- Run the unit tests and ensure that everything passes.
 - Document in `README.md` for the humans.
 - Potentially update the `CLAUDE.md` for yourself.
 - Update the `CHANGELOG.md` with your changes and the task related to the change.
