@@ -1,0 +1,90 @@
+archive_url: https://web.archive.org/web/20100110205213/http://www.sambre-marne-yser.be:80/sommaire.php3
+children:
+  - archive_url: https://web.archive.org/web/20100111045714/http://www.sambre-marne-yser.be:80/page_02.php3
+    children:
+      - archive_url: https://web.archive.org/web/20100516220948/http://www.sambre-marne-yser.be:80/article=2.php3?id_article=2
+        children: []
+        official_url: https://www.sambre-marne-yser.be/article=2.php3?id_article=2
+        timestamp: "20100516220948"
+        type: article
+      - archive_url: https://web.archive.org/web/20100516221000/http://www.sambre-marne-yser.be:80/article=2.php3?id_article=3
+        children: []
+        official_url: https://www.sambre-marne-yser.be/article=2.php3?id_article=3
+        timestamp: "20100516221000"
+        type: article
+    official_url: https://www.sambre-marne-yser.be/page_02.php3
+    timestamp: "20100111045714"
+    type: page
+  - archive_url: https://web.archive.org/web/20100416052428/http://www.sambre-marne-yser.be:80/page_03.php3
+    children:
+      - archive_url: https://web.archive.org/web/20100417164010/http://www.sambre-marne-yser.be:80/article=3.php3?id_article=4
+        children: []
+        official_url: https://www.sambre-marne-yser.be/article=3.php3?id_article=4
+        timestamp: "20100417164010"
+        type: article
+      - archive_url: https://web.archive.org/web/20100417164016/http://www.sambre-marne-yser.be:80/article=3.php3?id_article=6
+        children: []
+        official_url: https://www.sambre-marne-yser.be/article=3.php3?id_article=6
+        timestamp: "20100417164016"
+        type: article
+      - archive_url: https://web.archive.org/web/20100417163756/http://www.sambre-marne-yser.be:80/article=3.php3?id_article=23
+        children: []
+        official_url: https://www.sambre-marne-yser.be/article=3.php3?id_article=23
+        timestamp: "20100417163756"
+        type: article
+      - archive_url: https://web.archive.org/web/20100417163745/http://www.sambre-marne-yser.be:80/article=3.php3?id_article=101
+        children: []
+        official_url: https://www.sambre-marne-yser.be/article=3.php3?id_article=101
+        timestamp: "20100417163745"
+        type: article
+      - archive_url: https://web.archive.org/web/20100417163817/http://www.sambre-marne-yser.be:80/article=3.php3?id_article=24
+        children: []
+        official_url: https://www.sambre-marne-yser.be/article=3.php3?id_article=24
+        timestamp: "20100417163817"
+        type: article
+      - archive_url: https://web.archive.org/web/20100417163822/http://www.sambre-marne-yser.be:80/article=3.php3?id_article=5
+        children: []
+        official_url: https://www.sambre-marne-yser.be/article=3.php3?id_article=5
+        timestamp: "20100417163822"
+        type: article
+    official_url: https://www.sambre-marne-yser.be/page_03.php3
+    timestamp: "20100416052428"
+    type: page
+  - archive_url: https://web.archive.org/web/20100111045725/http://www.sambre-marne-yser.be:80/page_04.php3
+    children: []
+    official_url: https://www.sambre-marne-yser.be/page_04.php3
+    timestamp: "20100111045725"
+    type: page
+  - archive_url: https://web.archive.org/web/20100416053409/http://www.sambre-marne-yser.be:80/page_05.php3
+    children: []
+    official_url: https://www.sambre-marne-yser.be/page_05.php3
+    timestamp: "20100416053409"
+    type: page
+  - archive_url: https://web.archive.org/web/20100111045730/http://www.sambre-marne-yser.be:80/page_06.php3
+    children: []
+    official_url: https://www.sambre-marne-yser.be/page_06.php3
+    timestamp: "20100111045730"
+    type: page
+  - archive_url: https://web.archive.org/web/20100111045759/http://www.sambre-marne-yser.be:80/page_07.php3
+    children: []
+    official_url: https://www.sambre-marne-yser.be/page_07.php3
+    timestamp: "20100111045759"
+    type: page
+  - archive_url: https://web.archive.org/web/20100111045828/http://www.sambre-marne-yser.be:80/page_08.php3
+    children: []
+    official_url: https://www.sambre-marne-yser.be/page_08.php3
+    timestamp: "20100111045828"
+    type: page
+  - archive_url: https://web.archive.org/web/20100110205143/http://www.sambre-marne-yser.be:80/page_09.php3
+    children: []
+    official_url: https://www.sambre-marne-yser.be/page_09.php3
+    timestamp: "20100110205143"
+    type: page
+  - archive_url: https://web.archive.org/web/20100110205152/http://www.sambre-marne-yser.be:80/page_10.php3
+    children: []
+    official_url: https://www.sambre-marne-yser.be/page_10.php3
+    timestamp: "20100110205152"
+    type: page
+official_url: https://www.sambre-marne-yser.be/sommaire.php3
+timestamp: "20100110205213"
+type: homepage

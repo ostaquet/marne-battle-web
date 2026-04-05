@@ -35,16 +35,18 @@ def _query_all_available_snapshots(
     text: str = ""
     for i in range(3):
         try:
-            response: requests.Response = requests.get(cdx_url, params=params, timeout=120)
+            response: requests.Response = requests.get(cdx_url,
+                                                       params=params,
+                                                       timeout=120)
             response.raise_for_status()
             text = response.text
-            print(f"Succeed")
+            print("Succeed")
             break
         except requests.HTTPError as e:
             print(f"Failed on {e.response}... Wait and retry...")
             wait_for(30)
             continue
-        
+
     if text == "":
         raise requests.HTTPError()
 
@@ -127,19 +129,26 @@ def find_working_snapshot(
 
         archive_url: str = f"https://web.archive.org/web/{timestamp}/{original_url}"
 
-        try:
-            response: requests.Response = requests.get(archive_url, timeout=120)
-            response.raise_for_status()
+        text: str = ""
+        for i in range(3):
+            try:
+                response: requests.Response = requests.get(archive_url, timeout=120)
+                response.raise_for_status()
+                text = response.text
+                print("Succeed")
+                break
+            except requests.RequestException as e:
+                print(f"Failed on {e.response}... Wait and retry...")
+                wait_for(30)
+                continue
 
-            # Be gentle with Internet Archive - add delay after request
-            wait_for(delay_in_seconds)
+        if text == "":
+            raise requests.HTTPError()
 
-            if _is_page_functional(response.text):
-                return archive_url
+        # Be gentle with Internet Archive - add delay after request
+        wait_for(delay_in_seconds)
 
-        except requests.RequestException:
-            # Still add delay even on error to avoid hammering the server
-            wait_for(delay_in_seconds)
-            continue
+        if _is_page_functional(text):
+            return archive_url
 
     return None
