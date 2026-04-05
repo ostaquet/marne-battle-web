@@ -32,14 +32,27 @@ def _query_all_available_snapshots(
     }
 
     print(f"Querying available snapshots on {cdx_url} for {url}...")
-    response: requests.Response = requests.get(cdx_url, params=params, timeout=120)
-    response.raise_for_status()
+    text: str = ""
+    for i in range(3):
+        try:
+            response: requests.Response = requests.get(cdx_url, params=params, timeout=120)
+            response.raise_for_status()
+            text = response.text
+            print(f"Succeed")
+            break
+        except requests.HTTPError as e:
+            print(f"Failed on {e.response}... Wait and retry...")
+            wait_for(30)
+            continue
+        
+    if text == "":
+        raise requests.HTTPError()
 
     start_timestamp: str = start_date.strftime("%Y%m%d%H%M%S")
     end_timestamp: str = end_date.strftime("%Y%m%d%H%M%S")
 
     snapshots: list[dict[str, str]] = []
-    lines: list[str] = response.text.strip().split("\n")
+    lines: list[str] = text.strip().split("\n")
 
     for line in lines:
         if not line:
@@ -99,7 +112,7 @@ def find_working_snapshot(
         url: The URL to search for
         start_date: Start of date range
         end_date: End of date range
-        delay: Seconds to wait after each request (default: 1.0)
+        delay_in_seconds: Duration between two calls
 
     Returns:
         Archive.org URL of first working snapshot, or None if not found
