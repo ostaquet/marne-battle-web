@@ -25,5 +25,3 @@ wheels/
 .coverage
 htmlcov/
 
-# Project specific
-assets/*.yaml
