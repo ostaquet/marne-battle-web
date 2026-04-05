@@ -33,6 +33,8 @@ The problem with the official URL is a broken MySQL instance; so, there are page
 
 - Programs are written in Python
 - The virtual environment is defined in `venv`.
+- The source code is located in `src`.
+- The tests are located in `test`.
 - The required libraries are defined in `requirements.txt` and installed automatically in the virtual environment with the `./scripts/venv.sh` script.
 - To create or recreate the Virtual Environment, use `./scripts/venv.sh` script.
 - To run the linter, use `./scripts/lint.sh`
