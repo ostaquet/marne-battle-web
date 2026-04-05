@@ -10,4 +10,6 @@ This is a human-readable note related to the project. Nothing fancy, just some t
 
 ## URLs
 
+- https://sambre-marne-yser.be : the official URL of the website
+
 ## Future plans

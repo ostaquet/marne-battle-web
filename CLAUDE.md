@@ -13,6 +13,20 @@ This is a migration project of the website https://www.sambre-marne-yser.be/ fro
 - Write understandable code, not clever code.
 - Functions must be short (max 60 lines).
 
+## Website structure on Spip
+
+The website https://www.sambre-marne-yser.be/ is hosted on Spip.
+
+It is composed by the "homepage" on the URL https://www.sambre-marne-yser.be/ or https://www.sambre-marne-yser.be/sommaire.php3. The "homepage" is composed by the content (text and pictures) and the links to the "pages".
+
+The "pages" are accessible from the "homepage". The URLs are under the form https://www.sambre-marne-yser.be/page_XX.php3 (XX is a 2-digit number 01, 02, etc). A "page" is composed by links to "articles". Each "article" is composed by a title, a summary and a link to read more ("Lire la suite"). The link "Lire la suite" is a link to the "article".
+
+The "articles" are accessible from the "pages". The URLs are under the form https://www.sambre-marne-yser.be/article=XX.php3?id_article=YY where XX is a number of the "page" (1, 2, etc) and YY is the number of the "article". An "article" is composed by the content (text and pictures).
+
+The structure of the Spip website is composed by: 1 homepage -> X pages -> Y articles.
+
+The problem with the official URL is a broken MySQL instance; so, there are pages and articles unavailable. This is why we must download the content from https://archive.org.
+
 ## Architecture
 
 ## Test-Driven Development
