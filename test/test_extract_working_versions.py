@@ -1,6 +1,5 @@
 """Unit tests for extract_working_versions.py"""
 
-import pytest
 import responses
 from datetime import datetime
 from extract_working_versions import (
@@ -8,7 +7,6 @@ from extract_working_versions import (
     is_page_functional,
     find_working_snapshot,
     build_page_entry,
-    extract_all_working_versions,
 )
 
 
@@ -20,10 +18,14 @@ class TestQueryCdxSnapshots:
         """Test that CDX query returns snapshots within date range"""
         url: str = "http://www.sambre-marne-yser.be/sommaire.php3"
         cdx_response: str = (
-            "com,sambre-marne-yser)/ 20100101120000 http://www.sambre-marne-yser.be/sommaire.php3 200\n"
-            "com,sambre-marne-yser)/ 20120501120000 http://www.sambre-marne-yser.be/sommaire.php3 200\n"
-            "com,sambre-marne-yser)/ 20140501120000 http://www.sambre-marne-yser.be/sommaire.php3 200\n"
-            "com,sambre-marne-yser)/ 20160501120000 http://www.sambre-marne-yser.be/sommaire.php3 200\n"
+            "com,sambre-marne-yser)/ 20100101120000 "
+            "http://www.sambre-marne-yser.be/sommaire.php3 200\n"
+            "com,sambre-marne-yser)/ 20120501120000 "
+            "http://www.sambre-marne-yser.be/sommaire.php3 200\n"
+            "com,sambre-marne-yser)/ 20140501120000 "
+            "http://www.sambre-marne-yser.be/sommaire.php3 200\n"
+            "com,sambre-marne-yser)/ 20160501120000 "
+            "http://www.sambre-marne-yser.be/sommaire.php3 200\n"
         )
 
         responses.add(
@@ -54,7 +56,8 @@ class TestIsPageFunctional:
         <html>
             <body>
                 <h1>Site under construction</h1>
-                <p>Warning: a technical problem (MySQL server) prevents access to this part of the site.</p>
+                <p>Warning: a technical problem (MySQL server)
+                prevents access to this part of the site.</p>
             </body>
         </html>
         """
@@ -84,13 +87,15 @@ class TestFindWorkingSnapshot:
 
     @responses.activate
     def test_find_working_snapshot_returns_first_functional(self) -> None:
-        """Test that find_working_snapshot returns the first functional snapshot"""
+        """Test find_working_snapshot returns first functional snapshot"""
         url: str = "http://www.sambre-marne-yser.be/sommaire.php3"
 
         # Mock CDX API response
         cdx_response: str = (
-            "com,sambre-marne-yser)/ 20120101120000 http://www.sambre-marne-yser.be/sommaire.php3 200\n"
-            "com,sambre-marne-yser)/ 20130101120000 http://www.sambre-marne-yser.be/sommaire.php3 200\n"
+            "com,sambre-marne-yser)/ 20120101120000 "
+            "http://www.sambre-marne-yser.be/sommaire.php3 200\n"
+            "com,sambre-marne-yser)/ 20130101120000 "
+            "http://www.sambre-marne-yser.be/sommaire.php3 200\n"
         )
         responses.add(
             responses.GET,
@@ -100,17 +105,28 @@ class TestFindWorkingSnapshot:
         )
 
         # Mock first snapshot with MySQL error
+        snapshot_url_1: str = (
+            "https://web.archive.org/web/20120101120000/"
+            "http://www.sambre-marne-yser.be/sommaire.php3"
+        )
         responses.add(
             responses.GET,
-            "https://web.archive.org/web/20120101120000/http://www.sambre-marne-yser.be/sommaire.php3",
-            body="<html>Site under construction. Warning: a technical problem (MySQL server)</html>",
+            snapshot_url_1,
+            body=(
+                "<html>Site under construction. "
+                "Warning: a technical problem (MySQL server)</html>"
+            ),
             status=200,
         )
 
         # Mock second snapshot as functional
+        snapshot_url_2: str = (
+            "https://web.archive.org/web/20130101120000/"
+            "http://www.sambre-marne-yser.be/sommaire.php3"
+        )
         responses.add(
             responses.GET,
-            "https://web.archive.org/web/20130101120000/http://www.sambre-marne-yser.be/sommaire.php3",
+            snapshot_url_2,
             body="<html><h1>Welcome</h1><p>Content here</p></html>",
             status=200,
         )
@@ -121,16 +137,23 @@ class TestFindWorkingSnapshot:
             end_date=datetime(2015, 12, 31)
         )
 
-        assert result == "https://web.archive.org/web/20130101120000/http://www.sambre-marne-yser.be/sommaire.php3"
+        expected_url: str = (
+            "https://web.archive.org/web/20130101120000/"
+            "http://www.sambre-marne-yser.be/sommaire.php3"
+        )
+        assert result == expected_url
 
     @responses.activate
-    def test_find_working_snapshot_returns_none_when_no_functional(self) -> None:
-        """Test that find_working_snapshot returns None when no functional snapshot found"""
+    def test_find_working_snapshot_returns_none_when_no_functional(
+        self
+    ) -> None:
+        """Test find_working_snapshot returns None when no functional"""
         url: str = "http://www.sambre-marne-yser.be/sommaire.php3"
 
         # Mock CDX API response
         cdx_response: str = (
-            "com,sambre-marne-yser)/ 20120101120000 http://www.sambre-marne-yser.be/sommaire.php3 200\n"
+            "com,sambre-marne-yser)/ 20120101120000 "
+            "http://www.sambre-marne-yser.be/sommaire.php3 200\n"
         )
         responses.add(
             responses.GET,
@@ -140,10 +163,17 @@ class TestFindWorkingSnapshot:
         )
 
         # Mock snapshot with MySQL error
+        snapshot_url: str = (
+            "https://web.archive.org/web/20120101120000/"
+            "http://www.sambre-marne-yser.be/sommaire.php3"
+        )
         responses.add(
             responses.GET,
-            "https://web.archive.org/web/20120101120000/http://www.sambre-marne-yser.be/sommaire.php3",
-            body="<html>Site under construction. Warning: a technical problem (MySQL server)</html>",
+            snapshot_url,
+            body=(
+                "<html>Site under construction. "
+                "Warning: a technical problem (MySQL server)</html>"
+            ),
             status=200,
         )
 
@@ -161,23 +191,20 @@ class TestBuildPageEntry:
 
     def test_build_page_entry_creates_correct_structure(self) -> None:
         """Test that build_page_entry creates correct YAML structure"""
+        official_url: str = (
+            "https://www.sambre-marne-yser.be/sommaire.php3"
+        )
+        archive_url: str = (
+            "https://web.archive.org/web/20131029060500/"
+            "http://sambre-marne-yser.be/sommaire.php3"
+        )
+
         entry: dict[str, str] = build_page_entry(
             page_id="homepage",
-            official_url="https://www.sambre-marne-yser.be/sommaire.php3",
-            archive_url="https://web.archive.org/web/20131029060500/http://sambre-marne-yser.be/sommaire.php3"
+            official_url=official_url,
+            archive_url=archive_url
         )
 
         assert entry["id"] == "homepage"
-        assert entry["official_url"] == "https://www.sambre-marne-yser.be/sommaire.php3"
-        assert entry["archive_url"] == "https://web.archive.org/web/20131029060500/http://sambre-marne-yser.be/sommaire.php3"
-
-
-class TestExtractAllWorkingVersions:
-    """Tests for extracting all working versions"""
-
-    def test_extract_all_working_versions_returns_dict(self) -> None:
-        """Test that extract_all_working_versions returns a dictionary"""
-        # This test will be implemented once we have the main function
-        # For now, we just check it returns a dict
-        # This is a placeholder test that will be expanded
-        pass
+        assert entry["official_url"] == official_url
+        assert entry["archive_url"] == archive_url

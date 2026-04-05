@@ -19,3 +19,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Task
 - Completed task `0000-extract-working-version.md`: Extract working versions from archive.org between 2010-2015
+
+### Changed
+- Fixed all flake8 linting issues in test file (removed unused imports, fixed line lengths)
+- Added explicit type annotations for all dict types to pass mypy strict mode
+- Updated test script to add src/ to PYTHONPATH for proper module imports
+- Updated README.md with new development workflow (lint and test scripts)
+- Added linter dependencies to requirements.txt (flake8, mypy, type stubs)
+
+### Task
+- Completed task `0001-fix-project.md`: Adjust code to ensure everything follows linting rules

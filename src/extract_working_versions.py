@@ -3,7 +3,7 @@
 import requests
 import yaml
 from datetime import datetime
-from typing import Optional
+from typing import Any, Optional
 
 
 def query_cdx_snapshots(
@@ -144,7 +144,7 @@ def build_page_entry(
     }
 
 
-def extract_all_working_versions() -> dict:
+def extract_all_working_versions() -> dict[str, Any]:
     """Extract all working versions from archive.org
 
     Returns:
@@ -153,7 +153,7 @@ def extract_all_working_versions() -> dict:
     start_date: datetime = datetime(2010, 1, 1)
     end_date: datetime = datetime(2015, 12, 31)
 
-    result: dict = {}
+    result: dict[str, Any] = {}
 
     # Extract homepage
     homepage_url: str = "https://www.sambre-marne-yser.be/sommaire.php3"
@@ -177,14 +177,16 @@ def extract_all_working_versions() -> dict:
         )
 
         if page_archive:
-            page_entry: dict = build_page_entry(page_id, page_url, page_archive)
+            page_entry: dict[str, Any] = build_page_entry(
+                page_id, page_url, page_archive
+            )
             page_entry["articles"] = []
             result["homepage"]["pages"].append(page_entry)
 
     return result
 
 
-def save_to_yaml(data: dict, output_file: str) -> None:
+def save_to_yaml(data: dict[str, Any], output_file: str) -> None:
     """Save data to a YAML file
 
     Args:
@@ -199,7 +201,7 @@ def main() -> None:
     """Main entry point"""
     print("Extracting working versions from Internet Archive...")
 
-    data: dict = extract_all_working_versions()
+    data: dict[str, Any] = extract_all_working_versions()
 
     output_file: str = "working_versions.yaml"
     save_to_yaml(data, output_file)

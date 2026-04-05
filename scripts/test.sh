@@ -30,6 +30,9 @@ fi
 # Activate virtual environment
 source venv/bin/activate
 
+# Add src to PYTHONPATH
+export PYTHONPATH="$PROJECT_ROOT/src:$PYTHONPATH"
+
 # Run pytest with verbose output
 echo -e "${YELLOW}Running pytest...${NC}"
 if pytest test/ -v; then

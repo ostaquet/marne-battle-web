@@ -20,17 +20,29 @@ Run the extraction script:
 
 ```bash
 source venv/bin/activate
-python extract_working_versions.py
+export PYTHONPATH="$PWD/src:$PYTHONPATH"
+python src/extract_working_versions.py
 ```
 
 This will generate `working_versions.yaml` containing the homepage and pages with their working archive.org URLs.
 
-## Running Tests
+## Development
+
+### Running Tests
 
 ```bash
-source venv/bin/activate
-pytest test_extract_working_versions.py -v
+bash scripts/test.sh
 ```
+
+### Running Linters
+
+```bash
+bash scripts/lint.sh
+```
+
+The project uses:
+- **flake8** for code style (max line length: 88)
+- **mypy** for type checking (strict mode)
 
 ## Exploring the Internet Archive
 
