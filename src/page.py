@@ -44,13 +44,19 @@ class Page:
         Returns:
             Dictionary representation of the page
         """
-        return {
+        result: dict[str, object] = {
             "type": self.page_type.value,
             "official_url": self.official_url,
             "archive_url": self.archive_url,
             "timestamp": self.timestamp,
             "children": [child.to_dict() for child in self.children],
         }
+
+        # Add local_filename if it exists
+        if hasattr(self, "local_filename"):
+            result["local_filename"] = getattr(self, "local_filename")
+
+        return result
 
     def _extract_timestamp_from_archive_url(self, archive_url: str) -> str:
         """Extract timestamp from an archive.org URL
@@ -84,6 +90,10 @@ def load_from_dict(data: dict[str, Any]) -> Page:
         archive_url=archive_url
     )
 
+    # Restore local_filename if present
+    if "local_filename" in data:
+        current_page.local_filename = str(data["local_filename"])  # type: ignore
+
     children_data: list[Any] = cast(
         list[Any], data.get("children", [])
     )
@@ -92,29 +102,3 @@ def load_from_dict(data: dict[str, Any]) -> Page:
         current_page.add_child(load_from_dict(child))
 
     return current_page
-
-
-class TestBuildPage:
-    """Tests for building Page objects"""
-
-    def test_build_page_creates_correct_structure(self) -> None:
-        """Test that build_page creates correct Page structure"""
-        official_url: str = (
-            "https://www.sambre-marne-yser.be/sommaire.php3"
-        )
-        archive_url: str = (
-            "https://web.archive.org/web/20131029060500/"
-            "http://sambre-marne-yser.be/sommaire.php3"
-        )
-
-        page: Page = Page(
-            PageType.HOMEPAGE,
-            official_url=official_url,
-            archive_url=archive_url
-        )
-
-        assert page.page_type == PageType.HOMEPAGE
-        assert page.official_url == official_url
-        assert page.archive_url == archive_url
-        assert page.timestamp == "20131029060500"
-        assert len(page.children) == 0

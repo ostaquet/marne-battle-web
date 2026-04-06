@@ -148,3 +148,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0007-fix-loading-yaml-articles.md`: Fix and test loading of YAML articles
+
+### Added
+
+- Script `download_html_dataset.py` to download HTML files from archive.org locally
+- Function `generate_filename()` to create appropriate filenames for each page type
+- Function `download_and_save_html()` to download and save HTML files
+- Function `build_local_dataset()` to process entire page structure
+- Support for `local_filename` attribute in Page class
+- Comprehensive unit tests for HTML dataset downloading (6 tests)
+- HTML files stored in `assets/raw_html/` directory with structured naming:
+  - `homepage.htm` for homepage
+  - `page_XX.htm` for pages
+  - `article_XX_YY.htm` for articles
+
+### Changed
+
+- Page class now supports optional `local_filename` attribute
+- `to_dict()` and `load_from_dict()` handle local_filename serialization
+- Creates local dataset for faster processing
+- Reduces load on Internet Archive by downloading once
+
+### Task
+
+- Completed task `0008-build-local-html-dataset.md`: Build local HTML dataset from archive.org URLs

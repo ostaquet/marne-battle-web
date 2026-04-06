@@ -42,6 +42,28 @@ This will:
 4. Find working archive snapshots for each article
 5. Generate `assets/articles.yaml` with the complete structure
 
+### Building local HTML dataset
+
+After extracting articles, download all HTML files locally for processing:
+
+```bash
+source venv/bin/activate
+python3 src/download_html_dataset.py
+```
+
+This will:
+
+1. Read the `assets/articles.yaml` file (or `assets/pages.yaml` if articles doesn't exist)
+2. Download HTML from each archive URL
+3. Save files to `assets/raw_html/` with appropriate filenames:
+   - `homepage.htm` for the homepage
+   - `page_XX.htm` for pages (where XX is the page number)
+   - `article_XX_YY.htm` for articles (where XX is page, YY is article number)
+4. Add `local_filename` field to each entry in the YAML
+5. Save the updated structure to `assets/dataset.yaml`
+
+This creates a local dataset for faster processing and reduces load on Internet Archive.
+
 ## Development
 
 ### Running Tests
