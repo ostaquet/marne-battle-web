@@ -22,12 +22,17 @@ class Page:
         children: List of child pages
     """
 
-    def __init__(self, page_type: PageType, official_url: str, archive_url: str):
+    def __init__(self,
+                 page_type: PageType,
+                 official_url: str,
+                 archive_url: str,
+                 local_filename: str = ""):
         timestamp: str = self._extract_timestamp_from_archive_url(archive_url)
         self.page_type = page_type
         self.official_url = official_url
         self.archive_url = archive_url
         self.timestamp = timestamp
+        self.local_filename = local_filename
         self.children: list[Page] = []
 
     def add_child(self, child: "Page") -> None:
@@ -53,7 +58,7 @@ class Page:
         }
 
         # Add local_filename if it exists
-        if hasattr(self, "local_filename"):
+        if hasattr(self, "local_filename") and self.local_filename != "":
             result["local_filename"] = getattr(self, "local_filename")
 
         return result
@@ -83,16 +88,17 @@ def load_from_dict(data: dict[str, Any]) -> Page:
     page_type: PageType = PageType(str(data["type"]))
     official_url: str = str(data["official_url"])
     archive_url: str = str(data["archive_url"])
+    
+    local_filename: str = ""
+    if "local_filename" in data:
+        local_filename: str = str(data["local_filename"])
 
     current_page: Page = Page(
         page_type=page_type,
         official_url=official_url,
-        archive_url=archive_url
+        archive_url=archive_url,
+        local_filename=local_filename
     )
-
-    # Restore local_filename if present
-    if "local_filename" in data:
-        current_page.local_filename = str(data["local_filename"])  # type: ignore
 
     children_data: list[Any] = cast(
         list[Any], data.get("children", [])

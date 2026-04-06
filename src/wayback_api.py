@@ -1,4 +1,5 @@
 from datetime import datetime
+import os
 from typing import Optional
 import requests
 
@@ -32,23 +33,7 @@ def _query_all_available_snapshots(
     }
 
     print(f"Querying available snapshots on {cdx_url} for {url}...")
-    text: str = ""
-    for i in range(3):
-        try:
-            response: requests.Response = requests.get(cdx_url,
-                                                       params=params,
-                                                       timeout=120)
-            response.raise_for_status()
-            text = response.text
-            print("Succeed")
-            break
-        except requests.HTTPError as e:
-            print(f"Failed on {e.response}... Wait and retry...")
-            wait_for(30)
-            continue
-
-    if text == "":
-        raise requests.HTTPError()
+    text = _fetch_from_wayback(cdx_url, params)
 
     start_timestamp: str = start_date.strftime("%Y%m%d%H%M%S")
     end_timestamp: str = end_date.strftime("%Y%m%d%H%M%S")
@@ -73,6 +58,30 @@ def _query_all_available_snapshots(
                 })
 
     return snapshots
+
+
+def _fetch_from_wayback(url: str, params: dict[str, str] = {},
+                        max_retries: int = 3, timeout: int = 120,
+                        delay_between_retry: int = 30) -> str:
+    text: str = ""
+    for i in range(max_retries):
+        try:
+            print("Fetch gently from {url}...")
+            response: requests.Response = requests.get(url,
+                                                       params=params,
+                                                       timeout=timeout)
+            response.raise_for_status()
+            text = response.text
+            print("  Succeed")
+            break
+        except requests.HTTPError as e:
+            print(f"  Failed on {e.response}... Wait and retry...")
+            wait_for(delay_between_retry)
+            continue
+
+    if text == "":
+        raise requests.HTTPError()
+    return text
 
 
 def _is_page_functional(html_content: str) -> bool:
@@ -126,24 +135,9 @@ def find_working_snapshot(
     for snapshot in snapshots:
         timestamp: str = snapshot["timestamp"]
         original_url: str = snapshot["url"]
-
         archive_url: str = f"https://web.archive.org/web/{timestamp}/{original_url}"
 
-        text: str = ""
-        for i in range(3):
-            try:
-                response: requests.Response = requests.get(archive_url, timeout=120)
-                response.raise_for_status()
-                text = response.text
-                print("Succeed")
-                break
-            except requests.RequestException as e:
-                print(f"Failed on {e.response}... Wait and retry...")
-                wait_for(30)
-                continue
-
-        if text == "":
-            raise requests.HTTPError()
+        text: str = _fetch_from_wayback(archive_url)
 
         # Be gentle with Internet Archive - add delay after request
         wait_for(delay_in_seconds)
@@ -152,3 +146,39 @@ def find_working_snapshot(
             return archive_url
 
     return None
+
+
+def download_and_save_html(
+    archive_url: str,
+    output_dir: str,
+    filename: str,
+    delay_between_retry: int = 30
+) -> bool:
+    """Download HTML from archive.org and save to file
+
+    Args:
+        archive_url: Archive.org URL to download
+        output_dir: Directory to save the file
+        filename: Name of the output file
+
+    Returns:
+        True if successful, False otherwise
+    """
+
+    try:
+        text: str = _fetch_from_wayback(archive_url, delay_between_retry=delay_between_retry)
+    except requests.HTTPError as e:
+        return False
+
+    if text == "":
+        return False
+
+    # Create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Save the HTML content
+    output_path: str = os.path.join(output_dir, filename)
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(text)
+
+    return True

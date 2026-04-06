@@ -1,13 +1,11 @@
-"""Download HTML files from archive.org and store them locally"""
-
 import os
 import re
-import requests
-import time
 from typing import Optional
 
+from delay import wait_for
 from page import Page, PageType
 from extract_articles import load_page_from_yaml, save_page_to_yaml
+from wayback_api import download_and_save_html
 
 
 def generate_filename(page: Page) -> str:
@@ -49,50 +47,11 @@ def generate_filename(page: Page) -> str:
     return "unknown.htm"
 
 
-def download_and_save_html(
-    archive_url: str,
-    output_dir: str,
-    filename: str,
-    delay: float = 1.0
-) -> bool:
-    """Download HTML from archive.org and save to file
-
-    Args:
-        archive_url: Archive.org URL to download
-        output_dir: Directory to save the file
-        filename: Name of the output file
-        delay: Seconds to wait after download (default: 1.0)
-
-    Returns:
-        True if successful, False otherwise
-    """
-    try:
-        response: requests.Response = requests.get(archive_url, timeout=30)
-        response.raise_for_status()
-
-        # Create output directory if it doesn't exist
-        os.makedirs(output_dir, exist_ok=True)
-
-        # Save the HTML content
-        output_path: str = os.path.join(output_dir, filename)
-        with open(output_path, "w", encoding="utf-8") as f:
-            f.write(response.text)
-
-        # Be gentle with Internet Archive
-        time.sleep(delay)
-
-        return True
-
-    except requests.RequestException:
-        # Still add delay even on error
-        time.sleep(delay)
-        return False
-
-
 def build_local_dataset(
     homepage: Page,
     output_dir: str,
-    delay: float = 1.0,
+    delay_between_retry: int = 30,
+    delay_between_calls: int = 10,
     progress_callback: Optional[object] = None
 ) -> None:
     """Download all HTML files and add local_filename to each page
@@ -113,7 +72,7 @@ def build_local_dataset(
         if os.path.exists(output_path):
             print(f"Skipping {filename} (already exists)")
             # Still add local_filename to the page
-            page.local_filename = filename  # type: ignore
+            page.local_filename = filename
         else:
             # Download and save
             print(f"Downloading {page.archive_url}...")
@@ -121,12 +80,14 @@ def build_local_dataset(
                 page.archive_url,
                 output_dir,
                 filename,
-                delay
+                delay_between_retry=delay_between_retry
             )
+
+            wait_for(delay_between_calls)
 
             if success:
                 # Add local_filename attribute to the page
-                page.local_filename = filename  # type: ignore
+                page.local_filename = filename
                 print(f"  Saved as {filename}")
             else:
                 print("  Failed to download")
@@ -162,16 +123,16 @@ def main() -> None:
         print(f"Starting from {input_file}...")
 
     print(f"Loading structure from {input_file}...")
-    homepage: Page = load_page_from_yaml(input_file)
+    root_page: Page = load_page_from_yaml(input_file)
 
     print(f"Building local HTML dataset in {output_dir}...")
 
     # Progress callback to save YAML after each page
     def save_progress(page: Page) -> None:
         """Save progress after each page is processed"""
-        save_page_to_yaml(homepage, output_yaml)
+        save_page_to_yaml(root_page, output_yaml)
 
-    build_local_dataset(homepage, output_dir, progress_callback=save_progress)
+    build_local_dataset(root_page, output_dir, progress_callback=save_progress)
 
     print(f"Updated YAML saved to {output_yaml}")
 
