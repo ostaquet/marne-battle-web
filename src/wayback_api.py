@@ -66,7 +66,7 @@ def _fetch_from_wayback(url: str, params: dict[str, str] = {},
     text: str = ""
     for i in range(max_retries):
         try:
-            print("Fetch gently from {url}...")
+            print(f"Fetch gently from {url}...")
             response: requests.Response = requests.get(url,
                                                        params=params,
                                                        timeout=timeout)
