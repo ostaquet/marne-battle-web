@@ -64,6 +64,13 @@ This will:
 
 This creates a local dataset for faster processing and reduces load on Internet Archive.
 
+**Fail-safe features:**
+
+- Skips files that already exist (resume capability)
+- Saves progress to `assets/dataset.yaml` after each download
+- Can be safely interrupted and resumed
+- Smart resume: automatically uses `assets/dataset.yaml` if it exists
+
 ## Development
 
 ### Running Tests

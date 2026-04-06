@@ -185,3 +185,90 @@ class TestBuildLocalDataset:
         assert homepage.local_filename == "homepage.htm"
         assert hasattr(page, "local_filename")
         assert page.local_filename == "page_02.htm"
+
+    @responses.activate
+    def test_build_dataset_skips_existing_files(
+        self, tmp_path
+    ) -> None:  # type: ignore
+        """Test that existing files are not re-downloaded"""
+        homepage: Page = Page(
+            page_type=PageType.HOMEPAGE,
+            official_url="https://www.sambre-marne-yser.be/sommaire.php3",
+            archive_url=(
+                "https://web.archive.org/web/20100110205213/"
+                "http://www.sambre-marne-yser.be/sommaire.php3"
+            ),
+        )
+
+        output_dir: str = str(tmp_path)
+
+        # Create an existing file
+        existing_file: str = os.path.join(output_dir, "homepage.htm")
+        os.makedirs(output_dir, exist_ok=True)
+        with open(existing_file, "w", encoding="utf-8") as f:
+            f.write("<html><body>Existing content</body></html>")
+
+        # Build the dataset - should skip the existing file
+        # No HTTP mock needed since it shouldn't download
+        build_local_dataset(homepage, output_dir, delay=0)
+
+        # Check that file still has original content (not downloaded)
+        with open(existing_file, "r", encoding="utf-8") as f:
+            content: str = f.read()
+            assert content == "<html><body>Existing content</body></html>"
+
+        # Check that local_filename was still added
+        assert hasattr(homepage, "local_filename")
+        assert homepage.local_filename == "homepage.htm"
+
+    def test_build_dataset_with_progress_callback(
+        self, tmp_path
+    ) -> None:  # type: ignore
+        """Test that progress callback is called after each download"""
+        homepage: Page = Page(
+            page_type=PageType.HOMEPAGE,
+            official_url="https://www.sambre-marne-yser.be/sommaire.php3",
+            archive_url=(
+                "https://web.archive.org/web/20100110205213/"
+                "http://www.sambre-marne-yser.be/sommaire.php3"
+            ),
+        )
+
+        page: Page = Page(
+            page_type=PageType.PAGE,
+            official_url="https://www.sambre-marne-yser.be/page_02.php3",
+            archive_url=(
+                "https://web.archive.org/web/20100111045714/"
+                "http://www.sambre-marne-yser.be/page_02.php3"
+            ),
+        )
+        homepage.add_child(page)
+
+        output_dir: str = str(tmp_path)
+
+        # Create existing files so no HTTP calls are needed
+        os.makedirs(output_dir, exist_ok=True)
+        with open(
+            os.path.join(output_dir, "homepage.htm"), "w", encoding="utf-8"
+        ) as f:
+            f.write("<html></html>")
+        with open(
+            os.path.join(output_dir, "page_02.htm"), "w", encoding="utf-8"
+        ) as f:
+            f.write("<html></html>")
+
+        # Track progress callback calls
+        progress_calls: list[Page] = []
+
+        def progress_callback(page: Page) -> None:
+            progress_calls.append(page)
+
+        # Build the dataset with progress callback
+        build_local_dataset(
+            homepage, output_dir, delay=0, progress_callback=progress_callback
+        )
+
+        # Check that callback was called for each page
+        assert len(progress_calls) == 2
+        assert progress_calls[0] == homepage
+        assert progress_calls[1] == page

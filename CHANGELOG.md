@@ -172,3 +172,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0008-build-local-html-dataset.md`: Build local HTML dataset from archive.org URLs
+
+### Added
+
+- Resume capability for HTML dataset downloads
+- Automatic detection of existing files (skips re-downloading)
+- Progress callback system for incremental saves
+- Smart resume mode: uses `assets/dataset.yaml` if it exists
+- Progress saved after each file download
+- Unit tests for skip-existing and progress-callback features (2 tests)
+
+### Changed
+
+- `build_local_dataset()` now accepts optional `progress_callback` parameter
+- Checks if file exists before downloading (resume capability)
+- `main()` automatically resumes from `assets/dataset.yaml` if it exists
+- Saves YAML after each download to preserve progress
+- Script can be safely interrupted and resumed
+
+### Task
+
+- Completed task `0009-resume-while-build-local-html-dataset.md`: Add resume capability to HTML dataset download

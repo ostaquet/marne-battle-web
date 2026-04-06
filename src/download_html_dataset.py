@@ -92,7 +92,8 @@ def download_and_save_html(
 def build_local_dataset(
     homepage: Page,
     output_dir: str,
-    delay: float = 1.0
+    delay: float = 1.0,
+    progress_callback: Optional[object] = None
 ) -> None:
     """Download all HTML files and add local_filename to each page
 
@@ -100,27 +101,39 @@ def build_local_dataset(
         homepage: Root page with all children
         output_dir: Directory to save HTML files
         delay: Seconds to wait between downloads (default: 1.0)
+        progress_callback: Optional callback function called after each page
     """
     def process_page(page: Page) -> None:
         """Process a single page and its children"""
         # Generate filename
         filename: str = generate_filename(page)
+        output_path: str = os.path.join(output_dir, filename)
 
-        # Download and save
-        print(f"Downloading {page.archive_url}...")
-        success: bool = download_and_save_html(
-            page.archive_url,
-            output_dir,
-            filename,
-            delay
-        )
-
-        if success:
-            # Add local_filename attribute to the page
+        # Check if file already exists (resume capability)
+        if os.path.exists(output_path):
+            print(f"Skipping {filename} (already exists)")
+            # Still add local_filename to the page
             page.local_filename = filename  # type: ignore
-            print(f"  Saved as {filename}")
         else:
-            print("  Failed to download")
+            # Download and save
+            print(f"Downloading {page.archive_url}...")
+            success: bool = download_and_save_html(
+                page.archive_url,
+                output_dir,
+                filename,
+                delay
+            )
+
+            if success:
+                # Add local_filename attribute to the page
+                page.local_filename = filename  # type: ignore
+                print(f"  Saved as {filename}")
+            else:
+                print("  Failed to download")
+
+        # Call progress callback if provided
+        if progress_callback is not None:
+            progress_callback(page)  # type: ignore
 
         # Process children recursively
         for child in page.children:
@@ -132,22 +145,34 @@ def build_local_dataset(
 
 def main() -> None:
     """Main entry point"""
-    input_file: str = "assets/articles.yaml"
+    input_file: str = "assets/dataset.yaml"
     output_dir: str = "assets/raw_html"
+    output_yaml: str = "assets/dataset.yaml"
 
-    # Check if we should use pages.yaml instead
-    if not os.path.exists(input_file):
+    # Resume mode: if dataset.yaml exists, use it as input
+    # First run mode: use articles.yaml or pages.yaml as input
+    if os.path.exists(output_yaml):
+        input_file = output_yaml
+        print(f"Resuming from {output_yaml}...")
+    elif os.path.exists("assets/articles.yaml"):
+        input_file = "assets/articles.yaml"
+        print(f"Starting from {input_file}...")
+    else:
         input_file = "assets/pages.yaml"
+        print(f"Starting from {input_file}...")
 
     print(f"Loading structure from {input_file}...")
     homepage: Page = load_page_from_yaml(input_file)
 
     print(f"Building local HTML dataset in {output_dir}...")
-    build_local_dataset(homepage, output_dir)
 
-    # Save updated YAML with local_filename fields
-    output_yaml: str = "assets/dataset.yaml"
-    save_page_to_yaml(homepage, output_yaml)
+    # Progress callback to save YAML after each page
+    def save_progress(page: Page) -> None:
+        """Save progress after each page is processed"""
+        save_page_to_yaml(homepage, output_yaml)
+
+    build_local_dataset(homepage, output_dir, progress_callback=save_progress)
+
     print(f"Updated YAML saved to {output_yaml}")
 
 
