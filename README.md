@@ -84,6 +84,27 @@ This will:
 7. Skip already downloaded images (resume capability)
 8. Save progress after each image
 
+### Relinking HTML files
+
+After downloading HTML and images, relink internal references to use local files:
+
+```bash
+source venv/bin/activate
+python3 src/relink.py
+```
+
+This will:
+
+1. Process all HTML files in `assets/raw_html/`
+2. Relink internal page links:
+   - `sommaire.php3` → `homepage.htm`
+   - `page_05.php3` → `page_05.htm`
+   - `article=5.php3?id_article=99` → `article_05_99.htm`
+3. Relink image references using `assets/img_map.yaml`:
+   - Archive URLs → `../img/filename.jpg`
+4. Save relinked HTML to `assets/html/`
+5. Log unmatched links/images to `assets/relink.log`
+
 ## Development
 
 ### Running Tests

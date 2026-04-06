@@ -218,3 +218,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0010-build-local-img-dataset.md`: Build local image dataset from HTML files
+
+### Added
+
+- Script `relink.py` to relink HTML files with local references
+- Function `extract_page_number()` to extract page numbers from URLs
+- Function `extract_article_numbers()` to extract article page/ID from URLs
+- Function `relink_page_href()` to convert page links to local filenames
+- Function `relink_img_src()` to convert image URLs using img_map.yaml
+- Function `relink_html_file()` to process individual HTML files
+- Function `process_all_html_files()` to batch process all HTML files
+- Logging of unmatched links/images to `assets/relink.log`
+- Comprehensive unit tests for relinking (16 tests)
+
+### Changed
+
+- Internal page links now point to local HTML files
+- Image sources now point to local images in ../img/
+- Relinked HTML saved to `assets/html/` directory
+- Handles homepage, page, and article link formats
+- Logs external links and unmapped images for investigation
+
+### Task
+
+- Completed task `0011-relink-htm-and-img.md`: Relink HTML files and images to use local references
