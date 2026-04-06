@@ -88,10 +88,10 @@ def load_from_dict(data: dict[str, Any]) -> Page:
     page_type: PageType = PageType(str(data["type"]))
     official_url: str = str(data["official_url"])
     archive_url: str = str(data["archive_url"])
-    
+
     local_filename: str = ""
     if "local_filename" in data:
-        local_filename: str = str(data["local_filename"])
+        local_filename = str(data["local_filename"])
 
     current_page: Page = Page(
         page_type=page_type,

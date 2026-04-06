@@ -166,8 +166,9 @@ def download_and_save_html(
     """
 
     try:
-        text: str = _fetch_from_wayback(archive_url, delay_between_retry=delay_between_retry)
-    except requests.HTTPError as e:
+        text: str = _fetch_from_wayback(archive_url,
+                                        delay_between_retry=delay_between_retry)
+    except requests.HTTPError:
         return False
 
     if text == "":

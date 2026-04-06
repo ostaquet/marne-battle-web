@@ -173,7 +173,7 @@ class TestBuildLocalDataset:
         output_dir: str = str(tmp_path)
 
         # Build the dataset
-        build_local_dataset(homepage, output_dir, 
+        build_local_dataset(homepage, output_dir,
                             delay_between_retry=0, delay_between_calls=0)
 
         # Check that files were created
@@ -210,7 +210,7 @@ class TestBuildLocalDataset:
 
         # Build the dataset - should skip the existing file
         # No HTTP mock needed since it shouldn't download
-        build_local_dataset(homepage, output_dir, 
+        build_local_dataset(homepage, output_dir,
                             delay_between_retry=0, delay_between_calls=0)
 
         # Check that file still has original content (not downloaded)
@@ -265,7 +265,7 @@ class TestBuildLocalDataset:
             progress_calls.append(page)
 
         # Build the dataset with progress callback
-        build_local_dataset(homepage, output_dir, 
+        build_local_dataset(homepage, output_dir,
                             delay_between_retry=0, delay_between_calls=0,
                             progress_callback=progress_callback)
 
