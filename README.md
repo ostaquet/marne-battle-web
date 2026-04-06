@@ -64,12 +64,25 @@ This will:
 
 This creates a local dataset for faster processing and reduces load on Internet Archive.
 
-**Fail-safe features:**
+### Building local image dataset
 
-- Skips files that already exist (resume capability)
-- Saves progress to `assets/dataset.yaml` after each download
-- Can be safely interrupted and resumed
-- Smart resume: automatically uses `assets/dataset.yaml` if it exists
+After downloading HTML files, extract and download all images:
+
+```bash
+source venv/bin/activate
+python3 src/download_img_dataset.py
+```
+
+This will:
+
+1. Parse all HTML files in `assets/raw_html/`
+2. Extract all `<img>` tags and their `src` attributes
+3. Download images from archive.org
+4. Save images to `assets/img/` with original filenames
+5. Create `assets/img_map.yaml` mapping archive URLs to local filenames
+6. Handle filename collisions using MD5 checksums (reuses identical files)
+7. Skip already downloaded images (resume capability)
+8. Save progress after each image
 
 ## Development
 

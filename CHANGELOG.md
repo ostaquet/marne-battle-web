@@ -193,3 +193,28 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0009-resume-while-build-local-html-dataset.md`: Add resume capability to HTML dataset download
+
+### Added
+
+- Script `download_img_dataset.py` to download images from HTML files
+- Function `extract_img_tags()` to parse HTML and extract img src attributes
+- Function `build_archive_url()` to convert relative URLs to full archive.org URLs
+- Function `calculate_md5()` to compute MD5 hash for duplicate detection
+- Function `download_image()` to download and save images with rate limiting
+- Function `process_html_files()` to orchestrate image extraction
+- Image mapping file `assets/img_map.yaml` with archive_url → local_filename
+- Filename collision handling using MD5 checksums
+- Resume capability: skips already mapped images
+- Progress saved after each image download
+- Comprehensive unit tests for image downloading (9 tests)
+- Dependencies: beautifulsoup4 for HTML parsing
+
+### Changed
+
+- Images stored in `assets/img/` with original filenames
+- Detects duplicate images by MD5 and reuses existing files
+- Rate limiting on image downloads (default 1.0s delay)
+
+### Task
+
+- Completed task `0010-build-local-img-dataset.md`: Build local image dataset from HTML files
