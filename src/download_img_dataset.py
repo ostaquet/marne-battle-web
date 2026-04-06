@@ -134,6 +134,7 @@ def process_html_files(
                 success: bool = download_and_save_binary(
                     archive_url, img_dir, f"temp_{filename}"
                 )
+                wait_for(delay_between_calls)
 
                 if success:
                     # Check if content is the same
@@ -159,6 +160,7 @@ def process_html_files(
                 # Download the image
                 print(f"  Downloading {filename}...")
                 success = download_and_save_binary(archive_url, img_dir, filename)
+                wait_for(delay_between_calls)
 
                 if success:
                     img_map[img_src] = filename
@@ -169,8 +171,6 @@ def process_html_files(
             # Save progress after each image
             with open(output_yaml, "w", encoding="utf-8") as f:
                 yaml.dump(img_map, f, default_flow_style=False, allow_unicode=True)
-
-            wait_for(delay_between_calls)
 
     print(f"Image mapping saved to {output_yaml}")
     print(f"Total images: {len(img_map)}")
