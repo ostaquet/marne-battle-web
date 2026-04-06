@@ -4,7 +4,7 @@ import os
 import responses
 from download_html_dataset import (
     generate_filename,
-    download_and_save_html,
+    download_and_save_text,
     build_local_dataset,
 )
 from page import Page, PageType
@@ -85,7 +85,7 @@ class TestDownloadAndSaveHtml:
         output_dir: str = str(tmp_path)
         filename: str = "homepage.htm"
 
-        success: bool = download_and_save_html(
+        success: bool = download_and_save_text(
             archive_url,
             output_dir,
             filename
@@ -116,7 +116,7 @@ class TestDownloadAndSaveHtml:
         output_dir: str = str(tmp_path)
         filename: str = "homepage.htm"
 
-        success: bool = download_and_save_html(
+        success: bool = download_and_save_text(
             archive_url,
             output_dir,
             filename,

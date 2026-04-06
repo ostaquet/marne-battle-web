@@ -1,10 +1,12 @@
 from datetime import datetime
+import os
 
 import responses
 
 from wayback_api import (
     _is_page_functional,
     _query_all_available_snapshots,
+    download_and_save_binary,
     find_working_snapshot
 )
 
@@ -185,3 +187,63 @@ class TestFindWorkingSnapshot:
         )
 
         assert result is None
+
+
+class TestDownloadImage:
+    """Tests for downloading images"""
+
+    @responses.activate
+    def test_download_image_creates_file(self, tmp_path) -> None:  # type: ignore
+        """Test that image is downloaded and saved"""
+        archive_url: str = (
+            "https://web.archive.org/web/20100516220948im_/"
+            "http://www.sambre-marne-yser.be/IMG/jpg/bismarck.jpg"
+        )
+        image_data: bytes = b"fake image data"
+
+        responses.add(
+            responses.GET,
+            archive_url,
+            body=image_data,
+            status=200,
+        )
+
+        output_dir: str = str(tmp_path)
+        filename: str = "bismarck.jpg"
+
+        success: bool = download_and_save_binary(
+            archive_url, output_dir, filename
+        )
+
+        assert success is True
+        output_file: str = os.path.join(output_dir, filename)
+        assert os.path.exists(output_file)
+
+        with open(output_file, "rb") as f:
+            content: bytes = f.read()
+            assert content == image_data
+
+    @responses.activate
+    def test_download_image_handles_errors(
+        self, tmp_path
+    ) -> None:  # type: ignore
+        """Test that download errors are handled gracefully"""
+        archive_url: str = (
+            "https://web.archive.org/web/20100516220948im_/"
+            "http://www.sambre-marne-yser.be/IMG/jpg/bismarck.jpg"
+        )
+
+        responses.add(
+            responses.GET,
+            archive_url,
+            status=404,
+        )
+
+        output_dir: str = str(tmp_path)
+        filename: str = "bismarck.jpg"
+
+        success: bool = download_and_save_binary(
+            archive_url, output_dir, filename
+        )
+
+        assert success is False

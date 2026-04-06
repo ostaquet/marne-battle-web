@@ -5,7 +5,7 @@ from typing import Optional
 from delay import wait_for
 from page import Page, PageType
 from extract_articles import load_page_from_yaml, save_page_to_yaml
-from wayback_api import download_and_save_html
+from wayback_api import download_and_save_text
 
 
 def generate_filename(page: Page) -> str:
@@ -76,7 +76,7 @@ def build_local_dataset(
         else:
             # Download and save
             print(f"Downloading {page.archive_url}...")
-            success: bool = download_and_save_html(
+            success: bool = download_and_save_text(
                 page.archive_url,
                 output_dir,
                 filename,

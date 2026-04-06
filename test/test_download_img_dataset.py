@@ -8,7 +8,6 @@ from download_img_dataset import (
     extract_img_tags,
     build_archive_url,
     calculate_md5,
-    download_image,
     process_html_files,
 )
 
@@ -109,66 +108,6 @@ class TestCalculateMd5:
         assert md5_hash == expected
 
 
-class TestDownloadImage:
-    """Tests for downloading images"""
-
-    @responses.activate
-    def test_download_image_creates_file(self, tmp_path) -> None:  # type: ignore
-        """Test that image is downloaded and saved"""
-        archive_url: str = (
-            "https://web.archive.org/web/20100516220948im_/"
-            "http://www.sambre-marne-yser.be/IMG/jpg/bismarck.jpg"
-        )
-        image_data: bytes = b"fake image data"
-
-        responses.add(
-            responses.GET,
-            archive_url,
-            body=image_data,
-            status=200,
-        )
-
-        output_dir: str = str(tmp_path)
-        filename: str = "bismarck.jpg"
-
-        success: bool = download_image(
-            archive_url, output_dir, filename, delay=0
-        )
-
-        assert success is True
-        output_file: str = os.path.join(output_dir, filename)
-        assert os.path.exists(output_file)
-
-        with open(output_file, "rb") as f:
-            content: bytes = f.read()
-            assert content == image_data
-
-    @responses.activate
-    def test_download_image_handles_errors(
-        self, tmp_path
-    ) -> None:  # type: ignore
-        """Test that download errors are handled gracefully"""
-        archive_url: str = (
-            "https://web.archive.org/web/20100516220948im_/"
-            "http://www.sambre-marne-yser.be/IMG/jpg/bismarck.jpg"
-        )
-
-        responses.add(
-            responses.GET,
-            archive_url,
-            status=404,
-        )
-
-        output_dir: str = str(tmp_path)
-        filename: str = "bismarck.jpg"
-
-        success: bool = download_image(
-            archive_url, output_dir, filename, delay=0
-        )
-
-        assert success is False
-
-
 class TestProcessHtmlFiles:
     """Tests for processing HTML files and building image map"""
 
@@ -210,7 +149,7 @@ class TestProcessHtmlFiles:
 
         # Process HTML files
         process_html_files(
-            str(html_dir), str(img_dir), str(output_yaml), delay=0
+            str(html_dir), str(img_dir), str(output_yaml), delay_between_calls=0
         )
 
         # Check that image was downloaded
@@ -275,7 +214,7 @@ class TestProcessHtmlFiles:
         output_yaml = tmp_path / "img_map.yaml"
 
         process_html_files(
-            str(html_dir), str(img_dir), str(output_yaml), delay=0
+            str(html_dir), str(img_dir), str(output_yaml), delay_between_calls=0
         )
 
         # Both URLs should map to the same file

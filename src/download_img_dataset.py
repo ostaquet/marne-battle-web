@@ -3,11 +3,12 @@
 import os
 import re
 import hashlib
-import time
 import yaml
 from typing import Optional
 from bs4 import BeautifulSoup
-import requests
+
+from delay import wait_for
+from wayback_api import download_and_save_binary
 
 
 def extract_img_tags(html_content: str) -> list[str]:
@@ -66,51 +67,11 @@ def calculate_md5(file_path: str) -> str:
     return md5_hash.hexdigest()
 
 
-def download_image(
-    archive_url: str,
-    output_dir: str,
-    filename: str,
-    delay: float = 1.0
-) -> bool:
-    """Download image from archive.org
-
-    Args:
-        archive_url: Full archive.org URL
-        output_dir: Directory to save the file
-        filename: Name of the output file
-        delay: Seconds to wait after download (default: 1.0)
-
-    Returns:
-        True if successful, False otherwise
-    """
-    try:
-        response: requests.Response = requests.get(archive_url, timeout=30)
-        response.raise_for_status()
-
-        # Create output directory if needed
-        os.makedirs(output_dir, exist_ok=True)
-
-        # Save the image
-        output_path: str = os.path.join(output_dir, filename)
-        with open(output_path, "wb") as f:
-            f.write(response.content)
-
-        # Be gentle with Internet Archive
-        time.sleep(delay)
-
-        return True
-
-    except requests.RequestException:
-        # Still add delay even on error
-        time.sleep(delay)
-        return False
-
-
 def process_html_files(
     html_dir: str,
     img_dir: str,
     output_yaml: str,
-    delay: float = 1.0
+    delay_between_calls: int = 10
 ) -> None:
     """Process all HTML files and download images
 
@@ -170,8 +131,8 @@ def process_html_files(
             if os.path.exists(output_path):
                 # Download to temp file to check MD5
                 temp_path: str = os.path.join(img_dir, f"temp_{filename}")
-                success: bool = download_image(
-                    archive_url, img_dir, f"temp_{filename}", delay
+                success: bool = download_and_save_binary(
+                    archive_url, img_dir, f"temp_{filename}"
                 )
 
                 if success:
@@ -197,7 +158,7 @@ def process_html_files(
             else:
                 # Download the image
                 print(f"  Downloading {filename}...")
-                success = download_image(archive_url, img_dir, filename, delay)
+                success = download_and_save_binary(archive_url, img_dir, filename)
 
                 if success:
                     img_map[img_src] = filename
@@ -208,6 +169,8 @@ def process_html_files(
             # Save progress after each image
             with open(output_yaml, "w", encoding="utf-8") as f:
                 yaml.dump(img_map, f, default_flow_style=False, allow_unicode=True)
+
+            wait_for(delay_between_calls)
 
     print(f"Image mapping saved to {output_yaml}")
     print(f"Total images: {len(img_map)}")

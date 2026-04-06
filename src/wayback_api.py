@@ -148,18 +148,19 @@ def find_working_snapshot(
     return None
 
 
-def download_and_save_html(
+def download_and_save_text(
     archive_url: str,
     output_dir: str,
     filename: str,
     delay_between_retry: int = 30
 ) -> bool:
-    """Download HTML from archive.org and save to file
+    """Download HTML/TXT from archive.org and save to file
 
     Args:
         archive_url: Archive.org URL to download
         output_dir: Directory to save the file
         filename: Name of the output file
+        delay_between_retry: In case of retry, wait for some seconds
 
     Returns:
         True if successful, False otherwise
@@ -183,3 +184,37 @@ def download_and_save_html(
         f.write(text)
 
     return True
+
+
+def download_and_save_binary(
+    archive_url: str,
+    output_dir: str,
+    filename: str
+) -> bool:
+    """Download binary (image) from archive.org
+
+    Args:
+        archive_url: Full archive.org URL
+        output_dir: Directory to save the file
+        filename: Name of the output file
+        delay_between_retry: In case of retry, wait for some seconds
+
+    Returns:
+        True if successful, False otherwise
+    """
+    try:
+        response: requests.Response = requests.get(archive_url, timeout=30)
+        response.raise_for_status()
+
+        # Create output directory if needed
+        os.makedirs(output_dir, exist_ok=True)
+
+        # Save the image
+        output_path: str = os.path.join(output_dir, filename)
+        with open(output_path, "wb") as f:
+            f.write(response.content)
+
+        return True
+
+    except requests.RequestException:
+        return False
