@@ -58,6 +58,49 @@ def relink_page_href(href: str) -> str:
     if href.endswith("://www.sambre-marne-yser.be/"):
         return "homepage.htm"
 
+    # Specific URL
+    if href.endswith("http://www.spip.net/"):
+        return "http://www.spip.net/"
+
+    if href.endswith("http://www.simplifyhosting.com/"):
+        return "http://www.simplifyhosting.com/"
+
+    if href.endswith("mailto:info@sambre-marne-yser.be"):
+        return "mailto:info@sambre-marne-yser.be"
+    
+    if href.endswith("http://batmarn1.club.fr/index.htm"):
+        return "http://batmarn1.club.fr/index.htm"
+
+    if href.endswith("http://pcoutant.free.fr/guerre.htm"):
+        return "http://pcoutant.free.fr/guerre.htm"
+
+    if href.endswith("http://www.canonde75.fr.st/"):
+        return "http://www.canonde75.fr.st/"
+
+    if href.endswith("http://www.chtimiste.com/"):
+        return "http://www.chtimiste.com/"
+
+    if href.endswith("http://www.military-photos.com/index-photo.htm"):
+        return "http://www.military-photos.com/index-photo.htm"
+
+    if href.endswith("http://www.clham.org/"):
+        return "http://www.clham.org/"
+
+    if href.endswith("http://vinny03.club.fr/1418.htm"):
+        return "http://vinny03.club.fr/1418.htm"
+
+    if href.endswith("http://www.everyoneweb.com/battlegroundbelgium/"):
+        return "http://www.everyoneweb.com/battlegroundbelgium/"
+
+    if href.endswith("http://www.saive.be/s_histoire_rabosee.htm"):
+        return "http://www.saive.be/s_histoire_rabosee.htm"
+
+    if href.endswith("http://www.troupesdemarine.org/"):
+        return "http://www.troupesdemarine.org/"
+
+    if href.endswith("http://www.echo-soft.com/valeric/namur/fort_emines.htm"):
+        return "http://www.echo-soft.com/valeric/namur/fort_emines.htm"
+
     # Page
     page_num: str = extract_page_number(href)
     if page_num:
