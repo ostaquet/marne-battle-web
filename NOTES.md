@@ -22,8 +22,7 @@ curl -X GET "http://web.archive.org/cdx/search/cdx?url=www.sambre-marne-yser.be"
 
 ## Known issues
 
-- In `relink.py`, there are a lot of specific URLs to be handled. It should be handled in a specific ignore file.
-- In the html files, there are links to other pictures that failed the extract process (example in `article_03_04.htm`, the link to `IMG/jpg/olan_schlieffen2.jpg` was not downloaded and not relink properly).
+- In the html files, there are links to other pictures that failed the extract process (example in `article_03_04.htm`, the link to `IMG/jpg/olan_schlieffen2.jpg` was not relink properly). But the files are correctly downloaded locally.
 
 ## URLs
 
