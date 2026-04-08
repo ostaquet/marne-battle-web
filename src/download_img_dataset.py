@@ -9,7 +9,7 @@ from typing import Optional
 from bs4 import BeautifulSoup
 
 from delay import wait_for
-from wayback_api import download_and_save_binary, find_working_snapshot
+from wayback_api import download_and_save_binary
 
 
 def extract_img_tags(html_content: str) -> list[str]:
@@ -177,18 +177,9 @@ def process_html_files(
                 print(f"  Skipping {img_src} (already mapped)")
                 continue
 
-            # Build full archive URL
             if is_relative_url(img_src):
-                # For relative URLs, find a working snapshot
-                print(f"  Finding snapshot for relative URL: {img_src}")
-                original_url: str = build_original_url(img_src, base_url)
-                working_snapshot: Optional[str] = find_working_snapshot(
-                    original_url, start_date, end_date, delay_between_calls
-                )
-                if not working_snapshot:
-                    print(f"  No working snapshot found for {img_src}")
-                    continue
-                archive_url: str = working_snapshot
+                # For relative URLs (aka 'a' tags), fetch from original website
+                archive_url: str = build_original_url(img_src, base_url)
             else:
                 # For archive URLs, use them directly
                 archive_url = build_archive_url(img_src)
@@ -237,9 +228,12 @@ def process_html_files(
                         os.remove(temp_path)
             else:
                 # Download the image
-                print(f"  Downloading {filename}...")
+                print(f"  Downloading {archive_url}...")
                 success = download_and_save_binary(archive_url, img_dir, filename)
-                wait_for(delay_between_calls)
+                
+                # Be gentle with Internet Archive, if direct download, no wait time
+                if not archive_url.startswith("http://www.sambre-marne-yser.be/"):
+                    wait_for(delay_between_calls)
 
                 if success:
                     img_map[img_src] = filename

@@ -11,7 +11,7 @@ def wait_for(seconds: int) -> None:
                        suffix="",
                        length=50)
 
-    for i in range(seconds+1):
+    for i in range(seconds + 1):
         time.sleep(1.0)
         print_progress_bar(i, seconds,
                            prefix="Delay for Internet Archive:",

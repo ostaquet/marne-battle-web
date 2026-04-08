@@ -34,8 +34,7 @@ class TestPage:
 
         assert page.page_type == PageType.HOMEPAGE
         assert (
-            page.official_url
-            == "https://www.sambre-marne-yser.be/sommaire.php3"
+            page.official_url == "https://www.sambre-marne-yser.be/sommaire.php3"
         )
         assert page.timestamp == "20131029060500"
         assert len(page.children) == 0
@@ -107,8 +106,7 @@ class TestPage:
 
         assert result["type"] == "homepage"
         assert (
-            result["official_url"]
-            == "https://www.sambre-marne-yser.be/sommaire.php3"
+            result["official_url"] == "https://www.sambre-marne-yser.be/sommaire.php3"
         )
         assert result["timestamp"] == "20131029060500"
         assert result["children"] == []
@@ -162,8 +160,7 @@ class TestPage:
 
         assert page.page_type == PageType.HOMEPAGE
         assert (
-            page.official_url
-            == "https://www.sambre-marne-yser.be/sommaire.php3"
+            page.official_url == "https://www.sambre-marne-yser.be/sommaire.php3"
         )
         assert page.timestamp == "20131029060500"
         assert len(page.children) == 0
@@ -242,9 +239,10 @@ class TestExtractTimestamp:
         invalid_url: str = "https://example.com/page.html"
 
         archive_url: str = (
-                    "https://web.archive.org/web/20131029060500/"
-                    "http://sambre-marne-yser.be/sommaire.php3"
-                )
+            "https://web.archive.org/web/20131029060500/"
+            "http://sambre-marne-yser.be/sommaire.php3"
+        )
+        
         page: Page = Page(PageType.HOMEPAGE, "", archive_url)
 
         with pytest.raises(ValueError):

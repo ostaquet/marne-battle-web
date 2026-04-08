@@ -146,8 +146,7 @@ children: []
 
         assert page.page_type == PageType.HOMEPAGE
         assert (
-            page.official_url
-            == "https://www.sambre-marne-yser.be/sommaire.php3"
+            page.official_url == "https://www.sambre-marne-yser.be/sommaire.php3"
         )
         assert page.timestamp == "20131029060500"
 

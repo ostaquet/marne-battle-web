@@ -357,34 +357,10 @@ class TestProcessHtmlFiles:
         """
         html_file.write_text(html_content)
 
-        # Mock CDX API response for finding snapshots
-        responses.add(
-            responses.GET,
-            "https://web.archive.org/cdx/search/cdx",
-            body=(
-                "com,sambre-marne-yser)/img/jpg/photo.jpg 20100516220948 "
-                "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg text/html "
-                "200 ABCDEF - - 1234 file.warc.gz\n"
-            ),
-            status=200,
-        )
-
-        # Mock snapshot content check
+        # Mock image download
         responses.add(
             responses.GET,
             (
-                "https://web.archive.org/web/20100516220948/"
-                "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg"
-            ),
-            body=b"image data",
-            status=200,
-        )
-
-        # Mock image download (same URL as snapshot check)
-        responses.add(
-            responses.GET,
-            (
-                "https://web.archive.org/web/20100516220948/"
                 "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg"
             ),
             body=b"image data",
