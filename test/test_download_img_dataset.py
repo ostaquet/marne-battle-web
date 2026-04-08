@@ -4,8 +4,12 @@ import os
 import hashlib
 import responses
 import yaml
+from datetime import datetime
 from download_img_dataset import (
     extract_img_tags,
+    extract_img_links,
+    is_relative_url,
+    build_original_url,
     build_archive_url,
     calculate_md5,
     process_html_files,
@@ -62,6 +66,110 @@ class TestExtractImgTags:
         img_srcs: list[str] = extract_img_tags(html_content)
 
         assert len(img_srcs) == 0
+
+
+class TestExtractImgLinks:
+    """Tests for extracting image links from <a> tags"""
+
+    def test_extract_img_links_from_html(self) -> None:
+        """Test extracting image links from <a> tags"""
+        html_content: str = """
+        <html>
+            <body>
+                <a href="IMG/jpg/mortagne_meurthe.jpg">Lien vers carte</a>
+                <a href="IMG/jpg/bataille_trouee_charmes.jpg">Lien vers croquis</a>
+                <a href="page_02.php3">Not an image</a>
+            </body>
+        </html>
+        """
+
+        img_links: list[str] = extract_img_links(html_content)
+
+        assert len(img_links) == 2
+        assert "IMG/jpg/mortagne_meurthe.jpg" in img_links
+        assert "IMG/jpg/bataille_trouee_charmes.jpg" in img_links
+
+    def test_extract_img_links_with_various_extensions(self) -> None:
+        """Test extracting image links with different extensions"""
+        html_content: str = """
+        <html>
+            <body>
+                <a href="image1.jpg">JPG</a>
+                <a href="image2.PNG">PNG</a>
+                <a href="image3.gif">GIF</a>
+                <a href="image4.svg">SVG</a>
+                <a href="notimage.pdf">PDF</a>
+            </body>
+        </html>
+        """
+
+        img_links: list[str] = extract_img_links(html_content)
+
+        assert len(img_links) == 4
+        assert "image1.jpg" in img_links
+        assert "image2.PNG" in img_links
+        assert "image3.gif" in img_links
+        assert "image4.svg" in img_links
+        assert "notimage.pdf" not in img_links
+
+    def test_extract_img_links_returns_empty_for_no_image_links(self) -> None:
+        """Test that HTML with no image links returns empty list"""
+        html_content: str = """
+        <html>
+            <body>
+                <a href="page.html">Link</a>
+                <p>No image links here</p>
+            </body>
+        </html>
+        """
+
+        img_links: list[str] = extract_img_links(html_content)
+
+        assert len(img_links) == 0
+
+
+class TestIsRelativeUrl:
+    """Tests for checking if URL is relative"""
+
+    def test_is_relative_url_for_relative_path(self) -> None:
+        """Test that relative paths are identified correctly"""
+        assert is_relative_url("IMG/jpg/photo.jpg") is True
+        assert is_relative_url("/IMG/jpg/photo.jpg") is True
+
+    def test_is_relative_url_for_archive_url(self) -> None:
+        """Test that archive URLs are not identified as relative"""
+        archive_url: str = (
+            "/web/20100516220948im_/"
+            "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg"
+        )
+        assert is_relative_url(archive_url) is False
+
+    def test_is_relative_url_for_absolute_url(self) -> None:
+        """Test that absolute URLs are not identified as relative"""
+        assert is_relative_url("https://example.com/photo.jpg") is False
+        assert is_relative_url("http://example.com/photo.jpg") is False
+
+
+class TestBuildOriginalUrl:
+    """Tests for building original URLs from relative paths"""
+
+    def test_build_original_url_from_relative_path(self) -> None:
+        """Test building full URL from relative path"""
+        base_url: str = "http://www.sambre-marne-yser.be"
+        relative_url: str = "IMG/jpg/photo.jpg"
+
+        full_url: str = build_original_url(relative_url, base_url)
+
+        assert full_url == "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg"
+
+    def test_build_original_url_from_absolute_path(self) -> None:
+        """Test building URL from absolute path (starting with /)"""
+        base_url: str = "http://www.sambre-marne-yser.be"
+        absolute_path: str = "/IMG/jpg/photo.jpg"
+
+        full_url: str = build_original_url(absolute_path, base_url)
+
+        assert full_url == "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg"
 
 
 class TestBuildArchiveUrl:
@@ -229,3 +337,78 @@ class TestProcessHtmlFiles:
                 "/web/20100516220950im_/http://www.sambre-marne-yser.be/"
                 "IMG/jpg/photo.jpg"
             ] == "photo.jpg"
+
+    @responses.activate
+    def test_process_html_files_with_relative_image_links(
+        self, tmp_path
+    ) -> None:  # type: ignore
+        """Test processing HTML files with relative image links from <a> tags"""
+        html_dir = tmp_path / "html"
+        html_dir.mkdir()
+
+        # Create HTML file with relative image link in <a> tag
+        html_file = html_dir / "test.htm"
+        html_content: str = """
+        <html>
+            <body>
+                <a href="IMG/jpg/photo.jpg">Lien vers carte</a>
+            </body>
+        </html>
+        """
+        html_file.write_text(html_content)
+
+        # Mock CDX API response for finding snapshots
+        responses.add(
+            responses.GET,
+            "https://web.archive.org/cdx/search/cdx",
+            body=(
+                "com,sambre-marne-yser)/img/jpg/photo.jpg 20100516220948 "
+                "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg text/html "
+                "200 ABCDEF - - 1234 file.warc.gz\n"
+            ),
+            status=200,
+        )
+
+        # Mock snapshot content check
+        responses.add(
+            responses.GET,
+            (
+                "https://web.archive.org/web/20100516220948/"
+                "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg"
+            ),
+            body=b"image data",
+            status=200,
+        )
+
+        # Mock image download (same URL as snapshot check)
+        responses.add(
+            responses.GET,
+            (
+                "https://web.archive.org/web/20100516220948/"
+                "http://www.sambre-marne-yser.be/IMG/jpg/photo.jpg"
+            ),
+            body=b"image data",
+            status=200,
+        )
+
+        img_dir = tmp_path / "img"
+        output_yaml = tmp_path / "img_map.yaml"
+
+        # Process HTML files
+        process_html_files(
+            str(html_dir),
+            str(img_dir),
+            str(output_yaml),
+            delay_between_calls=0,
+            start_date=datetime(2010, 1, 1),
+            end_date=datetime(2015, 12, 31)
+        )
+
+        # Check that image was downloaded
+        assert os.path.exists(os.path.join(img_dir, "photo.jpg"))
+
+        # Check YAML mapping
+        with open(output_yaml, "r", encoding="utf-8") as f:
+            img_map: dict[str, str] = yaml.safe_load(f)
+            assert "IMG/jpg/photo.jpg" in img_map
+            assert img_map["IMG/jpg/photo.jpg"] == "photo.jpg"

@@ -76,13 +76,16 @@ python3 src/download_img_dataset.py
 This will:
 
 1. Parse all HTML files in `assets/raw_html/`
-2. Extract all `<img>` tags and their `src` attributes
-3. Download images from archive.org
-4. Save images to `assets/img/` with original filenames
-5. Create `assets/img_map.yaml` mapping archive URLs to local filenames
-6. Handle filename collisions using MD5 checksums (reuses identical files)
-7. Skip already downloaded images (resume capability)
-8. Save progress after each image
+2. Extract images from:
+   - `<img>` tags with `src` attributes
+   - `<a>` tags linking to image files (e.g., `.jpg`, `.png`, `.gif`)
+3. For relative image links, find working snapshots on archive.org (2010-2015)
+4. Download images from archive.org
+5. Save images to `assets/img/` with original filenames
+6. Create `assets/img_map.yaml` mapping archive URLs to local filenames
+7. Handle filename collisions using MD5 checksums (reuses identical files)
+8. Skip already downloaded images (resume capability)
+9. Save progress after each image
 
 ### Relinking HTML files
 

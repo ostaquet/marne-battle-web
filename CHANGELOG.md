@@ -242,3 +242,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0011-relink-htm-and-img.md`: Relink HTML files and images to use local references
+
+### Added
+
+- Function `extract_img_links()` to extract image links from `<a>` tags
+- Function `is_relative_url()` to detect relative image paths
+- Function `build_original_url()` to construct full URLs from relative paths
+- Support for downloading images linked in `<a>` tags (not just `<img>` tags)
+- Automatic snapshot finding for relative image URLs using wayback API
+- Unit tests for new image link extraction functionality (9 tests)
+
+### Changed
+
+- `process_html_files()` now extracts images from both `<img>` and `<a>` tags
+- Relative image links are resolved using `find_working_snapshot()` (2010-2015 range)
+- README.md updated to document `<a>` tag image extraction
+
+### Task
+
+- Completed task `0012-fix-img-downloader.md`: Fix image downloader to handle links in `<a>` tags

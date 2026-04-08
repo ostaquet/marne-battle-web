@@ -4,11 +4,12 @@ import os
 import re
 import hashlib
 import yaml
+from datetime import datetime
 from typing import Optional
 from bs4 import BeautifulSoup
 
 from delay import wait_for
-from wayback_api import download_and_save_binary
+from wayback_api import download_and_save_binary, find_working_snapshot
 
 
 def extract_img_tags(html_content: str) -> list[str]:
@@ -30,6 +31,63 @@ def extract_img_tags(html_content: str) -> list[str]:
             img_srcs.append(src)
 
     return img_srcs
+
+
+def extract_img_links(html_content: str) -> list[str]:
+    """Extract image links from <a> tags
+
+    Args:
+        html_content: HTML content to parse
+
+    Returns:
+        List of image URLs from <a href> attributes
+    """
+    soup = BeautifulSoup(html_content, "html.parser")
+    a_tags = soup.find_all("a")
+
+    img_links: list[str] = []
+    image_extensions: tuple[str, ...] = (
+        '.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg'
+    )
+
+    for a_tag in a_tags:
+        href: Optional[str] = a_tag.get("href")
+        if href and any(
+            href.lower().endswith(ext) for ext in image_extensions
+        ):
+            img_links.append(href)
+
+    return img_links
+
+
+def is_relative_url(url: str) -> bool:
+    """Check if a URL is relative (not from archive.org)
+
+    Args:
+        url: URL to check
+
+    Returns:
+        True if relative, False if absolute archive URL
+    """
+    return not url.startswith("http") and not url.startswith("/web/")
+
+
+def build_original_url(relative_url: str, base_url: str) -> str:
+    """Build original URL from relative path
+
+    Args:
+        relative_url: Relative URL path
+        base_url: Base URL of the website
+
+    Returns:
+        Full original URL
+    """
+    if relative_url.startswith("/"):
+        # Absolute path relative to domain root
+        return f"{base_url}{relative_url}"
+    else:
+        # Relative path
+        return f"{base_url}/{relative_url}"
 
 
 def build_archive_url(relative_url: str) -> str:
@@ -71,7 +129,10 @@ def process_html_files(
     html_dir: str,
     img_dir: str,
     output_yaml: str,
-    delay_between_calls: int = 10
+    delay_between_calls: int = 10,
+    base_url: str = "http://www.sambre-marne-yser.be",
+    start_date: datetime = datetime(2010, 1, 1),
+    end_date: datetime = datetime(2015, 12, 31)
 ) -> None:
     """Process all HTML files and download images
 
@@ -79,7 +140,10 @@ def process_html_files(
         html_dir: Directory containing HTML files
         img_dir: Directory to save images
         output_yaml: Path to output YAML mapping file
-        delay: Seconds to wait between downloads (default: 1.0)
+        delay_between_calls: Seconds to wait between downloads
+        base_url: Base URL of the original website
+        start_date: Start date for wayback snapshot search
+        end_date: End date for wayback snapshot search
     """
     # Image mapping: archive_url -> local_filename
     img_map: dict[str, str] = {}
@@ -102,17 +166,32 @@ def process_html_files(
         with open(html_path, "r", encoding="utf-8") as f:
             html_content: str = f.read()
 
-        # Extract image URLs
+        # Extract image URLs from both img tags and a tags
         img_srcs: list[str] = extract_img_tags(html_content)
+        img_links: list[str] = extract_img_links(html_content)
+        all_img_urls: list[str] = img_srcs + img_links
 
-        for img_src in img_srcs:
+        for img_src in all_img_urls:
             # Skip if already processed
             if img_src in img_map:
                 print(f"  Skipping {img_src} (already mapped)")
                 continue
 
-            # Build full URL
-            archive_url: str = build_archive_url(img_src)
+            # Build full archive URL
+            if is_relative_url(img_src):
+                # For relative URLs, find a working snapshot
+                print(f"  Finding snapshot for relative URL: {img_src}")
+                original_url: str = build_original_url(img_src, base_url)
+                working_snapshot: Optional[str] = find_working_snapshot(
+                    original_url, start_date, end_date, delay_between_calls
+                )
+                if not working_snapshot:
+                    print(f"  No working snapshot found for {img_src}")
+                    continue
+                archive_url: str = working_snapshot
+            else:
+                # For archive URLs, use them directly
+                archive_url = build_archive_url(img_src)
 
             # Extract filename
             match: Optional[re.Match[str]] = re.search(
