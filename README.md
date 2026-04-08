@@ -98,15 +98,20 @@ python3 src/relink.py
 
 This will:
 
-1. Process all HTML files in `assets/raw_html/`
-2. Relink internal page links:
+1. Load external link mappings from `assets/link_map.yaml`
+2. Load image mappings from `assets/img_map.yaml`
+3. Process all HTML files in `assets/raw_html/`
+4. Relink internal page links:
    - `sommaire.php3` → `homepage.htm`
    - `page_05.php3` → `page_05.htm`
    - `article=5.php3?id_article=99` → `article_05_99.htm`
-3. Relink image references using `assets/img_map.yaml`:
+5. Preserve external links defined in configuration (e.g., `http://www.spip.net/`)
+6. Relink image references using `assets/img_map.yaml`:
    - Archive URLs → `../img/filename.jpg`
-4. Save relinked HTML to `assets/html/`
-5. Log unmatched links/images to `assets/relink.log`
+7. Save relinked HTML to `assets/html/`
+8. Log unmatched links/images to `assets/relink.log`
+
+The external links to preserve are configured in `assets/link_map.yaml`, making it easy to add or modify special URLs without changing the code.
 
 ## Development
 

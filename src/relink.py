@@ -7,6 +7,24 @@ from typing import Optional
 from bs4 import BeautifulSoup
 
 
+def load_link_map(link_map_file: str) -> list[str]:
+    """Load external link mappings from YAML file
+
+    Args:
+        link_map_file: Path to link mapping YAML file
+
+    Returns:
+        List of external URLs to preserve
+    """
+    if not os.path.exists(link_map_file):
+        return []
+
+    with open(link_map_file, "r", encoding="utf-8") as f:
+        config: dict[str, list[str]] = yaml.safe_load(f) or {}
+
+    return config.get("external_links", [])
+
+
 def extract_page_number(url: str) -> str:
     """Extract page number from URL
 
@@ -41,11 +59,12 @@ def extract_article_numbers(url: str) -> tuple[str, str]:
     return "", ""
 
 
-def relink_page_href(href: str) -> str:
+def relink_page_href(href: str, external_links: list[str] = []) -> str:
     """Relink a page href to local version
 
     Args:
         href: Original href attribute
+        external_links: List of external URLs to preserve
 
     Returns:
         New href for local file, or empty string if cannot relink
@@ -58,48 +77,10 @@ def relink_page_href(href: str) -> str:
     if href.endswith("://www.sambre-marne-yser.be/"):
         return "homepage.htm"
 
-    # Specific URL
-    if href.endswith("http://www.spip.net/"):
-        return "http://www.spip.net/"
-
-    if href.endswith("http://www.simplifyhosting.com/"):
-        return "http://www.simplifyhosting.com/"
-
-    if href.endswith("mailto:info@sambre-marne-yser.be"):
-        return "mailto:info@sambre-marne-yser.be"
-
-    if href.endswith("http://batmarn1.club.fr/index.htm"):
-        return "http://batmarn1.club.fr/index.htm"
-
-    if href.endswith("http://pcoutant.free.fr/guerre.htm"):
-        return "http://pcoutant.free.fr/guerre.htm"
-
-    if href.endswith("http://www.canonde75.fr.st/"):
-        return "http://www.canonde75.fr.st/"
-
-    if href.endswith("http://www.chtimiste.com/"):
-        return "http://www.chtimiste.com/"
-
-    if href.endswith("http://www.military-photos.com/index-photo.htm"):
-        return "http://www.military-photos.com/index-photo.htm"
-
-    if href.endswith("http://www.clham.org/"):
-        return "http://www.clham.org/"
-
-    if href.endswith("http://vinny03.club.fr/1418.htm"):
-        return "http://vinny03.club.fr/1418.htm"
-
-    if href.endswith("http://www.everyoneweb.com/battlegroundbelgium/"):
-        return "http://www.everyoneweb.com/battlegroundbelgium/"
-
-    if href.endswith("http://www.saive.be/s_histoire_rabosee.htm"):
-        return "http://www.saive.be/s_histoire_rabosee.htm"
-
-    if href.endswith("http://www.troupesdemarine.org/"):
-        return "http://www.troupesdemarine.org/"
-
-    if href.endswith("http://www.echo-soft.com/valeric/namur/fort_emines.htm"):
-        return "http://www.echo-soft.com/valeric/namur/fort_emines.htm"
+    # Check external links from configuration
+    for external_url in external_links:
+        if href.endswith(external_url):
+            return external_url
 
     # Page
     page_num: str = extract_page_number(href)
@@ -134,7 +115,8 @@ def relink_html_file(
     input_file: str,
     output_dir: str,
     img_map: dict[str, str],
-    log_file: str
+    log_file: str,
+    external_links: list[str] = []
 ) -> None:
     """Relink HTML file to use local references
 
@@ -143,6 +125,7 @@ def relink_html_file(
         output_dir: Directory to save relinked HTML
         img_map: Mapping of archive URLs to local filenames
         log_file: Path to log file for unmatched links
+        external_links: List of external URLs to preserve
     """
     # Read HTML
     with open(input_file, "r", encoding="utf-8") as f:
@@ -158,7 +141,7 @@ def relink_html_file(
     for a_tag in soup.find_all("a"):
         href: Optional[str] = a_tag.get("href")
         if href:
-            new_href: str = relink_page_href(href)
+            new_href: str = relink_page_href(href, external_links)
             if new_href:
                 a_tag["href"] = new_href
             else:
@@ -194,7 +177,8 @@ def process_all_html_files(
     input_dir: str,
     output_dir: str,
     img_map_file: str,
-    log_file: str
+    log_file: str,
+    link_map_file: str = "assets/link_map.yaml"
 ) -> None:
     """Process all HTML files and relink them
 
@@ -203,6 +187,7 @@ def process_all_html_files(
         output_dir: Directory to save relinked HTML files
         img_map_file: Path to image mapping YAML file
         log_file: Path to log file for unmatched links
+        link_map_file: Path to link mapping YAML file
     """
     # Load image map
     img_map: dict[str, str] = {}
@@ -210,6 +195,10 @@ def process_all_html_files(
         with open(img_map_file, "r", encoding="utf-8") as f:
             img_map = yaml.safe_load(f) or {}
         print(f"Loaded {len(img_map)} image mappings")
+
+    # Load link map
+    external_links: list[str] = load_link_map(link_map_file)
+    print(f"Loaded {len(external_links)} external link mappings")
 
     # Clear log file
     if os.path.exists(log_file):
@@ -223,7 +212,8 @@ def process_all_html_files(
     for html_file in sorted(html_files):
         print(f"Processing {html_file}...")
         input_path: str = os.path.join(input_dir, html_file)
-        relink_html_file(input_path, output_dir, img_map, log_file)
+        relink_html_file(input_path, output_dir, img_map, log_file,
+                         external_links)
 
     print(f"Relinked {len(html_files)} files")
     if os.path.exists(log_file):

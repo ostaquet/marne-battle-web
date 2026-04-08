@@ -1,0 +1,17 @@
+# Special URL mappings for relinking
+# These are external links that should be kept as-is
+external_links:
+  - http://www.spip.net/
+  - http://www.simplifyhosting.com/
+  - mailto:info@sambre-marne-yser.be
+  - http://batmarn1.club.fr/index.htm
+  - http://pcoutant.free.fr/guerre.htm
+  - http://www.canonde75.fr.st/
+  - http://www.chtimiste.com/
+  - http://www.military-photos.com/index-photo.htm
+  - http://www.clham.org/
+  - http://vinny03.club.fr/1418.htm
+  - http://www.everyoneweb.com/battlegroundbelgium/
+  - http://www.saive.be/s_histoire_rabosee.htm
+  - http://www.troupesdemarine.org/
+  - http://www.echo-soft.com/valeric/namur/fort_emines.htm

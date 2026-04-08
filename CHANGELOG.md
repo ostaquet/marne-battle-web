@@ -261,3 +261,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0012-fix-img-downloader.md`: Fix image downloader to handle links in `<a>` tags
+
+### Added
+
+- YAML configuration file `assets/link_map.yaml` for external link mappings
+- Function `load_link_map()` to load external links from YAML file
+- Unit tests for link map loading (3 tests)
+- Unit test for preserving external links from configuration
+
+### Changed
+
+- `relink_page_href()` now accepts optional `external_links` parameter
+- `relink_html_file()` now accepts optional `external_links` parameter
+- `process_all_html_files()` loads and uses link map from configuration
+- Removed hard-coded external URLs from Python code (moved to YAML)
+- External links are now configurable without code changes
+- README.md updated to document link map configuration
+
+### Task
+
+- Completed task `0013-keep-config-for-special-links.md`: Move special URL mappings to YAML configuration

@@ -7,6 +7,7 @@ from relink import (
     relink_page_href,
     relink_img_src,
     relink_html_file,
+    load_link_map,
 )
 
 
@@ -59,6 +60,47 @@ class TestExtractArticleNumbers:
         assert article_num == ""
 
 
+class TestLoadLinkMap:
+    """Tests for loading link map from YAML"""
+
+    def test_load_link_map_from_file(self, tmp_path) -> None:  # type: ignore
+        """Test loading external links from YAML file"""
+        link_map_file = tmp_path / "link_map.yaml"
+        config: dict[str, list[str]] = {
+            "external_links": [
+                "http://www.spip.net/",
+                "http://example.com/",
+            ]
+        }
+        with open(link_map_file, "w", encoding="utf-8") as f:
+            yaml.dump(config, f)
+
+        external_links: list[str] = load_link_map(str(link_map_file))
+
+        assert len(external_links) == 2
+        assert "http://www.spip.net/" in external_links
+        assert "http://example.com/" in external_links
+
+    def test_load_link_map_returns_empty_for_missing_file(
+        self
+    ) -> None:
+        """Test that missing file returns empty list"""
+        external_links: list[str] = load_link_map("nonexistent.yaml")
+        assert external_links == []
+
+    def test_load_link_map_returns_empty_for_missing_key(
+        self, tmp_path
+    ) -> None:  # type: ignore
+        """Test that missing external_links key returns empty list"""
+        link_map_file = tmp_path / "link_map.yaml"
+        config: dict[str, list[str]] = {"other_key": []}
+        with open(link_map_file, "w", encoding="utf-8") as f:
+            yaml.dump(config, f)
+
+        external_links: list[str] = load_link_map(str(link_map_file))
+        assert external_links == []
+
+
 class TestRelinkPageHref:
     """Tests for relinking page hrefs"""
 
@@ -95,11 +137,29 @@ class TestRelinkPageHref:
         new_href: str = relink_page_href(href)
         assert new_href == "article_05_99.htm"
 
-    def test_relink_returns_none_for_external(self) -> None:
-        """Test that external links return None"""
+    def test_relink_returns_empty_for_external(self) -> None:
+        """Test that external links return empty string"""
         href: str = "http://example.com"
         new_href: str = relink_page_href(href)
         assert new_href == ""
+
+    def test_relink_preserves_external_links_from_config(self) -> None:
+        """Test that external links from config are preserved"""
+        external_links: list[str] = [
+            "http://www.spip.net/",
+            "mailto:info@example.com",
+        ]
+        href1: str = (
+            "https://web.archive.org/web/20100417230442/"
+            "http://www.spip.net/"
+        )
+        href2: str = "mailto:info@example.com"
+
+        new_href1: str = relink_page_href(href1, external_links)
+        new_href2: str = relink_page_href(href2, external_links)
+
+        assert new_href1 == "http://www.spip.net/"
+        assert new_href2 == "mailto:info@example.com"
 
 
 class TestRelinkImgSrc:
@@ -168,7 +228,8 @@ class TestRelinkHtmlFile:
             str(input_file),
             str(output_dir),
             img_map,
-            str(log_file)
+            str(log_file),
+            []
         )
 
         # Check output file
@@ -207,7 +268,8 @@ class TestRelinkHtmlFile:
             str(input_file),
             str(output_dir),
             {},
-            str(log_file)
+            str(log_file),
+            []
         )
 
         # Check log file
