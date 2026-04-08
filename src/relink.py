@@ -67,7 +67,7 @@ def relink_page_href(href: str) -> str:
 
     if href.endswith("mailto:info@sambre-marne-yser.be"):
         return "mailto:info@sambre-marne-yser.be"
-    
+
     if href.endswith("http://batmarn1.club.fr/index.htm"):
         return "http://batmarn1.club.fr/index.htm"
 
