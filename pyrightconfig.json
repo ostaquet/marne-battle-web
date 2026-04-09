@@ -1,6 +1,6 @@
 {
-  "venvPath": "venv",
-  "venv": "venv",
+  "venvPath": "venv_local",
+  "venv": "venv_local",
   "include": [
     "src",
     "test"

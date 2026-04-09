@@ -11,6 +11,7 @@ Create a virtual environment and install dependencies:
 ```
 
 The script automatically detects the environment and creates:
+
 - `venv_docker/` when running in Docker containers
 - `venv_local/` when running on local machines (e.g., MacBook)
 
@@ -18,25 +19,25 @@ This prevents conflicts between Docker and local environments.
 
 ## Tools available
 
-### Extracting pages from Internet Archive
+### 1. Extracting pages from Internet Archive
 
 The original website has a broken MySQL instance, making some pages inaccessible. We extract functional versions from the Internet Archive (2010-2015).
 
 Run the extraction script:
 
 ```bash
-source venv_docker/bin/activate  # or venv_local/bin/activate
+source venv_local/bin/activate
 python3 src/extract_pages.py
 ```
 
 This will generate `assets/pages.yaml` containing the homepage and pages with their working archive.org URLs.
 
-### Extracting articles from Internet Archive
+### 2. Extracting articles from Internet Archive
 
 After extracting pages, run the article extraction script to find and add article links:
 
 ```bash
-source venv_docker/bin/activate  # or venv_local/bin/activate
+source venv_local/bin/activate
 python3 src/extract_articles.py
 ```
 
@@ -48,12 +49,12 @@ This will:
 4. Find working archive snapshots for each article
 5. Generate `assets/articles.yaml` with the complete structure
 
-### Building local HTML dataset
+### 3. Building local HTML dataset
 
 After extracting articles, download all HTML files locally for processing:
 
 ```bash
-source venv_docker/bin/activate  # or venv_local/bin/activate
+source venv_local/bin/activate
 python3 src/download_html_dataset.py
 ```
 
@@ -70,12 +71,12 @@ This will:
 
 This creates a local dataset for faster processing and reduces load on Internet Archive.
 
-### Building local image dataset
+### 4. Building local image dataset
 
 After downloading HTML files, extract and download all images:
 
 ```bash
-source venv_docker/bin/activate  # or venv_local/bin/activate
+source venv_local/bin/activate
 python3 src/download_img_dataset.py
 ```
 
@@ -93,12 +94,12 @@ This will:
 8. Skip already downloaded images (resume capability)
 9. Save progress after each image
 
-### Relinking HTML files
+### 5. Relinking HTML files
 
 After downloading HTML and images, relink internal references to use local files:
 
 ```bash
-source venv_docker/bin/activate  # or venv_local/bin/activate
+source venv_local/bin/activate
 python3 src/relink.py
 ```
 
