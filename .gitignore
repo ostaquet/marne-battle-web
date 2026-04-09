@@ -1,5 +1,7 @@
 # Python
 venv/
+venv_docker/
+venv_local/
 __pycache__/
 *.py[cod]
 *$py.class

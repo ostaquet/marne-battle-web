@@ -16,8 +16,17 @@ PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 cd "$PROJECT_ROOT"
 
+# Detect if running in Docker and set venv directory
+if [ -f "/.dockerenv" ]; then
+    VENV_DIR="venv_docker"
+    ENV_TYPE="Docker"
+else
+    VENV_DIR="venv_local"
+    ENV_TYPE="local"
+fi
+
 echo "========================================="
-echo "Setting up virtual environment"
+echo "Setting up virtual environment ($ENV_TYPE)"
 echo "========================================="
 echo ""
 
@@ -34,21 +43,21 @@ echo -e "${BLUE}Using: $PYTHON_VERSION${NC}"
 echo ""
 
 # Remove existing virtual environment if it exists
-if [ -d "venv" ]; then
+if [ -d "$VENV_DIR" ]; then
     echo -e "${YELLOW}Removing existing virtual environment...${NC}"
-    rm -rf venv
-    echo -e "${GREEN}✓ Removed old venv${NC}"
+    rm -rf "$VENV_DIR"
+    echo -e "${GREEN}✓ Removed old $VENV_DIR${NC}"
     echo ""
 fi
 
 # Create new virtual environment
 echo -e "${YELLOW}Creating new virtual environment...${NC}"
-python3 -m venv venv
-echo -e "${GREEN}✓ Virtual environment created${NC}"
+python3 -m venv "$VENV_DIR"
+echo -e "${GREEN}✓ Virtual environment created in $VENV_DIR${NC}"
 echo ""
 
 # Activate virtual environment
-source venv/bin/activate
+source "$VENV_DIR/bin/activate"
 
 # Upgrade pip
 echo -e "${YELLOW}Upgrading pip...${NC}"
@@ -72,4 +81,4 @@ echo -e "${GREEN}Virtual environment ready!${NC}"
 echo "========================================="
 echo ""
 echo "To activate the virtual environment, run:"
-echo -e "${BLUE}source venv/bin/activate${NC}"
+echo -e "${BLUE}source $VENV_DIR/bin/activate${NC}"

@@ -281,3 +281,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Task
 
 - Completed task `0013-keep-config-for-special-links.md`: Move special URL mappings to YAML configuration
+
+### Changed
+
+- Script `scripts/venv.sh` now detects Docker environment and creates appropriate venv
+- Virtual environment created in `venv_docker/` when running in Docker containers
+- Virtual environment created in `venv_local/` when running on local machines
+- Scripts `scripts/lint.sh` and `scripts/test.sh` updated to use environment-specific venv
+- Updated `.gitignore` to ignore both `venv_docker/` and `venv_local/`
+- Prevents conflicts between Docker and local development environments
+- README.md updated with documentation about environment-specific venv directories
+
+### Task
+
+- Completed task `0014-adjust-venv-script.md`: Adjust venv script to support Docker and local environments

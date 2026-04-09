@@ -15,20 +15,27 @@ PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 cd "$PROJECT_ROOT"
 
+# Detect if running in Docker and set venv directory
+if [ -f "/.dockerenv" ]; then
+    VENV_DIR="venv_docker"
+else
+    VENV_DIR="venv_local"
+fi
+
 echo "========================================="
 echo "Running linters"
 echo "========================================="
 echo ""
 
 # Check if virtual environment exists
-if [ ! -d "venv" ]; then
+if [ ! -d "$VENV_DIR" ]; then
     echo -e "${RED}Error: Virtual environment not found${NC}"
-    echo "Please run: python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt"
+    echo "Please run: ./scripts/venv.sh"
     exit 1
 fi
 
 # Activate virtual environment
-source venv/bin/activate
+source "$VENV_DIR/bin/activate"
 
 # Run flake8
 echo -e "${YELLOW}[1/2] Running flake8...${NC}"

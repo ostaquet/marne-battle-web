@@ -10,6 +10,12 @@ Create a virtual environment and install dependencies:
 ./scripts/venv.sh
 ```
 
+The script automatically detects the environment and creates:
+- `venv_docker/` when running in Docker containers
+- `venv_local/` when running on local machines (e.g., MacBook)
+
+This prevents conflicts between Docker and local environments.
+
 ## Tools available
 
 ### Extracting pages from Internet Archive
@@ -19,7 +25,7 @@ The original website has a broken MySQL instance, making some pages inaccessible
 Run the extraction script:
 
 ```bash
-source venv/bin/activate
+source venv_docker/bin/activate  # or venv_local/bin/activate
 python3 src/extract_pages.py
 ```
 
@@ -30,7 +36,7 @@ This will generate `assets/pages.yaml` containing the homepage and pages with th
 After extracting pages, run the article extraction script to find and add article links:
 
 ```bash
-source venv/bin/activate
+source venv_docker/bin/activate  # or venv_local/bin/activate
 python3 src/extract_articles.py
 ```
 
@@ -47,7 +53,7 @@ This will:
 After extracting articles, download all HTML files locally for processing:
 
 ```bash
-source venv/bin/activate
+source venv_docker/bin/activate  # or venv_local/bin/activate
 python3 src/download_html_dataset.py
 ```
 
@@ -69,7 +75,7 @@ This creates a local dataset for faster processing and reduces load on Internet 
 After downloading HTML files, extract and download all images:
 
 ```bash
-source venv/bin/activate
+source venv_docker/bin/activate  # or venv_local/bin/activate
 python3 src/download_img_dataset.py
 ```
 
@@ -92,7 +98,7 @@ This will:
 After downloading HTML and images, relink internal references to use local files:
 
 ```bash
-source venv/bin/activate
+source venv_docker/bin/activate  # or venv_local/bin/activate
 python3 src/relink.py
 ```
 
