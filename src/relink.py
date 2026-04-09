@@ -59,7 +59,9 @@ def extract_article_numbers(url: str) -> tuple[str, str]:
     return "", ""
 
 
-def relink_page_href(href: str, external_links: list[str] = []) -> str:
+def relink_page_href(href: str, 
+                     external_links: list[str] = [],
+                     img_map: dict[str, str] = {}) -> str:
     """Relink a page href to local version
 
     Args:
@@ -81,6 +83,10 @@ def relink_page_href(href: str, external_links: list[str] = []) -> str:
     for external_url in external_links:
         if href.endswith(external_url):
             return external_url
+        
+    # Check links to images
+    if href in img_map:
+        return f"../img/{img_map[href]}"
 
     # Page
     page_num: str = extract_page_number(href)
@@ -141,7 +147,7 @@ def relink_html_file(
     for a_tag in soup.find_all("a"):
         href: Optional[str] = a_tag.get("href")
         if href:
-            new_href: str = relink_page_href(href, external_links)
+            new_href: str = relink_page_href(href, external_links, img_map)
             if new_href:
                 a_tag["href"] = new_href
             else:

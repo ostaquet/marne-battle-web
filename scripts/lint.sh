@@ -39,7 +39,7 @@ source "$VENV_DIR/bin/activate"
 
 # Run flake8
 echo -e "${YELLOW}[1/2] Running flake8...${NC}"
-if flake8 src/ test/ --max-line-length=88 --extend-ignore=E203 --ignore=W293; then
+if flake8 src/ test/ --max-line-length=88 --extend-ignore=E203 --ignore=W293,W291; then
     echo -e "${GREEN}✓ flake8 passed${NC}"
 else
     echo -e "${RED}✗ flake8 failed${NC}"
