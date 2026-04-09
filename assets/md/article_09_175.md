@@ -1,0 +1,240 @@
+# Parcours du 70e R.I. (Vitré)
+
+En 1914, le régiment fait partie de la 38e brigade (général Passaga), 19e division (général Bailly) et 18e C.A. (général de Mas Latrie). Il est commandé par le colonel Laroque.
+
+![(JPG)](../img/70RI_76.jpg)
+_Vitré : caserne du 70e de ligne_
+_Collection privée_
+
+### 5 août :
+
+Le régiment s’embarque à Vitré.
+
+### 6 août :
+
+Le 1e élément débarque à Vouziers. En cours de route, le colonel reçoit l’ordre d’envoyer le 1e bataillon à Mouzon pour y occuper les ponts de la Meuse. Le bataillon se met en marche à 18h et atteint Mouzon le 7 août à 18h, après un parcours de 40 km. Le reste du régiment cantonne à Vouziers et à Chestres.
+
+### 7 août :
+
+Cantonnement à Verrières, à Les Petites-Armoises, Brieulles-sur-Bar et Châtillon-sur-Bar. Le régiment, réduit à deux bataillons, forme le gros de la 38e brigade. Le 1e bataillon est toujours à Mouzon, le 2e bataillon en liaison avec un escadron du 13e hussards au Chesne. Les Q.G. du 10e C.A. et de la 19e division sont à Vouziers.
+
+### 8 août :
+
+A 07h, la 6e compagnie occupe Pont-sur-Bar pour couvrir la concentration de la 19e division. A 10h30, le régiment reçoit l’ordre de se rendre à Mouzon pour assurer le débouché de la 19e division. Il atteint la localité à 18h, après avoir parcouru 25 km.
+
+### 9 août :
+
+A 09h, la 8e compagnie, établie à la sortie nord-est de Mouzon, est en liaison avec deux compagnies du 71e R.I., établies à Douzy.
+
+### 10 août :
+
+Le régiment se porte à Maisoncelle, le 1e bataillon cantonnant à Bulson. Le régiment reçoit l’ordre d’opérations numéro 1 : le 10e C.A. doit tenir à partir de 08h les ponts de Sedan inclus à Remilly exclu, avec à sa gauche le 3e C.A. C’est une étape très pénible à cause de la grande chaleur.
+
+### 11 - 12 août :
+
+Le régiment est au repos dans ses cantonnements.
+
+### 13 août :
+
+L’ordre général d’opérations n° 2 parvient : le 70e R.I. doit présenter sa tête au pont de Malmy (près de Chémery-sur-Bar) à 04h et se diriger vers Sapogne. A partir de 08h, un demi-bataillon doit tenir le pont de Donchery. Le stationnement a lieu à Elan et Sapogne.
+
+### 14 août :
+
+Le 1e bataillon prend les dispositions suivantes :
+
+- La 3e compagnie contrôle la route de Sedan.
+
+- La 2e compagnie est au quartier de la station et des Forges.
+
+- La 4e compagnie garde le viaduc de chemin de fer vers Villette et Ecluses.
+
+### 15 août :
+
+Le régiment garde ses positions. Une division de cavalerie allemande est signalée à Virton et une forte colonne d’infanterie est en marche sur Arlon.
+
+A 16h45, le régiment se porte vers Touligny et Hocmont par Balaives, Butz, Villers-sur-le-Mont et Guignicourt. Le 1e bataillon se porte sur Guignicourt par Dom-le-Mesnil, Flize et Boulzicourt. Le régiment cantonne à Touligny, Hocmont, Yvernaumont et Guignicourt.
+
+### 16 août :
+
+Le régiment marche vers le nord par Mondigny, Warnécourt, Fagnon, Neuville-lès-This, Clavy-Warby, Saint-Marcel, Giraumont, Hardoncelle, Bolmont, Murtin-et-Bogny, Tremblois et Sormonne.
+
+### 17 août :
+
+Le 70e R.I. marche par Tremblois, Maubert-Fontaine, Regniowez, Baileux. Le cantonnement a lieu au monastère de la Trappe et au Pot-au-Pré.
+
+### 18 août :
+
+Le régiment quitte Pot-au-Pré à 05h15. Le 10e C.A. doit parvenir avec son avant-garde à Cerfontaine - Neuville et avec son gros à Baileux, Mariembourg et Rocroi.
+
+A 06h, l’avant-garde débouche de Baileux, puis le régiment va cantonner à Cerfontaine et Monplaisir.
+
+### 19 août :
+
+La 38e brigade doit se porter sur Mettet par Senzeille, Villers-les-deux-Eglises, Philippeville, Florennes, ferme des Pavillons. Le C.A. stationne à Hanzinne, Laneffe, Philippeville, Florennes, Stave, Oret. La brigade de cavalerie doit établir la liaison avec le 1e C.A. vers Anthée - Dinant. En fin de marche, elle couvrira le front Bioul, Lesves, Fosse, le gros à Saint-Gérard.
+
+### 20 août :
+
+A 12h, l’E.M. et le 3e bataillon atteignent Fosse où ils cantonnent. A 17h20, le 2e bataillon reçoit l’ordre de partir immédiatement pour Arsimont afin de parer à une attaque possible des troupes allemandes qui s’approchent des ponts de la Sambre. Le bataillon détache la 7e compagnie vers Tamines et la 8e sur Auvelais avec une section au pont de la Pêcherie. Le front tenu s’étend sur 1000 - 1200 m, en liaison à droite avec le 41e R.I. et à gauche avec le 3e C.A.
+
+### 21 août :
+
+Le 1e bataillon se rend au château de Taravisée. A 04h30, la compagnie Guillaume signale quelques uhlans et une compagnie cycliste. Après échange de coups de fusil, la compagnie cycliste se replie à la lisière des bois au nord de Tamines.
+
+Vers 05h, la compagnie d’Auvelais est attaquée et la 5e compagnie vient en renfort. La 8e compagnie est envoyée en soutien d’artillerie au sud d’Arsimont.
+
+A 08h, le 3e bataillon est dirigé sur Arsimont qu’il atteint à 09h. Les ponts de Tamines et d’Auvelais sont menacés et l’on aperçoit des troupes allemandes venant de la direction de Jemappes descendre vers le village de La Sarte et les bois du Curé.
+
+Deux compagnies et une section de mitrailleuses sont groupées au carrefour de l’église d’Arsimont vers Tamines, une autre vers Auvelais. Entretemps, l’attaque se dessine sur Auvelais. La compagnie orientée vers Auvelais est envoyée vers ce village pour permettre aux 5e et 6e compagnies de se dégager.
+
+La 12e compagnie prend position à la cote 122 et établit des tranchées battant les issues sud d’Auvelais, mais cet endroit est dominé de toutes parts par l’artillerie allemande placée sur les hauteurs de la rive gauche de la Sambre, et par les tirailleurs et les mitrailleuses placées dans le village de la Sarte. Les 7e et 8e compagnies se trouvent toujours à Tamines.
+
+Le colonel, contournant Arsimont par le sud avec les 10e et 11e compagnies, les place à l’est du village dans le prolongement des troupes déjà en place. Il importe en effet de ne pas être débordé par la droite. En même temps, pour ne pas être débordé par la gauche, les deux compagnies reçoivent l’ordre de quitter Tamines et de former un échelon défensif près de la gare d’Arsimont - Falisolle, face au nord.
+
+Tout le monde reçoit l’ordre de se maintenir coûte que coûte sur ses positions jusqu’à la nuit. Malgré des renforts, les Allemands ne peuvent pas progresser.
+
+A 18h30, le 1e bataillon venant du château de Taravisée rallie le régiment et prolonge la droite mais, combattant à découvert, il subit des pertes sérieuses.
+
+A 19h10, le 1e bataillon se porte à la charge et tout le régiment charge à son tour mais à 20h30, le 70e R.I. reçoit l’ordre de se replier sur Fosse où il va cantonner. L’effectif du régiment est réduit à 2665 hommes, après avoir subi une perte de 684 hommes (20 % de son effectif).
+
+### 22 août :
+
+A 17h, en présence d’une offensive allemande marchant sur Aisemont, le régiment se porte sur le plateau à 2 km au nord du village et s’y retranche.
+
+- Le 2e bataillon en 1e ligne sur la route Fosse-Saint-Gérard, se reliant à droite avec le 41e R.I.
+
+- Le 3e bataillon vers la ferme de Hambois et se reliant à la 37e brigade qui occupe Vitrival.
+
+- Le 1e bataillon sur la crête à 500 m au sud de la 1e ligne.
+
+### 23 août :
+
+Suite à un ordre de la 38e brigade, le régiment se porte à 05h vers Furnaux et il y est rassemblé avec à sa droite le 41e R.I. et à sa gauche le 270e R.I.
+
+### 24 août :
+
+A 21h, le régiment reçoit l’ordre de se porter par Stave, Philippeville et Mariembourg sur Couvin où il cantonne.
+
+### 25 août :
+
+A 02h, le 70e R.I. reçoit l’ordre du général de brigade de prendre les avant-postes face au nord sur la ligne Aublain - Boussu-en-Fagne, mais, à 13h, l’ordre parvient de se tenir prêt à partir. Le régiment forme l’arrière-garde de la 19e division, se portant par Baileux, Forges, Ferme Philippe.
+
+A 18h, les Allemands attaquent Frasnes. L’artillerie commence à tirer sur le plateau où se trouve le 70e R.I. Après une marche de nuit, le régiment atteint ses cantonnements à Brognon et Le Pavillon à 04h le 26 août.
+
+### 26 août :
+
+A 06h, le régiment reçoit l’ordre de continuer la marche par Wattigny, Blissy, station d’Hirson, Buire pour arriver à La Hérie où il cantonne à 16h.
+
+### 27 août :
+
+La 19e division suit l’itinéraire La Grande Rue des Bufs, La Sablonnière, Jeantes où le régiment cantonne à 12h.
+
+### 28 août :
+
+Le 10e C.A. se porte dans la région de Voulpaix - Gercy - Rogny - Marfontaine. Le cantonnement a lieu à Voulpaix et à Laigny.
+
+### 29 août : bataille de Guise
+
+A 04h, le régiment reçoit l’ordre d’attaquer vers Saint-Quentin. Le 10e C.A. doit couvrir la Ve armée vers le nord. La 19e division est rassemblée au sud de Colonfay - Sains-Richemont. La 37e brigade tient les passages  de l’Oise entre Monceau-sur-Oise et Proisy.
+
+A 08h30, le régiment reçoit l’ordre de tenir la lisière nord de Richaumont. Le 2e bataillon est rassemblé à La Briqueterie (est de Richaumont) et reçoit l’ordre de prolonger le 1e bataillon.
+
+A 09h, les allemands débouchent de Colonfay et les tirailleurs résistent dans leurs tranchées. A 09h30, les Allemands esquissent un mouvement débordant par l’est. La ligne de feu française est renforcée. A 11h, à la droite de la ligne, les 6e et 8e compagnies sont vivement attaquées tandis que les fractions du 48e R.I. se retirent sur Saint-Richaumont. A 11h40, le 25e R.I. se replie.
+
+A 13h30, la 37e brigade cède du terrain et à 14h, quelques obus français mal ajustés éclatent près de la ligne, provoquant son repli. Vers 16h, le 1e bataillon est près de la gare, le 2e près de la briqueterie et d’autres fractions à Sains-Richaumont.
+
+### 30 août :
+
+Il reste 27 officiers et 2418 sous-officiers et hommes de troupe. Les 1e et 3e bataillons occupent les crêtes au sud de Sains-Richaumont, pour protéger la colonne du C.A. qui s’écoule vers Marle. Le 2e bataillon reste en position sous le feu allemand puis se retire vers Marle.
+
+### 31 août :
+
+La 19e division marche par Autremencourt et Pierrepont. A 20h, le régiment quitte Mâchecourt et marche de nuit via Sissonne, Saint-Erme, La Neuville où il arrive à 16h.
+
+### 1 septembre :
+
+Le 70e R.I. cantonne à Neuville, Maison-Blanche, Le Godat, Loivre et Bernécourt.
+
+### 2 septembre :
+
+La 38e brigade reçoit à 06h20 l’ordre de se rassembler sur les hauteurs de Saint-Thierry où elle doit agir avec le groupement Foch qui opère au nord de Reims. Le régiment suit l’itinéraire Cauroy, Hermonville et se rassemble derrière la crête de Saint-Thierry, tenant la ligne Marzilly - Villers-Franqueux.
+
+### 3 septembre :
+
+La Ve armée se retire derrière la Marne et l’arrière-garde du 10e C.A. se porte à Nanteuil-la-Fosse par Châlons-sur-Vesle, Gueux, Méry, Bligny, Marfait (11h). A 13h, le régiment reçoit l’ordre de s’établir à Marfaut - Pouilly. A 18h30, une colonne d’infanterie allemande qui marche sur le village est accueillie par un feu rapide qui la fait reculer en désordre.
+
+Vers 19h, le 1e bataillon reçoit l’ordre de se replier sur Nanteuil pour rejoindre le reste du régiment. Vers 20h30, le 2e bataillon et deux compagnies du 3e bataillon se portent sur Epernay.
+
+### 4 septembre :
+
+A 02h, le régiment est à Dizy-Magenta et repart un quart d’heure plus tard pour suivre l’itinéraire Epernay, Chaltrait, Etoges et il cantonne dans la nuit du 4 au 5 à Congy et Férébrianges. Il reçoit 400 hommes de renfort, ce qui porte son effectif à 2818 hommes.
+
+### 5 septembre :
+
+La division se porte par Courjeonnet, Joches, Broussy-le-Petit, Allemant, Saint-Remy, Chichey. A 09h40, le régiment reçoit l’ordre de se porter sur Sézanne. En fin de journée, il cantonne à Murs.
+
+### 6 septembre : début de l’offensive
+
+En prévision de la reprise de l’offensive, le gros de la division se rassemble au sud de Murs, face à Les Essarts. La 37e brigade est maintenue à la disposition du général du 10e C.A. au sud de Murs. Le 70e R.I. franchit la ligne des Essarts et prend comme direction d’attaque la lisière ouest des Essarts, La Godine, la lisière ouest de Clos-le-Roi, Le Recoude, direction générale Boutavent et corne nord-est de la forêt de Beaumont.
+
+Le régiment débouche de Clos-le-Roi à 10h30 mais doit s’arrêter car il est en flèche par rapport au 1e C.A. Le 70e R.I. occupe fortement Le Recoude, le château de Désiré et Jouy. Le gros est rassemblé au N.O. de Clos-le-Roi. Le 2e bataillon, atteint vers 12h les premières maisons de Jouy
+
+A 13h30, l’artillerie allemande tire sur Le Recoude et un peu plus tard, les Allemands attaquent en direction de Château Désiré et Clos-le-Roi.
+
+Vers 14h, une batterie allemande ouvre le feu et prend en enfilade les défenseurs. Une section de mitrailleuses se rapproche et ouvre le feu à son tour. Vers 14h30, les troupes françaises doivent se replier à 500 m  au sud de Le Recoude.
+
+A 15h, les attaques allemandes se dessinent vers Jouy et les Allemands s’infiltrent en direction de la localité. Le régiment bivouaque sur le plateau à mi-chemin entre le Clos-le-Roi et Les Essarts.
+
+### 7 septembre :
+
+Le colonel Laroque est blessé et le commandant Blanchard le remplace. La 19e division poursuit son offensive dans la direction de Vauhchamps. Le 70e R.I. n’est pas engagé et bivouaque au Clos-le-Roi.
+
+### 8 septembre :
+
+Le 10e C.A. continue sa poursuite vers Boissy-le-repos, Fromentières. Le régiment n’est pas engagé et bivouaque au nord de Le Recoude.
+
+### 9 septembre :
+
+La division parvient à Boissy-le-Repos à 9h. A 11h30, le régiment reçoit l’ordre de se porter en échelon en arrière et à droite du 41e R.I. qui occupe La Mortière et la lisière sud-est du bois du Thoult.
+
+A 18h, parvient l’ordre de marche sur Bannay et Baye via La Mortière, Petites-Censes, puis, suite à un changement de direction, vers Montmort par Les Déserts et Le Mesnil.
+
+### 10 septembre :
+
+La 38e brigade a pour mission d’interdire les débouchés de Montmort. A 14h, la 19e division doit couvrir la gauche du 10e C.A., qui suit la route Champaubert - Bergères et se porte vers Beaunay. Le but est d’ interdire la direction de Givry - Chaltrait et les débouchés du bois de Rilan. Le régiment, prenant par le nord d’Etoges et de Beaunay, se porte à Loisy-en-Brie.
+
+### 11 septembre :
+
+La brigade se rassemble face au nord, entre Beaunay et la route de Loisy-en-Brie - Chaltrait. Le 10e C.A. a pour mission de lier la Ve armée à la IXe (Foch). La 19e division débouche par le carrefour, 3 km au nord d’Etoges et prend comme axe de marche La Charmoye, La Grande Folie, la grand’ route d’Ablois, Saint-Martin, Vauciennes et Damery.
+
+Le 70e  R.I. atteint cette dernière localité à 14h20. Il se porte à Boursault et cantonne à Ablois.
+
+### 12 septembre :
+
+Le 70e R.I. part d’Ablois-Saint-Martin à 07h15 et passe la Marne à Damery à 10h. Il cantonne à Nogent et Sermiers.
+
+A 18h15 parvient l’ordre d’aller occuper un nouveau cantonnement à Trois-Puits et Champfleury. Le colonel Delmas du 41e R.A. prend le commandement du régiment.
+
+### 13 septembre :
+
+Le 10e C.A. continue son offensive vers le nord-est. La 19e division se dirige vers Damery, Cormoyeux, Nanteuil-la-Forêt et Sermiers. Le 70e R.I. cantonne à Cormontreuil.
+
+### 14 septembre :
+
+Le régiment quitte Cormontreuil à 03h45. Le commandant Blanchard reprend le commandement du régiment, qui cantonne dans la nuit du 14 au 15 dans les établissements de champagne Werlé. Le régiment repart ensuite et arrive au Thillois à 05h50.
+
+### 15 septembre :
+
+A 15h, la brigade se porte sur Hermonville par Muizon et Trigny. A 19h, le régiment reçoit l’ordre de se rassembler au sud du château de Marzilly et, à 22h, il s’installe en cantonnement d’alerte au château de Bazilly.
+
+### 16 septembre :
+
+A 04h, le régiment est rassemblé au sud d’Hermonville et se porte à  06h sur Beaurieux par Guyencourt, Roucy, Maizy. A 22h, la brigade se dirige sur le château de Blanc Sablon pour exécuter une attaque de nuit sur Craonne et Corbény.
+
+### 17 septembre :
+
+A 02h30, le régiment s’écarte de l’itinéraire prévu et perd la liaison avec le 41e R.I. Il parvient à rejoindre Blanc Sablon à 04h30. L’attaque du 41e R.I. a échoué. A 13h, le régiment se retranche face à Craonne (bois de Beaumarais, La Tuilerie) et passe la nuit sous un feu violent d’artillerie.
+
+### 18 septembre :
+
+La 38e brigade est mise à disposition du 1e C.A. A 10h, le 1e bataillon relève le 1e bataillon du 249e R.I. au nord-est de Pontavert (La Ville-aux-Dames, Guignicourt, La Pêcherie).
+Le régiment aménage des tranchées et le front se stabilise.

@@ -120,6 +120,29 @@ This will:
 
 The external links to preserve are configured in `assets/link_map.yaml`, making it easy to add or modify special URLs without changing the code.
 
+### 6. Converting HTML to Markdown
+
+After relinking, convert all HTML files to Markdown:
+
+```bash
+source venv_local/bin/activate
+python3 src/convert_to_markdown.py
+```
+
+This will:
+
+1. Read all HTML files from `assets/html/`
+2. Extract content from the `<div id="main">` section
+3. Convert HTML elements to Markdown:
+   - Headings `<h1>`-`<h6>` → `#`-`######`
+   - Paragraphs → plain text
+   - Bullet paragraphs (with `spip_puce` images) → `- item`
+   - Image blocks (`spip_documents`) → `![alt](src)` with captions
+   - Links: `.htm` extensions → `.md`
+   - Tables → Markdown table format
+   - Horizontal rules `<hr/>` → `---`
+4. Save Markdown files to `assets/md/`
+
 ## Development
 
 ### Running Tests

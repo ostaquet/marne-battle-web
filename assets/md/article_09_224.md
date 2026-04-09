@@ -1,0 +1,220 @@
+# Parcours du 119e R.I. (Lisieux, Courbevoie)
+
+En 1914, le régiment fait partie de la 12e brigade (général Lavisse), 6e division (général Pétain) et 3e C.A. (général Sauret). Il est commandé par le colonel Boulangé.
+
+Son effectif se monte à 54 officiers, 3321 sous-officiers, caporaux et soldats.
+
+![(JPG)](../img/119RI_37.jpg)
+_Lisieux : caserne Delaunay_
+_Collection privée_
+
+![(JPG)](../img/119RI_71.jpg)
+_Courbevoie : la caserne_
+_Collection privée_
+
+### 5 août :
+
+Le régiment s’embarque en soirée à la gare des Batignolles.
+
+### 6 août :
+
+Le débarquement a lieu aux gares d’Amagne - Lucquy - Rethel.
+
+### 7 août :
+
+Le régiment cantonne à Baalons, Bouvellemont et Jonval.
+
+### 8 - 9 août :
+
+Le régiment va garder les passages de la Meuse du château de Bellevue (Sedan) à Nouvion. Le 2e bataillon est à Hannogne-Saint-Martin et le 3e bataillon à Sapogne.
+
+### 10 - 12 août :
+
+Les cantonnements sont modifiés : Sapogne, Hannogne-Saint-Martin, Villers-sur-Bar. Le 1e bataillon occupe les mêmes emplacements que la veille : château de Bellevue, Pont-à-Bar, Donchery, Dom-le-Mesnil.
+
+### 13 août :
+
+Le 3e C.A. fait mouvement pour se diriger vers Mézières et Renwez. La 6e division marche en deux colonnes. Les 1e et 3e bataillons du 119e R.I. sont relevés par le 10e C.A. Le régiment cantonne à Jandun, Barbaise et Raillicourt.
+
+### 14 août :
+
+Mêmes cantonnements.
+
+### 15 août :
+
+Le 3e C.A. fait mouvement vers le nord-ouest pour se porter sur la Sormonne. Le 119e R.I. passe par La Fosse-à-l’Eau, Thin-le-Moutier, Neufmaison, Remilly-les-Pothées et cantonne à Remilly, Ham-les-Moines et Sormonne.
+
+### 16 août :
+
+Le 3e C.A. se porte sur le front Signy-le-Petit, Les Rièzes. La 6e division suit la route Aubigny-les-Pothées, Lagny, Bony, Champlin.. Le soir, le 119e R.I. occupe les cantonnements d’Antheny, Champlin et Estrebay.
+
+### 17 août :
+
+Le 3e C.A ; continue de marcher vers le nord, la 6e division par Bossus-lès-Rumigny, Watigny, Macquenoise, Beauwelz, Momignies où le régiment cantonne.
+
+### 18 août :
+
+Le 3e C.A. poursuit sa marche vers le nord pour porter ses avant-gardes sur la ligne Beaumont (6e division) - Barbançon (5e division) - Boussu-lès-Walcourt (38e division). La 6e division suit l’itinéraire Baives, Moustier-en-Fagne, Eppe-Sauvage, Sautin, route de Beaumont. Le cantonnement a lieu à Sautin et Sivry.
+
+### 19 août :
+
+Le 3e C.A. poursuit son mouvement vers le nord. La 6e division suit l’itinéraire Barbançon, Clermont, Thuillies, Cour-sur-Heure, Nalinnes. En fin de journée, les avant-postes occupent Try d’Haies, Sainte-Barbe et Jamioulx.
+
+### 20 août :
+
+Les éléments avancés du C.A. bordent la rive droite de la Sambre, de Pont-de-Loup à Marchienne-au-Pont. Le 119e R.I. tient le passage de Marchienne-au-Pont jusqu’au pont du chemin de fer à l’ouest de Charleroi (19e et 11e compagnies).
+
+A 13h45, ordre est reçu d’appuyer le bataillon qui occupe les ponts de la Sambre. Le 1e bataillon quitte Les Haies pour se placer en arrière du détachement de Marchienne-au-Pont.
+
+### 21 août :
+
+Le 3e C.A. reste dans la même situation. Vers 06h45, une patrouille d’une trentaine de hussards se présente devant la barricade Rue du Pont-Neuf à Charleroi, occupée par une demi-section et une compagnie de mitrailleuses. La patrouille est accueillie par un feu nourri.
+
+### 22 août :
+
+D’après l’ordre général n° 20, le 3e C.A. doit s’opposer au débouché des Allemands soit par Châtelet, soit par la route de Charleroi - Philippeville. Le 119e R.I., avant-garde de la 12e brigade, doit tenir les ponts de la Sambre. Il ne doit pas résister dans le fond de la vallée à des colonnes de toutes armes, mais simplement arrêter d’éventuelles incursions de cavalerie.
+
+Le 3e bataillon occupe les abords de Charleroi, Place de l’Exposition (9e et 10e compagnies), les ponts de la Sambre et le canal de dérivation.
+
+Le 1e bataillon tient les abords de la gare, la passerelle sur la Sambre et les ponts de Marchienne. Ce bataillon assure la liaison vers la gauche avec le 10e C.A.  par un poste d’une demi-section vers Montignies-le-Tilleul.
+
+- La 1e compagnie occupe la gare de Marchienne.
+  La 2e compagnie est en réserve à 200 m à l’est de l’église de Marchienne-au-Pont.
+
+A 06h, les détachements du 3e bataillon établis sur les ponts de la Sambre reçoivent le premier choc : l’artillerie allemande tire sur les barricades et oblige les occupants à les abandonner et à se replier du côté de la gare de Marcinelle.
+
+Du côté du 1e bataillon, la progression allemande se fait par les rues. Elle peut être arrêtée aux ponts de la Sambre et du côté de la gare de Marchienne jusque vers 11h. Le repli doit se faire pour le 3e bataillon vers Mont-sur-Marchienne et pour le 1e bataillon vers Montignies-le-Tilleul.
+
+Le 1e bataillon suit le ravin, le 3e s’établit sur la croupe au sud de Mont-sur-Marchienne, à droite de la compagnie du 5e R.I. qui tient la route Mont-sur-Marchienne - Beaumont. Les Allemands jettent leurs forces contre le 1e bataillon vers Montignies-le-Tilleul.
+
+Le 2e bataillon est maintenu au sud de la cote 178 (route Charleroi - Beaumont) reçoit l’ordre, à 14h, de se porter sur Chamborgneau et Bouffioulx et d’attaquer, avec le soutien des 239e et 5e R.I.
+
+18h : le 2e bataillon arrive au village de Lansprelle. Le bataillon se porte vers Chamborgneau et Bouffioulx mais y est accueilli par un feu violent. Surprise, la 7e compagnie gagne une ferme et s’y établit mais le repli devient nécessaire : il s’exécute sous la protection de la 7e compagnie qui évacue la ferme à son tour.
+
+A 18h30, l’artillerie allemande canonne vers Montignies-le-Tilleul et sur la route de Beaumont. Le combat cesse à 19h30 sur toute la ligne et le régiment reste sur ses positions.
+
+A 20h30, un ordre de la 12e brigade prescrit au régiment de se porter sur une position de repli vers Nalinnes et Claquedent. Les 1e et 3e bataillons y parviennent à 23h45.
+
+La journée a coûté au régiment 27 tués et 99 blessés.
+
+### 23 août :
+
+Le 119e R.I. part vers 0h30 et gagne ses cantonnements par Fontenelle. Vers 08h, il reçoit l’ordre de combler le vide qui le sépare du 18e C.A. et d’occuper Fontenelle.
+
+Vers 11h, les premiers tirailleurs allemands se montrent et la compagnie de Fontenelle ouvre le feu. L’artillerie allemande entre alors en action et canonne le bois de Baconval et les tranchées occupées par le 2e bataillon. La progression allemande s’accentue vers Fontenelle.
+
+Vers 13h30, les allemands débouchent de Nalinnes. Les compagnies de première ligne des 2e et 3e bataillons ouvrent un feu intense.
+
+Vers 15h30, de nouvelles batteries allemandes ouvrent le feu vers le bois de Baconval et la ligne allemande devient menaçante vers 17h. Le mouvement de repli est ordonné et le 119e R.I. arrive à 23h à Walcourt, lieu de stationnement.
+
+Le 22 août, le régiment a perdu 19 tués, 166 blessés et 255 disparus.
+
+### 24 août :
+
+L’ordre de mouvement pour la journée prescrit de se porter en direction du sud sur Four à Verre, en passant par Silenrieux. A 17h, ordre est donné de se replier jusqu’à la route de Beaumont - Boussu-lès-Walcourt où la colonne se reconstitue pour se reporter en arrière en suivant l’itinéraire Erpion, Four à Verre, Fourbechies, Rance.
+
+### 25 août :
+
+Après un bref arrêt à Rance, la marche est reprise et la colonne arrive au bois de Chimay. Le 119e R.I. stationne à Monceau - Imbrechies.
+
+### 26 août :
+
+A 01h, le cantonnement est quitté et le régiment arrive vers le milieu de la nuit vers Anor. L’armée se porte dans la région de Clairfontaine - La Capelle. La 12e brigade se porte à l’ouest de Franc-Bois vers Montplaisir avec pour mission de s’établir sur le front Les Maillets - La Rue Neuve qu’elle doit organiser défensivement vers l’est. La partie du front attribuée au 119e R.I. s’étend de la cote 242 à La Rue Neuve.
+
+Vers 16h, le régiment est relevé par le 5e R.I. et va bivouaquer à Cour des Bois (Bray).
+
+### 27 août :
+
+Le 3e C.A. poursuit son mouvement vers le sud et porte ses arrière-gardes sur la ligne Etreaupont - La Cloperie - bois de Laigny - Laigny. Le 119e R.I. fait partie de la colonne qui doit suivre l’itinéraire Wimy, Effry, Entre-deux-Bois, Foigny. La 6e division traverse l’Oise, le 119e R.I. passant par le pont d’Effry.
+
+A 11h30, le régiment traverse le Thon au pont de Foigny et protège le passage par une série de tranchées. Vers 22h40, les ponts du Thon sont détruits.
+
+### 28 août :
+
+A 04h, ordre est donné de se mettre en marche sur la Verte Vallée d’où le 119e R.I. gagne Vervins. La colonne suit l’itinéraire Vervins, Gercy, Lugny, Thiernu, nord de Marle, route de Guise. Le soir, le régiment cantonne à Faucouzy, Sons et Châtillon-lès-Sons.
+
+### 29 août : bataille de Guise
+
+La mission du 3e C.A. est de passer l’Oise au pont d’Origny et au gué de Benoît pour progresser à droite du 18e C.A. de manière à le flanquer contre toute attaque venant du nord par la rive droite de l’Oise. La 6e division doit être rassemblée dans la dépression à l’est du chemin Courjumelle - ferme de Viermont. Le 119e R.I. est à l’ouest de la ferme de Saint-Remy.
+
+A 7h parvient l’ordre d’envoyer le 3e bataillon en soutien d’artillerie dans la direction de Jonqueuse, les 1e et 2e bataillons restant en réserve de division.
+
+A 11h, le régiment doit se porter sur Origny mais sans s’engager. A 12h, un mouvement allemand se dessine du côté de Jonqueuse et le 2e bataillon doit se diriger sur cet objectif. A partir de la cote 149, le 2e bataillon est accueilli par un feu nourri. Il se maintient sur place et y répond. Une attaque allemande est déclenchée. La ligne française fléchit et se reporte petit à petit en arrière non sans éprouver de fortes pertes. Le 1e bataillon reçoit l’ordre d’attaquer Jonqueuse par le sud-ouest, soutenu par le 123e R.I.
+
+La bataille de Guise a coûté au régiment 18 tués et 129 blessés.
+
+### 30 août :
+
+Les différents éléments du régiment stationnent à Courjumelles et à Pleine-Selve. Dans la matinée, ils doivent s’établir sur la ligne ferme de Viermont - signal d’Origny en vue d’une offensive générale vers le nord. Formés en deux lignes, les bataillons progressent mais sont arrêtés à la crête du signal d’Origny et vers la cote 119 par un feu violent.
+
+Vers 11h, parvient l’ordre de ne pas dépasser le ravin 73 - 75. Les bataillons exécutent alors un mouvement de repli vers Courjumelles puis sur la ferme de Torcy. Le régiment arrive à Chevrésis - Monceau à la nuit tombante après avoir perdu 23 tués et 151 blessés.
+
+### 31 août :
+
+A la suite des combats du 29 et 30, l’armée doit se reporter en arrière de la Serre. Le mouvement du 3e C.A. s’effectuera vers Montceau-le-Vieil, Montigny-sur-Crécy, Assis-sur-Serre. Le 119e R.I. suit l’itinéraire Chevrésis, Monceau, Montigny-sur-Crécy, Crécy-sur-Serre, Chézy-lès-Pouilly, Barenton, Cel. La colonne continue jusqu’à l’entrée de Laon où le régiment s’arrête et s’établit en avant-postes.
+
+### 1 septembre :
+
+Le mouvement reprend vers le sud via Chévy-lès-Etouvelles, Etouvelles, Nouvion-le-Vineux, Lierval, Trucy, Crandelain, Braye-en-Laonnois, Moussy-sur-Aisne, Soupir, pont d’Arcy, Vieil-Arcy, point de stationnement.
+
+### 2 septembre :
+
+Le régiment suit l’itinéraire Longueval, Blanzy, Fismes, Saint-Gilles, Courville, Arcis-le-Ponsart, lieu de stationnement.
+
+### 3 septembre :
+
+La 119e R.I. marche par Vézilly, Villers-Agron, Passy-Grigny, Verneuil. Le passage de la Marne a lieu au pont de Verneuil.
+
+### 4 septembre :
+
+Le régiment marche par Igny-le-Jard, Le Bordet, Le Breuil, La Ville-sous-Orbais, Margny. A 08h55, le régiment reçoit l’ordre de prendre une formation de rassemblement articulé dans la région de Margny, de manière à pouvoir agir vers le nord-ouest et le nord, et venir en aide à la 37e division. Le régiment stationne ensuite à Vauchamps.
+
+### 5 septembre :
+
+Le repli continue pour porter les troupes au-delà du Grand Morin par Boissy, Loigny, Gault-la-Forêt, Morsains, Champguyon, Esternay. Le 119e constitue l’arrière-garde et reçoit l’ordre de repousser une attaque allemande. Les 5e, 7e et 8e compagnies sont engagées.
+
+### 6 septembre : début de l’offensive
+
+L’armée reprend l’offensive. L’attaque du 3e C.A. vise Courgivaux, Tréfols, Marchais. La 6e division attaque Villers-Saint-Genest dès 06h A 11h, le régiment s’établit au sud-ouest de Brasseaux et un bataillon est dirigé vers Courgivaux pour coopérer à l’attaque du village.
+
+### 7 septembre :
+
+A 04h30, le régiment est rassemblé dans le ravin de Turenne, à l’ouest du chemin de Saint-Genest. Il reste à son emplacement jusqu’à 13h45 puis reçoit l’ordre de faire mouvement vers Monceau-lès-Provins, Maisoncelle et saint-Martin-du-Boschet. Il cantonne à Villeneuve-la-Lionne.
+
+### 8 septembre :
+
+Le régiment part à 05h30 et arrive à La Fosse à 06h30. Il doit escorter l’artillerie. La marche se poursuit jusqu’au nord de Tréfols, puis vers Montenils par Cahmp Gillard et Villeperdue où il arrive à 18h30. Il va cantonner à Beigneaux et Villeperdue.
+
+### 9 septembre :
+
+A 0h45, le régiment vient se placer à l’est de Le Moncet. La poursuite s’effectue par La Chaussée, Montmirail, ferme Landais, ferme Lecomte, La Tuilerie.
+
+### 10 septembre :
+
+Le régiment forme l’avant-garde du 3e C.A. Il doit marcher par Montmarçon, Montigny, Condé-en-Brie, Saint-Agnan, puis par Crézancy, Moulins et Varennes. Le passage de la Marne a lieu à Jauglonne, également lieu de cantonnement.
+
+### 11 septembre :
+
+Le 119e R.I. est en tête du gros de la 6e division et suit la route Le Charmel, Ronchères, Goussancourt. Le cantonnement a lieu à Brouillet.
+
+### 12 septembre :
+
+L’armée continue son offensive vers le nord-est et le 119e R.I. suit l’itinéraire Brouillet, Faverolles, Treslon, Rosnay, passe la Vesle et pousse sur Trigny où il cantonne.
+
+### 13 septembre :
+
+L’offensive se poursuit vers Château-Porcien. Le 3e C.A. doit se porter sur Brienne, Bertricourt. La 6e division forme la colonne de gauche et passe par Châlons-sur-Vesle, Chenay, Merfy, Villers-Franqueux, Orainville, Brienne-sur-Aisne.
+
+Un ordre de la 6e division prescrit de faire passer un bataillon de la 12e brigade par le pont de Godat et de la porter vers la ferme de Sainte-Marie. Ce bataillon enverra des reconnaissances sur la Suippe vers Merlet et Aguilcourt. La 1e bataillon se met en marche à 13h et passe le pont de Godat à 14h. Une compagnie d’avant-garde se dirige vers la ferme de Saint-Marie mais y est accueillie par un feu violent et subit de grosses pertes. Elle réussit finalement à s’emparer de la ferme.
+
+A 19h, une violente contre-attaque a lieu contre le 5e R.I. qui est refoulé et tourné sur sa droite. Pour ne pas se laisser couper, la 119e R.I. regagne Godat et y reste jusqu’à 22h puis rejoint le cantonnement d’Hermonville. La journée a coûté au régiment 17 tués et 130 blessés.
+
+### 14 septembre :
+
+Les attaques doivent reprendre au jour. La 12e brigade doit reprendre la ferme de Saint-Marie. Le 3e bataillon et le 5e R.I. participent à l’attaque de la ferme mais sont aux prises avec des forces supérieures et doivent finalement repasser le canal vers 16h.
+
+L’attaque a coûté 22 tués et 114 blessés. A 18h, les Allemands tentent une offensive qui est stoppée à 19h.
+
+### 15 septembre :
+
+La 75e brigade repasse à l’attaque de la ferme de Sainte-Marie mais échoue. Le 119e R.I. reçoit l’ordre de se retrancher sur ses positions et de tenir la route Reims - Laon. Les jours suivants ne voient aucune modification des positions, c’est le début de la guerre de tranchées.

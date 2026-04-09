@@ -8,6 +8,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
+- Python script `convert_to_markdown.py` to convert HTML files to Markdown
+- Function `convert_href()` to convert `.htm` links to `.md` links
+- Function `has_bullet_marker()` to detect spip_puce bullet paragraphs
+- Function `extract_inline_text()` to convert inline HTML to Markdown
+- Function `convert_heading()` to convert `<h1>`-`<h6>` to Markdown headings
+- Function `convert_paragraph()` to convert paragraphs and bullet points
+- Function `convert_image_block()` to convert SPIP image blocks with captions
+- Function `convert_table()` to convert HTML tables to Markdown tables
+- Function `convert_html_to_markdown()` to orchestrate full HTML conversion
+- Function `convert_html_file()` to convert a single HTML file
+- Function `convert_all_html_files()` to process all files in a directory
+- Comprehensive unit tests for all conversion functions
+- Documentation in README.md for running the conversion script
+
+### Task
+
+- Completed task `0015-convert-to-markdown.md`: Convert HTML files in `assets/html` to Markdown in `assets/md`
+
+### Added
+
 - Python script `extract_working_versions.py` to extract working versions from Internet Archive
 - Function `query_cdx_snapshots()` to query CDX API for snapshots within date range
 - Function `is_page_functional()` to detect pages with MySQL errors

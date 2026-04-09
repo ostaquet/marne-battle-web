@@ -1,0 +1,288 @@
+# Le 7 septembre 1914
+
+Les Allemands continuent d’attaquer les IIIe, IVe et Ve armées françaises tandis que se poursuit à l’aile gauche l’offensive des alliés.
+La IVe armée FR contient victorieusement la IVe armée allemande.
+En Argonne et Meuse, la IIIe armée FR est toujours engagée contre la Ve armée. En fin de journée, Sarrail estime la situation excellente mais les détachements allemands qui apparaissent en Woëvre peuvent devenir un danger pour les arrières de son armée.
+La IXe armée FR est fortement attaquée par la IIe armée allemande et une partie de la IIIe dans la région des marais de Saint-Gond. Soutenue par la Ve armée FR, elle réussit à conserver ses positions.
+Les armées françaises d’aile gauche poursuivent leur attaque. La Ve armée poursuit sa progression en direction de Montmirail et dans la vallée moyenne du Grand Morin.
+L’armée anglaise franchit le Grand Morin en aval de Coulommiers et progresse entre Grand et Petit Morin.
+La Ie armée allemande, qui risque d’être prise en tenaille entre l’armée anglaise et la VIe armée française, se dérobe, couverte par un rideau de cavalerie.
+
+### G.Q.G. français
+
+![Situation au 7 septembre - 20.9 ko](../img/bataille__marne__7__sept.jpg)
+_Situation au 7 septembre_
+_Les armées françaises dans la grande guerre_
+
+Joffre prend la VIe armée sous son contrôle direct. Il adresse désormais ses ordres à Maunoury. Le G.Q.G. est à Châtillon-sur-Seine. Joffre lance l’ordre général d’opérations n° 7 à 15h45.
+
+« 1. La Ie armée allemande semble se replier vers le nord-est, devant les efforts combinés des armés alliées de gauche.
+« Celles-ci doivent suivre l’ennemi avec l’ensemble de leurs forces, de manière à conserver toujours la possibilité d’enveloppement de l’aile droite allemande.
+« 2. La marche s’exécutera donc d’une manière générale dans la direction du nord-est, dans un dispositif qui permette d’engager la bataille si l’ennemi marque un temps d’arrêt et sans lui laisser le temps de s’organiser solidement.
+« 3. A cet effet, la VIe armée gagnera successivement du terrain vers le nord, sur la rive droite de l’Ourcq.
+« Les forces britanniques chercheront à prendre pied successivement au-delà du Petit Morin, du Grand Morin et de la Marne.
+« 4. La Ve armée accentuera le mouvement de son aile gauche et emploiera ses forces de droite à soutenir la IXe armée.
+« 5. La IXe armée s’efforcera de tenir sur le front qu’elle occupe, jusqu’au moment où l’arrivée des forces réservées de la IVe armée, sur sa droite, lui permettra de participer au mouvement en avant.
+
+### IIe armée française
+
+L’armée perd les villages de Cercueil, de Velaine et de Buissoncourt. Le Grand Couronné est débordé par le nord et par le sud
+Champenoux est perdu. Les batteries françaises d’Amance et de La Rochette sont écrasées par l’artillerie lourde et réduites à l’impuissance. Le défilé de l’Amézule (entre le plateau de Faulx et de Malzeville) est aux mains des Allemands ainsi que la forêt de Champenoux. La route directe de Nancy est ouverte.
+
+Les forces allemandes qui opèrent sur la rive gauche de la Moselle refoulent les faibles éléments qui défendent le fleuve et s’avancent vers Dieulouard. Les défenseurs de Loisy et de la crête de Sainte Geneviève sont pris à revers. Le commandant qui défend Sainte-Geneviève refuse d’évacuer malgré les prescriptions du commandement et le fera finalement sur ordre écrit impératif.
+Le nouveau commandant de la 73e div. rés. reprend l’offensive et réoccupe Dieulouard. Les Allemands ne se rendent pas compte que la crête de Sainte-Geneviève a été abandonnée, ce qui permet aux Français de la réoccuper.
+
+Castelnau, pour échapper au désastre, envisage une retraite vers la place forte de Toul, mais ce recul mettrait la Ie armée dans une situation critique. Dubail insiste pour que l’on tienne devant Nancy.
+Pour faire face à la menace directe sur Nancy, Castelnau constitue une masse de manoeuvre sous les ordres du général Ferry, dans la région de Lénoncourt : 8 bataillons et demi y sont amenés.
+
+### IIIe armée française
+
+![IIIe armée française - Ve armée allemande - 61.4 ko](../img/marne_revigny_7_septembre2.jpg)
+_IIIe armée française - Ve armée allemande_
+_C Michelin, d’après guide édition 1918 - Autorisation n° 06-B-05_
+
+En même temps qu’ils refoulent la IVe armée dans la partie ouest de la Trouée de Revigny, les Allemands s’efforcent de rejeter la IIIe à l’est, vers Bar-le-Duc, mais Sarrail riposte par la mise en ligne, au point dangereux, du 15e C.A., enlevé par Joffre à la IIe armée.
+
+Le matin, l’armée est échelonnée entre Mussey-sur-Ornain et Souilly, face au nord-ouest. Elle est attaquée par des forces de beaucoup supérieures. Le G.Q.G., mal renseigné, ne cesse de réclamer l’intervention de l’armée de Sarrail pour dégager sa voisine de gauche. Il demande le glissement de la IIIe armée vers l’ouest, quitte à abandonner Verdun à ses seules ressources. Au contraire, Sarrail prescrit de mieux se relier à la défense mobile de Verdun. Il compte sur l’arrivée prochaine du 15e C.A. pour mieux assurer la liaison entre la IIIe et IVe armée.
+
+![Troupes françaises en Argonne - 40.8 ko](../img/bataille_marne_argonne.jpg)
+_Troupes françaises en Argonne_
+_Collection privée_
+
+- Le 5e C.A. français, sous un violent bombardement et devant une attaque furieuse de deux C.A. allemands, perd une partie du plateau de Vassincourt, d’où les Allemands menacent la route de Bar-le-Duc. La situation est grave. Si les Allemands s’engagent dans cette brèche, Sarrail sera séparé de Langle de Cary et rejeté dans Verdun.
+
+- Au 6e C.A. le général Estève reçoit l’ordre d’occuper une position au nord du tortillard (chemin de fer de Bar-le-Duc à Verdun). Il y creuse des tranchées afin d’arrêter une attaque allemande. Dès 5h commence un bombardement régulier d’artillerie lourde.
+Les Allemands déclenchent à 14h une attaque d’infanterie contre le 304e (6e C.A.). L’artillerie française réussit à arrêter cette attaque mais les pertes de la 107e brigade sont lourdes.
+
+- Le 15e C.A. arrive en renfort dans la zone de la IIIe armée. Elle s’établit, face à l’ouest, de Combles à Fains. Sa mission consiste à couvrir la gauche de la IIIe armée tout en cherchant à établir la liaison avec la IVe armée. (point faible du dispositif)
+
+- Groupement des divisions de réserve : La 65e division a l’ordre d’attaquer vers l’ouest dans la direction Beauzée - Bulainville. Sa gauche arrive jusqu’aux environs immédiats de Beauzée. Sa droite se porte sur les crêtes de la colline de Deuxnouds. Le soir, la division doit reculer vers Rignaucourt, Mondrecourt.
+La 75e division recommence l’attaque de Saint-André et d’Ippécourt, finalement abandonné par les Allemands.
+
+### IVe armée française
+
+![IVe armée française - IIIe et IVe armées allemandes - 58 ko](../img/marne_revigny_7_septembre.jpg)
+_IVe armée française - IIIe et IVe armées allemandes_
+_C Michelin, d’après guide édition 1918 - Autorisation n° 06-B-05_
+
+La IVe armée occupe par sa droite la vallée où coulent l’Ornain, la Saulx et le canal de la Marne au Rhin, c’est - à dire la partie ouest de la Trouée de Revigny. Les attaques allemandes redoublent de violence sur cet objectif important. Leurs efforts se portent surtout sur Sermaize et Pargny. Ils veulent percer dans la direction de Saint-Dizier et de la Marne, afin de tourner la droite de l’armée.
+
+De nouvelles forces allemandes entrent en ligne : le 18e C.A.R. s’engage à gauche du 18e C.A.allemand et attaque de Sermaize à Contrisson la droite du 2e C.A. français. Le 12e C.A. allemand entre en action vers Sompuis. Au centre, les 8e C.A. et 8e C.A.R. allemands sont contre-attaqués par les coloniaux, qui gagnent du terrain vers Vauclerc et Reims-la-Brûlée, à l’est de Vitry-le-François.
+
+- 17e C.A. : Les Allemands ont accumulé autour de Sompuis de grandes forces d’infanterie. Pour parer aux attaques, le C.A. est resserré vers le nord et le nord-est. Toute la journée, les lignes françaises sont soumises à un violent bombardement. La bataille est acharnée sur les crêtes d’Humbauville et à l’est de Sompuis. Vers 17h, les efforts allemands décroissent et le 17e C.A. gagne un peu de terrain.
+
+- 12e C.A. : Dès 6h du matin, Huiron est attaqué par l’infanterie allemande qui descend en force de Balcy mais le village résiste toute la journée et ne sera abandonné que le soir.
+Les positions de Courdemanges et du mont Moret sont soumises à un bombardement incessant.
+
+- Corps colonial : le front du corps colonial est sous le feu des batteries allemandes de Vitry-le-François mais l’artillerie française arrose le village de Frignicourt.
+La brigade Lejaille prend l’offensive à 10h vers Vauclerc et Reims-la-Brûlée. Les coloniaux reprennent Ecriennes.
+
+- 2e C.A. : la gauche de la 3e division parvient à garder Domprémy et à empêcher les forces allemandes d’atteindre la ligne de chemin de fer. LA droite perd le pont d’Etrepy et les Allemands s’emparent de ce village, mais ne parviennent pas à en déboucher.
+A l’aile droite, la 4e division doit abandonner Sermaize en flammes.
+
+La charnière entre la IIIe et la IVe armée semble craquer. Langle fait appel à Sarrail qui lui prête l’appui du 15e C.A., débarqué dans la région de Revigny.
+
+![Combat de Sompuis - 34.2 ko](../img/combat_sompuis.jpg)
+_Combat de Sompuis_
+_Collection privée_
+
+De Langle de Cary assigne pour mission au 21e C.A. de prolonger et renforcer sa gauche.
+
+### Ve armée française : sur le Grand-Morin
+
+![Armée anglaise - Ve armée française - IIe armée allemande - 42.6 ko](../img/Marne_centre_7_septembre.jpg)
+_Armée anglaise - Ve armée française - IIe armée allemande_
+_C Michelin, d’après guide édition 1917 - Autorisation n° 06-B-05_
+
+Le gros de l’armée marche sur les traces des C.A. de gauche de von Kluck. (3e et 9e). Elle franchit le Grand Morin en amont de La Ferté-Gaucher et s’arrête à 6-8 km au sud du Petit Morin. Le 18e C.A. franchit le Petit Morin à l’ouest de Montmirail. La largeur de la brèche entre la Ie et IIe armée allemande passe de 28 à 38 km.
+
+En fait, ce jour là, l’armée fait preuve de peu d’esprit offensif. Par exemple, le 18e C.A. emploie toute la journée pour parcourir les 10 km qui séparent Sancy du Grand Morin. Le 3e C.A. n’en fait pas davantage et bivouaque entre Villeneuve-la-Lionne et Joiselle. Quant au 1e C.A., il poursuit sa marche jusqu’au plateau qui couronne, au sud, Montmirail et la vallée du Petit Morin.
+
+La Ie armée allemande essaie de freiner la Ve armée en contre-attaquant : le 18e C.A. est violemment attaqué vers Montceaux mais ce dernier résiste victorieusement. Vers midi, les Allemands entament leur mouvement de repli.
+Les Allemands attaquent le 3e C.A. vers Courgivaux, mais ce dernier se maintient.
+
+Le 1e C.A. (Deligny) a pour mission de s’emparer de la cote 200. Dès le point du jour (6h) commence une canonnade intense. L’artillerie s’installe à cheval sur la route des Essarts-le-Vicomte à Esternay, mais des reconnaissances révèlent que les Allemands se sont dérobés pendant la nuit. Ordre est donc donné de reprendre la marche vers le nord en traversant Esternay et de poursuivre. Dans Esternay, les Français trouvent un grand nombre de blessés abandonnés. Les Allemands ont reculé jusqu’au Petit Morin. A midi, le C.A. passe le Grand Morin.
+
+Le 10e C.A. français (Ve armée) se met prudemment en mouvement. Il ne trouve que des traces de la retraite précipitée des Allemands. La division Pétain marche sur le Grand-Morin, la division Mangin par Aulnay - Neuvy - Joiselle.
+
+Franchet d’Espérey apprend que la IXe armée (42e division et 9e C.A.) est violemment attaquée vers la Villeneuve-lez-Charleville et Soisy-aux-Bois par des troupes allemandes venant de Saint-Prix. Il prescrit au 10e C.A. de s’engager dans cette direction. La 20e division, après avoir combattu toute la journée, est arrêtée au nord de Charleville.
+Le 18e C.A. continue à tenir la gauche de la Ve armée et livre un combat assez vif à Sancy.
+
+La Ve armée entame une offensive qui se terminera sur le Grand Morin (Moutils - Saint-Martin-du-Boschet - Pierrelez - Maisoncelles - Sancy).
+Le gros de l’armée marche sur les traces des C.A. de gauche de von Kluck. (3e et 9e). Elle franchit le Grand Morin en amont de La Ferté-Gaucher et s’arrête à 6-8 km au sud du Petit Morin.
+
+### VIe armée française : les taxis de la Marne
+
+![VIe armée française  -Ie armée allemande - 53.6 ko](../img/ourcq__7__septembre.jpg)
+_VIe armée française  -Ie armée allemande_
+_C Michelin, d’après guide édition 1919 - Autorisation n° 06-B-05_
+
+Les ordres de Maunoury pour le 7 sont de poursuivre l’offensive car les unités allemandes opposées à la VIe armée battent en retraite au nord et au nord-est.
+L’offensive de la VIe armée française va se poursuivre avec une extrême énergie sur tout son front.
+
+- 45e division attaque vers Lizy-sur-Ourcq, Cocherel.
+  7e C.A. se dirige vers May-en-Multien, Coulombes.
+  61e division prolonge le front vers le nord, ainsi que le C.C. Sordet.
+
+Le C.C. Sordet se porte en partie (1e et 3e divisions) vers Nanteuil-le-Haudouin et Betz. L’objectif est de couvrir la gauche de la VIe armée et de déborder la droite allemande. Toutefois, entre Betz et Cuvergnon, la 1e D.C. se heurte à des organisations défensives et il faut faire intervenir l’artillerie.
+
+A la droite du 7e C.A., la 63e division subit une offensive menaçante quand le colonel Nivelle (futur généralissime) se porte en avant de Puisieux avec deux groupes d’artillerie. Il dépasse l’infanterie et fait ouvrir le feu sur les masses allemandes en mouvement.
+
+La 45e D.I. est arrêtée après quelques progrès au-delà de Barcy. La 56e D.I. se lance à l’assaut d’Etrepilly.
+Un de ses régiments y pénètre mais ne peut pas s’y maintenir et finit par devoir abandonner la localité.
+
+![Infanterie française à Etrepilly - 27.3 ko](../img/infanterie_etrepilly.jpg)
+_Infanterie française à Etrepilly_
+_Collection privée_
+
+A sa gauche, la 63e division de réserve commence à plier mais, sous les rafales des batteries, la contre-attaque allemande perd de son élan.
+
+Au nord, entre la Gergogne et la Grivelle, on voit se développer un mouvement tournant de la 7e D.I. allemande, mais la manuvre débordante échoue suite à l’entrée en ligne de nouvelles forces françaises : la 61e division de réserve (groupe Ebener) transportée en partie en chemin de fer jusqu’à Nanteuil-le-Haudouin. Les deux manuvres enveloppantes se neutralisent. Le combat de front tourne à l’avantage des Allemands et la 61e D.I. doit reculer au-delà de Villers-Saint-Genest. A ce moment apparaissent au nord du ruisseau de Betz, sur le flanc droit de la 7e D.I. allemande, des masses de cavalerie française. C’est le C.C. Bridoux, transporté de Versailles.
+
+![Artillerie française à Etrepilly - 30.9 ko](../img/artillerie_Etrepilly.jpg)
+_Artillerie française à Etrepilly_
+_Collection privée_
+
+En fin de journée, la VIe armée peut encore espérer déborder la droite allemande si celle-ci ne reçoit pas de nouveaux renforts, mais le 4e C.A allemand repasse la Marne et renforce les deux C.A. déjà engagés. Von  Kluck espère à son tour déborder la gauche de la VIe armée.
+
+Les 56e et 45e D.I. lancent une seconde offensive sur Etrepilly et la brigade marocaine attaque à l’extrême droite par la route de Meaux à Vareddes. Cette dernière attaque échoue suite à une contre-attaque. Les deux armées sont tellement épuisées qu’Etrepilly reste vide pendant toute la nuit.
+
+![Combat de Vareddes - 34.3 ko](../img/combat_vareddes.jpg)
+_Combat de Vareddes_
+_Collection privée_
+
+La 7e division débarque à Paris : il faut qu’elle soit transportée dans la nuit à la gauche de Maunoury. Tous les taxis-autos sortent des garages et prennent la direction de la banlieue est. Les agents arrêtent au vol ceux qui sont en course et débarquent les clients. Ceux-ci applaudissent dès qu’il connaissent la raison de la réquisition. 600 voitures font ainsi deux fois dans la nuit « au compteur » le voyage de Nanteuil avec cinq hommes dans chaque taxi. Le reste de la division utilise le chemin de fer et l’artillerie se transporte par la route.
+La 7e division prend place entre la 61e division et le 7e C.A. mais l’arrivée du 6e C.A. allemand neutralise l’effet de ce renfort.
+
+### IXe armée française
+
+![IXe armée française - IIe et IIe armées allemandes - 34.2 ko](../img/Marne_centre_7_septembre2.jpg)
+_IXe armée française - IIe et IIe armées allemandes_
+_C Michelin, d’après guide édition 1917 - Autorisation n° 06-B-05_
+
+Sur le front de la IXe armée, l’armée allemande, gravement menacée sur son aile droite, veut riposter en essayant de percer le centre français. Mais l’acharnement de l’attaque ne démonte pas le général Foch.
+
+Au 9e C.A., la 19e division maintient une brigade sur le front Broussy-le-Grand - Champ-de-bataille. Son artillerie bat les débouchés de Bannes et d’Aulnay-aux-Planches.
+
+La 52e division maintient son artillerie au Mont-Août, battant les débouchés des marais au nord de Broussy-le-Grand et de Bannes.
+La division du Maroc tient le front Mesnil - Broussy - Oyes, tout en appuyant la 42e division vers Saint-Prix.
+
+L’artillerie bat les débouchés des marais sur Joches et Villevenard.
+A sa gauche, la brigade Cros-Fellert tient Reuves, Oyes et le bois de Saint-Gond.
+Pendant toute la journée, la division du Maroc oppose une résistance farouche aux attaques allemandes. Elle conserve au bord des marais les positions de Oyes, Reuves, Broussy-le-Petit.
+
+![Batteries françaises aux marais de Saint-Gond - 35.8 ko](../img/saint_gond_batterie.jpg)
+_Batteries françaises aux marais de Saint-Gond_
+_Collection privée_
+
+Le 11e C.A. a l’ordre de passer à l’offensive pour reprendre les positions perdues la veille, mais les Allemands attaquent avec une telle force qu’il lui est impossible d’aller de l’avant. Des combats acharnés se déroulent entre la Somme et la ligne de chemin de fer. Le 11e C.A. résiste à l’artillerie lourde allemande et ne cède pas de terrain.
+
+La 42e division fait savoir qu’elle est attaquée vers La Villeneuve et Soisy par des forces considérables venant de Saint-Prix. Humbert se rend compte que les Allemands vont tenter un grand effort sur les hauteurs de Montgivroux pour prendre pied sur la falaise de champagne. La division est obligée de reculer sur tout le front, abandonnant à nouveau La Villeneuve à sa gauche et Soisy-aux-Bois à sa droite.
+
+Foch fait parvenir le renseignement : « La IIe armée allemande est en pleine retraite. Elle ne laisse au contact que des arrière-gardes que nous poursuivons. Les têtes de colonnes de l’armée d’Espérey sont déjà au nord du Grand-Morin ».
+
+Après une préparation d’artillerie, la 42e division (Grossetti) prononce une vigoureuse offensive ; La Villeneuve est emportée encore une fois, mais les Allemands reprennent l’avantage : ils enlèvent le village et les bois au sud de Soisy tombent en leur pouvoir. Un terrible combat se déroule au château de Montgivroux jusqu’à la nuit.
+
+Un bataillon du 90e (17e division) tente une diversion au nord des marais. Il part de Bannes, traverse les marais, enlève Aulnizeux à la baïonnette, mais ne peut s’y maintenir et rétrograde pendant la nuit.
+
+### Armée anglaise
+
+L’armée anglaise est à Villers-sur-Morin. Elle continue son offensive tout en opérant un changement de front autour de sa gauche, sa droite marchant par échelons vers Rebais.
+Dès le matin, l’aviation signale de nombreuses colonnes allemandes en marche vers le nord-ouest et le nord. Il s’agit des 3e et 4e C.A., rappelés pour lutter contre la VIe armée française. La droite de von Bülow est également en retraite.
+
+Les gros de l’armée anglaise atteignent en matinée
+
+- 1e C.A. : Dagny.
+  2e C.A : Coulommiers.
+  3e C.A. : Maisoncelle.
+
+La cavalerie de von der Marwitz tient le Grand Morin, de Pommeuse à Chauffry. Elle ne peut résister à l’offensive britannique, doit abandonner la Grand Morin et refluer au nord du Petit Morin pour se rassembler au sud-est de la Ferté-sous-Jouarre.
+
+En soirée, le 4e C.A. allemand commence à repasser la Marne à Charly pour marcher en direction du nord-est vers Montreuil-aux-Lions.
+La D.C. britannique n’est encore qu’à l’est de Choisy, au sud du Grand-Morin.
+
+Il y a eu peu de contacts entre les avant-gardes anglaises et les arrière-gardes allemandes.
+Moncel est enlevé à une patrouille allemande par un élément du 9e lanciers britannique. C’est un des derniers combats de cavalerie de la guerre.
+
+L’armée anglaise n’aborde que dans la soirée le cours du Grand Morin. Elle campe la nuit sur la ligne Haute-Maison - Jouy-sur-Morin. L’armée anglaise commence à se montrer dans la trouée ouverte par von Kluck, suite au déplacement de pratiquement tous ses C.A. vers le front de l’Ourcq.
+
+### Armée belge
+
+Le gouvernement repousse de nouvelles propositions d’arrangement faite par les Allemands.
+
+La 13e brigade de la 4e division occupe la ligne Oostende - Brugge - Zeebbugge - Eeklo. La 4e division doit assurer la protection de la ligne de chemin de fer à l’est de Moerbeke.
+13h : des colonnes allemandes se dirigent vers Gent.
+16h30 : un combat a lieu à Melle puis les Allemands se retirent vers Kaprijke - Ursel.
+
+- Albert Ie décide de préparer une sortie d’Anvers pour le 9 septembre.
+Des reconnaissances signalent d’importantes forces dans la région de Gent. La droite et le centre du dispositif allemand donnent l’impression de l’inactivité la plus complète :
+  Diest est inoccupé.
+  Il n’y a à Aarschotqu’un bataillon de la Landsturm.
+  Les ponts de Betekom, Werchter, Haacht, Rijmenam sont détruits mais le franchissement de la Dyle peut facilement être rétabli.
+
+Comme le front allemand s’étend sur +- 100 km, il comporte des points faibles. L’armée belge effectuera une sortie pour obliger les Allemands à maintenir en Belgique un maximum de forces.
+
+Au moment où les allemands dégarnissent leur front sur la ligne du Demer, de Werchter à Diest, le Roi envisage le plan suivant : établir quatre divisions et la D.C. dans le camp offensif situé au sud du Demer (n.e. de Wezemaal - Rillaer - Konijnenberg) en poussant des avant-gardes vers la voie ferrée Leuven - Tienen pour couper celle-ci et
+en attaquant le point faible du dispositif allemand, situé entre Haacht et Aarschot.
+
+Ce point est sensible car fort rapproché de la ligne Aachen - Liège - Bruxelles - Mons, indispensable au ravitaillement des troupes qui combattent sur la Marne.
+
+Albert Ie doit également faire protéger la ligne de retraite de l’armée belge, entre Anvers et la côte. La 1e division occupe à cet effet la ligne de la Durme depuis son confluent jusqu’à Lokeren et Zeveneken. Le général Clooten est chargé de garder Eeklo, Brugge et Oostende avec trois bataillons du 13e de ligne et des troupes territoriales.
+
+### O.H.L.
+
+Moltke ne donne aucune instruction à ses armées pendant la première période de la bataille. Il signale simplement que les alliés s’engagent dans une offensive d’ensemble.
+Cette communication dut paraître ironique à des troupes qui se voyaient attaquées à plein depuis plus de vingt-quatre heures.
+
+### Ie armée allemande
+
+Von Kluck apprend au matin que le groupement français de l’Ourcq (VIe armée) reçoit des renforts et prolonge sa gauche vers le nord.
+Les aviateurs ont en effet aperçu un grand nombre de trains débarquant des troupes à Nanteuil-le-Haudouin et toute la région au-delà de Betz fourmille de cavalerie française. Il faut envoyer des réserves or, von Kluck a cédé à von Bülow les 3e et 9e C.A. Il doit les lui redemander. Il télégraphie à von Bülow pour demander où sont ces C.A.
+
+Toutefois, si ces deux C.A. quittent la droite de la IIe armée, ils mettent l’armée de von Bülow en position difficile : qu’opposer à l’ouest de Montmirail à la Ve armée française ? La 14e D.I. est en réserve et von Bülow l’intercale en première ligne aux marais de Saint-Gond pour combler le vide entre le 10e C.A. et la Garde. Les 3e et 9e C.A. sont à deux jours de marche de l’armée de Maunoury. Sera-t-il possible d’arrêter les Anglais pendant trois jours ?
+Le retrait de ces deux C.A. obligera von Bülow à faire reculer son armée, ce qui entraînera une à une les autres armées allemandes.
+
+Von Kluck prend le parti de soutenir la bataille avec la totalité de ses forces. Il donne l’ordre aux deux C.A. de gauche (3e et 9e, opposés à Franchet d’Espérey), de se porter vers le nord. Le matin, ils marchent dans la direction de la Ferté-Milon - Crouy.
+
+L’aviation signale que les colonnes anglaises se portent vers le nord entre le Grand et le Petit Morin et von Kluck doit se résoudre à prescrire au 9e C.A. de laisser une division sur la Marne entre Nogent-l’Artaud et La Ferté-sous-Jouarre.
+
+Le Q.G. de l’armée est transféré de Charly-sur-Marne à Vendrest près des 2e, 4e  C.A. et du 4e C.A.R. qui combattent à l’ouest de l’Ourcq inférieur.
+
+Les 4e C.A.R. et 2e C.A. soutiennent une lutte opiniâtre sur la ligne Betz - Vareddes au nord de Meaux.
+
+A 12h15, von Linsingen, chef du 2e C.A. ordonne l’attaque de la ligne Antilly - Acy - Trocy et rejette les Français au-delà de Villers-St-Genest. La 22e division prend Etrepilly.
+
+A 21h15, les 2e, 4e C.A. et le 4e C.A.R. se sont maintenus sur la ligne Antilly - Puisieux - Varedde. Les 3e et 9e C.A., qui avaient dépassé la Marne les jours précédents, atteignent à nouveau cette vallée, mais en sens inverse, à Charly-sur-Marne (3e) et à Chézy (9e).
+Cette retraite est masquée par le 1e C.C. (von Richthofen) qui a pris position sur la coupure du Petit Morin. Le C.C. de von der Marwitz s’est replié sur la Marne.
+
+Von Kluck prescrit que le 3e C.A. devra faire mouvement à 2h du matin par Mareuil et la Ferté-sous-Jouarre pour attaquer au nord d’Antilly.
+
+### IIe armée allemande
+
+L’armée est découverte à l’ouest par le départ des 3e et 9e C.A. vers l’Ourcq et dispose sa droite en crochet défensif. Von Bülow demande à von Hausen de lui fournir toutes les forces disponibles de la IIIe armée.
+Le C.C. von Richthofen s’est reporté derrière le Petit  Morin où il prolonge la droite de la IIe armée.
+
+L’armée poursuit son offensive en vue d’atteindre la Seine. Au centre, le 10e C.A. gagne du terrain au sud du Petit Morin, à gauche, la 2e D.I. de la Garde chasse l’infanterie française (IXe armée) de Morains-le-Petit et d’Ecury-le-Repos. Dans l’après-midi, une attaque française reprend Bannes.
+
+### IIIe armée allemande
+
+La IIIe armée se renforce de la 23e division de réserve que von Hausen pousse aussitôt en ligne à l’ouest de Sommesous. Son groupement de droite enlève Sommesous mais ne parvient pas à tourner la droite de l’armée Foch. Dans la soirée, Sommesous retombe dans les mains françaises.
+
+Pour répondre aux sollicitations d’aide, von Hausen partage son armée en deux fractions égales : trois divisions à droite, trois divisions à gauche. Il décide que son groupement de droite avec deux divisions de la Garde partira à l’attaque par surprise le 8 septembre avant l’aurore.
+
+### IVe armée allemande
+
+Le groupement de gauche de la IIIe armée et la IVe armée forment une longue ligne de Sompuis à Sermaize mais s’épuisent en vain contre la IVe armée française (de Langle de Cary).
+
+### Ve armée allemande
+
+Entre Revigny et Verdun, la Ve armée continue la lutte sans accentuer sensiblement ses succès.
+
+### VIe armée allemande
+
+L’armée allemande lance une attaque directe sur Nancy. L’effort principal se porte sur la région du mont d’Amance, Velaine. L’axe est la route de Château-Salins à Nancy.
+
+Les Allemands attaquent dans la région de Champenoux mais ne peuvent déboucher de la forêt. Au fur et à mesure qu’ils débouchent, ils sont massacrés par le tir des 75 en position sur le mont Amance.
+Galvanisés par la présence de l’empereur, les Allemands s’emparent des villages de Cercueil, de Velaine et de Buissoncourt. Le Grand Couronné est débordé par le nord et par le sud.
+
+[Lien vers la journée suivante](article_04_68.md)
