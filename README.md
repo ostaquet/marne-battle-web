@@ -169,6 +169,20 @@ This will:
 
 The resulting `assets/build/` directory is self-contained and can be served as a static website.
 
+## Deploy
+
+For the deployment, ensure that the static website has been built (see step 7 above).
+
+When the static website is built:
+
+```
+firebase deploy
+```
+
+It will automatically deploy the website on Firebase (project `marne-battle-web-d2494`) on the Google account `ostaquet@gmail.com`.
+
+URL: https://marne-battle-web-d2494.web.app/
+
 ## Development
 
 ### Running Tests
