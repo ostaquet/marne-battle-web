@@ -1,14 +1,11 @@
 # Annexes et compléments
 
-Vous trouverez dans cette partie du site les
+Vous trouverez dans cette partie du site:
 
-Sources bibliographiques
-
-Des liens vers d’autres sites créés par des particuliers sur le même sujet.
-
-Des cartes des lieux où se sont déroulées les batailles et les évolutions des différentes armées.
-
-Le parcours des régiments ayant pris part à une des batailles décrites dans le site
+- Les sources bibliographiques
+- Des liens vers d’autres sites créés par des particuliers sur le même sujet.
+- Des cartes des lieux où se sont déroulées les batailles et les évolutions des différentes armées.
+- Le parcours des régiments ayant pris part à une des batailles décrites dans le site
 
 ---
 

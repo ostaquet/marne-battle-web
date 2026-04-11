@@ -12,30 +12,30 @@ L’histoire de la bataille des frontières, de la retraite à travers la Belgiq
 
 Et pourtant, ce plan s’effondra au bout d’un mois après une série ininterrompue de succès, d’où l’on peut se poser les questions :
 
-A qui revient le mérite de la victoire de la Marne ?
-Qui est responsable de l’échec du plan Moltke ?
+**A qui revient le mérite de la victoire de la Marne ?**
+**Qui est responsable de l’échec du plan Moltke ?**
 
 Après avoir présenté les causes qui ont déclenché la tragédie de la guerre de 1914 - 1918 et les deux plans, français et allemand, nous en verrons le déroulement au jour le jour, avec les succès et les échecs respectifs.
 
 ### Abréviations
 
-| Abréviation | Dénomination |
-| --- | --- |
-| B.E.F. | British expeditionary force ou corps expéditionnaire britannique |
-| C.A. | corps d’armée = 40.000 hommes |
-| C.A.R. | corps d’armée de réserve |
-| C.C. | corps de cavalerie |
-| D.A. | division d’armée belge |
-| D.C. | division de cavalerie = 5.573 hommes |
-| D.I. | division d’infanterie = 16.000 hommes |
-| D.R. | division de réserve |
-| E.M. | Etat-Major |
-| G.D.R. | groupement de divisions de réserve |
-| G.Q.G. | grand quartier général français |
-| O.H.L. | Obere heeresleitung (grand quartier général allemand) |
-| P.C. | poste de commandement |
-| R.A. | régiment d’artillerie |
-| R.A.C. | régiment d’artillerie de campagne |
-| R.I. | régiment d’infanterie = +- 3.400 hommes |
-| R.I.C. | régiment d’infanterie coloniale |
-| R.I.T. | régiment d’infanterie territorial français |
+| Abréviation | Dénomination                                                     |
+| ----------- | ---------------------------------------------------------------- |
+| B.E.F.      | British expeditionary force ou corps expéditionnaire britannique |
+| C.A.        | corps d’armée = 40.000 hommes                                    |
+| C.A.R.      | corps d’armée de réserve                                         |
+| C.C.        | corps de cavalerie                                               |
+| D.A.        | division d’armée belge                                           |
+| D.C.        | division de cavalerie = 5.573 hommes                             |
+| D.I.        | division d’infanterie = 16.000 hommes                            |
+| D.R.        | division de réserve                                              |
+| E.M.        | Etat-Major                                                       |
+| G.D.R.      | groupement de divisions de réserve                               |
+| G.Q.G.      | grand quartier général français                                  |
+| O.H.L.      | Obere heeresleitung (grand quartier général allemand)            |
+| P.C.        | poste de commandement                                            |
+| R.A.        | régiment d’artillerie                                            |
+| R.A.C.      | régiment d’artillerie de campagne                                |
+| R.I.        | régiment d’infanterie = +- 3.400 hommes                          |
+| R.I.C.      | régiment d’infanterie coloniale                                  |
+| R.I.T.      | régiment d’infanterie territorial français                       |

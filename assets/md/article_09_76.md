@@ -37,8 +37,8 @@ Un chapitre de ce site traite des troupes coloniales en 1914
 **[Le fort d’Emines](http://www.echo-soft.com/valeric/namur/fort_emines.md)**
 Des photos sur l’état actuel d’un des forts de la position fortifiée de Namur
 
-**Le parcours du 147e R.I.->http://147ri.canalblog.com**
+**[Le parcours du 147e R.I.](http://147ri.canalblog.com)**
 Blog très bien documenté concernant un régiment qui a pris part aux combats de Virton
 
-**Frans Van Kerckhoven->http://www.everyoneweb.com/fransvankerckhoven/**
+**[Frans Van Kerckhoven](http://www.everyoneweb.com/fransvankerckhoven/)**
 Site en Néerlandais concernant le siège de Namur et montrant notamment la position de l’artillerie allemande
