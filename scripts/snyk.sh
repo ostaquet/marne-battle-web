@@ -1,5 +1,5 @@
 #!/bin/bash
-# Run all linters on the project
+# Run snyk dependency checks on the project
 
 set -e  # Exit on first error
 
@@ -23,7 +23,7 @@ else
 fi
 
 echo "========================================="
-echo "Running linters & SAST"
+echo "Running Snyk on dependencies"
 echo "========================================="
 echo ""
 
@@ -37,36 +37,26 @@ fi
 # Activate virtual environment
 source "$VENV_DIR/bin/activate"
 
-# Run flake8
-echo -e "${YELLOW}[1/3] Running flake8...${NC}"
-if flake8 src/ test/ --max-line-length=88 --extend-ignore=E203 --ignore=W293,W291; then
-    echo -e "${GREEN}✓ flake8 passed${NC}"
+# Check if snyk is installed
+if snyk --version; then
+    echo -e "${GREEN}✓ snyk installed${NC}"
 else
-    echo -e "${RED}✗ flake8 failed${NC}"
+    echo -e "${RED}✗ snyk not installed${NC}"
+    echo "Please install snyk following instructions on https://docs.snyk.io/developer-tools/snyk-cli/install-or-update-the-snyk-cli"
     exit 1
 fi
 echo ""
 
-# Run mypy
-echo -e "${YELLOW}[2/3] Running mypy...${NC}"
-if mypy src/ --strict; then
-    echo -e "${GREEN}✓ mypy passed${NC}"
+# Run snyk
+echo -e "${YELLOW} Running snyk...${NC}"
+if snyk test; then
+    echo -e "${GREEN}✓ check passed${NC}"
 else
-    echo -e "${RED}✗ mypy failed${NC}"
-    exit 1
-fi
-echo ""
-
-# Run bandit
-echo -e "${YELLOW}[3/3] Running bandit...${NC}"
-if bandit -r src/; then
-    echo -e "${GREEN}✓ bandit passed${NC}"
-else
-    echo -e "${RED}✗ bandit failed${NC}"
+    echo -e "${RED}✗ check failed${NC}"
     exit 1
 fi
 echo ""
 
 echo "========================================="
-echo -e "${GREEN}All linters passed successfully!${NC}"
+echo -e "${GREEN}Dependencies checks passed successfully!${NC}"
 echo "========================================="

@@ -151,7 +151,7 @@ This will:
 bash scripts/test.sh
 ```
 
-### Running Linters
+### Running Linters & SAST
 
 ```bash
 bash scripts/lint.sh
@@ -161,3 +161,12 @@ The project uses:
 
 - **flake8** for code style (max line length: 88)
 - **mypy** for type checking (strict mode)
+- **bandit** for security checking
+
+### Running dependencies vulnerability checks
+
+```bash
+bash scripts/snyk.sh
+```
+
+The project uses `snyk` in CLI mode to check the vulnerable paths in the dependencies.
