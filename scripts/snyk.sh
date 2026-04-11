@@ -37,15 +37,12 @@ fi
 # Activate virtual environment
 source "$VENV_DIR/bin/activate"
 
-# Check if snyk is installed
-if snyk --version; then
-    echo -e "${GREEN}✓ snyk installed${NC}"
-else
-    echo -e "${RED}✗ snyk not installed${NC}"
+# Check if snyk is available
+if ! command -v snyk --version &> /dev/null; then
+    echo -e "${RED}Error: snyk is not installed${NC}"
     echo "Please install snyk following instructions on https://docs.snyk.io/developer-tools/snyk-cli/install-or-update-the-snyk-cli"
     exit 1
 fi
-echo ""
 
 # Run snyk
 echo -e "${YELLOW} Running snyk...${NC}"
