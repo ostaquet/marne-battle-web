@@ -4,8 +4,7 @@ La bataille de Sarrebourg est un épisode de la bataille de Lorraine, mettant au
 
 ![(JPG)](../img/carte_sarrebourg2.jpg)
 _Environs de Sarrebourg_
-
-C Michelin, d’après carte n° 87, édition 2820-28 - Autorisation n° 05-B-18
+_C Michelin, d’après carte n° 87, édition 2820-28 - Autorisation n° 05-B-18_
 
 ### Les forces en présence
 
@@ -19,21 +18,21 @@ _La guerre du droit_
 
 15e D.I. (général Bajolle)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 29e brigade | Grandjean | 56e (Hallouin), 134e R.I. (Perrin) |
-| 30e brigade | Piarron de Mondésir | 10e (Brunck), 27e R.I. (Valentin) |
-| Cavalerie et artillerie divisionnaires |  | 14e hussards (un escadron) |
-|  |  | 48e R.A.C. (Diez) |
+| Unité                                  | Commandant          | Régiments                          |
+| -------------------------------------- | ------------------- | ---------------------------------- |
+| 29e brigade                            | Grandjean           | 56e (Hallouin), 134e R.I. (Perrin) |
+| 30e brigade                            | Piarron de Mondésir | 10e (Brunck), 27e R.I. (Valentin)  |
+| Cavalerie et artillerie divisionnaires |                     | 14e hussards (un escadron)         |
+|                                        |                     | 48e R.A.C. (Diez)                  |
 
 16e D.I. (de Maud’huy)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 31e brigade | Reibell | 85e (Rabier), 95e R.I. (Tourret) |
-| 32e brigade | Marié | 13e R.I. (Frontil), 29e R.I. (Delaunay) |
-| Cavalerie et artillerie divisionnaires |  | 1e R.A.C. (Lequime) |
-|  |  | 16e chasseurs à  cheval |
+| Unité                                  | Commandant | Régiments                               |
+| -------------------------------------- | ---------- | --------------------------------------- |
+| 31e brigade                            | Reibell    | 85e (Rabier), 95e R.I. (Tourret)        |
+| 32e brigade                            | Marié      | 13e R.I. (Frontil), 29e R.I. (Delaunay) |
+| Cavalerie et artillerie divisionnaires |            | 1e R.A.C. (Lequime)                     |
+|                                        |            | 16e chasseurs à cheval                  |
 
 **Armée allemande**
 
@@ -46,35 +45,35 @@ _Collection privée_
 
 1e division d’infanterie bavaroise : général von Schoch
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 1e Kgl. Bayer. Infanterie-Brigade |  | Kgl. Bayer. Infanterie-Leib-Regiment (Munich)Kgl. Bayer. 1. Infanterie-Regiment (Munich) |
-| 2e Kgl. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 2. Infanterie-Regiment (Munich)Kgl. Bayer. 16. Infanterie-Regiment (Passau, Landshut)Kgl. Bayer. 1. Jäger-Bataillon (Freising) |
-| Cavalerie divisionnaire |  | Kgl. Bayer. 8. Chevaulegers-Regiment (Dillingen) |
-| 1e Kgl. Bayer. Feldartillerie-Brigade |  | Kgl. Bayer. 1. Feldartillerie-Regiment (Munich)Kgl. Bayer. 7. Feldartillerie-Regiment (Munich)Kgl. Bayer. 10. Fußartillerie-Bataillon |
+| Unité                                 | Commandant | Régiments                                                                                                                                  |
+| ------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1e Kgl. Bayer. Infanterie-Brigade     |            | Kgl. Bayer. Infanterie-Leib-Regiment (Munich)Kgl. Bayer. 1. Infanterie-Regiment (Munich)                                                   |
+| 2e Kgl. Bayer. Infanterie-Brigade     |            | Kgl. Bayer. 2. Infanterie-Regiment (Munich)Kgl. Bayer. 16. Infanterie-Regiment (Passau, Landshut)Kgl. Bayer. 1. Jäger-Bataillon (Freising) |
+| Cavalerie divisionnaire               |            | Kgl. Bayer. 8. Chevaulegers-Regiment (Dillingen)                                                                                           |
+| 1e Kgl. Bayer. Feldartillerie-Brigade |            | Kgl. Bayer. 1. Feldartillerie-Regiment (Munich)Kgl. Bayer. 7. Feldartillerie-Regiment (Munich)Kgl. Bayer. 10. Fußartillerie-Bataillon      |
 
 2e division d’infanterie bavaroise : général von Hetzel
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 3e bayer. Infanterie-Brigade |  | Kgl. Bayer. 3. Infanterie-Regiment (Augsburg)Kgl. Bayer. 20. Infanterie-Regiment (Lindau, Kempten) |
-| 4e bayer. Infanterie-Brigade |  | Kgl. Bayer. 12. Infanterie-Regiment (Neu-Ulm)Kgl. Bayer. 15. Infanterie-Regiment (Neuburg a.d.) |
-| Cavalerie divisionnaire |  | Kgl. Bayer. 4. Chevaulegers-Regiment (Augsburg) |
-| 2e bayer. Feldartillerie-Brigade |  | Kgl. Bayer. 4. Feldartillerie-Regiment (Augsburg)Kgl. Bayer. 9. Feldartillerie-Regiment (Landsberg) |
+| Unité                            | Commandant | Régiments                                                                                           |
+| -------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
+| 3e bayer. Infanterie-Brigade     |            | Kgl. Bayer. 3. Infanterie-Regiment (Augsburg)Kgl. Bayer. 20. Infanterie-Regiment (Lindau, Kempten)  |
+| 4e bayer. Infanterie-Brigade     |            | Kgl. Bayer. 12. Infanterie-Regiment (Neu-Ulm)Kgl. Bayer. 15. Infanterie-Regiment (Neuburg a.d.)     |
+| Cavalerie divisionnaire          |            | Kgl. Bayer. 4. Chevaulegers-Regiment (Augsburg)                                                     |
+| 2e bayer. Feldartillerie-Brigade |            | Kgl. Bayer. 4. Feldartillerie-Regiment (Augsburg)Kgl. Bayer. 9. Feldartillerie-Regiment (Landsberg) |
 
 ### 2 août
 
 C’est le premier jour de la mobilisation. Le 8e C.A., établi à Bourges en temps de paix, est transporté par Nevers, Chagny, Gray, Jussey vers sa zone de concentration (Charmes - Châtel-sur-Moselle). Il fait partie de la Ie armée, qui regroupe, de droite à gauche, le 7e, 14e, 21e, 13e, 8e C.A. et les 8e et 6e D.C.
 
 - Les 7e ,14e C.A. et la 8e D.C. opèrent en Alsace
-  Le 21e C.A. et la 6e D.C. sont en couverture dans les Vosges et sur la Meurthe.
-  Le 8e C.A. est à l’aile gauche, en contact avec le 16e C.A., aile droite de la IIe armée.
+    Le 21e C.A. et la 6e D.C. sont en couverture dans les Vosges et sur la Meurthe.
+    Le 8e C.A. est à l’aile gauche, en contact avec le 16e C.A., aile droite de la IIe armée.
 
 La IIe armée comprend, de droite à gauche, les 16e,15e, 20e et 9e C.A.
 
 - Le 8e C.A. est sur la rive droite de la Moselle, tenant les débouchés nord-est de la forêt de Charmes :
-  16e division sur le front Domèvre-sur-Durbion - Hadigny-les-Verrières - Moriville.
-  15e division à gauche de la première sur le front Ortoncourt - Haillainville - Saint-Boingt - Borville.
+    16e division sur le front Domèvre-sur-Durbion - Hadigny-les-Verrières - Moriville.
+    15e division à gauche de la première sur le front Ortoncourt - Haillainville - Saint-Boingt - Borville.
 
 Il couvre donc le centre de la trouée de Charmes (Epinal - Toul).
 
@@ -87,8 +86,8 @@ Le 8e C.A. reçoit l’ordre de se porter dès que possible sur la Meurthe pour 
 **22h :**
 
 - Le 8e C.A. se met en marche :
-  La 16e division par Rehaincourt et Saint-Pierremont sur Domptail pour atteindre Glonville - Flin.
-  La 15e division par Remenoville et Gerbéviller pour atteindre Vathiménil - Fraimbois.
+    La 16e division par Rehaincourt et Saint-Pierremont sur Domptail pour atteindre Glonville - Flin.
+    La 15e division par Remenoville et Gerbéviller pour atteindre Vathiménil - Fraimbois.
 
 La 16e division cherche la liaison avec le 21e C.A. à droite, vers Baccarat, la 15e avec le 16e C.A. (IIe armée), à gauche vers Lamath.
 
@@ -124,8 +123,8 @@ Cette offensive se développera vers le nord-est et s’étendra entre le col du
 L’objectif du 8e C.A. est l’armée allemande établie dans la zone Sarrebourg - Vallée de la Bruche, qu’il faut chercher à refouler sur Strasbourg et la basse Alsace. La liaison avec la IIe armée, marchant sur Saarbrücken, s’établira dans la région des Etangs.
 
 - L’offensive doit démarrer le 14 pour la Ie armée
-  L’aile gauche (8e et 13e C.A.) s’avancera dans le couloir Blâmont -Sarrebourg, pour se rabattre ensuite à droite sur la trouée de Saverne.
-  L’aile droite (21e C.A.) sera orientée vers la vallée de la Bruche.
+    L’aile gauche (8e et 13e C.A.) s’avancera dans le couloir Blâmont -Sarrebourg, pour se rabattre ensuite à droite sur la trouée de Saverne.
+    L’aile droite (21e C.A.) sera orientée vers la vallée de la Bruche.
 
 ### 13 août
 
@@ -175,15 +174,15 @@ Un C.C. (2e, 6e, 10e D.C.) est formé sous les ordres du général Conneau et ra
 Devant le front du 8e C.A., les Allemands se sont repliés vers Héming.
 
 - L’ordre d’opérations du 8e C.A. prescrit la continuation de l’offensive.
-  La 16e division a comme objectif la ligne Hattigny - Poirier des Barbiers.
-  La 15e la ligne Saint-Georges - ferme d’Haussonville.
-  Les objectifs une fois atteints seront mis en état de défense.
+    La 16e division a comme objectif la ligne Hattigny - Poirier des Barbiers.
+    La 15e la ligne Saint-Georges - ferme d’Haussonville.
+    Les objectifs une fois atteints seront mis en état de défense.
 
 ### 16 août
 
 - Le 8e C.A. poursuit sa marche, avec pour objectif la ligne Hattigny - Saint-Georges.
-  La 16e division à l’est de la route de Blâmont à Sarrebourg.
-  La 15e division à l’ouest de Saint-Georges - ferme d’Haussonville.
+    La 16e division à l’est de la route de Blâmont à Sarrebourg.
+    La 15e division à l’ouest de Saint-Georges - ferme d’Haussonville.
 
 La 16e division occupe dans la journée le signal de Fraqueling (95e R.I.) et le Poirier des Barbiers.
 La 15e division s’avance sur les pentes du signal de Foulcrey. Elle est vivement prise à partie par l’artillerie lourde établie au nord du canal de la Marne au Rhin (sud de Sarrebourg vers Saverne), dont les projectiles tombent sur Ibigny, Hablutz et le signal de Foulcrey.
@@ -216,25 +215,25 @@ Le 8e C.A. tient le canal de la Marne au Rhin, de Gondrexange à Xouaxange. Le 1
 Le 16e chasseurs et le C.C. Conneau éclairent ces directions.
 
 - Le 13e C.A. se trouve sur la Sarre rouge entre Neuveville-devant-Lorquin et Vasperviller.
-  Le 21e C.A. est au Donon et dans la vallée de la Bruche.
-  Le 14e C.A. est à Sainte-Marie-aux-Mines et le col du Bonhomme.
-  L’armée d’Alsace n’a pas encore repris Mulhouse.
+    Le 21e C.A. est au Donon et dans la vallée de la Bruche.
+    Le 14e C.A. est à Sainte-Marie-aux-Mines et le col du Bonhomme.
+    L’armée d’Alsace n’a pas encore repris Mulhouse.
 
-L’intention du général de Castelnau pour le 18 est de faire attaquer  Héming et le bois de Rinting par le 8e C.A. Ce C.A. disposera de toute l’artillerie lourde de l’armée. (4 groupes de 155).
+L’intention du général de Castelnau pour le 18 est de faire attaquer Héming et le bois de Rinting par le 8e C.A. Ce C.A. disposera de toute l’artillerie lourde de l’armée. (4 groupes de 155).
 
 Le 13e C.A. appuiera à droite pour atteindre les hauteurs entre la Sarre rouge et la Bièvre supérieure.
 
 **Du côté allemand**
 
 - La VIe armée fait face à la Ie armée française.
-  La 1e division bavaroise est à Fénétrange.
-  Le 1e C.A. bavarois fortifie ses positions sur les hauteurs au nord et nord-est de Sarrebourg, entre Berthelming et Réding.
-  La 7e D.C. est à Lixeim (nord-est de Sarrebourg)
+    La 1e division bavaroise est à Fénétrange.
+    Le 1e C.A. bavarois fortifie ses positions sur les hauteurs au nord et nord-est de Sarrebourg, entre Berthelming et Réding.
+    La 7e D.C. est à Lixeim (nord-est de Sarrebourg)
 
 - La VIIe armée, rappelée du sud de l’Alsace, continue à se concentrer entre Phalsbourg et la région sud-ouest de Strasbourg.
-  Le 14e C.A., débarqué en soirée à Phalsbourg et à Saverne, prolonge la gauche du 1e C.A. bavarois, entre Réding et Saint-Louis.
-  Le 15e C.A. se prépare à déboucher par Dabo.
-  Le 14e C.A. est vers Barr et Molsheim.
+    Le 14e C.A., débarqué en soirée à Phalsbourg et à Saverne, prolonge la gauche du 1e C.A. bavarois, entre Réding et Saint-Louis.
+    Le 15e C.A. se prépare à déboucher par Dabo.
+    Le 14e C.A. est vers Barr et Molsheim.
 
 La VIe armée doit continuer à organiser ses positions et la VIIe commencer son mouvement vers l’ouest pour passer sur le revers occidental des Vosges, en vue de préparer une manuvre d’enveloppement de l’aile droite française.
 
@@ -256,7 +255,7 @@ Le 8e C.A. franchit le canal entre Xouaxange et Gondrexange et se porte vers Rin
 
 La 31e brigade, avec le 95e R.I. en première ligne, débouche, via la route d’Imling à Sarrebourg, pour aller occuper cette dernière localité.
 
-Dès que les premiers éléments atteignent la crête d’où l’on découvre Sarrebourg à 1500 m  plus loin, l’artillerie lourde allemande déclenche son tir. Les compagnies passent à une formation plus diluée et progressent par bonds rapides, se couchant sans arrêt. Les pertes françaises sont minimes grâce à cette tactique.
+Dès que les premiers éléments atteignent la crête d’où l’on découvre Sarrebourg à 1500 m plus loin, l’artillerie lourde allemande déclenche son tir. Les compagnies passent à une formation plus diluée et progressent par bonds rapides, se couchant sans arrêt. Les pertes françaises sont minimes grâce à cette tactique.
 
 **13h30 :**
 
@@ -283,9 +282,9 @@ Le 15e C.A. n’a pu occuper Dieuze et le 20e est à Château-Salins.
 De Sarrebourg, l’on aperçoit les Allemands creuser des tranchées entre Sarraltroff et Réding. Ceux-ci occupent la région boisée entre Phalsbourg, Arschwiller et Obersteigen. La Ie armée peut s’attendre à une attaque dans son flanc droit, pouvant déboucher de Arschwiller et Guntzwiller.
 
 - Pour pouvoir y résister, le général Dubail prend les dispositions suivantes :
-  Le 8e C.A., au moyen d’une division, attaquera le 19 les hauteurs au N.E. de Sarrebourg (cotes 325 et 316) pour fixer les Allemands de ce côté et y attirer leurs forces. Il se couvrira vers Dolving et le nord par un détachement que le 16e C.A. (2e armée) mettra à sa disposition.
-  Le 13e C.A. tiendra, par ses postes avancés, la ligne Schneckenbusch - Brouderdorff - Plaine-de Walsch.
-  La 21e C.A. tiendra avec une division les hauteurs de Walscheid.
+    Le 8e C.A., au moyen d’une division, attaquera le 19 les hauteurs au N.E. de Sarrebourg (cotes 325 et 316) pour fixer les Allemands de ce côté et y attirer leurs forces. Il se couvrira vers Dolving et le nord par un détachement que le 16e C.A. (2e armée) mettra à sa disposition.
+    Le 13e C.A. tiendra, par ses postes avancés, la ligne Schneckenbusch - Brouderdorff - Plaine-de Walsch.
+    La 21e C.A. tiendra avec une division les hauteurs de Walscheid.
 
 **En soirée :**
 
@@ -298,9 +297,9 @@ Les 14e et 15e C.A. bavarois (VIIe armée) atteindront par leurs éléments de t
 La IIe armée (général de Castelnau) se trouve sur la ligne Bisping - Rohrbach - Zommange - Marsal - Château-Salins.
 
 - Le général de Castelli donne ses ordres pour la journée du lendemain.
-  La 16e D.I. attaquera à 05h les hauteurs 325 et 316. Elle disposera de l’artillerie du C.A.
-  Le détachement du 16e C.A. se portera en direction de Dolving pour couvrir le flanc gauche de la 16e D.I.
-  La 15e D.I. sera en réserve d’armée.
+    La 16e D.I. attaquera à 05h les hauteurs 325 et 316. Elle disposera de l’artillerie du C.A.
+    Le détachement du 16e C.A. se portera en direction de Dolving pour couvrir le flanc gauche de la 16e D.I.
+    La 15e D.I. sera en réserve d’armée.
 
 ### 19 août
 
@@ -335,10 +334,10 @@ Le général de Castelli reçoit l’ordre de continuer l’attaque le 20.
 **20h30 :**
 
 - Le kronprinz de Bavière prend ses dispositions pour le lendemain : la VIe armée attaquera de front les Ie et IIe armées françaises, la VIIe armée attaquera la Ie armée dans son flanc droit et sur ses arrières pour lui couper la retraite. Von Heeringen (VIIe armée) ordonne une attaque pour 11h afin de permettre au 15e C.A. de déboucher par Dabo.
-  Le 1e C.A. bavarois marchera sur Langatte, Héming.
-  Le 14e sur Lorquin.
-  Le 15e sur Saint-Quirin et plus au sud.
-  Le 14e C.A.R. cherchera à s’emparer du Donon pour attaquer le flanc droit de la Ie armée française.
+    Le 1e C.A. bavarois marchera sur Langatte, Héming.
+    Le 14e sur Lorquin.
+    Le 15e sur Saint-Quirin et plus au sud.
+    Le 14e C.A.R. cherchera à s’emparer du Donon pour attaquer le flanc droit de la Ie armée française.
 
 ### 20 août
 
@@ -347,7 +346,7 @@ _Combats de Sarrebourg le 20 août_
 _Collection privée_
 
 - L’ordre de bataille du 1e C.A. bavarois est le suivant :
-  A droite, la 2e D.I., la 4e brigade d’Oberstinzel à Zitterdorf, la 3 e brigade au nord d’Hilbesheim.
+    A droite, la 2e D.I., la 4e brigade d’Oberstinzel à Zitterdorf, la 3 e brigade au nord d’Hilbesheim.
 
 - A gauche, la 1e D.I, la 2e brigade de Tinkelsberg vers Sarrebourg, la 1e brigade des deux côtés de Réding jusqu’aux hauteurs à l’est de Sarrebourg.
 
@@ -361,7 +360,7 @@ Les Allemands se sont retranchés à Dolving et dans la Bergwald, de sorte que l
 
 La 15e division se porte sur Oberstinzel (30e R.I.) et Gosselming (29e R.I.). Le 27e R.I. atteint Haut-Clocher avec sa tête d’avant-garde. Il reçoit l’ordre de se porter sur Dolving, avec comme objectifs ultérieurs les ponts de la Sarre à Sarraltroff et à Oberstinzel.
 
-Quand la pointe atteint le Bergwald, une fusillade intense se fait entendre au nord-ouest (c’est le combat de Gosselming). Le 3e bataillon occupe Dolving, le 2e est 500 m  en arrière. Le 1e bataillon est au nord-est de Haut-Clocher, en liaison avec le 56e R.I.
+Quand la pointe atteint le Bergwald, une fusillade intense se fait entendre au nord-ouest (c’est le combat de Gosselming). Le 3e bataillon occupe Dolving, le 2e est 500 m en arrière. Le 1e bataillon est au nord-est de Haut-Clocher, en liaison avec le 56e R.I.
 
 Dès que les premiers éléments du 27e franchissent la crête de Dolving, le feu de l’artillerie allemande se déclenche. Les Allemands occupent la rive opposée de la Sarre, la croupe d’Oberstinzel et de Sarraltroff.
 
@@ -441,7 +440,7 @@ Les neuf batteries du 48e R.A.C., en position au sud-est de Langatte, parviennen
 Le général de Castelli constate la nécessité de ramener ses forces sur le canal de la Marne au Rhin et donne des ordres en conséquence.
 
 - La 15e division continuera sa retraite sur Héming, Hertzing et Gondrexange.
-  La 16e division évacuera Sarrebourg et se repliera sur le canal.
+    La 16e division évacuera Sarrebourg et se repliera sur le canal.
 
 Le général Dubail espère pouvoir maintenir la gauche de son armée au nord du canal et prescrit
 
@@ -473,7 +472,7 @@ Le repli se poursuit par Imling et Xouaxange. Le 37e R.I. a énergiquement contr
 
 Les batteries du 37e R.A.C. ne tardent pas à être en butte à un tir intense.
 
-Le 31e brigade peut plus aisément effectuer sa retraite. Le général de Maud’huy, impassible au  milieu des obus, fait jouer la marche lorraine par la musique du 95e et ne se replie que l’un des derniers.
+Le 31e brigade peut plus aisément effectuer sa retraite. Le général de Maud’huy, impassible au milieu des obus, fait jouer la marche lorraine par la musique du 95e et ne se replie que l’un des derniers.
 
 La général Bajolle, commandant de la 15e division à Kerprich-aux-Bois, maintient les Allemands en respect par des contre-attaques exécutées jusqu’à 19h.
 
@@ -494,7 +493,7 @@ Les pertes du 8e C.A. sont très élevées : 8.000 hommes. Un tiers de l’infa
 **Situation en fin de journée :**
 
 - A la droite du 8e C.A.
-  La 25e division (13e C.A.) est revenue au sud du canal de la Marne au Rhin et de la Bièvre.
+    La 25e division (13e C.A.) est revenue au sud du canal de la Marne au Rhin et de la Bièvre.
 
 - La 43e division (21e C.A.) d’abord très éprouvée vers Walscheid, a fini par rejeter les Allemands au-delà du col de Saint-Léon.
 
@@ -503,11 +502,11 @@ Les pertes du 8e C.A. sont très élevées : 8.000 hommes. Un tiers de l’infa
 - Le 14e C.A. a perdu Schirmeck et se trouve fortement pressé.
 
 - A la gauche du 8e C.A.
-La IIe armée a subi
-  A Rohrbach (16e C.A.)
-  A Vergaville et à Dieuze (15e C.A.)
-  A Morhange (20e C.A.)
-un échec qui l’a contrainte à reculer jusqu’à la ligne générale de Maizières - Château-Salins.
+  La IIe armée a subi
+    A Rohrbach (16e C.A.)
+    A Vergaville et à Dieuze (15e C.A.)
+    A Morhange (20e C.A.)
+  un échec qui l’a contrainte à reculer jusqu’à la ligne générale de Maizières - Château-Salins.
 
 Le flanc gauche de la Ie armée (8e C.A.) est donc entièrement découvert. Les pertes allemandes sont lourdes, surtout dans l’infanterie (le 1e C.A ; bavarois a perdu 25% de son effectif).
 
@@ -583,10 +582,10 @@ Le 8e C.A. reçoit l’ordre de se porter dans la région de Damas-aux-Bois - Ha
 **En soirée :**
 
 - Le 8e C.A. est sur la Meurthe, entre Azerailles et Fraimbois et se raccorde à la IIe armée par Lunéville.
-  A droite, le 13e C.A. est vers Montigny - Merviller.
-  Le 21e C.A. est vers Badonviller et Raon-sur-Plaine.
-  Le 14e C.A. est vers Saint-Blaise et le col d’Urbeis.
-  La 71e division de réserve a perdu le col de Sainte-Marie.
+    A droite, le 13e C.A. est vers Montigny - Merviller.
+    Le 21e C.A. est vers Badonviller et Raon-sur-Plaine.
+    Le 14e C.A. est vers Saint-Blaise et le col d’Urbeis.
+    La 71e division de réserve a perdu le col de Sainte-Marie.
 
 Le 2e C.A. bavarois et le 21e C.A. atteignent Lunéville au soir. Le 1e C.A bavarois cherche à déborder l’arrière-garde du 8e C.A. par l’ouest mais est arrêté par le feu du fort de Manonviller.
 

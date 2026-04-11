@@ -1,6 +1,4 @@
-# Un site entièrement personnel consacré à la phase "guerre de mouvement" d’août à novembre 1914.
-
-### Bienvenue sur ce site
+# La phase "guerre de mouvement" d'août à novembre 1914
 
 Ce site est l’oeuvre d’un particulier et est consacré aux opérations militaires qui se sont déroulées d’août à novembre 1914, dans la phase dite "guerre de mouvement".
 
