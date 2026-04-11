@@ -177,7 +177,11 @@ hr {
     margin: 2rem 0;
 }
 
-.img-zoom-container {
+.img-zoom-toggle {
+    display: none;
+}
+
+.img-zoom-link {
     display: block;
     cursor: zoom-in;
 }
@@ -193,7 +197,7 @@ hr {
     justify-content: center;
 }
 
-.img-zoom-overlay.active {
+.img-zoom-toggle:checked ~ .img-zoom-overlay {
     display: flex;
 }
 

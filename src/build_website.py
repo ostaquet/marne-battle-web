@@ -91,7 +91,8 @@ IMAGE_LINK_PATTERN = (
     r'<a href="([^"]+\.(?:jpg|jpeg|png|gif|webp))"[^>]*>([^<]*)</a>'
 )
 
-LIGHTBOX_CONTAINER_CLASS = "img-zoom-container"
+LIGHTBOX_TOGGLE_CLASS = "img-zoom-toggle"
+LIGHTBOX_THUMB_CLASS = "img-zoom-link"
 LIGHTBOX_OVERLAY_CLASS = "img-zoom-overlay"
 
 
@@ -111,7 +112,9 @@ def convert_image_links(html_content: str) -> str:
 
 
 def wrap_images_with_lightbox(html_content: str) -> str:
-    """Wrap each image in a lightbox container for full-size viewing on click."""
+    """Wrap each image in a CSS-only lightbox for full-size viewing on click."""
+    counter: list[int] = [0]
+
     def make_lightbox(match: re.Match[str]) -> str:
         img_tag = match.group(0)
         src_match = re.search(r'\bsrc="([^"]*)"', img_tag)
@@ -120,11 +123,15 @@ def wrap_images_with_lightbox(html_content: str) -> str:
             return img_tag
         src = src_match.group(1)
         alt = alt_match.group(1) if alt_match else ""
+        chk_id = f"img-chk-{counter[0]}"
+        counter[0] += 1
         return (
-            f'<span class="{LIGHTBOX_CONTAINER_CLASS}">'
-            f'{img_tag}'
+            f'<input type="checkbox" id="{chk_id}"'
+            f' class="{LIGHTBOX_TOGGLE_CLASS}">'
+            f'<label for="{chk_id}" class="{LIGHTBOX_THUMB_CLASS}">'
+            f'{img_tag}</label>'
             f'<span class="{LIGHTBOX_OVERLAY_CLASS}">'
-            f'<img src="{src}" alt="{alt}"></span>'
+            f'<label for="{chk_id}"><img src="{src}" alt="{alt}"></label>'
             f'</span>'
         )
 
