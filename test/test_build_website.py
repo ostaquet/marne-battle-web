@@ -16,6 +16,7 @@ from build_website import (
     build_md_file,
     copy_images,
     copy_stylesheet,
+    copy_scripts,
     build_website,
     NAVIGATION_ITEMS,
 )
@@ -489,6 +490,39 @@ class TestCopyStylesheet:
             assert result == css_content
 
 
+class TestCopyScripts:
+    """Tests for copying the JavaScript file to the build directory."""
+
+    def test_copies_scripts_as_scripts_js(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            js_src = os.path.join(tmp_dir, "scripts.js")
+            with open(js_src, "w", encoding="utf-8") as f:
+                f.write("console.log('ok');")
+
+            output_dir = os.path.join(tmp_dir, "build")
+            os.makedirs(output_dir)
+            copy_scripts(js_src, output_dir)
+
+            assert os.path.exists(os.path.join(output_dir, "scripts.js"))
+
+    def test_copied_content_matches_source(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            js_src = os.path.join(tmp_dir, "scripts.js")
+            js_content = "document.addEventListener('keydown', function() {});\n"
+            with open(js_src, "w", encoding="utf-8") as f:
+                f.write(js_content)
+
+            output_dir = os.path.join(tmp_dir, "build")
+            os.makedirs(output_dir)
+            copy_scripts(js_src, output_dir)
+
+            out_js = os.path.join(output_dir, "scripts.js")
+            with open(out_js, "r", encoding="utf-8") as f:
+                result = f.read()
+
+            assert result == js_content
+
+
 class TestBuildWebsite:
     """Integration tests for the full website build."""
 
@@ -499,6 +533,13 @@ class TestBuildWebsite:
             f.write("body { color: black; }")
         return css_path
 
+    def _make_js(self, tmp_dir: str) -> str:
+        """Create a minimal JS file and return its path."""
+        js_path = os.path.join(tmp_dir, "scripts.js")
+        with open(js_path, "w", encoding="utf-8") as f:
+            f.write("/* scripts */")
+        return js_path
+
     def test_builds_all_md_files(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             md_dir = os.path.join(tmp_dir, "md")
@@ -507,12 +548,13 @@ class TestBuildWebsite:
             os.makedirs(md_dir)
             os.makedirs(img_dir)
             css_path = self._make_css(tmp_dir)
+            js_path = self._make_js(tmp_dir)
 
             for name in ["homepage.md", "page_02.md", "article_02_02.md"]:
                 with open(os.path.join(md_dir, name), "w", encoding="utf-8") as f:
                     f.write(f"# Title for {name}\n\nContent.")
 
-            build_website(md_dir, img_dir, css_path, output_dir)
+            build_website(md_dir, img_dir, css_path, js_path, output_dir)
 
             assert os.path.exists(os.path.join(output_dir, "index.html"))
             assert os.path.exists(os.path.join(output_dir, "page_02.html"))
@@ -527,11 +569,12 @@ class TestBuildWebsite:
             os.makedirs(img_dir)
             open(os.path.join(img_dir, "photo.jpg"), "w").close()
             css_path = self._make_css(tmp_dir)
+            js_path = self._make_js(tmp_dir)
 
             with open(os.path.join(md_dir, "homepage.md"), "w", encoding="utf-8") as f:
                 f.write("# Home\n\nContent.")
 
-            build_website(md_dir, img_dir, css_path, output_dir)
+            build_website(md_dir, img_dir, css_path, js_path, output_dir)
 
             assert os.path.exists(os.path.join(output_dir, "img", "photo.jpg"))
 
@@ -543,13 +586,31 @@ class TestBuildWebsite:
             os.makedirs(md_dir)
             os.makedirs(img_dir)
             css_path = self._make_css(tmp_dir)
+            js_path = self._make_js(tmp_dir)
 
             with open(os.path.join(md_dir, "homepage.md"), "w", encoding="utf-8") as f:
                 f.write("# Home\n\nContent.")
 
-            build_website(md_dir, img_dir, css_path, output_dir)
+            build_website(md_dir, img_dir, css_path, js_path, output_dir)
 
             assert os.path.exists(os.path.join(output_dir, "style.css"))
+
+    def test_copies_scripts_to_build(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            md_dir = os.path.join(tmp_dir, "md")
+            img_dir = os.path.join(tmp_dir, "img")
+            output_dir = os.path.join(tmp_dir, "build")
+            os.makedirs(md_dir)
+            os.makedirs(img_dir)
+            css_path = self._make_css(tmp_dir)
+            js_path = self._make_js(tmp_dir)
+
+            with open(os.path.join(md_dir, "homepage.md"), "w", encoding="utf-8") as f:
+                f.write("# Home\n\nContent.")
+
+            build_website(md_dir, img_dir, css_path, js_path, output_dir)
+
+            assert os.path.exists(os.path.join(output_dir, "scripts.js"))
 
     def test_creates_output_dir_if_missing(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
@@ -559,10 +620,11 @@ class TestBuildWebsite:
             os.makedirs(md_dir)
             os.makedirs(img_dir)
             css_path = self._make_css(tmp_dir)
+            js_path = self._make_js(tmp_dir)
 
             with open(os.path.join(md_dir, "homepage.md"), "w", encoding="utf-8") as f:
                 f.write("# Home\n\nContent.")
 
-            build_website(md_dir, img_dir, css_path, output_dir)
+            build_website(md_dir, img_dir, css_path, js_path, output_dir)
 
             assert os.path.isdir(output_dir)

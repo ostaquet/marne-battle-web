@@ -27,6 +27,7 @@ HTML_TEMPLATE = """\
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title}</title>
     <link rel="stylesheet" href="style.css">
+    <script src="scripts.js" defer></script>
 </head>
 <body>
     <header>
@@ -211,7 +212,19 @@ def copy_stylesheet(css_src_path: str, output_dir: str) -> None:
     shutil.copy2(css_src_path, dst_path)
 
 
-def build_website(md_dir: str, img_dir: str, css_path: str, output_dir: str) -> None:
+def copy_scripts(js_src_path: str, output_dir: str) -> None:
+    """Copy the JavaScript file into the output directory as scripts.js."""
+    dst_path = os.path.join(output_dir, "scripts.js")
+    shutil.copy2(js_src_path, dst_path)
+
+
+def build_website(
+    md_dir: str,
+    img_dir: str,
+    css_path: str,
+    js_path: str,
+    output_dir: str,
+) -> None:
     """Build the full static website from Markdown and image sources."""
     os.makedirs(output_dir, exist_ok=True)
 
@@ -222,6 +235,7 @@ def build_website(md_dir: str, img_dir: str, css_path: str, output_dir: str) -> 
 
     copy_images(img_dir, output_dir)
     copy_stylesheet(css_path, output_dir)
+    copy_scripts(js_path, output_dir)
 
 
 if __name__ == "__main__":
@@ -230,6 +244,7 @@ if __name__ == "__main__":
         md_dir=os.path.join(project_root, "assets", "md"),
         img_dir=os.path.join(project_root, "assets", "img"),
         css_path=os.path.join(project_root, "src", "style.css"),
+        js_path=os.path.join(project_root, "src", "scripts.js"),
         output_dir=os.path.join(project_root, "assets", "build"),
     )
     print("Website built successfully in assets/build/")

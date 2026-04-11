@@ -8,7 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- CSS-only image lightbox: clicking any image shows it full-size in an overlay; clicking the overlay closes it without changing the scroll position (no JavaScript; uses hidden checkbox toggle instead of URL hash)
+- CSS-only image lightbox: clicking any image shows it full-size in an overlay; clicking the overlay closes it without changing the scroll position (uses hidden checkbox toggle instead of URL hash)
+- Pressing the Escape key closes the lightbox overlay (`scripts.js` listens for `keydown` and unchecks any open toggle)
 
 ### Fixed
 
