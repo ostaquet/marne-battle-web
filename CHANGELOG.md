@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Fixed
+
+- Bullet lists in content are now indented relative to the surrounding text (`main ul`/`main ol` get `padding-left: 1.5rem`)
+
 ### Changed
 
 - Extracted inline CSS from `build_website.py` into a standalone `src/style.css` file
