@@ -90,6 +90,7 @@ IMAGE_LINK_PATTERN = (
     r'<a href="([^"]+\.(?:jpg|jpeg|png|gif|webp))"[^>]*>([^<]*)</a>'
 )
 
+LIGHTBOX_TOGGLE_CLASS = "img-zoom-toggle"
 LIGHTBOX_THUMB_CLASS = "img-zoom-link"
 LIGHTBOX_OVERLAY_CLASS = "img-zoom-overlay"
 
@@ -121,14 +122,16 @@ def wrap_images_with_lightbox(html_content: str) -> str:
             return img_tag
         src = src_match.group(1)
         alt = alt_match.group(1) if alt_match else ""
-        zoom_id = f"img-zoom-{counter[0]}"
+        chk_id = f"img-chk-{counter[0]}"
         counter[0] += 1
         return (
-            f'<a href="#{zoom_id}" class="{LIGHTBOX_THUMB_CLASS}">'
-            f'{img_tag}</a>'
-            f'<div id="{zoom_id}" class="{LIGHTBOX_OVERLAY_CLASS}">'
-            f'<a href="#"><img src="{src}" alt="{alt}"></a>'
-            f'</div>'
+            f'<input type="checkbox" id="{chk_id}"'
+            f' class="{LIGHTBOX_TOGGLE_CLASS}">'
+            f'<label for="{chk_id}" class="{LIGHTBOX_THUMB_CLASS}">'
+            f'{img_tag}</label>'
+            f'<span class="{LIGHTBOX_OVERLAY_CLASS}">'
+            f'<label for="{chk_id}"><img src="{src}" alt="{alt}"></label>'
+            f'</span>'
         )
 
     return re.sub(r'<img\b[^>]*/?>',

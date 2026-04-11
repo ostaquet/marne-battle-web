@@ -195,18 +195,24 @@ class TestConvertImageLinks:
 
 
 class TestWrapImagesWithLightbox:
-    """Tests for wrapping images in a CSS-only lightbox."""
+    """Tests for wrapping images in a CSS-only checkbox lightbox."""
 
-    def test_wraps_img_in_zoom_link(self) -> None:
+    def test_wraps_img_in_label_zoom_link(self) -> None:
         html = '<img src="img/photo.jpg" alt="Photo">'
         result = wrap_images_with_lightbox(html)
         assert 'class="img-zoom-link"' in result
-        assert 'href="#img-zoom-0"' in result
+        assert 'for="img-chk-0"' in result
 
-    def test_creates_overlay_div(self) -> None:
+    def test_creates_hidden_checkbox(self) -> None:
         html = '<img src="img/photo.jpg" alt="Photo">'
         result = wrap_images_with_lightbox(html)
-        assert 'id="img-zoom-0"' in result
+        assert 'type="checkbox"' in result
+        assert 'id="img-chk-0"' in result
+        assert 'class="img-zoom-toggle"' in result
+
+    def test_creates_overlay_span(self) -> None:
+        html = '<img src="img/photo.jpg" alt="Photo">'
+        result = wrap_images_with_lightbox(html)
         assert 'class="img-zoom-overlay"' in result
 
     def test_overlay_contains_full_size_img(self) -> None:
@@ -229,21 +235,22 @@ class TestWrapImagesWithLightbox:
             '<img src="img/b.jpg" alt="B">'
         )
         result = wrap_images_with_lightbox(html)
-        assert 'id="img-zoom-0"' in result
-        assert 'id="img-zoom-1"' in result
-        assert 'href="#img-zoom-0"' in result
-        assert 'href="#img-zoom-1"' in result
+        assert 'id="img-chk-0"' in result
+        assert 'id="img-chk-1"' in result
+        assert 'for="img-chk-0"' in result
+        assert 'for="img-chk-1"' in result
 
     def test_handles_self_closing_xhtml_img(self) -> None:
         html = '<img src="img/photo.jpg" alt="Photo" />'
         result = wrap_images_with_lightbox(html)
         assert 'class="img-zoom-link"' in result
-        assert 'id="img-zoom-0"' in result
+        assert 'id="img-chk-0"' in result
 
-    def test_overlay_has_close_link(self) -> None:
+    def test_overlay_close_uses_label_not_href(self) -> None:
         html = '<img src="img/photo.jpg" alt="Photo">'
         result = wrap_images_with_lightbox(html)
-        assert 'href="#"' in result
+        assert 'href="#"' not in result
+        assert 'for="img-chk-0"' in result
 
 
 class TestBuildNavItems:

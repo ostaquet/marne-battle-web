@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- CSS-only image lightbox: clicking any image shows it full-size in an overlay; clicking the overlay closes it (no JavaScript)
+- CSS-only image lightbox: clicking any image shows it full-size in an overlay; clicking the overlay closes it without changing the scroll position (no JavaScript; uses hidden checkbox toggle instead of URL hash)
 
 ### Fixed
 
