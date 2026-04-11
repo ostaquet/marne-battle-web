@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Changed
+
+- Extracted inline CSS from `build_website.py` into a standalone `src/style.css` file
+- HTML template now references `style.css` via `<link>` instead of repeating `<style>` in every page
+- `build_website()` now accepts a `css_path` parameter and copies the stylesheet to the output directory
+- Added `copy_stylesheet()` function to copy the CSS file to the build output
+
+### Task
+
+- Completed task `0017-refactor-use-css.md`: Extract CSS to a single file shared across all pages
+
 ### Added
 
 - Python script `build_website.py` to build a self-contained static website from Markdown and images

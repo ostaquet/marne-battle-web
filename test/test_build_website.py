@@ -12,6 +12,7 @@ from build_website import (
     generate_html_page,
     build_md_file,
     copy_images,
+    copy_stylesheet,
     build_website,
     NAVIGATION_ITEMS,
 )
@@ -199,6 +200,11 @@ class TestGenerateHtmlPage:
         assert "<html" in html
         assert "</html>" in html
 
+    def test_links_external_stylesheet(self) -> None:
+        html = generate_html_page("<p>Content</p>", "Title", None)
+        assert '<link rel="stylesheet" href="style.css">' in html
+        assert "<style>" not in html
+
 
 class TestBuildMdFile:
     """Tests for building a single HTML file from a Markdown file."""
@@ -313,8 +319,48 @@ class TestCopyImages:
             assert not os.path.exists(os.path.join(output_dir, "img", "old.jpg"))
 
 
+class TestCopyStylesheet:
+    """Tests for copying the CSS file to the build directory."""
+
+    def test_copies_stylesheet_as_style_css(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            css_src = os.path.join(tmp_dir, "style.css")
+            with open(css_src, "w", encoding="utf-8") as f:
+                f.write("body { color: red; }")
+
+            output_dir = os.path.join(tmp_dir, "build")
+            os.makedirs(output_dir)
+            copy_stylesheet(css_src, output_dir)
+
+            assert os.path.exists(os.path.join(output_dir, "style.css"))
+
+    def test_copied_content_matches_source(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            css_src = os.path.join(tmp_dir, "style.css")
+            css_content = "body { background: #fff; }\nh1 { color: navy; }\n"
+            with open(css_src, "w", encoding="utf-8") as f:
+                f.write(css_content)
+
+            output_dir = os.path.join(tmp_dir, "build")
+            os.makedirs(output_dir)
+            copy_stylesheet(css_src, output_dir)
+
+            out_css = os.path.join(output_dir, "style.css")
+            with open(out_css, "r", encoding="utf-8") as f:
+                result = f.read()
+
+            assert result == css_content
+
+
 class TestBuildWebsite:
     """Integration tests for the full website build."""
+
+    def _make_css(self, tmp_dir: str) -> str:
+        """Create a minimal CSS file and return its path."""
+        css_path = os.path.join(tmp_dir, "style.css")
+        with open(css_path, "w", encoding="utf-8") as f:
+            f.write("body { color: black; }")
+        return css_path
 
     def test_builds_all_md_files(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
@@ -323,12 +369,13 @@ class TestBuildWebsite:
             output_dir = os.path.join(tmp_dir, "build")
             os.makedirs(md_dir)
             os.makedirs(img_dir)
+            css_path = self._make_css(tmp_dir)
 
             for name in ["homepage.md", "page_02.md", "article_02_02.md"]:
                 with open(os.path.join(md_dir, name), "w", encoding="utf-8") as f:
                     f.write(f"# Title for {name}\n\nContent.")
 
-            build_website(md_dir, img_dir, output_dir)
+            build_website(md_dir, img_dir, css_path, output_dir)
 
             assert os.path.exists(os.path.join(output_dir, "index.html"))
             assert os.path.exists(os.path.join(output_dir, "page_02.html"))
@@ -342,13 +389,30 @@ class TestBuildWebsite:
             os.makedirs(md_dir)
             os.makedirs(img_dir)
             open(os.path.join(img_dir, "photo.jpg"), "w").close()
+            css_path = self._make_css(tmp_dir)
 
             with open(os.path.join(md_dir, "homepage.md"), "w", encoding="utf-8") as f:
                 f.write("# Home\n\nContent.")
 
-            build_website(md_dir, img_dir, output_dir)
+            build_website(md_dir, img_dir, css_path, output_dir)
 
             assert os.path.exists(os.path.join(output_dir, "img", "photo.jpg"))
+
+    def test_copies_stylesheet_to_build(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            md_dir = os.path.join(tmp_dir, "md")
+            img_dir = os.path.join(tmp_dir, "img")
+            output_dir = os.path.join(tmp_dir, "build")
+            os.makedirs(md_dir)
+            os.makedirs(img_dir)
+            css_path = self._make_css(tmp_dir)
+
+            with open(os.path.join(md_dir, "homepage.md"), "w", encoding="utf-8") as f:
+                f.write("# Home\n\nContent.")
+
+            build_website(md_dir, img_dir, css_path, output_dir)
+
+            assert os.path.exists(os.path.join(output_dir, "style.css"))
 
     def test_creates_output_dir_if_missing(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
@@ -357,10 +421,11 @@ class TestBuildWebsite:
             output_dir = os.path.join(tmp_dir, "build", "nested")
             os.makedirs(md_dir)
             os.makedirs(img_dir)
+            css_path = self._make_css(tmp_dir)
 
             with open(os.path.join(md_dir, "homepage.md"), "w", encoding="utf-8") as f:
                 f.write("# Home\n\nContent.")
 
-            build_website(md_dir, img_dir, output_dir)
+            build_website(md_dir, img_dir, css_path, output_dir)
 
             assert os.path.isdir(output_dir)
