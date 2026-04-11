@@ -177,11 +177,7 @@ hr {
     margin: 2rem 0;
 }
 
-.img-zoom-toggle {
-    display: none;
-}
-
-.img-zoom-link {
+.img-zoom-container {
     display: block;
     cursor: zoom-in;
 }
@@ -197,7 +193,7 @@ hr {
     justify-content: center;
 }
 
-.img-zoom-toggle:checked ~ .img-zoom-overlay {
+.img-zoom-overlay.active {
     display: flex;
 }
 

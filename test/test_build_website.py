@@ -196,20 +196,12 @@ class TestConvertImageLinks:
 
 
 class TestWrapImagesWithLightbox:
-    """Tests for wrapping images in a CSS-only checkbox lightbox."""
+    """Tests for wrapping images in a JS-driven lightbox container."""
 
-    def test_wraps_img_in_label_zoom_link(self) -> None:
+    def test_wraps_img_in_container_span(self) -> None:
         html = '<img src="img/photo.jpg" alt="Photo">'
         result = wrap_images_with_lightbox(html)
-        assert 'class="img-zoom-link"' in result
-        assert 'for="img-chk-0"' in result
-
-    def test_creates_hidden_checkbox(self) -> None:
-        html = '<img src="img/photo.jpg" alt="Photo">'
-        result = wrap_images_with_lightbox(html)
-        assert 'type="checkbox"' in result
-        assert 'id="img-chk-0"' in result
-        assert 'class="img-zoom-toggle"' in result
+        assert 'class="img-zoom-container"' in result
 
     def test_creates_overlay_span(self) -> None:
         html = '<img src="img/photo.jpg" alt="Photo">'
@@ -230,28 +222,26 @@ class TestWrapImagesWithLightbox:
         html = "<p>Text without images.</p>"
         assert wrap_images_with_lightbox(html) == html
 
-    def test_multiple_images_have_unique_ids(self) -> None:
+    def test_multiple_images_each_have_container(self) -> None:
         html = (
             '<img src="img/a.jpg" alt="A">'
             '<img src="img/b.jpg" alt="B">'
         )
         result = wrap_images_with_lightbox(html)
-        assert 'id="img-chk-0"' in result
-        assert 'id="img-chk-1"' in result
-        assert 'for="img-chk-0"' in result
-        assert 'for="img-chk-1"' in result
+        assert result.count('class="img-zoom-container"') == 2
+        assert result.count('class="img-zoom-overlay"') == 2
 
     def test_handles_self_closing_xhtml_img(self) -> None:
         html = '<img src="img/photo.jpg" alt="Photo" />'
         result = wrap_images_with_lightbox(html)
-        assert 'class="img-zoom-link"' in result
-        assert 'id="img-chk-0"' in result
+        assert 'class="img-zoom-container"' in result
 
-    def test_overlay_close_uses_label_not_href(self) -> None:
+    def test_no_form_elements_in_output(self) -> None:
         html = '<img src="img/photo.jpg" alt="Photo">'
         result = wrap_images_with_lightbox(html)
-        assert 'href="#"' not in result
-        assert 'for="img-chk-0"' in result
+        assert 'type="checkbox"' not in result
+        assert '<input' not in result
+        assert '<label' not in result
 
 
 class TestBuildNavItems:

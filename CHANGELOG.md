@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Fixed
+
+- Images now appear in Safari and Firefox Reader Mode: replaced `<input type="checkbox">` / `<label>` form elements with semantic `<span class="img-zoom-container">` wrappers; lightbox open/close is now handled by JavaScript click events instead of CSS `:checked` selector
+- `scripts.js` updated: attaches click listeners to `.img-zoom-container` thumbnails and overlays, and toggles an `active` class on `.img-zoom-overlay` instead of unchecking a checkbox
+- `style.css` updated: removed `.img-zoom-toggle` and `.img-zoom-link` rules; replaced `.img-zoom-toggle:checked ~ .img-zoom-overlay` with `.img-zoom-overlay.active`
+
+### Task
+
+- Completed task `0023-reader-does-not-work.md`: Fix Reader Mode not showing pictures
+
 ### Added
 
 - CSS-only image lightbox: clicking any image shows it full-size in an overlay; clicking the overlay closes it without changing the scroll position (uses hidden checkbox toggle instead of URL hash)
