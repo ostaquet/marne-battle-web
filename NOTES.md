@@ -22,7 +22,7 @@ curl -X GET "http://web.archive.org/cdx/search/cdx?url=www.sambre-marne-yser.be"
 
 ## Known issues
 
-- In the html files, there are links to other pictures that failed the extract process (example in `article_03_04.htm`, the link to `IMG/jpg/olan_schlieffen2.jpg` was not relink properly). But the files are correctly downloaded locally.
+- When opening a page in "reader mode" in the browser, the images are not visible.
 
 ## URLs
 
