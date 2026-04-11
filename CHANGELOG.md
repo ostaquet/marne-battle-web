@@ -8,6 +8,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
+- Python script `build_website.py` to build a self-contained static website from Markdown and images
+- Function `build_website()` to orchestrate the full website build
+- Function `build_md_file()` to convert a single Markdown file to an HTML page
+- Function `convert_md_to_html()` to convert Markdown content to HTML using the `markdown` library
+- Function `generate_html_page()` to wrap HTML content in the full page template
+- Function `build_nav_items()` to generate the navigation bar HTML
+- Function `fix_image_paths()` to rewrite `../img/` to `img/` in HTML output
+- Function `fix_md_links()` to convert `.md` hrefs to `.html`
+- Function `md_filename_to_html_filename()` to map source filenames to output filenames
+- Function `extract_title()` to extract the H1 heading as the page title
+- Function `copy_images()` to copy the image directory into the build output
+- Dependencies `markdown` and `types-Markdown` added to `requirements.txt`
+- Comprehensive unit tests for all build functions
+
+### Task
+
+- Completed task `0016-build-static-website.md`: Build static website in `assets/build/` from Markdown and images
+
 - Python script `convert_to_markdown.py` to convert HTML files to Markdown
 - Function `convert_href()` to convert `.htm` links to `.md` links
 - Function `has_bullet_marker()` to detect spip_puce bullet paragraphs

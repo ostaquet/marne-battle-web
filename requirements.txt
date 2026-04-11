@@ -9,3 +9,5 @@ types-requests>=2.31.0
 types-PyYAML>=6.0.0
 types-beautifulsoup4>=4.12.0
 bandit
+markdown>=3.5.0
+types-Markdown>=3.5.0

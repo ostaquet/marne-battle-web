@@ -143,6 +143,32 @@ This will:
    - Horizontal rules `<hr/>` → `---`
 4. Save Markdown files to `assets/md/`
 
+### 7. Building the static website
+
+After converting to Markdown, build the final static website:
+
+```bash
+source venv_local/bin/activate
+python3 src/build_website.py
+```
+
+This will:
+
+1. Read all Markdown files from `assets/md/`
+2. Convert each file to HTML using the `markdown` library (with tables support)
+3. Wrap each page in a full HTML template with:
+   - Site header: "Sambre-Marne-Yser" / "Août - Novembre 1914"
+   - Navigation bar with links to all top-level sections
+   - Clean, readable typography optimised for historical content
+4. Fix image paths (`../img/` → `img/`) and convert `.md` links to `.html`
+5. Copy all images from `assets/img/` to `assets/build/img/`
+6. Save the complete website to `assets/build/`
+   - `homepage.md` → `index.html`
+   - `page_XX.md` → `page_XX.html`
+   - `article_XX_YY.md` → `article_XX_YY.html`
+
+The resulting `assets/build/` directory is self-contained and can be served as a static website.
+
 ## Development
 
 ### Running Tests
