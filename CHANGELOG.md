@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Fixed
 
 - Bullet lists in content are now indented relative to the surrounding text (`main ul`/`main ol` get `padding-left: 1.5rem`)
+- Link text `(Lire la suite...)` is now rendered as `Lire la suite` (no parentheses or ellipsis)
+- Anchor links pointing to image files are now converted to inline `<img>` tags to avoid an extra click
 
 ### Changed
 

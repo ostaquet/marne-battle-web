@@ -7,6 +7,8 @@ from build_website import (
     extract_title,
     fix_image_paths,
     fix_md_links,
+    clean_lire_la_suite,
+    convert_image_links,
     build_nav_items,
     convert_md_to_html,
     generate_html_page,
@@ -114,6 +116,81 @@ class TestFixMdLinks:
     def test_no_md_links(self) -> None:
         html = '<p>Some text without links.</p>'
         assert fix_md_links(html) == '<p>Some text without links.</p>'
+
+
+class TestCleanLireLaSuite:
+    """Tests for cleaning up '(Lire la suite...)' link text."""
+
+    def test_replaces_lire_la_suite_text(self) -> None:
+        html = '<a href="article_02_02.html">(Lire la suite...)</a>'
+        result = clean_lire_la_suite(html)
+        assert ">Lire la suite<" in result
+        assert "(Lire la suite...)" not in result
+
+    def test_leaves_other_link_text_unchanged(self) -> None:
+        html = '<a href="page_02.html">Prémisses</a>'
+        assert clean_lire_la_suite(html) == html
+
+    def test_handles_multiple_occurrences(self) -> None:
+        html = (
+            '<a href="a.html">(Lire la suite...)</a>'
+            '<a href="b.html">(Lire la suite...)</a>'
+        )
+        result = clean_lire_la_suite(html)
+        assert result.count("Lire la suite") == 2
+        assert "(Lire la suite...)" not in result
+
+    def test_no_change_when_no_match(self) -> None:
+        html = "<p>Some text without any links.</p>"
+        assert clean_lire_la_suite(html) == html
+
+
+class TestConvertImageLinks:
+    """Tests for converting anchor links pointing to images into <img> tags."""
+
+    def test_converts_jpg_link(self) -> None:
+        html = '<a href="img/map.jpg">Lien vers carte</a>'
+        result = convert_image_links(html)
+        assert '<img src="img/map.jpg" alt="Lien vers carte">' in result
+        assert "<a" not in result
+
+    def test_converts_png_link(self) -> None:
+        html = '<a href="img/schema.png">Lien vers schéma</a>'
+        result = convert_image_links(html)
+        assert '<img src="img/schema.png"' in result
+
+    def test_converts_gif_link(self) -> None:
+        html = '<a href="img/anim.gif">Animation</a>'
+        result = convert_image_links(html)
+        assert '<img src="img/anim.gif"' in result
+
+    def test_case_insensitive_extension(self) -> None:
+        html = '<a href="img/photo.JPG">Photo</a>'
+        result = convert_image_links(html)
+        assert "<img" in result
+
+    def test_leaves_html_links_unchanged(self) -> None:
+        html = '<a href="page_02.html">Prémisses</a>'
+        assert convert_image_links(html) == html
+
+    def test_leaves_external_links_unchanged(self) -> None:
+        html = '<a href="https://example.com">Example</a>'
+        assert convert_image_links(html) == html
+
+    def test_multiple_image_links(self) -> None:
+        html = (
+            '<a href="img/a.jpg">Map A</a>'
+            '<a href="img/b.jpg">Map B</a>'
+        )
+        result = convert_image_links(html)
+        assert 'src="img/a.jpg"' in result
+        assert 'src="img/b.jpg"' in result
+        assert "<a" not in result
+
+    def test_preserves_alt_text(self) -> None:
+        html = '<a href="img/marne.jpg">Carte de la Marne</a>'
+        result = convert_image_links(html)
+        assert 'alt="Carte de la Marne"' in result
 
 
 class TestBuildNavItems:

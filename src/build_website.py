@@ -86,6 +86,26 @@ def _replace_md_href(match: re.Match[str]) -> str:
     return f'href="{base}.html"'
 
 
+IMAGE_LINK_PATTERN = (
+    r'<a href="([^"]+\.(?:jpg|jpeg|png|gif|webp))"[^>]*>([^<]*)</a>'
+)
+
+
+def clean_lire_la_suite(html_content: str) -> str:
+    """Replace '(Lire la suite...)' link text with 'Lire la suite'."""
+    return html_content.replace(">(Lire la suite...)<", ">Lire la suite<")
+
+
+def convert_image_links(html_content: str) -> str:
+    """Convert anchor links whose href points to an image into inline <img> tags."""
+    return re.sub(
+        IMAGE_LINK_PATTERN,
+        lambda m: f'<img src="{m.group(1)}" alt="{m.group(2)}">',
+        html_content,
+        flags=re.IGNORECASE,
+    )
+
+
 def build_nav_items(active_html_filename: Optional[str]) -> str:
     """Build the HTML list items for the navigation bar."""
     items: list[str] = []
@@ -133,6 +153,8 @@ def build_md_file(
     content_html = convert_md_to_html(md_content)
     content_html = fix_image_paths(content_html)
     content_html = fix_md_links(content_html)
+    content_html = clean_lire_la_suite(content_html)
+    content_html = convert_image_links(content_html)
 
     output_filename = md_filename_to_html_filename(md_path)
     page_html = generate_html_page(content_html, title, output_filename)
