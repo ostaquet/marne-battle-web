@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Added
+
+- CSS-only image lightbox: clicking any image shows it full-size in an overlay; clicking the overlay closes it (no JavaScript)
+
 ### Fixed
 
 - Bullet lists in content are now indented relative to the surrounding text (`main ul`/`main ol` get `padding-left: 1.5rem`)

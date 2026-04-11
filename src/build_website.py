@@ -90,6 +90,9 @@ IMAGE_LINK_PATTERN = (
     r'<a href="([^"]+\.(?:jpg|jpeg|png|gif|webp))"[^>]*>([^<]*)</a>'
 )
 
+LIGHTBOX_THUMB_CLASS = "img-zoom-link"
+LIGHTBOX_OVERLAY_CLASS = "img-zoom-overlay"
+
 
 def clean_lire_la_suite(html_content: str) -> str:
     """Replace '(Lire la suite...)' link text with 'Lire la suite'."""
@@ -104,6 +107,32 @@ def convert_image_links(html_content: str) -> str:
         html_content,
         flags=re.IGNORECASE,
     )
+
+
+def wrap_images_with_lightbox(html_content: str) -> str:
+    """Wrap each image in a CSS-only lightbox for full-size viewing on click."""
+    counter: list[int] = [0]
+
+    def make_lightbox(match: re.Match[str]) -> str:
+        img_tag = match.group(0)
+        src_match = re.search(r'\bsrc="([^"]*)"', img_tag)
+        alt_match = re.search(r'\balt="([^"]*)"', img_tag)
+        if not src_match:
+            return img_tag
+        src = src_match.group(1)
+        alt = alt_match.group(1) if alt_match else ""
+        zoom_id = f"img-zoom-{counter[0]}"
+        counter[0] += 1
+        return (
+            f'<a href="#{zoom_id}" class="{LIGHTBOX_THUMB_CLASS}">'
+            f'{img_tag}</a>'
+            f'<div id="{zoom_id}" class="{LIGHTBOX_OVERLAY_CLASS}">'
+            f'<a href="#"><img src="{src}" alt="{alt}"></a>'
+            f'</div>'
+        )
+
+    return re.sub(r'<img\b[^>]*/?>',
+                  make_lightbox, html_content)
 
 
 def build_nav_items(active_html_filename: Optional[str]) -> str:
@@ -155,6 +184,7 @@ def build_md_file(
     content_html = fix_md_links(content_html)
     content_html = clean_lire_la_suite(content_html)
     content_html = convert_image_links(content_html)
+    content_html = wrap_images_with_lightbox(content_html)
 
     output_filename = md_filename_to_html_filename(md_path)
     page_html = generate_html_page(content_html, title, output_filename)

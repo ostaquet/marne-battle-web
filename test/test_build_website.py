@@ -9,6 +9,7 @@ from build_website import (
     fix_md_links,
     clean_lire_la_suite,
     convert_image_links,
+    wrap_images_with_lightbox,
     build_nav_items,
     convert_md_to_html,
     generate_html_page,
@@ -191,6 +192,58 @@ class TestConvertImageLinks:
         html = '<a href="img/marne.jpg">Carte de la Marne</a>'
         result = convert_image_links(html)
         assert 'alt="Carte de la Marne"' in result
+
+
+class TestWrapImagesWithLightbox:
+    """Tests for wrapping images in a CSS-only lightbox."""
+
+    def test_wraps_img_in_zoom_link(self) -> None:
+        html = '<img src="img/photo.jpg" alt="Photo">'
+        result = wrap_images_with_lightbox(html)
+        assert 'class="img-zoom-link"' in result
+        assert 'href="#img-zoom-0"' in result
+
+    def test_creates_overlay_div(self) -> None:
+        html = '<img src="img/photo.jpg" alt="Photo">'
+        result = wrap_images_with_lightbox(html)
+        assert 'id="img-zoom-0"' in result
+        assert 'class="img-zoom-overlay"' in result
+
+    def test_overlay_contains_full_size_img(self) -> None:
+        html = '<img src="img/map.jpg" alt="Map">'
+        result = wrap_images_with_lightbox(html)
+        assert result.count('src="img/map.jpg"') == 2
+
+    def test_preserves_alt_in_overlay(self) -> None:
+        html = '<img src="img/map.jpg" alt="Battle map">'
+        result = wrap_images_with_lightbox(html)
+        assert result.count('alt="Battle map"') == 2
+
+    def test_no_change_when_no_images(self) -> None:
+        html = "<p>Text without images.</p>"
+        assert wrap_images_with_lightbox(html) == html
+
+    def test_multiple_images_have_unique_ids(self) -> None:
+        html = (
+            '<img src="img/a.jpg" alt="A">'
+            '<img src="img/b.jpg" alt="B">'
+        )
+        result = wrap_images_with_lightbox(html)
+        assert 'id="img-zoom-0"' in result
+        assert 'id="img-zoom-1"' in result
+        assert 'href="#img-zoom-0"' in result
+        assert 'href="#img-zoom-1"' in result
+
+    def test_handles_self_closing_xhtml_img(self) -> None:
+        html = '<img src="img/photo.jpg" alt="Photo" />'
+        result = wrap_images_with_lightbox(html)
+        assert 'class="img-zoom-link"' in result
+        assert 'id="img-zoom-0"' in result
+
+    def test_overlay_has_close_link(self) -> None:
+        html = '<img src="img/photo.jpg" alt="Photo">'
+        result = wrap_images_with_lightbox(html)
+        assert 'href="#"' in result
 
 
 class TestBuildNavItems:

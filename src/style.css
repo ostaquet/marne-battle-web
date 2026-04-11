@@ -177,6 +177,35 @@ hr {
     margin: 2rem 0;
 }
 
+.img-zoom-link {
+    display: block;
+    cursor: zoom-in;
+}
+
+.img-zoom-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.88);
+    z-index: 200;
+    cursor: zoom-out;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-zoom-overlay:target {
+    display: flex;
+}
+
+.img-zoom-overlay img {
+    max-width: 95vw;
+    max-height: 95vh;
+    max-height: 95dvh;
+    margin: 0;
+    box-shadow: 0 4px 32px rgba(0, 0, 0, 0.6);
+    cursor: zoom-out;
+}
+
 @media (max-width: 600px) {
     header h1 { font-size: 1.4rem; }
     nav ul li a { font-size: 0.75rem; padding: 0.6rem 0.5rem; }
