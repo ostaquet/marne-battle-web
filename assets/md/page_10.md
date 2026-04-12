@@ -22,3 +22,7 @@ Bruxelles possède trois bibliothèques/dépôts d’archives spécialisés dans
 - Les archives du ministère de la défense.
 - Le centre de documentation du musée royal de l’armée et d’histoire militaire.
 - Le C.E.G.E.S. : guerre et sociétés contemporaines.
+
+---
+
+Site restauré pour la postérité le 11 avril 2026 par [Olivier Staquet de Techanism](mailto:info@techanism.be) grâce à l'[Internet Archive](https://archive.org).
