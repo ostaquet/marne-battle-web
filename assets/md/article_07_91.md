@@ -10,19 +10,19 @@ Le combat d’Arsimont est un épisode de la bataille de Charleroi, livré par l
 
 **19e division d’infanterie, général Bonnier, partie du 10e C.A. français (Rennes), général Defforges**
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 37e brigade | Bailly | 48e R.I. (Guingamp)71e R.I. (Saint-Brieuc) |
-| 38e brigade | Rogerie | 41e R.I. (Rennes)70e R.I. (Vitré)7e R.A.C. (Rennes) |
+| Unité       | Commandant | Régiments                                           |
+| ----------- | ---------- | --------------------------------------------------- |
+| 37e brigade | Bailly     | 48e R.I. (Guingamp)71e R.I. (Saint-Brieuc)          |
+| 38e brigade | Rogerie    | 41e R.I. (Rennes)70e R.I. (Vitré)7e R.A.C. (Rennes) |
 
 Le 47e R.I. sera également demandé en renfort.
 
 **2e division d’infanterie de la Garde : général von Winckler, partie du C.A. allemand de la Garde (Berlin), général von Plettenberg**
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 3e brigade de la Garde |  | Grenadier-Regiment Nr. 1 (Königsberg)Grenadier-Regiment Nr 2 (Stettin)Garde-Schützen Bataillon (Berlin) |
-| 4e brigade de la Garde |  | Grenadier-Regiment Nr 3 (Königsberg)Grenadier-Regiment Nr 4 (Rastenburg)2. Garde-Ulanen-Regiment (Berlin) |
+| Unité                  | Commandant | Régiments                                                                                                 |
+| ---------------------- | ---------- | --------------------------------------------------------------------------------------------------------- |
+| 3e brigade de la Garde |            | Grenadier-Regiment Nr. 1 (Königsberg)Grenadier-Regiment Nr 2 (Stettin)Garde-Schützen Bataillon (Berlin)   |
+| 4e brigade de la Garde |            | Grenadier-Regiment Nr 3 (Königsberg)Grenadier-Regiment Nr 4 (Rastenburg)2. Garde-Ulanen-Regiment (Berlin) |
 
 ### Le terrain
 
@@ -66,15 +66,15 @@ Le 2e bataillon du 70e est désigné pour la garde des ponts de Tamines et d’A
 **18h :**
 
 - La 7e compagnie doit garder le pont de Tamines
-  Les 6e et 8e compagnies cantonneront à Arsimont. **Les officiers ne disposent pas de cartes précises.**
+    Les 6e et 8e compagnies cantonneront à Arsimont. **Les officiers ne disposent pas de cartes précises.**
 
 **20h :**
 
 Le capitaine Béhague constate qu’Auvelais est une importante localité de 10.000 habitants, largement étalée sur la boucle de la Sambre. Le pont est englobé dans une agglomération de maisons. Il est impossible de s’y déployer car il y en fait huit passages à garder dans la boucle d’Auvelais :
 
 - A l’est, le pont de la Pêcherie, l’écluse n° 17 et le viaduc de la voie normale.
-  Au nord, le grand pont, une passerelle et l’écluse n° 16.
-  A l’ouest, le viaduc de la voie normale et celui de la voie étroite.
+    Au nord, le grand pont, une passerelle et l’écluse n° 16.
+    A l’ouest, le viaduc de la voie normale et celui de la voie étroite.
 
 Ces passages s’étalent sur 1.500 m. Les sections doivent être scindées et réparties.
 
@@ -114,7 +114,7 @@ Personne ne garde les deux viaducs ouest de la boucle d’Auvelais. **Il y a un 
 
 **7h :**
 
-Les sections des prairies et de l’écluse n° 16 signalent  que des cyclistes allemands commencent à sortir du Bois du Curé et qu’ils contournent la boucle par l’ouest. Ils se saisissent des viaducs non gardés et attendant que le gros de l’avant-garde arrive.
+Les sections des prairies et de l’écluse n° 16 signalent que des cyclistes allemands commencent à sortir du Bois du Curé et qu’ils contournent la boucle par l’ouest. Ils se saisissent des viaducs non gardés et attendant que le gros de l’avant-garde arrive.
 
 **7h30 :**
 
@@ -134,7 +134,7 @@ Le brouillard se dissipe et le nombre de tués et blessés augmente rapidement. 
 
 **9h30 :**
 
-Les survivants de la 2e section et de la 6e compagnie refluent vers la gare, ceux de la 3e section se rapprochent des maisons du chemin de halage. Entre Auvelais et le P.C. du 70e à Arsimont, il y a une distance de 2,5 km. Aussi quand le général Bonnier questionne au téléphone le commandant du 70, celui-ci lui répond « Rien de sérieux  pour le moment ; l’ennemi semble exécuter devant nous une marche de flanc et se couvrir par des flanc-gardes mobiles ; nous n’aurons probablement pas d’engagement aujourd’hui. »
+Les survivants de la 2e section et de la 6e compagnie refluent vers la gare, ceux de la 3e section se rapprochent des maisons du chemin de halage. Entre Auvelais et le P.C. du 70e à Arsimont, il y a une distance de 2,5 km. Aussi quand le général Bonnier questionne au téléphone le commandant du 70, celui-ci lui répond « Rien de sérieux pour le moment ; l’ennemi semble exécuter devant nous une marche de flanc et se couvrir par des flanc-gardes mobiles ; nous n’aurons probablement pas d’engagement aujourd’hui. »
 
 **10h :**
 
@@ -142,7 +142,7 @@ Le commandant du 3e bataillon reçoit l’ordre de porter deux compagnies à Auv
 
 **10h23 :**
 
-Le général Bonnier a fait placer  l’artillerie du 1e groupe du 7e R.A.C. au bord du plateau qui domine la Sambre de 100 m. Comme les ponts de la Sambre sont à la fois très rapprochée et très en contre-bas, les artilleurs ont placé leur canons presque sur la crête. Personne n’a pensé à utiliser la contre-pente un Km en arrière, qui aurait défilé les canons. Les batteries montreront donc leurs lueurs à chaque tir.
+Le général Bonnier a fait placer l’artillerie du 1e groupe du 7e R.A.C. au bord du plateau qui domine la Sambre de 100 m. Comme les ponts de la Sambre sont à la fois très rapprochée et très en contre-bas, les artilleurs ont placé leur canons presque sur la crête. Personne n’a pensé à utiliser la contre-pente un Km en arrière, qui aurait défilé les canons. Les batteries montreront donc leurs lueurs à chaque tir.
 
 Le général Bonnier et son état-major aperçoivent des silhouettes en mouvement du côté de La Sarte, qui descendent vers la Sambre. Le général donne ordre à la 2e batterie de balayer le terrain. Sur ces entrefaites, il apprend que le pont de Tamines a été perdu. Les 1e et 3e batteries prennent position plus à l’ouest pour le battre. La 2e batterie reste en place à la cote 190.
 
@@ -152,7 +152,7 @@ Un cycliste arrive au PC du 70e régiment avec le message du chef du 3e bataillo
 
 **12h30 :**
 
-L’artillerie française, située sur la crête 190 - 192 essaie d’atteindre le clocher de La Sarte, à une distance de 3500 m. Une poussière indique que le clocher a été touché.  Il ne se passe toujours rien sur le pont de Tamines.
+L’artillerie française, située sur la crête 190 - 192 essaie d’atteindre le clocher de La Sarte, à une distance de 3500 m. Une poussière indique que le clocher a été touché. Il ne se passe toujours rien sur le pont de Tamines.
 
 **12h45 :**
 
@@ -183,13 +183,13 @@ Les défenseurs du viaduc est d’Auvelais et de l’écluse n° 17 n’ont pas
 La section d’arrière-garde s’arrête au Tienne du Moulin. De cet endroit, l’on voit de longues files de tirailleurs qui s’avancent par bonds de La Sarte vers la Sambre. Les obus de 77 commencent déjà à tomber sur Ham-sur-Sambre, mais, de ce côté, les Allemands seront tenus en échec par le I/41e. A l’ouest d’Auvelais, à l’intérieur de la boucle, les Allemands avancent vigoureusement. Des sections françaises situées à Tamines ouvrent le feu sur eux. Les Allemands se rejettent dans le ravin de la Biesme, d’où ils tenteront de gagner Arsimont par les pentes, et Falisolle par la vallée.
 
 - Le 3e bataillon s’est réuni à la lisière nord d’Arsimont
-  La 12e compagnie  au carrefour nord.
-  La 9e et la 10e près de la fosse n° 2.
-  La 11e compagnie en réserve près de l’église au centre du village.
+    La 12e compagnie au carrefour nord.
+    La 9e et la 10e près de la fosse n° 2.
+    La 11e compagnie en réserve près de l’église au centre du village.
 
 Les lignes allemandes progressent de clôture en clôture, de maison en maison sur la route d’Auvelais à Falisolle. Une batterie de 105 prend position près du nouveau cimetière d’Auvelais, à 2000 m. Les mitrailleuses ouvrent le feu. Il en résulte un grand désordre dans la batterie française dont les attelages et les servants s’enfuient.
 
-La lisière nord d’Arsimont subit un bombardement intense. Un feu de mousqueterie part du Tienne du Moulin où l’infanterie allemande a pris pied. Le bombardement s’étend sur la crête d’Arsimont. Les compagnies de première ligne se replient  sur cette crête, puis à la lisière sud de la localité.
+La lisière nord d’Arsimont subit un bombardement intense. Un feu de mousqueterie part du Tienne du Moulin où l’infanterie allemande a pris pied. Le bombardement s’étend sur la crête d’Arsimont. Les compagnies de première ligne se replient sur cette crête, puis à la lisière sud de la localité.
 
 **16h20 :**
 
@@ -201,7 +201,7 @@ _Collection privée_
 
 **16h30 :**
 
-Le commandant du 1e bataillon du 70e reçoit l’ordre suivant : « Le 2e bataillon qui résiste depuis le matin dans Auvelais commence à être  débordé ; portez-vous le plus tôt possible à  Arsimont avec trois compagnies en laissant une compagnie à Taravisée pour garder le P.C. de la brigade et soutenir l’artillerie en batterie dans ces parages. »
+Le commandant du 1e bataillon du 70e reçoit l’ordre suivant : « Le 2e bataillon qui résiste depuis le matin dans Auvelais commence à être débordé ; portez-vous le plus tôt possible à Arsimont avec trois compagnies en laissant une compagnie à Taravisée pour garder le P.C. de la brigade et soutenir l’artillerie en batterie dans ces parages. »
 
 Le bataillon part aussitôt vers le carrefour sud d’Arsimont. Au passage de la crête 190-192, le bataillon subit un bombardement important et les compagnies s’abritent dans les fermes et les maisons de la lisière sud. La troupe s’engage dans la rue d’Arsimont qui est balayée par les balles. Les Allemands ne sont pas très loin.
 
@@ -217,8 +217,8 @@ Le 1e groupe du 7e R.A.C., qui se trouve au sud d’Aisemont, reçoit l’ordre 
 Le 71e arrive dans Aisemont, suivi des batteries du 7e qui traversent le village au galop. Le régiment se déploie en ligne de sections par 4 : à gauche le 2e bataillon, au centre le 1e et à droite le 3e.
 
 - Les objectifs sont :
-  2e bataillon : Tamines.
-  1e et 3e bataillon : Arsimont et Auvelais.
+    2e bataillon : Tamines.
+    1e et 3e bataillon : Arsimont et Auvelais.
 
 La marche des bataillons est ralentie par de nombreuses clôtures de fil de fer.
 
@@ -231,21 +231,21 @@ Lorsqu’il voit les Allemands descendre dans le ravin de la Biesme en direction
 Après la guerre, un monument sera édifié en l’honneur du caporal Lefeuvre, tué après avoir tiré 243 étuis de cartouches.
 
 - Les compagnies du 1e bataillon du 70e se déploient :
-  La 1e au centre traverse la localité du sud au nord en suivant la route.
-  La 4e marchera à droite.
-  La 3e marchera à gauche.
+    La 1e au centre traverse la localité du sud au nord en suivant la route.
+    La 4e marchera à droite.
+    La 3e marchera à gauche.
 
 **18h :**
 Les compagnies du 70e partent sans se faire précéder de patrouilles. Elles se portent résolument en avant, sous les obus et sous les balles. Aux ailes, elles progressent par bonds successifs, mais au centre, la progression est plus lente : il faut se porter de maison en maison.
 Le commandant du bataillon arrive au sud de l’église.
 
-Les canons du 1e groupe du 7e ouvrent le feu vers Auvelais, à une distance de 2.800 m  avec des obus explosifs. La riposte de l’artillerie allemande est immédiate. Les obus tombent sur les avant-trains et certains chevaux sont tués. L’artillerie allemande est bien défilée : elle ne montre aucune lueur et il est par conséquent impossible de lui répondre.
+Les canons du 1e groupe du 7e ouvrent le feu vers Auvelais, à une distance de 2.800 m avec des obus explosifs. La riposte de l’artillerie allemande est immédiate. Les obus tombent sur les avant-trains et certains chevaux sont tués. L’artillerie allemande est bien défilée : elle ne montre aucune lueur et il est par conséquent impossible de lui répondre.
 
 Le 48e part de Fosse-la-Ville par la route d’Arsimont vers Auvelais. **Les cartouches des voitures à munitions n’ont pas été distribuées.**
 
 **18h30 :**
 
-Sous les rafales de mousqueterie, la compagnie du centre (70e R.I.) est arrêtée à environ 100m au sud de l’église. Les rafales partent de toute la lisière nord d’Arsimont. Le 1e groupe du 7e R.A.C. tire à plein et le bataillon repart à l’assaut. L’église est dépassée. La ligne gagne 300 m est à présent à mi-pente, à hauteur du cimetière et des premières maisons de Haut-Batys (au nord d’Arsimont), mais, là, les feux partis du carrefour nord et du Tienne du Moulin  l’arrêtent à nouveau.
+Sous les rafales de mousqueterie, la compagnie du centre (70e R.I.) est arrêtée à environ 100m au sud de l’église. Les rafales partent de toute la lisière nord d’Arsimont. Le 1e groupe du 7e R.A.C. tire à plein et le bataillon repart à l’assaut. L’église est dépassée. La ligne gagne 300 m est à présent à mi-pente, à hauteur du cimetière et des premières maisons de Haut-Batys (au nord d’Arsimont), mais, là, les feux partis du carrefour nord et du Tienne du Moulin l’arrêtent à nouveau.
 
 Un peu plus tard, le 71e arrive sur les lieux et parvient à pousser au-delà. Les Français sont près du pont de la Pêcherie, où les Allemands commencent à arriver. Un corps à corps s’engage sur la rive sud de la Sambre.
 
@@ -260,28 +260,28 @@ Les 3e et 1e bataillons atteignent la grand route à droite et à gauche du carr
 **19h :**
 
 - La 7e compagnie part par la grande route pour s’emparer du Tienne d’Amion, qui domine la Sambre.
-  La 6e compagnie va occuper le moulin et la gare de Falisolle.
-  La 5e compagnie s’établit au nord de la grande route, à la cote 135, d’où elle domine le charbonnage de Falisolle.
-  La 8e compagnie est plus à droite, en liaison avec le 1e bataillon qui va entrer dans Arsimont.
-Les Allemands ne sont pas encore sortis de Tamines et ceux qui viennent d’Auvelais n’ont pas encore atteint le charbonnage de Falisolle.
-La 8e compagnie, entraînée dans le combat de rues d’Arsimont avec le 1e bataillon, va subir de fortes pertes.
+    La 6e compagnie va occuper le moulin et la gare de Falisolle.
+    La 5e compagnie s’établit au nord de la grande route, à la cote 135, d’où elle domine le charbonnage de Falisolle.
+    La 8e compagnie est plus à droite, en liaison avec le 1e bataillon qui va entrer dans Arsimont.
+  Les Allemands ne sont pas encore sortis de Tamines et ceux qui viennent d’Auvelais n’ont pas encore atteint le charbonnage de Falisolle.
+  La 8e compagnie, entraînée dans le combat de rues d’Arsimont avec le 1e bataillon, va subir de fortes pertes.
 
 **19h15 :**
 
 Au 71e R.I., l’ordre de départ est donné aux 1e et 3e bataillons. Il n’y a plus qu’une demi-heure de clarté. La 3e compagnie suit la rue qui conduit d’Arsimont à Auvelais. Celle-ci est balayée par les balles. L’église est pourtant dépassée mais presque aussitôt après, les sections sont obligées de s’abriter dans les maisons.
 
 - La 3e compagnie n’a pas vu d’Allemands et n’a pas tiré.
-  A gauche, la 2e compagnie se maintient à hauteur de la 3e.
+    A gauche, la 2e compagnie se maintient à hauteur de la 3e.
 
 Plus à gauche, la 1e suit une ruelle étroite, traverse des jardins et aperçoit une localité que le capitaine croit être Auvelais (en réalité la lisière nord d’Arsimont). La compagnie effectue un premier bond de 100 m. Le mouvement en avant reprend et aborde des jardins entourés de haies. A ce moment, les pertes sont sévères, la compagnie est criblée de balles. Les soldats s’abritent derrière leur sac.
 
 - A droite, la 4e compagnie a dépassé la crête d’Arsimont en rampant dans les cultures.
 
-- Les 11e et 12e  compagnies subissent de fortes pertes.
+- Les 11e et 12e compagnies subissent de fortes pertes.
 
 - La 10e compagnie est déployée le long de la route de la Clef d’Or et franchit la crête d’Arsimont, puis descend la pente entre Haut-Batys et la fosse n° 1. Dès le franchissement de la crête, les balles font des ravages. Un bond porte les hommes jusqu’à hauteur des maisons de Haut-Batys.
 
-- A l’extrême droite se trouve la 9e compagnie. Elle descend le ravin, entre la fosse n° 1 et n° 2, qui aboutit au pont de la Pêcherie. La descente s’effectue par bonds, sans pertes.  Toutes les autres compagnies sont arrêtées.
+- A l’extrême droite se trouve la 9e compagnie. Elle descend le ravin, entre la fosse n° 1 et n° 2, qui aboutit au pont de la Pêcherie. La descente s’effectue par bonds, sans pertes. Toutes les autres compagnies sont arrêtées.
 
 **19h30 :**
 
@@ -353,7 +353,7 @@ Il règne dans Fosse-la-Ville un énorme encombrement. Tous les régiments s’y
 
 - Les débris du 71e arrivent, suivis d’isolés qui tenaient encore la lisière sud d’Arsimont.
 
-- Viennent ensuite le 48e, le 7e d’artillerie et deux bataillons du 270e  et finalement le 50e d’artillerie : au total 15 ou 16.000 hommes.
+- Viennent ensuite le 48e, le 7e d’artillerie et deux bataillons du 270e et finalement le 50e d’artillerie : au total 15 ou 16.000 hommes.
 
 Dans le 70e et 71e, le moral est assez bas : les soldats ont vu leurs camarades touchés par des balles sans savoir d’où elles venaient. Ces deux régiments ne prendront pas part aux combats du 22.
 
@@ -395,7 +395,7 @@ La 7e compagnie du 41e atteint le centre d’Arsimont. Avant d’arriver à l’
 Les compagnies de première ligne du 48e franchissent la crête au nord du ruisseau de Supré. A ce moment, les mitrailleuses allemandes de Haut-Batys et de la fosse n° 2 se dévoilent, ouvrent le feu à 1000 ou 2000 m et balaient toute la crête. En un instant, le régiment est fauché.
 Les survivants refluent et repassent la crête, cherchant un abri dans le ravin de Supré. A gauche du 48e, la 7e compagnie du 41e qui descendait les pentes du centre d’Arsimont vers Haut-Batys est de même arrêtée par le feu et elle reflue sur le centre d’Arsimont.
 
-Le commandant du 2e zouaves décide d’une manuvre : le régiment passera à droite de la ferme et prendra pour objectif la fosse n° 2 du charbonage, tandis que le 48e reprendra la fosse n° 1.
+Le commandant du 2e zouaves décide d’une manoeuvre : le régiment passera à droite de la ferme et prendra pour objectif la fosse n° 2 du charbonage, tandis que le 48e reprendra la fosse n° 1.
 
 ![Zouave - 32.8 ko](../img/zouave4.jpg)
 _Zouave_

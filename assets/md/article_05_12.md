@@ -22,7 +22,7 @@ La ligne de chemin de fer Strasbourg - Metz passe par les gares de Sarrebourg et
 
 La Seille coule vers l’ouest. La Sarre qui prend sa source au Donon, coule vers le nord.
 
-Au sud de cette région, la Lorraine restée française présente l’aspect d’un plateau ondulé, où les cours d’eau se dirigent généralement du sud-est vers le nord-est. Ce plateau est traversé par deux lignes de hauteurs qui vont du sud-est au nord-ouest : entre Mortagne et Moselle, les collines de Saffais et Belchamps ; à l’est de Nancy, le Grand Couronné qui comprend le Mont Amance, le Mont Toulon et le  Mont Sainte-Geneviève.
+Au sud de cette région, la Lorraine restée française présente l’aspect d’un plateau ondulé, où les cours d’eau se dirigent généralement du sud-est vers le nord-est. Ce plateau est traversé par deux lignes de hauteurs qui vont du sud-est au nord-ouest : entre Mortagne et Moselle, les collines de Saffais et Belchamps ; à l’est de Nancy, le Grand Couronné qui comprend le Mont Amance, le Mont Toulon et le Mont Sainte-Geneviève.
 
 ### Les défenses allemandes
 
@@ -53,20 +53,20 @@ _Général Espinasse (15e C.A.)_
 
 29e division : général Carbillet
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 57e brigade | Tocanne | 111e R.I. (Antibes)112e R.I. (Toulon) |
-| 58e brigade | Gasguy | 3e R.I. (Hyères, Digne)141e R.I. (Marseille) |
-| Elements divisionnaires |  | 6e régiment de hussards (un escadron - Marseille)55e R.A.C. (Orange) |
+| Unité                   | Commandant | Régiments                                                            |
+| ----------------------- | ---------- | -------------------------------------------------------------------- |
+| 57e brigade             | Tocanne    | 111e R.I. (Antibes)112e R.I. (Toulon)                                |
+| 58e brigade             | Gasguy     | 3e R.I. (Hyères, Digne)141e R.I. (Marseille)                         |
+| Elements divisionnaires |            | 6e régiment de hussards (un escadron - Marseille)55e R.A.C. (Orange) |
 
 30e division : général Colle
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 59e brigade | Marillier | 40e R.I. (Nîmes)58e R.I. (Avignon) |
-| 60e brigade | Morgain | 55e R.I. (Aix-en-Provence, Pont-Saint-Esprit)61e R.I. (Aix-en-Provence, Privas) |
-| Eléments divisionnaires |  | 6e régiment de hussards (un escadron - Marseille)19e R.A.C. (Angers) |
-| Réserves |  | 38e R.A.C. (Nîmes)7e régiment d’artillerie à pied (Nice)10e régiment d’artillerie à pied (Toulon) |
+| Unité                   | Commandant | Régiments                                                                                         |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------------------------- |
+| 59e brigade             | Marillier  | 40e R.I. (Nîmes)58e R.I. (Avignon)                                                                |
+| 60e brigade             | Morgain    | 55e R.I. (Aix-en-Provence, Pont-Saint-Esprit)61e R.I. (Aix-en-Provence, Privas)                   |
+| Eléments divisionnaires |            | 6e régiment de hussards (un escadron - Marseille)19e R.A.C. (Angers)                              |
+| Réserves                |            | 38e R.A.C. (Nîmes)7e régiment d’artillerie à pied (Nice)10e régiment d’artillerie à pied (Toulon) |
 
 Ce C.A. rejoindra la IIIe armée à Bar-le-Duc le 3 septembre.
 
@@ -74,20 +74,20 @@ Ce C.A. rejoindra la IIIe armée à Bar-le-Duc le 3 septembre.
 
 31e division : général Vidal
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 61e brigade | Dauvin | 81e R.I. (Montpellier)96e R.I. (Béziers) |
-| 62e brigade | Xardel | 122e R.I. (Rodez)142e R.I. (Lodève, Mende) |
-| Elements divisionnaires |  | 19e régiment de dragons (un escadron - Castres)56e R.A.C. (Montpellier) |
+| Unité                   | Commandant | Régiments                                                               |
+| ----------------------- | ---------- | ----------------------------------------------------------------------- |
+| 61e brigade             | Dauvin     | 81e R.I. (Montpellier)96e R.I. (Béziers)                                |
+| 62e brigade             | Xardel     | 122e R.I. (Rodez)142e R.I. (Lodève, Mende)                              |
+| Elements divisionnaires |            | 19e régiment de dragons (un escadron - Castres)56e R.A.C. (Montpellier) |
 
 32e division : général Bouchez
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 63e brigade | Dion | 53e R.I. (Perpignan)80e R.I. (Narbonne) |
-| 64e brigade | Sibille | 15e R.I. (Albi)143e R.I. (Castelnaudary, Carcassonne) |
-| Eléments divisionnaires |  | 19e régiment de dragons (un escadron - Castres)3e R.A.C. (Castres) |
-| Réserves |  | 38e R.A.C. (Nîmes)332e R.I. (Rodez)342e R.I. (Lodève, Mende)9e R.A.C. (Castres) |
+| Unité                   | Commandant | Régiments                                                                       |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------- |
+| 63e brigade             | Dion       | 53e R.I. (Perpignan)80e R.I. (Narbonne)                                         |
+| 64e brigade             | Sibille    | 15e R.I. (Albi)143e R.I. (Castelnaudary, Carcassonne)                           |
+| Eléments divisionnaires |            | 19e régiment de dragons (un escadron - Castres)3e R.A.C. (Castres)              |
+| Réserves                |            | 38e R.A.C. (Nîmes)332e R.I. (Rodez)342e R.I. (Lodève, Mende)9e R.A.C. (Castres) |
 
 **18e C.A. (Bordeaux) : général de Mas-Latrie**
 
@@ -97,20 +97,20 @@ _Collection privée_
 
 35e division : général Excelmans
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 69e brigade | Durand | 6e R.I. (Saintes / Doé de Mandreville)123e R.I. (La Rochelle / Hubert) |
-| 70e brigade | Pierron | 57e R.I. (Rochefort, Libourne / Dapoigny)144e R.I. (Bordeaux / Gauthier) |
-| Elements divisionnaires |  | 10e régiment de hussards (un escadron - Tarbes)24e R.A.C. (La Rochelle / Dunal) |
+| Unité                   | Commandant | Régiments                                                                       |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------- |
+| 69e brigade             | Durand     | 6e R.I. (Saintes / Doé de Mandreville)123e R.I. (La Rochelle / Hubert)          |
+| 70e brigade             | Pierron    | 57e R.I. (Rochefort, Libourne / Dapoigny)144e R.I. (Bordeaux / Gauthier)        |
+| Elements divisionnaires |            | 10e régiment de hussards (un escadron - Tarbes)24e R.A.C. (La Rochelle / Dunal) |
 
 36e division : général Jouannic
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 71e brigade | Dion | 34e R.I. (Mont-de-Marsan / Capdepont)49e R.I. (Bayonne / Burgala) |
-| 72e brigade | Sibille | 12e R.I. (Tarbes / De Sèze)18e R.I. (Pau / Gloxin) |
-| Eléments divisionnaires |  | 10e régiment de hussards (un escadron - Tarbes)14e R.A.C. (Tarbes / Vincent du Portail) |
-| Réserves |  | 218e R.I. (Pau)249e R.I. (Bayonne) |
+| Unité                   | Commandant | Régiments                                                                               |
+| ----------------------- | ---------- | --------------------------------------------------------------------------------------- |
+| 71e brigade             | Dion       | 34e R.I. (Mont-de-Marsan / Capdepont)49e R.I. (Bayonne / Burgala)                       |
+| 72e brigade             | Sibille    | 12e R.I. (Tarbes / De Sèze)18e R.I. (Pau / Gloxin)                                      |
+| Eléments divisionnaires |            | 10e régiment de hussards (un escadron - Tarbes)14e R.A.C. (Tarbes / Vincent du Portail) |
+| Réserves                |            | 218e R.I. (Pau)249e R.I. (Bayonne)                                                      |
 
 Ce C.A. sera transféré vers la Ve armée, où il participera à la bataille de Charleroi.
 
@@ -122,44 +122,44 @@ _Collection privée_
 
 11e division : général Châtelain
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 21e brigade | Aimé | 26e R.I. (Nancy)69e R.I. (Essey-les-Nancy)2e bataillon de chasseurs à pied (Troyes, Lunéville)4e bataillon de chasseurs à pied (Brienne, Saint-Nicolas) |
-| 22e brigade | Ferry | 37e R.I. (Nancy)79e R.I. (Nancy) |
-| Elements divisionnaires |  | 12e régiment de dragons (un escadron - Troyes, Toul)8e R.A.C. (Nancy) |
+| Unité                   | Commandant | Régiments                                                                                                                                               |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 21e brigade             | Aimé       | 26e R.I. (Nancy)69e R.I. (Essey-les-Nancy)2e bataillon de chasseurs à pied (Troyes, Lunéville)4e bataillon de chasseurs à pied (Brienne, Saint-Nicolas) |
+| 22e brigade             | Ferry      | 37e R.I. (Nancy)79e R.I. (Nancy)                                                                                                                        |
+| Elements divisionnaires |            | 12e régiment de dragons (un escadron - Troyes, Toul)8e R.A.C. (Nancy)                                                                                   |
 
 39e division : général Dantant
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 77e brigade | Dion | 146e R.I. (Toul)153e R.I. (Toul) |
-| 78e brigade | Sibille | 156e R.I. (Toul)160e R.I. (Toul) |
-| Eléments divisionnaires |  | 12e régiment de dragons (un escadron - Troyes, Toul)39e R.A.C. (Toul) |
-| Réserves |  | 60e R.A.C. (Troyes, Neufchâteau)6e régiment d’artillerie à pied (Toul) |
+| Unité                   | Commandant | Régiments                                                              |
+| ----------------------- | ---------- | ---------------------------------------------------------------------- |
+| 77e brigade             | Dion       | 146e R.I. (Toul)153e R.I. (Toul)                                       |
+| 78e brigade             | Sibille    | 156e R.I. (Toul)160e R.I. (Toul)                                       |
+| Eléments divisionnaires |            | 12e régiment de dragons (un escadron - Troyes, Toul)39e R.A.C. (Toul)  |
+| Réserves                |            | 60e R.A.C. (Troyes, Neufchâteau)6e régiment d’artillerie à pied (Toul) |
 
 **2e groupement de divisions de réserve : général Léon Durand**
 
 59e division de réserve : général Kopp
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 117e brigade de réserve | Lambin | 232e R.I. (Tours)314e R.I. (Saint-Maixent)325e R.I. (Poitiers) |
-| 118e brigade | Pierron | 266e R.I. (Tours)277e R.I. (Cholet)335e R.I. (Angers)20e R.A.C. (un groupe - Poitiers)33e R.A.C. (un groupe - Angers)49e R.A.C. (un groupe - Poitiers) |
+| Unité                   | Commandant | Régiments                                                                                                                                              |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 117e brigade de réserve | Lambin     | 232e R.I. (Tours)314e R.I. (Saint-Maixent)325e R.I. (Poitiers)                                                                                         |
+| 118e brigade            | Pierron    | 266e R.I. (Tours)277e R.I. (Cholet)335e R.I. (Angers)20e R.A.C. (un groupe - Poitiers)33e R.A.C. (un groupe - Angers)49e R.A.C. (un groupe - Poitiers) |
 
 36e division de réserve : général Brun d’Aubignosc
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 135e brigade | Dion | 206e R.I. (Saintes)234e R.I. (Mont-de-Marsan)323e R.I. (La Rochelle) |
-| 136e brigade | Mordrelle | 344e R.I. (Bordeaux)257e R.I. (Libourne, Rochefort)212e R.I. (Tarbes)14e R.A.C. (un groupe - Tarbes)24e R.A.C. (un groupe - La Rochelle)58e R.A.C. (un groupe - Bordeaux) |
+| Unité        | Commandant | Régiments                                                                                                                                                                 |
+| ------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 135e brigade | Dion       | 206e R.I. (Saintes)234e R.I. (Mont-de-Marsan)323e R.I. (La Rochelle)                                                                                                      |
+| 136e brigade | Mordrelle  | 344e R.I. (Bordeaux)257e R.I. (Libourne, Rochefort)212e R.I. (Tarbes)14e R.A.C. (un groupe - Tarbes)24e R.A.C. (un groupe - La Rochelle)58e R.A.C. (un groupe - Bordeaux) |
 
 70e division de réserve : général Fayolle
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 135e brigade | Dion | 206e R.I. (Saintes)234e R.I. (Mont-de-Marsan)323e R.I. (La Rochelle) |
-| 139e brigade |  | 226e R.I. (Toul Nancy)269e R.I. (Toul, Nancy)42e bataillon de chasseurs à pied |
-| 140e brigade | Goujet | 279e R.I.. (Neufchâtel, Nancy)360e R.I. (Neufchâtel, Toul)237e R.I. (Troyes, Nancy)19e R.A.C. (un groupe - Nimes)38e R.A.C. (un groupe - Nimes)2e régiment d’artillerie de montagne (un groupe - Grenoble) |
+| Unité        | Commandant | Régiments                                                                                                                                                                                                  |
+| ------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 135e brigade | Dion       | 206e R.I. (Saintes)234e R.I. (Mont-de-Marsan)323e R.I. (La Rochelle)                                                                                                                                       |
+| 139e brigade |            | 226e R.I. (Toul Nancy)269e R.I. (Toul, Nancy)42e bataillon de chasseurs à pied                                                                                                                             |
+| 140e brigade | Goujet     | 279e R.I.. (Neufchâtel, Nancy)360e R.I. (Neufchâtel, Toul)237e R.I. (Troyes, Nancy)19e R.A.C. (un groupe - Nimes)38e R.A.C. (un groupe - Nimes)2e régiment d’artillerie de montagne (un groupe - Grenoble) |
 
 Joffre a attiré l’attention sur le fait que l’armée pourrait trouver devant elle une organisation fortifiée et que les attaques doivent bien se lier. La marche s’opère avec prudence.
 
@@ -179,20 +179,20 @@ Elle est composée des
 
 14e division : général Curé
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 27e brigade | Berge | 44e R.I. (Lons-le-Saulnier)60e R.I. (Besançon) |
-| 28e brigade | Faës | 35e R.I. (Belfort)42e R.I. (Belfort) |
-| Elements divisionnaires |  | 11e régiment de chasseurs à cheval (un escadron - Vesoul)47e R.A.C. (Héricourt) |
+| Unité                   | Commandant | Régiments                                                                       |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------- |
+| 27e brigade             | Berge      | 44e R.I. (Lons-le-Saulnier)60e R.I. (Besançon)                                  |
+| 28e brigade             | Faës       | 35e R.I. (Belfort)42e R.I. (Belfort)                                            |
+| Elements divisionnaires |            | 11e régiment de chasseurs à cheval (un escadron - Vesoul)47e R.A.C. (Héricourt) |
 
 41e division : général Superbie
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 81e brigade | Bataille | 152e R.I. (Gerardmer)5e bataillon de chasseurs (Besançon, Remiremont)15e bataillon de chasseurs à pied (Montbéliard, Remiremont) |
-| 82e brigade | Coste | 23e R.I. (Bourg en Bresse)133e R.I. (Belley) |
-| Eléments divisionnaires |  | 11e régiment de chasseurs à cheval (un escadron - Vesoul)4e R.A.C. (Besançon) |
-| Réserves |  | 352e R.I. (Gerardmer)45e bataillon de chasseurs à pied (Besançon)55e bataillon de chasseurs à pied (Montbéliard)11e régiment de chasseurs à cheval (Vesoul)5e R.A.C. (Besançon) |
+| Unité                   | Commandant | Régiments                                                                                                                                                                       |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 81e brigade             | Bataille   | 152e R.I. (Gerardmer)5e bataillon de chasseurs (Besançon, Remiremont)15e bataillon de chasseurs à pied (Montbéliard, Remiremont)                                                |
+| 82e brigade             | Coste      | 23e R.I. (Bourg en Bresse)133e R.I. (Belley)                                                                                                                                    |
+| Eléments divisionnaires |            | 11e régiment de chasseurs à cheval (un escadron - Vesoul)4e R.A.C. (Besançon)                                                                                                   |
+| Réserves                |            | 352e R.I. (Gerardmer)45e bataillon de chasseurs à pied (Besançon)55e bataillon de chasseurs à pied (Montbéliard)11e régiment de chasseurs à cheval (Vesoul)5e R.A.C. (Besançon) |
 
 **8e C.A. (Bourges) : général de Castelli**
 
@@ -202,20 +202,20 @@ _La guerre du droit_
 
 15e division : général Bajolle
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 29e brigade | Grandjean | 56e R.I. (Chalon-sur-Saône)134e R.I. (Mâcon) |
-| 30e brigade | Piarron de Mondésir | 10e R.I. (Auxonne)27e R.I. (Dijon) |
-| Elements divisionnaires |  | 16e régiment de chasseurs à cheval (un escadron - Beaune)48e R.A.C. (Dijon) |
+| Unité                   | Commandant          | Régiments                                                                   |
+| ----------------------- | ------------------- | --------------------------------------------------------------------------- |
+| 29e brigade             | Grandjean           | 56e R.I. (Chalon-sur-Saône)134e R.I. (Mâcon)                                |
+| 30e brigade             | Piarron de Mondésir | 10e R.I. (Auxonne)27e R.I. (Dijon)                                          |
+| Elements divisionnaires |                     | 16e régiment de chasseurs à cheval (un escadron - Beaune)48e R.A.C. (Dijon) |
 
 16e division : général de Maud’huy
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 31e brigade | Reibell | 85e R.I. (Cosne-sur-Loire)95e R.I. (Bourges) |
-| 32e brigade | Marie | 13e R.I. (Nevers)29e R.I. (Autun) |
-| Eléments divisionnaires |  | 16e régiment de chasseurs à cheval (un escadron - Beaune)1e R.A.C. (Bourges) |
-| Réserves |  | 210e R.I. (Auxonne)227e R.I. (Dijon)16e régiment de chasseurs à cheval (Beaune)37e R.A.C. (Bourges) |
+| Unité                   | Commandant | Régiments                                                                                           |
+| ----------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
+| 31e brigade             | Reibell    | 85e R.I. (Cosne-sur-Loire)95e R.I. (Bourges)                                                        |
+| 32e brigade             | Marie      | 13e R.I. (Nevers)29e R.I. (Autun)                                                                   |
+| Eléments divisionnaires |            | 16e régiment de chasseurs à cheval (un escadron - Beaune)1e R.A.C. (Bourges)                        |
+| Réserves                |            | 210e R.I. (Auxonne)227e R.I. (Dijon)16e régiment de chasseurs à cheval (Beaune)37e R.A.C. (Bourges) |
 
 **13e C.A. (Clermont-Ferrand) : général Alix**
 
@@ -225,20 +225,20 @@ _Collection privée_
 
 25e division : général Delétoille
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 49e brigade | Rozée d’Infréville | 38e R.I. (Saint-Etienne)86e R.I. (Le Puy-en-Velay) |
-| 50e brigade | Chandezon | 16e R.I. (Montbrison, Clermond-Ferrand)98e R.I. (Roanne) |
-| Elements divisionnaires |  | 3e régiment de chasseurs à cheval (un escadron - Clermont-Ferrand)36e R.A.C. (Moulins - Thionville) |
+| Unité                   | Commandant         | Régiments                                                                                           |
+| ----------------------- | ------------------ | --------------------------------------------------------------------------------------------------- |
+| 49e brigade             | Rozée d’Infréville | 38e R.I. (Saint-Etienne)86e R.I. (Le Puy-en-Velay)                                                  |
+| 50e brigade             | Chandezon          | 16e R.I. (Montbrison, Clermond-Ferrand)98e R.I. (Roanne)                                            |
+| Elements divisionnaires |                    | 3e régiment de chasseurs à cheval (un escadron - Clermont-Ferrand)36e R.A.C. (Moulins - Thionville) |
 
 26e division : général Silhol
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 51e brigade | Martin de la Porte d’Hust | 105e R.I. (Riom)121e R.I. (Montluçon) |
-| 52e brigade | Collas | 92e R.I. (Clermont-Ferrand)139e R.I. (Aurillac) |
-| Eléments divisionnaires |  | 3e régiment de chasseurs à cheval (un escadron - Clermont-Ferrand)16e R.A.C. (Clermont-Ferrand) |
-| Réserves |  | 41e bataillon de chasseurs à pied (Troyes)43e bataillon de chasseurs à pied (Langres)50e bataillon de chasseurs à pied (Langres)71e bataillon de chasseurs à pied (Langres)3e régiment de chasseurs à cheval (Clermont-Ferrand)53e R.A.C. (Clermont-Ferrand) |
+| Unité                   | Commandant                | Régiments                                                                                                                                                                                                                                                    |
+| ----------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 51e brigade             | Martin de la Porte d’Hust | 105e R.I. (Riom)121e R.I. (Montluçon)                                                                                                                                                                                                                        |
+| 52e brigade             | Collas                    | 92e R.I. (Clermont-Ferrand)139e R.I. (Aurillac)                                                                                                                                                                                                              |
+| Eléments divisionnaires |                           | 3e régiment de chasseurs à cheval (un escadron - Clermont-Ferrand)16e R.A.C. (Clermont-Ferrand)                                                                                                                                                              |
+| Réserves                |                           | 41e bataillon de chasseurs à pied (Troyes)43e bataillon de chasseurs à pied (Langres)50e bataillon de chasseurs à pied (Langres)71e bataillon de chasseurs à pied (Langres)3e régiment de chasseurs à cheval (Clermont-Ferrand)53e R.A.C. (Clermont-Ferrand) |
 
 **14e C.A. (Lyon) : général Pouradier-Duteil**
 
@@ -248,20 +248,20 @@ _La guerre du droit_
 
 27e division : général Blazer
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 53e brigade | Baquet | 75e R.I. (Romans)140e R.I. (Grenoble)Groupe alpin A de Grenoble |
-| 54e brigade | Sorbets | 52e R.I. (Montélimar)Groupe alpin de Draguignan |
-| Elements divisionnaires |  | 9e régiment de hussards (un escadron - Chambéry)2e R.A.C. (Grenoble) |
+| Unité                   | Commandant | Régiments                                                            |
+| ----------------------- | ---------- | -------------------------------------------------------------------- |
+| 53e brigade             | Baquet     | 75e R.I. (Romans)140e R.I. (Grenoble)Groupe alpin A de Grenoble      |
+| 54e brigade             | Sorbets    | 52e R.I. (Montélimar)Groupe alpin de Draguignan                      |
+| Elements divisionnaires |            | 9e régiment de hussards (un escadron - Chambéry)2e R.A.C. (Grenoble) |
 
 28e division
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 55e brigade | Pierrot | 22e R.I. (Sathonay)99e R.I. (Lyon, Vienne) |
-| 56e brigade | Blazer | 30e R.I. (Annecy)Groupe alpin d’Annecy (Annecy) |
-| Eléments divisionnaires |  | 9e régiment de hussards (un escadron - Chambéry)54e R.A.C. (Lyon - Crépey) |
-| Réserves |  | 210e R.I. (Auxonne)5e régiment d’artillerie lourde (Valence)11e régiment d’artillerie à pied (Briançon) |
+| Unité                   | Commandant | Régiments                                                                                               |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------- |
+| 55e brigade             | Pierrot    | 22e R.I. (Sathonay)99e R.I. (Lyon, Vienne)                                                              |
+| 56e brigade             | Blazer     | 30e R.I. (Annecy)Groupe alpin d’Annecy (Annecy)                                                         |
+| Eléments divisionnaires |            | 9e régiment de hussards (un escadron - Chambéry)54e R.A.C. (Lyon - Crépey)                              |
+| Réserves                |            | 210e R.I. (Auxonne)5e régiment d’artillerie lourde (Valence)11e régiment d’artillerie à pied (Briançon) |
 
 **21e C.A. (Epinal) : général Legrand**
 
@@ -271,40 +271,40 @@ _Collection privée_
 
 13e division : général Bourdériat
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 25e brigade | Barbade | 17e R.I. (Epinal)17e bataillon de chasseurs à pied (Rambervillers, Baccarat)20e bataillon de chasseurs à pied (Baccarat)21e bataillon de chasseurs à pied (Raon-L’Etape) |
-| 26e brigade | Hamon | 21e R.I. (Langres)109e R.I. (Chaumont) |
-| Elements divisionnaires |  | 4e régiment de chasseurs à cheval (un escadron - Epinal)62e R.A.C. (Epinal, Rambervillers) |
+| Unité                   | Commandant | Régiments                                                                                                                                                                |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 25e brigade             | Barbade    | 17e R.I. (Epinal)17e bataillon de chasseurs à pied (Rambervillers, Baccarat)20e bataillon de chasseurs à pied (Baccarat)21e bataillon de chasseurs à pied (Raon-L’Etape) |
+| 26e brigade             | Hamon      | 21e R.I. (Langres)109e R.I. (Chaumont)                                                                                                                                   |
+| Elements divisionnaires |            | 4e régiment de chasseurs à cheval (un escadron - Epinal)62e R.A.C. (Epinal, Rambervillers)                                                                               |
 
-43e division :  général Lanquetot
+43e division : général Lanquetot
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 85e brigade | Pillot | 158e R.I. (Bruyères, Corcieux)149e R.I. (Epinal) |
-| 86e brigade | Olleris | 1e bataillon de chasseurs à pied (Senones)3e bataillon de chasseurs à pied (Saint-Dié)10e bataillon de chasseurs à pied (Saint-Dié)31e bataillon de chasseurs à pied (Saint-Dié) |
-| Eléments divisionnaires |  | 4e régiment de chasseurs à cheval (un escadron - Epinal))12e R.A.C. (Bruyères, Saint-Dié) |
-| Réserves |  | 57e bataillon de chasseurs à pied (Brienne-le-Château)60e bataillon de chasseurs à pied (Brienne-le-Château)61e bataillon de chasseurs à pied (Langres)4e régiment de chasseurs à cheval (Epinal)59e R.A.C. (Chaumont) |
+| Unité                   | Commandant | Régiments                                                                                                                                                                                                              |
+| ----------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 85e brigade             | Pillot     | 158e R.I. (Bruyères, Corcieux)149e R.I. (Epinal)                                                                                                                                                                       |
+| 86e brigade             | Olleris    | 1e bataillon de chasseurs à pied (Senones)3e bataillon de chasseurs à pied (Saint-Dié)10e bataillon de chasseurs à pied (Saint-Dié)31e bataillon de chasseurs à pied (Saint-Dié)                                       |
+| Eléments divisionnaires |            | 4e régiment de chasseurs à cheval (un escadron - Epinal))12e R.A.C. (Bruyères, Saint-Dié)                                                                                                                              |
+| Réserves                |            | 57e bataillon de chasseurs à pied (Brienne-le-Château)60e bataillon de chasseurs à pied (Brienne-le-Château)61e bataillon de chasseurs à pied (Langres)4e régiment de chasseurs à cheval (Epinal)59e R.A.C. (Chaumont) |
 
 Ce C.A. sera transféré le 3 septembre vers Bar-le-Duc.
 
 **5e D.C. (Lyon) : général Levillain**
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 5e brigade de cuirassiers | Lamy | 7e régiment de cuirassiers (Lyon)10e régiment de cuirassiers (Lyon) |
-| 6e brigade de dragons | Laperrine | 2e régiment de dragons (Lyon)14e régiment de dragons (Saint-Etienne) |
-| 6e brigade de cavalerie légère | Morel | 13e régiment de chasseurs (Vienne)11e régiment de hussards (Tarascon) |
-| Elements divisionnaires |  | 4e R.A.C. (Remiremont, Besançon)Groupe cycliste du 15e bataillon de chasseurs à pied (Remiremont) |
+| Unité                          | Commandant | Régiments                                                                                         |
+| ------------------------------ | ---------- | ------------------------------------------------------------------------------------------------- |
+| 5e brigade de cuirassiers      | Lamy       | 7e régiment de cuirassiers (Lyon)10e régiment de cuirassiers (Lyon)                               |
+| 6e brigade de dragons          | Laperrine  | 2e régiment de dragons (Lyon)14e régiment de dragons (Saint-Etienne)                              |
+| 6e brigade de cavalerie légère | Morel      | 13e régiment de chasseurs (Vienne)11e régiment de hussards (Tarascon)                             |
+| Elements divisionnaires        |            | 4e R.A.C. (Remiremont, Besançon)Groupe cycliste du 15e bataillon de chasseurs à pied (Remiremont) |
 
 **8e D.C. (Dôle) : général Aubier**
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 8e brigade de dragons | Gendron | 11e régiment de dragons (Belfort)18e régiment de dragons (Lure) |
-| 14e brigade de dragons | Mazel | 17e régiment de dragons (Auxonne)26e régiment de dragons (Dijon) |
-| 8e brigade de cavalerie légère | Morel | 14e régiment de chasseurs (Dôle)11e régiment de hussards (Gray) |
-| Elements divisionnaires |  | 4e R.A.C.Groupe cycliste du 15e bataillon de chasseurs à pied |
+| Unité                          | Commandant | Régiments                                                        |
+| ------------------------------ | ---------- | ---------------------------------------------------------------- |
+| 8e brigade de dragons          | Gendron    | 11e régiment de dragons (Belfort)18e régiment de dragons (Lure)  |
+| 14e brigade de dragons         | Mazel      | 17e régiment de dragons (Auxonne)26e régiment de dragons (Dijon) |
+| 8e brigade de cavalerie légère | Morel      | 14e régiment de chasseurs (Dôle)11e régiment de hussards (Gray)  |
+| Elements divisionnaires        |            | 4e R.A.C.Groupe cycliste du 15e bataillon de chasseurs à pied    |
 
 - Le 13e C.A. s’est établi sur la ligne Baccarat - Raon-l’Etape - Bazan.
 
@@ -338,21 +338,21 @@ _Collection privée_
 
 1e division bavaroise : général von Schoch
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 1. Kgl. Bayer. Infanterie-Brigade |  | Kgl. Bayer. Infanterie-Leib-Regiment (Munich)Kgl. Bayer. 1. Infanterie-Regiment (Munich) |
-| 2. Kgl. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 2. Infanterie-Regiment (Munich)Kgl. Bayer. 16. Infanterie-Regiment (Passau, Landshut)Kgl. Bayer. 1. Jäger-Bataillon (Freising) |
-| Cavalerie divisionnaire |  | Kgl. Bayer. 8. Chevaulegers-Regiment (Dillingen) |
-| 1. Kgl. Bayer. Feldartillerie-Brigade |  | Kgl. Bayer. 1. Feldartillerie-Regiment (Munich)Kgl. Bayer. 7. Feldartillerie-Regiment (Munich)Kgl. Bayer. 10. Fußartillerie-Bataillon |
+| Unité                                 | Commandant | Régiments                                                                                                                                  |
+| ------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1. Kgl. Bayer. Infanterie-Brigade     |            | Kgl. Bayer. Infanterie-Leib-Regiment (Munich)Kgl. Bayer. 1. Infanterie-Regiment (Munich)                                                   |
+| 2. Kgl. Bayer. Infanterie-Brigade     |            | Kgl. Bayer. 2. Infanterie-Regiment (Munich)Kgl. Bayer. 16. Infanterie-Regiment (Passau, Landshut)Kgl. Bayer. 1. Jäger-Bataillon (Freising) |
+| Cavalerie divisionnaire               |            | Kgl. Bayer. 8. Chevaulegers-Regiment (Dillingen)                                                                                           |
+| 1. Kgl. Bayer. Feldartillerie-Brigade |            | Kgl. Bayer. 1. Feldartillerie-Regiment (Munich)Kgl. Bayer. 7. Feldartillerie-Regiment (Munich)Kgl. Bayer. 10. Fußartillerie-Bataillon      |
 
 2e division bavaroise : général von Hetzel
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 3. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 3. Infanterie-Regiment (Augsburg)Kgl. Bayer. 20. Infanterie-Regiment (Lindau, Kempten) |
-| 4. bayer. Infanterie-Brigade |  | Kgl. Bayer. 12. Infanterie-Regiment (Neu-Ulm)Kgl. Bayer. 15. Infanterie-Regiment (Neuburg a.d.) |
-| Cavalerie divisionnaire |  | Kgl. Bayer. 4. Chevaulegers-Regiment (Augsburg) |
-| 2. Bayer. Feldartillerie-Brigade |  | Kgl. Bayer. 4. Feldartillerie-Regiment (Augsburg)Kgl. Bayer. 9. Feldartillerie-Regiment (Landsberg) |
+| Unité                            | Commandant | Régiments                                                                                           |
+| -------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
+| 3. Bayer. Infanterie-Brigade     |            | Kgl. Bayer. 3. Infanterie-Regiment (Augsburg)Kgl. Bayer. 20. Infanterie-Regiment (Lindau, Kempten)  |
+| 4. bayer. Infanterie-Brigade     |            | Kgl. Bayer. 12. Infanterie-Regiment (Neu-Ulm)Kgl. Bayer. 15. Infanterie-Regiment (Neuburg a.d.)     |
+| Cavalerie divisionnaire          |            | Kgl. Bayer. 4. Chevaulegers-Regiment (Augsburg)                                                     |
+| 2. Bayer. Feldartillerie-Brigade |            | Kgl. Bayer. 4. Feldartillerie-Regiment (Augsburg)Kgl. Bayer. 9. Feldartillerie-Regiment (Landsberg) |
 
 **2e C.A. bavarois : (Würzburg) : général von Martini**
 
@@ -362,16 +362,16 @@ _Collection privée_
 
 3e division bavaroise : généralvon Breitkopf
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 5. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 22. Infanterie-Regiment (Zweibrücken)Kgl. Bayer. 23. Infanterie-Regiment (Landau, Sarreguemines) |
-| 6. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 17. Infanterie-Regiment Germersheim)Kgl. Bayer. 18. Infanterie-Regiment (Landau) |
-| Cavalerie divisionnaire |  | Kgl. Bayer. 3. Chevaulegers-Regiment (Dieuze) |
-| 3. Bayer. Feldartillerie-Brigade |  | Kgl. Bayer. 5. Feldartillerie-Regiment (Landau)Kgl. Bayer. 12. Feldartillerie-Regiment (Landau) |
-| 7. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 5. Infanterie-Regiment (Bamberg)Kgl. Bayer. 9. Infanterie-Regiment (Würzburg)Kgl. Bayer. 2. Jäger-Bataillon (Aschaffenburg) |
-| 5. Bayer. Reserve-Infanterie-Brigade |  | Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 5 (Bamberg)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 8 (Metz) |
-| Cavalerie divisionnaire |  | Kgl. Bayer. 5. Chevaulegers-Regiment (Sarreguemines) |
-| 4. Bayer. Feldartillerie-Brigade |  | Kgl. Bayer. 2. Feldartillerie-Regiment (Würzburg)Kgl. Bayer. 11. Feldartillerie-Regiment (Würzburg) |
+| Unité                                | Commandant | Régiments                                                                                                                               |
+| ------------------------------------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 5. Bayer. Infanterie-Brigade         |            | Kgl. Bayer. 22. Infanterie-Regiment (Zweibrücken)Kgl. Bayer. 23. Infanterie-Regiment (Landau, Sarreguemines)                            |
+| 6. Bayer. Infanterie-Brigade         |            | Kgl. Bayer. 17. Infanterie-Regiment Germersheim)Kgl. Bayer. 18. Infanterie-Regiment (Landau)                                            |
+| Cavalerie divisionnaire              |            | Kgl. Bayer. 3. Chevaulegers-Regiment (Dieuze)                                                                                           |
+| 3. Bayer. Feldartillerie-Brigade     |            | Kgl. Bayer. 5. Feldartillerie-Regiment (Landau)Kgl. Bayer. 12. Feldartillerie-Regiment (Landau)                                         |
+| 7. Bayer. Infanterie-Brigade         |            | Kgl. Bayer. 5. Infanterie-Regiment (Bamberg)Kgl. Bayer. 9. Infanterie-Regiment (Würzburg)Kgl. Bayer. 2. Jäger-Bataillon (Aschaffenburg) |
+| 5. Bayer. Reserve-Infanterie-Brigade |            | Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 5 (Bamberg)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 8 (Metz)                             |
+| Cavalerie divisionnaire              |            | Kgl. Bayer. 5. Chevaulegers-Regiment (Sarreguemines)                                                                                    |
+| 4. Bayer. Feldartillerie-Brigade     |            | Kgl. Bayer. 2. Feldartillerie-Regiment (Würzburg)Kgl. Bayer. 11. Feldartillerie-Regiment (Würzburg)                                     |
 
 **3e C.A. bavarois : (Nurenberg) : général von Gebsattel**
 
@@ -381,21 +381,21 @@ _Collection privée_
 
 5e division bavaroise : général von Schoch
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 9. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 14. Infanterie-Regiment (Nurenberg)Kgl. Bayer. 21. Infanterie-Regiment (Fürth, Sulzbach)Kgl. Bayer. Reserve-Jäger-Bataillon Nr. 2 (Aschaffenburg) |
-| 10. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 7. Infanterie-Regiment (Bayreuth)Kgl. Bayer. 19. Infanterie-Regiment (Erlangen) |
-| cavalerie divisionnaire |  | Kgl. Bayer. 7. Chevaulegers-Regiment (Straubing) |
-| 5. Bayer. Feldartillerie-Brigade |  | Kgl. Bayer. 6. Feldartillerie-Regiment (Fürth)Kgl. Bayer. 10. Feldartillerie-Regiment (Erlangen) |
+| Unité                            | Commandant | Régiments                                                                                                                                                     |
+| -------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9. Bayer. Infanterie-Brigade     |            | Kgl. Bayer. 14. Infanterie-Regiment (Nurenberg)Kgl. Bayer. 21. Infanterie-Regiment (Fürth, Sulzbach)Kgl. Bayer. Reserve-Jäger-Bataillon Nr. 2 (Aschaffenburg) |
+| 10. Bayer. Infanterie-Brigade    |            | Kgl. Bayer. 7. Infanterie-Regiment (Bayreuth)Kgl. Bayer. 19. Infanterie-Regiment (Erlangen)                                                                   |
+| cavalerie divisionnaire          |            | Kgl. Bayer. 7. Chevaulegers-Regiment (Straubing)                                                                                                              |
+| 5. Bayer. Feldartillerie-Brigade |            | Kgl. Bayer. 6. Feldartillerie-Regiment (Fürth)Kgl. Bayer. 10. Feldartillerie-Regiment (Erlangen)                                                              |
 
 6e division bavaroise : général von Höhn
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 11. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 10. Infanterie-Regiment (Ingolstadt)Kgl. Bayer. 13. Infanterie-Regiment (Ingolstadt, Eichstatt) |
-| 12. Bayer. Infanterie-Brigade |  | Kgl. Bayer. 6. Infanterie-Regiment (Amberg)Kgl. Bayer. 11. Infanterie-Regiment  (Regensburg) |
-| Cavalerie divisionnaire |  | Kgl. Bayer. 2. Chevaulegers-Regiment (Regensburg) |
-| 6. Bayer. Feldartillerie-Brigade |  | Kgl. Bayer. 3. Feldartillerie-Regiment (Grafenwöhr)Kgl. Bayer. 8. Feldartillerie-Regiment (Nurenberg) |
+| Unité                            | Commandant | Régiments                                                                                                   |
+| -------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------- |
+| 11. Bayer. Infanterie-Brigade    |            | Kgl. Bayer. 10. Infanterie-Regiment (Ingolstadt)Kgl. Bayer. 13. Infanterie-Regiment (Ingolstadt, Eichstatt) |
+| 12. Bayer. Infanterie-Brigade    |            | Kgl. Bayer. 6. Infanterie-Regiment (Amberg)Kgl. Bayer. 11. Infanterie-Regiment (Regensburg)                 |
+| Cavalerie divisionnaire          |            | Kgl. Bayer. 2. Chevaulegers-Regiment (Regensburg)                                                           |
+| 6. Bayer. Feldartillerie-Brigade |            | Kgl. Bayer. 3. Feldartillerie-Regiment (Grafenwöhr)Kgl. Bayer. 8. Feldartillerie-Regiment (Nurenberg)       |
 
 **21e C.A. : (Saarbrucken) : général von Below**
 
@@ -405,21 +405,21 @@ _Collection privée_
 
 31e division : général von Berrer
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 32. Infanterie-Brigade |  | 8e Rheinisches Infanterie-Regiment Nr. 70 (Saarbrücken)10. Lothringisches Infanterie-Regiment Nr. 174 (Forbach) |
-| 62. Infanterie-Brigade |  | Infanterie-Regiment Nr. 60 (Weissenburg)2. Unter-Elsässisches Infanterie-Regiment Nr. 137 (Hagenau)Infanterie-Regiment Hessen-Homburg Nr. 166 (Bitche) |
-| Cavalerie divisionnaire |  | Ulanen-Regiment (Rheinisches) Nr. 7 (Saarbrucken) |
-| 31. Feldartillerie-Brigade |  | 1e Unter-Elsässisches Feldartillerie-Regiment Nr. 31 (Hagenau)2. Unter-Elsässisches Feldartillerie-Regiment Nr. 67 (Hagenau, Bischweiler) |
+| Unité                      | Commandant | Régiments                                                                                                                                              |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 32. Infanterie-Brigade     |            | 8e Rheinisches Infanterie-Regiment Nr. 70 (Saarbrücken)10. Lothringisches Infanterie-Regiment Nr. 174 (Forbach)                                        |
+| 62. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 60 (Weissenburg)2. Unter-Elsässisches Infanterie-Regiment Nr. 137 (Hagenau)Infanterie-Regiment Hessen-Homburg Nr. 166 (Bitche) |
+| Cavalerie divisionnaire    |            | Ulanen-Regiment (Rheinisches) Nr. 7 (Saarbrucken)                                                                                                      |
+| 31. Feldartillerie-Brigade |            | 1e Unter-Elsässisches Feldartillerie-Regiment Nr. 31 (Hagenau)2. Unter-Elsässisches Feldartillerie-Regiment Nr. 67 (Hagenau, Bischweiler)              |
 
 42e division : général von Bredow
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 59. Infanterie-Brigade |  | 1. Oberrheinisches Infanterie-Regiment Nr. 97 (Saarburg)3. Unter-Elsässisches Infanterie-Regiment Nr. 138 (Dieuze) |
-| 65. Infanterie-Brigade |  | Infanterie-Regiment Nr. 17 (Morhange)2. Lothringisches Infanterie-Regiment Nr. 131 (Morhange) |
-| Cavalerie divisionnaire |  | Westfälisches Dragoner-Regiment Nr. 7 (Saarbrücken) |
-| 42. Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 8 (Saarbrücken)1. Ober-Elsässiches Feldartillerie-Regiment Nr. 15 (Sarrebourg, Morhange) |
+| Unité                      | Commandant | Régiments                                                                                                            |
+| -------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| 59. Infanterie-Brigade     |            | 1. Oberrheinisches Infanterie-Regiment Nr. 97 (Saarburg)3. Unter-Elsässisches Infanterie-Regiment Nr. 138 (Dieuze)   |
+| 65. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 17 (Morhange)2. Lothringisches Infanterie-Regiment Nr. 131 (Morhange)                        |
+| Cavalerie divisionnaire    |            | Westfälisches Dragoner-Regiment Nr. 7 (Saarbrücken)                                                                  |
+| 42. Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 8 (Saarbrücken)1. Ober-Elsässiches Feldartillerie-Regiment Nr. 15 (Sarrebourg, Morhange) |
 
 **1e C.A. de réserve bavarois (Munich) : général von Fasbender**
 
@@ -428,61 +428,61 @@ _Général von Fasbender_
 
 1e division réserve bavaroise : général Göringer
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 1. Bayer. Reserve-Infanterie-Brigade |  | Kgl.
-Bayer. Reserve-Infanterie-Regiment Nr. 1 (Munich)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 2 (Munich) |
-| 2. Bayer. Reserve-Infanterie-Brigade |  | Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 3 (Augsburg)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 12 (Neu-Ulm) |
-| Cavalerie divisionnaire |  | Kgl. Bayer. Reserve-Kavallerie-Regiment Nr. 1 (Munich) |
-| Artillerie divisionnaire |  | Kgl. Bayer. Reserve-Feldartillerie-Regiment Nr. 1 (Munich) |
+| Unité                                                                                                   | Commandant | Régiments                                                                                                        |
+| ------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 1. Bayer. Reserve-Infanterie-Brigade                                                                    |            | Kgl.                                                                                                             |
+| Bayer. Reserve-Infanterie-Regiment Nr. 1 (Munich)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 2 (Munich) |
+| 2. Bayer. Reserve-Infanterie-Brigade                                                                    |            | Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 3 (Augsburg)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 12 (Neu-Ulm) |
+| Cavalerie divisionnaire                                                                                 |            | Kgl. Bayer. Reserve-Kavallerie-Regiment Nr. 1 (Munich)                                                           |
+| Artillerie divisionnaire                                                                                |            | Kgl. Bayer. Reserve-Feldartillerie-Regiment Nr. 1 (Munich)                                                       |
 
 5e division réserve bavaroise : général Kress von Kressenstein
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 9. Bayer. Reserve-Infanterie-Brigade |  | Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 6 (Amberg)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 7 (Bayreuth) |
-| 11. Bayer. Reserve-Infanterie-Brigade |  | Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 10 (Ingolstadt)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 13 (Ingolstadt)Kgl. Bayer. Reserve-Jäger-Bataillon Nr. 1 (Freising) |
-| Cavalerie divisionnaire |  | Reserve-Kavallerie-Regiment Nr. 5 |
-| Artillerie divisionnaire |  | Kgl. Bayer. Reserve-Feldartillerie-Regiment Nr. 5 |
+| Unité                                 | Commandant | Régiments                                                                                                                                                                  |
+| ------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9. Bayer. Reserve-Infanterie-Brigade  |            | Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 6 (Amberg)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 7 (Bayreuth)                                                             |
+| 11. Bayer. Reserve-Infanterie-Brigade |            | Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 10 (Ingolstadt)Kgl. Bayer. Reserve-Infanterie-Regiment Nr. 13 (Ingolstadt)Kgl. Bayer. Reserve-Jäger-Bataillon Nr. 1 (Freising) |
+| Cavalerie divisionnaire               |            | Reserve-Kavallerie-Regiment Nr. 5                                                                                                                                          |
+| Artillerie divisionnaire              |            | Kgl. Bayer. Reserve-Feldartillerie-Regiment Nr. 5                                                                                                                          |
 
 **3e C.C. : général von Frommel**
 
 7. D.C. : général von Heydebreck
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 26.  Kavallerie-Brigade |  | Dragoner-Regt.  Nr 25 (Ludwigsburg)Dragoner-Regt.  Nr 26 (Stuttgart) |
-| 30. Kavallerie-Brigade |  | Dragoner-Regt. Nr 15 (Hagenau)Husaren-Regt. Nr 9 (Strassburg) |
-| 42. Kavallerie-Brigade |  | Ulanen-Regt. Nr 11 (Saarburg)Ulanen-Regt. Nr 15 (Hagenau) |
-|  |  | Bataillon du Feldartillerie-Regt. Nr 15 (Saarburg)MG. Abtg. Nr. 3 (Saarburg) |
+| Unité                  | Commandant | Régiments                                                                    |
+| ---------------------- | ---------- | ---------------------------------------------------------------------------- |
+| 26. Kavallerie-Brigade |            | Dragoner-Regt. Nr 25 (Ludwigsburg)Dragoner-Regt. Nr 26 (Stuttgart)           |
+| 30. Kavallerie-Brigade |            | Dragoner-Regt. Nr 15 (Hagenau)Husaren-Regt. Nr 9 (Strassburg)                |
+| 42. Kavallerie-Brigade |            | Ulanen-Regt. Nr 11 (Saarburg)Ulanen-Regt. Nr 15 (Hagenau)                    |
+|                        |            | Bataillon du Feldartillerie-Regt. Nr 15 (Saarburg)MG. Abtg. Nr. 3 (Saarburg) |
 
 8. D.C. : général von der Schulenburg-Hehlen
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 23. Kavallerie-Brigade |  | Königl.-Sächs. Garde-Reiter-Regt (Dresden)Ulanen-Regt. Nr 17 (Oschatz) |
-| 38. Kavallerie-Brigade |  | Jäger-Regt zu Pferde Nr 2 (Langensalza)Jäger-Regt  zu Pferde Nr 6 (Erfurt) |
-| 40. Kavallerie-Brigade |  | Königl. Sächs. Karabinier-Regt. (Borna)
-Ulanen-Regt. Nr 21 (Chemnitz) |
-|  |  | Bataillon du Feldartillerie-Regt. Nr 12 (Dresden)MG. Abtg. Nr. 8 (Mainz) |
+| Unité                         | Commandant | Régiments                                                                 |
+| ----------------------------- | ---------- | ------------------------------------------------------------------------- |
+| 23. Kavallerie-Brigade        |            | Königl.-Sächs. Garde-Reiter-Regt (Dresden)Ulanen-Regt. Nr 17 (Oschatz)    |
+| 38. Kavallerie-Brigade        |            | Jäger-Regt zu Pferde Nr 2 (Langensalza)Jäger-Regt zu Pferde Nr 6 (Erfurt) |
+| 40. Kavallerie-Brigade        |            | Königl. Sächs. Karabinier-Regt. (Borna)                                   |
+| Ulanen-Regt. Nr 21 (Chemnitz) |
+|                               |            | Bataillon du Feldartillerie-Regt. Nr 12 (Dresden)MG. Abtg. Nr. 8 (Mainz)  |
 
 Bayerische Kavallerie-Division : général von Stetten
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 1. Bayerische Kavallerie-Brigade |  | 1. Schweres Reiter-Regt. (München)2. Schweres Reiter-Regt.(Landshut) |
-| 4. Bayerische Kavallerie-Brigade |  | 1. Ulanen-Regt.(Bamberg)_ 2. Ulanen-Regt. (Ansbach) |
-| 5. Bayerische Kavallerie-Brigade |  | 1. Chevaulegers-Regt.(Nürnberg)6. Chevaulegers-Regt.(Bayreuth) |
-|  |  | Bataillon du Bayer. Feldartillerie-Regt. Nr 5 (Sprottau)Bay. MG. Abtg. Nr. 1 (Landau) |
+| Unité                            | Commandant | Régiments                                                                             |
+| -------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
+| 1. Bayerische Kavallerie-Brigade |            | 1. Schweres Reiter-Regt. (München)2. Schweres Reiter-Regt.(Landshut)                  |
+| 4. Bayerische Kavallerie-Brigade |            | 1. Ulanen-Regt.(Bamberg)\_ 2. Ulanen-Regt. (Ansbach)                                  |
+| 5. Bayerische Kavallerie-Brigade |            | 1. Chevaulegers-Regt.(Nürnberg)6. Chevaulegers-Regt.(Bayreuth)                        |
+|                                  |            | Bataillon du Bayer. Feldartillerie-Regt. Nr 5 (Sprottau)Bay. MG. Abtg. Nr. 1 (Landau) |
 
 **Division d’ersatz de la Garde, 4e,7e,8e div ersatz**
 
 **5 brigades Landwehr**
 
 - Le 3e C.A. bavarois vers Delme.
-  Le 2e C.A. bavarois entre Delme et Château-Salins.
-  Le 21e C.A. entre Château-Salins et Sarrebourg.
-  Le 1e C.A. bavarois entre Réchicourt et le Donon.
+    Le 2e C.A. bavarois entre Delme et Château-Salins.
+    Le 21e C.A. entre Château-Salins et Sarrebourg.
+    Le 1e C.A. bavarois entre Réchicourt et le Donon.
 
 Du 14 au 20 août, et conformément aux instructions de Moltke et du Kronprinz de Bavière, les Allemands reculent pour attirer l’armée française vers les lignes de fortifications. Le Kronprinz de Bavière donne l’ordre d’attaquer le 20 août.
 
@@ -492,7 +492,7 @@ On est frappé par le caractère rectiligne de la VIe armée allemande et de la 
 
 Au-delà de Sarrebourg, le dispositif allemand s’infléchit assez brusquement vers le sud-est, quitte le plateau lorrain et entre dans la région montagneuse suivant une direction parallèle à celle des contreforts des Vosges. Les troupes du 15e C.A. auront la route barrée par une succession de crêtes et de vallées rendant les déplacements d’artillerie fort laborieux. L’attaque de flanc aurait été beaucoup plus efficace si Rupprecht avait laissé les Français passer la Sarre.
 
-La manuvre débordante est seulement esquissée à l’ouest et exposée à être prise à revers à l’est, elle ne peut pas prétendre à beaucoup d’efficacité vu la configuration du terrain. Au lieu de broyer la IIe armée française entre deux mâchoires d’un étau, l’armée allemande va l’aborder presque exclusivement de front.
+La manoeuvre débordante est seulement esquissée à l’ouest et exposée à être prise à revers à l’est, elle ne peut pas prétendre à beaucoup d’efficacité vu la configuration du terrain. Au lieu de broyer la IIe armée française entre deux mâchoires d’un étau, l’armée allemande va l’aborder presque exclusivement de front.
 
 ![Offensive des 20e, 15e et 16e C.A. (IIe armée) - 75.6 ko](../img/offensive_lorraine-2.jpg)
 _Offensive des 20e, 15e et 16e C.A. (IIe armée)_
@@ -503,24 +503,24 @@ _La grande guerre - vécue - racontée par les combattants_
 Le général de Castelnau prescrit à son armée de passer le 19 à l’attaque de la position Morhange - Bensdorf.
 
 - Le 20e C.A. s’avancera en direction de Faulquemont, couvert en arrière et à gauche par la 68e division.
-  Au 15e C.A.,la 30e division devra franchir la Seille au pont de Mulcey, et atteindre les débouchés sud de la forêt de Brides et de Köking, pour permettre au 16e C.A. de franchir le canal des Salines.
+    Au 15e C.A.,la 30e division devra franchir la Seille au pont de Mulcey, et atteindre les débouchés sud de la forêt de Brides et de Köking, pour permettre au 16e C.A. de franchir le canal des Salines.
 
 ### 19 août
 
 - Le 20e C.A. se porte au-delà de la Seille, précédé de détachements de cavalerie et de chasseurs. L’artillerie bavaroise ouvre le feu, causant toutefois peu de dégâts.
-En soirée, le 20e C.A. atteint
-  Oron (54e colonial)
-  Château-Bréhain (39e division)
-  Pevange - Conthil (11e division)
-  Laneuveville-en-Saulnois (68e division)
+  En soirée, le 20e C.A. atteint
+    Oron (54e colonial)
+    Château-Bréhain (39e division)
+    Pevange - Conthil (11e division)
+    Laneuveville-en-Saulnois (68e division)
 
 - Sur la droite, la journée a été dure pour le 15e C.A. :
-  30e division : aucun détachement n’a pu pénétrer dans la forêt de Brides et Köking.
-  29e division : la 57e brigade marche sur Bidestroff, appuyée par l’artillerie divisionnaire et l’artillerie de C.A. Les chasseurs des 6e et 23e bataillons réussissent à enlever Vergaville, mais au-delà de ce village, les troupes sont soumises ausx feux convergents de l’artillerie lourde allemande installée sur les plateaux de Dommon et dans la forêt de Brides et de Köking. Les troupes marchent sur un terrain nu et soigneusement repéré. Les soldats de la 29e division se jettent dans Bidersdorff qu’ils trouvent évacué. Alors ; l’artillerie allemande concentre ses feux sur ce village.
+    30e division : aucun détachement n’a pu pénétrer dans la forêt de Brides et Köking.
+    29e division : la 57e brigade marche sur Bidestroff, appuyée par l’artillerie divisionnaire et l’artillerie de C.A. Les chasseurs des 6e et 23e bataillons réussissent à enlever Vergaville, mais au-delà de ce village, les troupes sont soumises ausx feux convergents de l’artillerie lourde allemande installée sur les plateaux de Dommon et dans la forêt de Brides et de Köking. Les troupes marchent sur un terrain nu et soigneusement repéré. Les soldats de la 29e division se jettent dans Bidersdorff qu’ils trouvent évacué. Alors ; l’artillerie allemande concentre ses feux sur ce village.
 
 - L’offensive du 15e C.A. ne parvient pas à franchir la rivière des Salines.
-  La 31e division se heurte aux positions bavaroises et s’arrête un peu au nord d’Angwiller. Les pertes françaises sont si sérieuses que cette division doit être relevée par la 32e, qui était maintenue en réserve.
-  La32e division devra le lendemain reprendre l’offensive sur Rohrbach - Loudrefing.
+    La 31e division se heurte aux positions bavaroises et s’arrête un peu au nord d’Angwiller. Les pertes françaises sont si sérieuses que cette division doit être relevée par la 32e, qui était maintenue en réserve.
+    La32e division devra le lendemain reprendre l’offensive sur Rohrbach - Loudrefing.
 
 ### 20 août
 
@@ -536,7 +536,7 @@ Rupprecht
 
 - La 10e division d’ersatz, venue de Boulay, prend possession de la côte de Delme, avec le 3e C.C.
 
-- Le 3e C.A. bavarois parcourt en marche d’approche une dizaine de km avant de se trouver au contact. Sa droite chasse aisément de Viviers et de Delme les avant-postes de la 68e division.  Vers 15h, il vient à bout de la résistance d’un régiment colonial et atteint à minuit Château-Salins.
+- Le 3e C.A. bavarois parcourt en marche d’approche une dizaine de km avant de se trouver au contact. Sa droite chasse aisément de Viviers et de Delme les avant-postes de la 68e division. Vers 15h, il vient à bout de la résistance d’un régiment colonial et atteint à minuit Château-Salins.
 
 - Le 2e C.A. bavarois, en approchant de Marthil, réduit au silence les batteries de la 39e division. A 10h, le corps entier se déploie en face de la position Château-Brehain - Achain - Conthil. Ces localités sont abandonnées par les Français à 10h. Pévange est enlevé à 13h. Les Français s’accrochent à Koeking. La 8e division d’ersatz arrive à la rescousse et les français doivent opérer une retraite. Plus à l’est, Pévange est enlevé à 13 heures. La 8e division d’ersatz arrive à la rescousse.
 
@@ -544,7 +544,7 @@ Rupprecht
 
 - Le 1e C.A.R. bavarois franchit le canal des Salines mais est arrêté devant une ligne de tranchées allant de Rohrbach à Bisping et ne parvient à s’en emparer que vers 15h. Une autre division de ce C.A. compte franchir le canal des Houillères mais y trouve des tirailleurs retranchés qui s’y défendent avec acharnement. Une attaque française débouche vers Gosselming dans son flanc gauche. Débarrassée de cette entrave par l’attaque de la VIIe armée, il force le canal des Houillères.
 
-La VIe armée allemande remporte un brillant succès sur toute la ligne de la bataille, mais ce succès n’est pas le fruit d’une manuvre d’ensemble bien combinée ; il a surtout pour cause la tactique de combat non adaptée des troupes françaises : l’infanterie se lance prématurément en avant, sans reconnaître l’adversaire et sans préparation d’artillerie. Les fantassins, soumis à un feu violent d’artillerie et de mitrailleuses, sont arrêtés et réduits à la défensive. Les Allemands prennent l’offensive à leur tour et le front français se disloque. La direction du combat échappe aux chefs et la lutte se morcelle. Les trois C.A. sont refoulés vers le sud. Dans la soirée, la IIe armée a rétrogradé jusqu’à la ligne Jallaucourt - Château-Salins - Maizières.
+La VIe armée allemande remporte un brillant succès sur toute la ligne de la bataille, mais ce succès n’est pas le fruit d’une manoeuvre d’ensemble bien combinée ; il a surtout pour cause la tactique de combat non adaptée des troupes françaises : l’infanterie se lance prématurément en avant, sans reconnaître l’adversaire et sans préparation d’artillerie. Les fantassins, soumis à un feu violent d’artillerie et de mitrailleuses, sont arrêtés et réduits à la défensive. Les Allemands prennent l’offensive à leur tour et le front français se disloque. La direction du combat échappe aux chefs et la lutte se morcelle. Les trois C.A. sont refoulés vers le sud. Dans la soirée, la IIe armée a rétrogradé jusqu’à la ligne Jallaucourt - Château-Salins - Maizières.
 
 Pour la Ie armée, la journée a été moins mauvaise, sauf à la gauche où le 8e C.A. a été refoulé par la contre-offensive du 1e C.A. bavarois et une partie du 14e C.A.
 
@@ -588,7 +588,7 @@ Malgré le repli du 8e C.A., Dubail ne considère pas la partie comme perdue et 
 
 **13e C.A.**
 
-La ligne de résistance du C.A., attaquée par le 14e C.A. allemand,  est bien enfoncée mais elle se maintient en certains points. L’artillerie bloque l’attaque du 14e C.A. allemand en lui infligeant de lourdes pertes, permettant au 8e C.A. de se regrouper.
+La ligne de résistance du C.A., attaquée par le 14e C.A. allemand, est bien enfoncée mais elle se maintient en certains points. L’artillerie bloque l’attaque du 14e C.A. allemand en lui infligeant de lourdes pertes, permettant au 8e C.A. de se regrouper.
 
 **16h30 :**
 
@@ -620,7 +620,7 @@ La 16e division tient bon à Sarrebourg jusqu’à 16h. Soutenue par une contre-
 
 Depuis le 14 août, l’armée avance en territoire allemand (cédé par la France en 1871), occupe la région des Etangs et débouche sur la Seille. Les Allemands occupent de fortes positions sur des défenses naturelles : Morhange est un véritable camp retranché et tout le pays entre Seille et Sarre forme un ouvrage continu.
 
-Les 15e et 16e C.A. doivent se porter en flèche pour attaquer à  partir de 5h du matin au nord du canal des Salines, pour rejeter les Allemands sur la voie ferrée Sarrebourg - Bensdorf.
+Les 15e et 16e C.A. doivent se porter en flèche pour attaquer à partir de 5h du matin au nord du canal des Salines, pour rejeter les Allemands sur la voie ferrée Sarrebourg - Bensdorf.
 
 La brume empêche de reconnaître les positions de l’adversaire. Au moment où les deux C.A. prennent l’offensive, ils sont attaqués (7h du matin).
 
@@ -694,7 +694,7 @@ Les Allemands ont eu l’avantage pendant la journée du 20 entre la Sarre et la
 
 **Réaction de Castelnau**
 
-Castelnau conçoit de vives inquiétudes à l’égard de ses C.A. de droite, principalement du 16e. Dès 7h, il ordonne à ce C.A. de porter sur-le-champ sa division de queue (31e)  dans la région Mézières - Bourdonnay ; au 20e d’attaquer d’urgence vers Koeking  pour soutenir son voisin ; au 15e de faire effort avec la 29e division sur Zommange pour dégager la gauche du 16e C.A., fortement pressée. Mais les 20e et 15e C.A. sont trop fortement pressés et se trouvent incapables de répondre à ces appels.
+Castelnau conçoit de vives inquiétudes à l’égard de ses C.A. de droite, principalement du 16e. Dès 7h, il ordonne à ce C.A. de porter sur-le-champ sa division de queue (31e) dans la région Mézières - Bourdonnay ; au 20e d’attaquer d’urgence vers Koeking pour soutenir son voisin ; au 15e de faire effort avec la 29e division sur Zommange pour dégager la gauche du 16e C.A., fortement pressée. Mais les 20e et 15e C.A. sont trop fortement pressés et se trouvent incapables de répondre à ces appels.
 
 **10h :**
 
@@ -719,9 +719,9 @@ Le matin du 21, le 20e C.A. est à Besange, la 15e à Serres et le 16e à Avrico
 Voici la position des C.A.
 
 - 16e C.A. : ligne générale Maizières - Réchicourt-le-Château.
-  15e C.A. : Marsal - Donnelay - Marimont.
-  20e C.A. : Marsal - Hampont - Jallaucourt.
-  Divisions de réserve : Grand Couronné de Nancy.
+    15e C.A. : Marsal - Donnelay - Marimont.
+    20e C.A. : Marsal - Hampont - Jallaucourt.
+    Divisions de réserve : Grand Couronné de Nancy.
 
 **Réaction de Dubail**
 
@@ -754,7 +754,7 @@ Des instructions tombées entre les mains françaises donnent pour objectif à l
 Pour faire échouer ce plan, les deux armées de l’est n’ont que deux ressources stratégiques :
 
 - Défendre pied à pied la vallée en s’appuyant sur les rivières.
-  Surprendre l’envahisseur par une attaque de flanc au départ du Grand Couronné.
+    Surprendre l’envahisseur par une attaque de flanc au départ du Grand Couronné.
 
 Les Allemands ont repris le combat de bonne heure devant l’armée de Dubail.
 
@@ -762,7 +762,7 @@ Les Allemands ont repris le combat de bonne heure devant l’armée de Dubail.
 
 - Le 13e C.A. (Alix) doit se cantonner sur la frontière même sur les bords de la Sarre blanche. La 26e division n’a pas été touchée par l’ordre de retraite et reste sur place dans la région de Plain-de-Valsch. Elle est accrochée et perd une partie de son artillerie.
 
-- Le 21e C.A. est resté sur ses bonnes positions autour du Donon et dans la vallée de la Bruche. Un  duel d’artillerie a lieu entre l’artillerie française au Donon et l’artillerie allemande à Féconrupt. La position vers Saint-Quirin est évacuée à 4h du matin. Le Donon est perdu.
+- Le 21e C.A. est resté sur ses bonnes positions autour du Donon et dans la vallée de la Bruche. Un duel d’artillerie a lieu entre l’artillerie française au Donon et l’artillerie allemande à Féconrupt. La position vers Saint-Quirin est évacuée à 4h du matin. Le Donon est perdu.
 
 Le soir, les trois C.A. ont repassé la Vezouse et leur gauche est protégée par le fort de Manonviller.
 
@@ -770,13 +770,13 @@ Le soir, les trois C.A. ont repassé la Vezouse et leur gauche est protégée pa
 
 Au soir, les trois C.A. ont atteint les zones de repli prescrites. La défense du Grand Couronné est assurée par trois brigades du 9e C.A., les 70e, 59e, 68e et 73e divisions de réserve, les 64e et 74e divisions achèvent leur débarquement.
 
-La 64e prend position sur le plateau de Saffais, entre Meurthe et Moselle, et la 74e entre le plateau de Saffais et la Mortagne ;  la 73e division de réserve, qui est sortie de Toul pour protéger la gauche de la IIe armée se portera sur la rive gauche de la Moselle pour empêcher la position de Sainte-Geneviève d’être tournée (colline au nord de Nancy).
+La 64e prend position sur le plateau de Saffais, entre Meurthe et Moselle, et la 74e entre le plateau de Saffais et la Mortagne ; la 73e division de réserve, qui est sortie de Toul pour protéger la gauche de la IIe armée se portera sur la rive gauche de la Moselle pour empêcher la position de Sainte-Geneviève d’être tournée (colline au nord de Nancy).
 
 A 3h du matin, est issu l’ordre de mise au point de l’ensemble du dispositif.
 
 - Les avant-gardes du 16e C.A. prendront position sur la ligne organisée de Marainviller - Sionviller (entre Lunéville et la forêt de Parroy).
 
-- Les avant-gardes du 15e C.A. se positionneront sur  la ligne Anthelup - Flainval, en se reliant à gauche avec les tranchées des éléments du 9e C.A., qui occupent le Rembêtant.
+- Les avant-gardes du 15e C.A. se positionneront sur la ligne Anthelup - Flainval, en se reliant à gauche avec les tranchées des éléments du 9e C.A., qui occupent le Rembêtant.
 
 Quant aux gros, ils sont disposés comme suit :
 
@@ -829,9 +829,9 @@ Une attaque allemande violente, soutenue par une puissante artillerie, se décle
 Castelnau prolonge la retraite.
 
 - Le 16e C.A. doit se rendre sur les hauteurs de Belchamps (entre Bayon et Xermaménil).
-  La 74e division doit tenir la route de Bayon à Lunéville.
-  La 15e C.A. doit occuper Haussonville et Ferrières.
-  La 20e C.A. doit retraiter vers Saint-Nicolas.
+    La 74e division doit tenir la route de Bayon à Lunéville.
+    La 15e C.A. doit occuper Haussonville et Ferrières.
+    La 20e C.A. doit retraiter vers Saint-Nicolas.
 
 ![(JPG)](../img/39_RAC2.jpg)
 _39e R.A.C. - 39e div - 20e C.A._

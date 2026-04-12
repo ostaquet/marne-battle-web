@@ -6,11 +6,11 @@ C’est la fin de la batille des frontières. Les alliés reculent sur toute la 
 
 Les anglo-français se dérobent et échappent au double encerclement entre la Ie et la IIIe armée.
 
-Joffre est condamné à la défensive appuyée sur les places fortes et aux grands obstacles de terrain. Il doit garder du champ en abandonnant une partie du territoire français. Il envoie entre 8h30 et 9h les ordres préparant une nouvelle manuvre.
+Joffre est condamné à la défensive appuyée sur les places fortes et aux grands obstacles de terrain. Il doit garder du champ en abandonnant une partie du territoire français. Il envoie entre 8h30 et 9h les ordres préparant une nouvelle manoeuvre.
 
-- La Ve armée gardant la liaison avec le IVe et avec les Anglais manuvre en retraite en s’appuyant sur la place de Maubeuge et le massif des ardennes.
+- La Ve armée gardant la liaison avec le IVe et avec les Anglais manoeuvre en retraite en s’appuyant sur la place de Maubeuge et le massif des ardennes.
 
-- La IVe armée doit se reporter sur la rive gauche de la Meuse en aval de Mouzon et sur les hauteurs de la rive droite de la Meuse entre Mouzon et  Stenay.
+- La IVe armée doit se reporter sur la rive gauche de la Meuse en aval de Mouzon et sur les hauteurs de la rive droite de la Meuse entre Mouzon et Stenay.
 
 - La IIIe armée vient sur le front sur la ligne Montmédy - Damvillers - Azanes, en liaison avec l’armée de Lorraine maintenue sur les Hauts de Meuse en attitude défensive.
 
@@ -51,9 +51,9 @@ Le 4e C.A. est assailli au débouché nord de Virton et refoulé sur la Chiers e
 L’armée reflue vers la Meuse et la Chiers. Le repli de la IVe armée laisse les troupes allemandes signalées dans la région de la Lesse et de Ciney libres de franchir la Meuse. De Langle reçoit ordre de contre-attaquer le 27 août les troupes qui ont franchi la Meuse à Sedan et Donchéry.
 
 - Le 17e C.A. est au nord de Mouzon.
-  Les 9e, 11e C.A. et la 60e div. res. sont sur la rive gauche de la Meuse, entre Sedan et Mézières.
-  Le 12e C.A. est à Carignan.
-Le Q.G. de l’armée s’est transporté de Stenay au Chesne dans la nuit du 23 au 24.
+    Les 9e, 11e C.A. et la 60e div. res. sont sur la rive gauche de la Meuse, entre Sedan et Mézières.
+    Le 12e C.A. est à Carignan.
+  Le Q.G. de l’armée s’est transporté de Stenay au Chesne dans la nuit du 23 au 24.
 
 ![Défense dun cours deau - 44.3 ko](../img/infanterie_fr_canal.jpg)
 _Défense d’un cours d’eau_
@@ -141,11 +141,11 @@ _Collection privée_
 
 **[Lien vers croquis](../img/progression_allemands.jpg)**
 
-### Ie armée allemande : la manuvre d’enveloppement échoue
+### Ie armée allemande : la manoeuvre d’enveloppement échoue
 
 Von Kluck est furieux de n’avoir pas trouvé le flanc de l’armée anglaise dans la journée du 23 et prétend réussir mieux le 24.
 
-Les seules unités dont il dispose pour réaliser la manuvre de débordement sont le C.C. von der Marwitz et le 2e C.A., parvenu dans la soirée à La Hamaide, à 25 km en arrière du champ de bataille. Le 4e C.A.R. est à Bierghes. Von Kluck déploie son énergie habituelle pour ne pas laisser s’échapper cette dernière chance. A force d’insistance, il obtient de l’O.H.L. que le C.C. Marwitz soit placé sous ses ordres et le dirige aussitôt sur Denain. Il fait serrer le 2e C.A. sur Condé par une marche de nuit et prescrit la reprise de l’offensive pour le 24 à 5h.
+Les seules unités dont il dispose pour réaliser la manoeuvre de débordement sont le C.C. von der Marwitz et le 2e C.A., parvenu dans la soirée à La Hamaide, à 25 km en arrière du champ de bataille. Le 4e C.A.R. est à Bierghes. Von Kluck déploie son énergie habituelle pour ne pas laisser s’échapper cette dernière chance. A force d’insistance, il obtient de l’O.H.L. que le C.C. Marwitz soit placé sous ses ordres et le dirige aussitôt sur Denain. Il fait serrer le 2e C.A. sur Condé par une marche de nuit et prescrit la reprise de l’offensive pour le 24 à 5h.
 
 ![Colonne dartillerie allemande - 32.1 ko](../img/artillerie_marsche.jpg)
 _Colonne d’artillerie allemande_

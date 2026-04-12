@@ -19,12 +19,12 @@ Le Commandement allemand compte n’avoir affaire qu’à deux régiments qui y 
 Dès le 4 août, l’Etat-Major allemand peut mettre en mouvement, sous les ordres du général von Emmich, commandant du 10e C.A., l’armée de la Meuse qui comprend :
 
 - Le 25e R.I. de Aix-la-Chapelle.
-  La 34e Br. du 9e C.A. venant de Schwerin.
-  La 27e Br. du 7e C.A. venant de Cologne.
-  La 14e Br. du 4e C.A. venant de Halberstadt.
-  La 11e Br. du 3e C.A. venant de Brandebourg.
-  La 38e Br. du 10e C.A. venant de Hanovre.
-  La 43e Br. du 11e C.A. venant de Cassel.
+    La 34e Br. du 9e C.A. venant de Schwerin.
+    La 27e Br. du 7e C.A. venant de Cologne.
+    La 14e Br. du 4e C.A. venant de Halberstadt.
+    La 11e Br. du 3e C.A. venant de Brandebourg.
+    La 38e Br. du 10e C.A. venant de Hanovre.
+    La 43e Br. du 11e C.A. venant de Cassel.
 
 Soit 59.800 hommes lourdement armés d’artillerie et de mitrailleuses. Les unités sont prélevées sur l’effectif de la IIe armée (von Bülow).
 
@@ -78,37 +78,37 @@ Les forces dont dispose le général Leman sont les suivantes :
 
 Faisant partie de la 3e division d’armée
 
-| Unité | Commandant |
-| --- | --- |
-| 9e brigade mixte | Général Gillis |
-| 11e brigade mixte | Général Bertrand |
+| Unité             | Commandant        |
+| ----------------- | ----------------- |
+| 9e brigade mixte  | Général Gillis    |
+| 11e brigade mixte | Général Bertrand  |
 | 12e brigade mixte | Général Vermeulen |
-| 14e brigade mixte | Général Aldringa |
+| 14e brigade mixte | Général Aldringa  |
 
 Autres unités
 
-| Unité | Commandant |
-| --- | --- |
-| Deux régiments de lanciers |  |
-| 3e régiment d’artillerie |  |
-| Un bataillon du génie |  |
-| Un corps de transports |  |
+| Unité                      | Commandant |
+| -------------------------- | ---------- |
+| Deux régiments de lanciers |            |
+| 3e régiment d’artillerie   |            |
+| Un bataillon du génie      |            |
+| Un corps de transports     |            |
 
 A partir du 5 août
 
-| Unité | Commandant |
-| --- | --- |
-| 15e brigade mixte |  |
+| Unité                  | Commandant         |
+| ---------------------- | ------------------ |
+| 15e brigade mixte      |                    |
 | Un groupe d’artillerie | Commandant Massart |
 
 Les troupes de forteresse
 
-| Unité | Commandant |
-| --- | --- |
-| 9e régiment de forteresse |  |
-| 11e régiment de forteresse |  |
-| 12e régiment de forteresse |  |
-| 14e régiment de forteresse |  |
+| Unité                      | Commandant |
+| -------------------------- | ---------- |
+| 9e régiment de forteresse  |            |
+| 11e régiment de forteresse |            |
+| 12e régiment de forteresse |            |
+| 14e régiment de forteresse |            |
 
 12 batteries de forteresse||
 
@@ -128,7 +128,7 @@ Les forces mises en uvre par les Allemands comprennent six brigades d’infant
 
 Dès le 4 août à 6 h, Leman ordonne de lancer des escadrons à la découverte de la rive droite de la Meuse. Le 2e lanciers franchit le pont sur la Meuse et continue vers le plateau de Herve. Dès 8 h, l’escadron arrête sa course à trois km de Herve. Le cavalier Fonck est envoyé en reconnaissance et découvre un groupe de cavaliers allemands. Il en abat un avec sa carabine mais son cheval est abattu par des cyclistes allemands. Fonck se dégage mais est encerclé et un coup de feu l’étend dans un fossé. C’est le premier belge tué de la grande guerre.
 
-Les autres lanciers suivent la progression  allemande et renseignent le quartier du général Leman au moyen de messages par pigeons.
+Les autres lanciers suivent la progression allemande et renseignent le quartier du général Leman au moyen de messages par pigeons.
 
 A Visé, un observateur belge signale une colonne allemande descendant sur la petite ville. A 13h, les cavaliers allemands débouchent dans l’axe du pont détruit et un feu roulant se déclenche de la rive tenue par les Belges, mais des tireurs allemands s’installent à leur tour le long de la Meuse. Vers 14h30, l’artillerie allemande se met à arroser les positions belges à partir de la butte de Mouland, provoquant la réplique du fort de Pontisse.
 
@@ -224,9 +224,9 @@ Un accrochage a lieu au cimetière de Rhées, que les fantassins belges avaient 
 
 **2h :**
 
-Le 89e grenadiers allemand règne en maître sur la plaine et se regroupe près du cimetière de Rhées. La troupe allemande marche sur Herstal mais le reste de la 34e brigade, engagé entre les forts de Liers et de Pontisse, reste cloué sur place. Le 90e fusiliers s’empare du village de Pontisse et gagne la route de Vivegnis à Herstal, mais, à la lisière de Herstal, 400 fantassins belges veillent. Ils constituent la seconde ligne de défense. La grand’ route de Vivegnis - Herstal a été barricadée ainsi que la route de Rhées et le pont de Wandre. Chaque barricade est pourvue d’un tas de paille  imbibé de goudron.
+Le 89e grenadiers allemand règne en maître sur la plaine et se regroupe près du cimetière de Rhées. La troupe allemande marche sur Herstal mais le reste de la 34e brigade, engagé entre les forts de Liers et de Pontisse, reste cloué sur place. Le 90e fusiliers s’empare du village de Pontisse et gagne la route de Vivegnis à Herstal, mais, à la lisière de Herstal, 400 fantassins belges veillent. Ils constituent la seconde ligne de défense. La grand’ route de Vivegnis - Herstal a été barricadée ainsi que la route de Rhées et le pont de Wandre. Chaque barricade est pourvue d’un tas de paille imbibé de goudron.
 
-Dès que les Allemands apparaissent,  les tas de paille sont allumés, le tir déclenché et les Allemands sont refoulés devant les barricades. Les pertes allemandes sont considérables.
+Dès que les Allemands apparaissent, les tas de paille sont allumés, le tir déclenché et les Allemands sont refoulés devant les barricades. Les pertes allemandes sont considérables.
 
 Un drapeau allemand est capturé (le premier de la guerre) au pont de Wandre.
 
@@ -286,7 +286,7 @@ _La Belgique et la guerre_
 
 **1h30 :**
 
-La tête de la 14e brigade quitte Micheroux. Elle contrait à la retraite de petites positions belges et arrivent à Sur-Fossé, non loin de Liéry. A 700 m  de là, à Liéry, des Belges attendent les Allemands avec deux pièces de 75. Le commandant belge lance trois sommations et déclenche le tir quand les Allemands sont très proches des canons. Ils sont fauchés par le tir de boîtes à balles. Le général von Wüssow est mis hors de combat. A l’entrée de Rétinne, les soldats allemands se croyant attaqués par la population civile, se mitraillent mutuellement jusque 4h.
+La tête de la 14e brigade quitte Micheroux. Elle contrait à la retraite de petites positions belges et arrivent à Sur-Fossé, non loin de Liéry. A 700 m de là, à Liéry, des Belges attendent les Allemands avec deux pièces de 75. Le commandant belge lance trois sommations et déclenche le tir quand les Allemands sont très proches des canons. Ils sont fauchés par le tir de boîtes à balles. Le général von Wüssow est mis hors de combat. A l’entrée de Rétinne, les soldats allemands se croyant attaqués par la population civile, se mitraillent mutuellement jusque 4h.
 
 Ludendorff prend le commandement de la colonne, remplaçant le général von Wüssow, et marche sur Queue-du-Bois, soutenu par trois gros projecteurs et quatre obusiers de 105. Le village de Queue-du-Bois est défendu par dix compagnies.
 
@@ -397,7 +397,7 @@ Von Emmich décide d’envoyer un de ses représentants au général Leman. Les 
 
 Malgré l’échec du coup de main allemand, Leman est persuadé que la ville est perdue. Il donne l’ordre à la 3e division de rejoindre l’armée de campagne qui se trouve le long de la Gette. Les forts sont livrés à eux-mêmes pour leur défense et serviront de forts d’arrêt.
 
-« Les troupes de la rive droite devront repasser la Meuse et se reformer sur la ligne allant  du fort de Lantin au fort de Hollogne, face vers Liège. Mon quartier général est au fort de Loncin. »
+« Les troupes de la rive droite devront repasser la Meuse et se reformer sur la ligne allant du fort de Lantin au fort de Hollogne, face vers Liège. Mon quartier général est au fort de Loncin. »
 
 **13h :**
 
@@ -545,7 +545,7 @@ Le chargement et le transport terrestre, par tracteurs à vapeur, commencent. Il
 
 Les deux convois des mortiers de 420 démarrent dans l’après-midi. A 22h, les deux pièces de 420 s’arrêtent à Henri-Chapelle.
 
-Sur ces entrefaites,  les 120.000 soldats chargés de réduire Liège entrent en Belgique. Le corps d’armée forme une colonne de 49 km de profondeur.
+Sur ces entrefaites, les 120.000 soldats chargés de réduire Liège entrent en Belgique. Le corps d’armée forme une colonne de 49 km de profondeur.
 
 **Fort d’Evegnée**
 
@@ -576,17 +576,17 @@ Un feu roulant d’artillerie de calibre 210 s’abat sur Embourg et dure dix he
 Un hussard se présente devant le fort, drapeau à la main. Il est suivi par deux notables liégeois et demande à parler au commandant. Le hussard lit une longue note selon laquelle trente batteries de très gros calibre sont braquées sur Fléron et qu’elles tireraient jusqu’à ce que le fort soit anéanti. Le commandant du fort refuse de capituler. L’officier salue et repart pour Herve.
 
 - En soirée, voici la position des troupes d’investissement :
-  17e D.I. vers Moulaud.
-  18e D.I. + 28e brig. vers Saive - Fort d’Evegnée - ouest de Soumagne.
-  13e D.I. d’Ayeneux à Prayon.
-  14e D.I. + 43e brig. de Prayon à Beaufays et Monchamps.
-  Cavalerie de corps au confluent de l’Amblève.
-  38e brig à Esneux.
-  Gros du 10e C.A. à Louveigné.
-  14e brig. de Vottem à Ans.
-  11e brig. d’Ans à Tilleur.
-  27e brig. à Liège où deux ponts de bateaux ont été construits.
-  9e D.C. entre l’Ourthe et la Meuse.
+    17e D.I. vers Moulaud.
+    18e D.I. + 28e brig. vers Saive - Fort d’Evegnée - ouest de Soumagne.
+    13e D.I. d’Ayeneux à Prayon.
+    14e D.I. + 43e brig. de Prayon à Beaufays et Monchamps.
+    Cavalerie de corps au confluent de l’Amblève.
+    38e brig à Esneux.
+    Gros du 10e C.A. à Louveigné.
+    14e brig. de Vottem à Ans.
+    11e brig. d’Ans à Tilleur.
+    27e brig. à Liège où deux ponts de bateaux ont été construits.
+    9e D.C. entre l’Ourthe et la Meuse.
 
 ### 12 août : début des bombardements d’artillerie lourde
 
@@ -595,8 +595,8 @@ La ligne d’nvestissement se resserre.
 Les obusiers de 420 sont acheminés par voie routière au village de Mortier, dans l’après-midi, à cinq kilomètres du fort de Barchon. Vers 18 heures, le bombardement du fort de Pontisse commence. Les forts de Liège sont en béton non armé donc incapables de résister à des obus de 420 (un obus de 420 a la hauteur d’un adulte et pèse plus de 900 kg).
 
 - Le 9e C.A. est chargé de conquérir les forts de Pontisse, Liers et Fléron avec le concours de la 28e brigade.
-  Le 7e C.A. et la 43e brigade se chargent de Chaudfontaine et d’Embourg.
-  Le 10e C.A. garde le flanc gauche de l’attaque allemande.
+    Le 7e C.A. et la 43e brigade se chargent de Chaudfontaine et d’Embourg.
+    Le 10e C.A. garde le flanc gauche de l’attaque allemande.
 
 A partir du matin, le fort d’Embourg subit un tir de destruction à raison de plusieurs coups à la minute. Dans la soirée, toute l’artillerie de l’ouvrage est détruite.
 
@@ -732,7 +732,7 @@ Un soldat essaie de sortir du fort pour observer les assaillants, mais il est im
 
 ### 15 août : chute des forts de Boncelles, de Lantin et de Loncin
 
-Les mortiers de 420 sont amenés au champ de manuvres de Bressoux.
+Les mortiers de 420 sont amenés au champ de manoeuvres de Bressoux.
 
 La deuxième batterie de 420 arrive à Liège en gare des Guillemins d’où elle est transférée vers le par d’Avroy pour tirer sur les forts de Hollogne et Flémalle.
 
@@ -758,7 +758,7 @@ Les munitions s’épuisent et vers 10h, le fort ne peut plus riposter.
 
 **15 heures :**
 
-Le bombardement du fort commence au départ de la plaine de manuvres de Bressoux (à 9 km. du fort) par des mortiers de 420. Toutes les minutes, un obus de ce calibre tombe sur le fort. La fumée pénètre dans les galeries et menace d’asphyxier la garnison. Comme Lantin est tombé, le tir de tous les canons se concentre sur Loncin.
+Le bombardement du fort commence au départ de la plaine de manoeuvres de Bressoux (à 9 km. du fort) par des mortiers de 420. Toutes les minutes, un obus de ce calibre tombe sur le fort. La fumée pénètre dans les galeries et menace d’asphyxier la garnison. Comme Lantin est tombé, le tir de tous les canons se concentre sur Loncin.
 
 **17h20 :**
 

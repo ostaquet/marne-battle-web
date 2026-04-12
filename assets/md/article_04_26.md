@@ -8,11 +8,11 @@ Le général Bonneau campe autour de Mulhouse avec le 7e C.A. et la 27e division
 
 Première instruction d’ensemble de Joffre. (Instruction générale n° 1)
 
-En résumé : il faut rechercher la bataille, toutes forces réunies, en appuyant au Rhin la droite du dispositif général. Il faut pouvoir porter l’aile gauche en avant si la droite allemande se  rabat vers le sud. Voici les directions d’attaque des armées :
+En résumé : il faut rechercher la bataille, toutes forces réunies, en appuyant au Rhin la droite du dispositif général. Il faut pouvoir porter l’aile gauche en avant si la droite allemande se rabat vers le sud. Voici les directions d’attaque des armées :
 
 - Ie armée : attaquera vers Sarrebourg, le Donon, la vallée de la Bruche (affluent du Rhin et chemin vers Strasbourg), le 7e C.A. couvrant la droite, en marchant sur Colmar et détruisant les ponts du Rhin. Le but est de rejeter l’armée allemande sur Strasbourg.
 
-- IIe armée : en se couvrant face à Metz, doit attaquer vers Saarbrücken en se reliant à la Ie armée par la région des étangs. Le front  suit la ligne de Dieuze - Château-Salins - Delme.
+- IIe armée : en se couvrant face à Metz, doit attaquer vers Saarbrücken en se reliant à la Ie armée par la région des étangs. Le front suit la ligne de Dieuze - Château-Salins - Delme.
 
 - IIIe armée : doit constituer le front Flabas - Ornes - Vigneulles - Saint-Baussant, être prête à agir dans la région du nord ou contre-attaquer les forces débouchant de Metz.
 
@@ -24,7 +24,7 @@ En résumé : il faut rechercher la bataille, toutes forces réunies, en appuya
 
 La Ve armée est sur la Meuse, en amont de Mézières, prolongeant la ligne des IVe et IIIe armées, qui s’étend jusqu’à la Woëvre septentrionale.
 
-Le général Hély d’Oissel, chef d’Etat-Major de la Ve armée, vient exposer à Joffre la crainte de voir les Allemands exécuter un mouvement débordant à l’ouest de la Meuse. Joffre lui répond que ses craintes lui paraissent prématurées et que cette manuvre prêtée aux Allemands semble excéder leurs moyens.
+Le général Hély d’Oissel, chef d’Etat-Major de la Ve armée, vient exposer à Joffre la crainte de voir les Allemands exécuter un mouvement débordant à l’ouest de la Meuse. Joffre lui répond que ses craintes lui paraissent prématurées et que cette manoeuvre prêtée aux Allemands semble excéder leurs moyens.
 
 ### Détachement de Haute-Alsace
 
@@ -55,10 +55,10 @@ Comme le Luxembourg a été envahi, pour faire face à une attaque possible vena
 ### Ve armée française
 
 - La Ve armée entre en jonction avec les forces belges à Yvoir.
-  Le 1e C.A. est en position de Mézières à Givet.
-  Le 3e C.A. est entre Mézières et Sedan.
-  Le 10e C.A. est entre Sedan et Remilly.
-  La 11e C.A. est entre Remilly et Mouzon (à la gauche de la IVe armée).
+    Le 1e C.A. est en position de Mézières à Givet.
+    Le 3e C.A. est entre Mézières et Sedan.
+    Le 10e C.A. est entre Sedan et Remilly.
+    La 11e C.A. est entre Remilly et Mouzon (à la gauche de la IVe armée).
 
 Ce dispositif est maintenu jusqu’au 13 août.
 
@@ -81,10 +81,10 @@ Dans la matinée, le C.C. pousse au nord de la Lesse. Il se porte, via Ciney, ve
 La D.C., commandée par le Lieutenant général de Witte se porte à Sint-Truiden et environs, poussant ses éléments de découverte vers Waremme, Oreye, Tongeren et Maaseik. Elle comprend
 
 - La 1e brigade de cavalerie : 1e et 2e régiments de guides.
-  La 2e brigade de cavalerie : 4e et 5e régiments de lanciers.
-  Le bataillon de carabiniers cyclistes.
-  La compagnie de pionniers pontonniers.
-  Le groupe d’artillerie à cheval.
+    La 2e brigade de cavalerie : 4e et 5e régiments de lanciers.
+    Le bataillon de carabiniers cyclistes.
+    La compagnie de pionniers pontonniers.
+    Le groupe d’artillerie à cheval.
 
 Le rôle de la D.C. est d’empêcher l’armée allemande d’isoler l’armée belge d’Anvers.
 Un mouvement de l’armée allemande sur la gauche de l’armée belge met celle-ci en danger, tandis que son aile droite est couverte par la position fortifiée de Namur et le C.C. Sordet.
@@ -108,16 +108,16 @@ _Cavalerie allemande sur un pont de bateaux_
 _Collection privée_
 
 - Von Kluck donne les objectifs à sa cavalerie :
-  Le 2e C.C. : vers Bruxelles.
-  La 2e D.C. : vers Hasselt
-  La 4e D.C. : vers Saint-Trond et Waremme.
+    Le 2e C.C. : vers Bruxelles.
+    La 2e D.C. : vers Hasselt
+    La 4e D.C. : vers Saint-Trond et Waremme.
 
 Le débarquement des unités de combat commence. Les prévisions sont établies comme suit :
 
 - Le 11 août pour les 3e et 4e C.A.
-  Le 12 août pour le 2e C.A.
-  Le 13 août pour le 3e C.A.R.
-  Le 14 août pour le 14e C.A.R.
+    Le 12 août pour le 2e C.A.
+    Le 13 août pour le 3e C.A.R.
+    Le 14 août pour le 14e C.A.R.
 
 L’offensive à partir d’Aix-la-Chapelle doit commencer le 14 août.
 
@@ -130,9 +130,9 @@ Bülow donne l’ordre à son armée et au 1e C.C (général von Einem) de march
 L’armée se concentre dans la région de l’Eiffel (Saint-Vith - Waxweiler - Prüm - Wittlich).
 
 - Le 11e C.A. constitue l’aile droite
-  Le 12e C.A. est au centre
-  Le 19e C.A. constitue l’aile gauche.
-  Le 12e C.A.R. est en deuxième ligne.
+    Le 12e C.A. est au centre
+    Le 19e C.A. constitue l’aile gauche.
+    Le 12e C.A.R. est en deuxième ligne.
 
 La concentration est couverte par le 1e C.C. (von Richthofen).
 

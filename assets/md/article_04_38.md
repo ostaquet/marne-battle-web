@@ -7,7 +7,7 @@ L’armée de von Kluck atteint Bruxelles.
 
 Le G.Q.G. a enfin une idée de ce qui se passe au nord de la Meuse. De nombreuses colonnes ont été vues au nord de la Meuse et se dirigent vers l’ouest. Leurs têtes atteignent la ligne Aarschot - Louvain - Jodoigne. Elles sont estimées à 4 C.A. au moins. Joffre se rend compte que cette masse est dirigée contre l’aile gauche de l’armée française.
 
-La manuvre s’annonce plus importante que celle qui avait été envisagée puisqu’elle déborde largement Bruxelles par le nord. Une nouvelle confirmation a lieu dans la nuit du 20 au 21, signalant 5 C.A., 3 D.C. et 2 brigades de cavalerie au nord de la Meuse.
+La manoeuvre s’annonce plus importante que celle qui avait été envisagée puisqu’elle déborde largement Bruxelles par le nord. Une nouvelle confirmation a lieu dans la nuit du 20 au 21, signalant 5 C.A., 3 D.C. et 2 brigades de cavalerie au nord de la Meuse.
 
 Comme les Allemands sont en force dans le nord de la Belgique et en Alsace-Lorraine, il suppose que leur point faible se situe au niveau des Ardennes belges. Il prescrit donc une offensive visant à couper en deux l’armée allemande.
 
@@ -16,9 +16,9 @@ A 20h 30, Joffre décide un premier pas en avant.
 « La IIIe armée commencera son mouvement le 21 en direction générale d’Arlon. Elle portera ses têtes de corps sur Virton, Tellancourt et Beuveille. Sa mission sera de contre-attaquer toute force allemande qui chercherait à gagner le flanc droit de la IVe armée. Celle-ci portera de fortes avant-gardes sur la ligne Paliseul - Bertrix - Straimont - Tintigny.
 
 - La IIIe armée doit commencer dès le 21 son mouvement offensif en direction d’Arlon.
-  La IVe armée doit commencer sa marche sur Neufchâteau.
-  La Ve armée doit se porter vers Gembloux - Nivelles.
-  L’armée britannique doit porter son gros dans la région de Soignies. »
+    La IVe armée doit commencer sa marche sur Neufchâteau.
+    La Ve armée doit se porter vers Gembloux - Nivelles.
+    L’armée britannique doit porter son gros dans la région de Soignies. »
 
 ### Armée d’Alsace
 
@@ -31,14 +31,14 @@ L’armée poursuit son mouvement offensif mais va bientôt devoir retraiter sui
 Pau donne ordre provisoirement d’organiser les positions atteintes le 20 au soir.
 
 - Au nord de la ligne Cernay - Mulhouse, le front est tenu par la 116e brigade et le 7e C.A.
-  Les 66e et 44e divisions sont sur l’Ill, de Mulhouse à Altkirch.
-  La 57e division est à Altkirch - Dannemarie.
+    Les 66e et 44e divisions sont sur l’Ill, de Mulhouse à Altkirch.
+    La 57e division est à Altkirch - Dannemarie.
 
 ### Ie armée française
 
 Prémisses de la bataille :
 
-Dans la nuit du 19 au 20, la 15e division a ordre d’attaquer Gosselming, soutenue par la 16e division. Le brouillard est intense et le mouvement se déclenche vers 4h30 mais aussitôt, les troupes françaises se heurtent aux Allemands qui tiennent les bois de Langatte. La 15e division, appuyée par l’artillerie du C.C., attaque Dolving et Gosselming. La 16e division l’appuie par une attaque sur Saaraltdorf  et Eich. Dolving est occupé et les Français atteignent la Sarre. Gosselming est enlevé par le 56e R.I. mais aussitôt, le village est pris à partie par un feu très violent d’artillerie lourde et de mitrailleuses.
+Dans la nuit du 19 au 20, la 15e division a ordre d’attaquer Gosselming, soutenue par la 16e division. Le brouillard est intense et le mouvement se déclenche vers 4h30 mais aussitôt, les troupes françaises se heurtent aux Allemands qui tiennent les bois de Langatte. La 15e division, appuyée par l’artillerie du C.C., attaque Dolving et Gosselming. La 16e division l’appuie par une attaque sur Saaraltdorf et Eich. Dolving est occupé et les Français atteignent la Sarre. Gosselming est enlevé par le 56e R.I. mais aussitôt, le village est pris à partie par un feu très violent d’artillerie lourde et de mitrailleuses.
 
 La Ie armée doit se glisser vers Fenestrange, entre l’étang de Lindre, celui de Langatte et celui de Fenestrange. Deux routes principales sont construites dans ce maquis humide : celle de Sarrebourg à Fenestrange et celle de Sarrebourg à Faulquemont. Seule la route de Sarrebourg à Fenestrange peut permettre à la Ie armée de s’avancer vers Saarbrücken. Les Allemands sont installés sur la ligne des hauteurs qui longent la rive droite de la Sarre, de Rieding à Fenestrange. C’est de là qu’ils surveillent la marche des régiments français.
 
@@ -64,9 +64,9 @@ _Collection privée_
 L’armée (2e, 12e, 17e, 11e C.A., corps colonial) se trouve dans le secteur entre Semois et Chiers, depuis Montmédy jusqu’à Mézières, couverte par les 4e et 9e D.C.
 
 - Le 2e C.A. est dans la région de Montmédy, formant échelon en arrière et à droite par rapport au corps colonial.
-  Le corps colonial, les 12e, 17e et 11e C.A. sont échelonnés sur la Meuse et la Chiers.
-  Les 52e et 60e divisions de réserve tiennent les passages de la Meuse de Donchéry à Revin.
-  Le 9e C.A. et la division marocaine achèvent de débarquer et de se concentrer dans la région de Mézières.
+    Le corps colonial, les 12e, 17e et 11e C.A. sont échelonnés sur la Meuse et la Chiers.
+    Les 52e et 60e divisions de réserve tiennent les passages de la Meuse de Donchéry à Revin.
+    Le 9e C.A. et la division marocaine achèvent de débarquer et de se concentrer dans la région de Mézières.
 
 Suivant les instructions de Joffre, l’armée s’apprête à se porter en avant le lendemain sur tout le front.
 
@@ -117,18 +117,18 @@ L’armée est sur le Rupel et la Nèthe avec un détachement à Dendermonde. So
 Elle signale d’importants passages sur la rive gauche de la Meuse entre Huy et Liège. Les troupes se dirigent vers l’ouest. L’armée atteint le camp retranché d’Anvers. Pour éviter des représailles, le gouvernement belge a décidé que la garde civique ne défendra pas Bruxelles et se repliera sur Anvers. Les Allemands entrent à Bruxelles sans combat.
 
 - L’armée de campagne occupe la ligne des forts de Lier à Boom (3e et 4e seteurs).
-  6e division : Boom
-  5e division : Willebroek
-  1e division : Waelhem
-  2e division : Lier
-  3e division : Rumst
-  D.C. : Sint-Katelijne-Waver.
+    6e division : Boom
+    5e division : Willebroek
+    1e division : Waelhem
+    2e division : Lier
+    3e division : Rumst
+    D.C. : Sint-Katelijne-Waver.
 
 - Pour le 21 août, ordre est donné de placer une division dans chacun des secteurs menacés, soit
-  5e division dans le 4e secteur
-  1e division dans le 3e secteur
-  2e division dans le 2e secteur
-Les 3e et 6e divisions sont en réserve en arrière du secteur central, soit les 1e et 3e secteurs, les plus menacés.
+    5e division dans le 4e secteur
+    1e division dans le 3e secteur
+    2e division dans le 2e secteur
+  Les 3e et 6e divisions sont en réserve en arrière du secteur central, soit les 1e et 3e secteurs, les plus menacés.
 
 ![Entrée des Allemands à Bruxelles - 34.3 ko](../img/armee_allemande_bruxelles_600.jpg)
 _Entrée des Allemands à Bruxelles_
@@ -172,9 +172,9 @@ Collection privée_
 Voici la position des différents corps d’armée au soir :
 
 - Le 2e C.A. est à Vilvoorde.
-  Le 4e C.A.  est à Anderlecht.
-  Le 3e C.A. est à Drogenbos.
-  La D.C. est à Wolvertem.
+    Le 4e C.A. est à Anderlecht.
+    Le 3e C.A. est à Drogenbos.
+    La D.C. est à Wolvertem.
 
 La marche de la Ie armée commence à s’infléchir vers le sud (direction d’Enghien), selon les prescriptions du plan Schlieffen, pour s’orienter vers Paris. von Kluck sait que les Anglais s’avancent vers lui en venant de Lille. Il fait donc infléchir son aile gauche vers l’ouest de Maubeuge.
 
@@ -205,10 +205,10 @@ Le général von Hausen est surpris par l’instruction de Moltke qui lui enjoin
 Von Bülow lui télégraphie « attaque de la IIe armée sur la Sambre aura lieu le 2 au matin ; aile gauche par Jemeppe - Mettet ».
 
 - Le 11e C.A. prend position contre la position fortifiée de Namur.
-  Le gros de l’armée atteint le front Spontin - Ciergnon.
-  Le Q.G. de l’armée est à Marche.
-  Le 1e C.C. passe sous le commandement de von Bülow.
-  La D.C. de la Garde est à Natoye et la 5e D.C. à Houyet.
+    Le gros de l’armée atteint le front Spontin - Ciergnon.
+    Le Q.G. de l’armée est à Marche.
+    Le 1e C.C. passe sous le commandement de von Bülow.
+    La D.C. de la Garde est à Natoye et la 5e D.C. à Houyet.
 
 ### IV armée allemande
 
@@ -225,13 +225,13 @@ Les C.A. de première ligne sont invités à se mettre « en position d’atten
 Le duc de Wurtemberg adopte un dispositif en profondeur, les trois C.A. actifs en première ligne, du nord au sud :
 
 - 8e C.A. sur la coupure de l’Ourthe, 25 km en arrière de la IIIe armée.
-  18e C.A. à l’est de Libramont - Neufchâteau
-  6e dans la région de Léglise - Mellier, face au sud-ouest.
+    18e C.A. à l’est de Libramont - Neufchâteau
+    6e dans la région de Léglise - Mellier, face au sud-ouest.
 
 - Les C.A. sont suivis par
-  le 8e C.A.R., dans le sillage du 8e C.A.
-  la 21e division de réserve dans le sillage du 18e C.A.
-  la 25e divbision de réserve dans le sillage du 6e C.A.
+    le 8e C.A.R., dans le sillage du 8e C.A.
+    la 21e division de réserve dans le sillage du 18e C.A.
+    la 25e divbision de réserve dans le sillage du 6e C.A.
 
 Les étapes exécutes en colonnes profondes sous un soleil de plomb sont épuisantes. Les Belges ont détruit deux ponts au noeud de voies ferrées de Libramont. La 2e compagnie de chemins de fer de campagne travaille à les rétablir.
 
@@ -249,24 +249,24 @@ Elle va aborder les passages de la Meuse au nord de Verdun puis marcher vers Sai
 
 Voici la position des différents C.A. :
 
-- 3e D.C. en liaison avec la IVe armée à  Etalle.
-  5e C.A. : Etalle - Arlon.
-  13e C.A. : Châtillon.
-  5e C.A.R. : Capellen.
-  16e C.A. : nord-ouest de Thionville.
-  6e C.A.R. : Rodange, face à Longwy.
-  6e D.C. à gauche du dispositif.
+- 3e D.C. en liaison avec la IVe armée à Etalle.
+    5e C.A. : Etalle - Arlon.
+    13e C.A. : Châtillon.
+    5e C.A.R. : Capellen.
+    16e C.A. : nord-ouest de Thionville.
+    6e C.A.R. : Rodange, face à Longwy.
+    6e D.C. à gauche du dispositif.
 
 La 3e D.C. éclaire vers Jamoigne, la 6e D.C. couvre la gauche du dispositif sur Landres. Elle se heurte à des détachements français de toutes armes dans la clairière de Florenville et d’Audun-le-Roman.
 
 L’armée doit entreprendre le siège de Longwy. Dans ce but, un détachement est constitué sous les ordres du général-lieutenant Kaempffer, qui comprend :
 
 - Le 52e R.I. (13e C.A.)
-  La 23e brigade d’infanterie (6e C.A.)
-  Un régiment de mortiers et 2 batteries d’obusiers lourds
-  Le 20e régiment de pionniers
-  Un bataillon d’obusiers de 10,5 cm et de 15 cm
-  Un bataillon d’artillerie de réserve (canons de 7,7 cm)
+    La 23e brigade d’infanterie (6e C.A.)
+    Un régiment de mortiers et 2 batteries d’obusiers lourds
+    Le 20e régiment de pionniers
+    Un bataillon d’obusiers de 10,5 cm et de 15 cm
+    Un bataillon d’artillerie de réserve (canons de 7,7 cm)
 
 Les premiers éléments sont rassemblés près de Künzich, Kerschen et Sassenheim.
 
@@ -295,7 +295,7 @@ Le 1e C.A. bavarois ouvre le feu de toutes ses pièces et à 9h se porte en avan
 _Mitrailleuses allemandes_
 _Collection privée_
 
-Le 14e C.A. parvient, au prix de gros efforts, de s’emparer de Plain-de-Valsch et de Sneckenbusch.  Cette dernière localité est reperdue et Brudersdorf reste imprenable.
+Le 14e C.A. parvient, au prix de gros efforts, de s’emparer de Plain-de-Valsch et de Sneckenbusch. Cette dernière localité est reperdue et Brudersdorf reste imprenable.
 
 Sur le front des 15e et 14e C.A.R., l’échec est à peu près complet. L’assaut du Donon échoue
 

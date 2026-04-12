@@ -48,7 +48,7 @@ Voici le dispositif adopté par Lanrezac :
 
 - Au centre du dispositif, à Sains-Richaumont, le 1e C.A. constitue la réserve, et sera prêt à se porter soit vers Guise, soit vers Saint-Quentin selon les nécessités.
 
-- La D.C. Abonneau doit occuper la région de Vervins et surveiller les directions d’Avesnes, Fourmies, Hirson et Rocroi. Elle doit couvrir l’armée contre une manuvre débordante probable de von Hausen contre le flanc droite du 10e C.A.
+- La D.C. Abonneau doit occuper la région de Vervins et surveiller les directions d’Avesnes, Fourmies, Hirson et Rocroi. Elle doit couvrir l’armée contre une manoeuvre débordante probable de von Hausen contre le flanc droite du 10e C.A.
 
 ![Mise en place dun canon de 75 - 43 ko](../img/mise_place_canon_753.jpg)
 _Mise en place d’un canon de 75_
@@ -62,11 +62,11 @@ Lanrezac doit faire pivoter son armée pour la placer face au nord-ouest au lieu
 
 **10h :**
 
-Le général Hache, qui vient de prendre le commandement du 3e C.A., franchira l’Oise et au lieu de marcher sur Saint-Quentin, obliquera à droite pour attaquer Guise par l’ouest. Le 10e C.A. attaquera la ville par le sud ; le 1e C.A. appuiera le 10e.  Mais devant l’écrasante supériorité numérique des Allemands, le 10e C.A. ne peut pas maintenir ses positions ; il recule et dès 10h du matin, la IIe armée allemande est maître des ponts. Très en confiance, les bataillons allemands franchissent les ponts de l’Oise mais l’artillerie française prend à partie les troupes d’assaut, les ponts et les renforts. Le 10e C.A. allemand, qui mène l’attaque, s’arrête puis ne progresse plus qu’avec prudence. La cavalerie Abonneau neutralise toute manuvre enveloppante.
+Le général Hache, qui vient de prendre le commandement du 3e C.A., franchira l’Oise et au lieu de marcher sur Saint-Quentin, obliquera à droite pour attaquer Guise par l’ouest. Le 10e C.A. attaquera la ville par le sud ; le 1e C.A. appuiera le 10e. Mais devant l’écrasante supériorité numérique des Allemands, le 10e C.A. ne peut pas maintenir ses positions ; il recule et dès 10h du matin, la IIe armée allemande est maître des ponts. Très en confiance, les bataillons allemands franchissent les ponts de l’Oise mais l’artillerie française prend à partie les troupes d’assaut, les ponts et les renforts. Le 10e C.A. allemand, qui mène l’attaque, s’arrête puis ne progresse plus qu’avec prudence. La cavalerie Abonneau neutralise toute manoeuvre enveloppante.
 
 **11h30 :**
 
-Les Français progressent par le nord-ouest vers les flancs-gardes de la Ie armée, mais peu avant midi, les 3e et 10e C.A. sont attaqués par la Garde et le 10e C.A. allemand, qui se sont emparés la veille des passages de l’Oise entre Guise et Etréaupont et sont bien placées pour prendre de flanc la Ve armée française. Le 10e C.A. résiste mais perd du terrain et son recul expose le flanc du gros de l’armée, en marche vers l’ouest.  La 51e division de réserve, qui fait face au nord, recule aussi et perd Voulpaix. La situation est grave.
+Les Français progressent par le nord-ouest vers les flancs-gardes de la Ie armée, mais peu avant midi, les 3e et 10e C.A. sont attaqués par la Garde et le 10e C.A. allemand, qui se sont emparés la veille des passages de l’Oise entre Guise et Etréaupont et sont bien placées pour prendre de flanc la Ve armée française. Le 10e C.A. résiste mais perd du terrain et son recul expose le flanc du gros de l’armée, en marche vers l’ouest. La 51e division de réserve, qui fait face au nord, recule aussi et perd Voulpaix. La situation est grave.
 
 ![Mise en place dun canon de 75 - 34.5 ko](../img/Mise_place_canon_751.jpg)
 _Mise en place d’un canon de 75_
@@ -74,7 +74,7 @@ _Collection privée_
 
 Il faut à tout prix rétablir la situation à Guise. Lanrezac rappelle le 3e C.A., dont les avant-gardes ont déjà dépassé l’Oise et le lance avec sa réserve, le 1e C.A., au secours du 10e C.A. Ces forces rejettent les Allemands dans la vallée. L’attaque vers Guise est le premier succès offensif de l’armée française depuis le début de la campagne. Le 18e C.A., renforcé par une division d’Afrique, demeure seul chargé de l’offensive sur Saint-Quentin. Le groupe Valabrègue (59 et 69e divisions) étaiera sa gauche.
 
-Le 18e C.A. et les deux divisions de réserve, privés de la coopération du 3e C.A., ont assailli de flanc les colonnes allemandes en marche vers le sud. Celles-ci, un moment décontenancées,  font face vers l’est et contre-attaquent avec succès. Von Bülow est très impressionné de la réaction de la Ve armée, à laquelle il ne s’attendait pas.
+Le 18e C.A. et les deux divisions de réserve, privés de la coopération du 3e C.A., ont assailli de flanc les colonnes allemandes en marche vers le sud. Celles-ci, un moment décontenancées, font face vers l’est et contre-attaquent avec succès. Von Bülow est très impressionné de la réaction de la Ve armée, à laquelle il ne s’attendait pas.
 
 Il demande à la IIIe armée de marcher vers Vervins et à la Ie de se rabattre vers Essigny-le-Grand, mais ces deux armées tournent le dos aux objectifs qu’on leur propose. A la Ie armée, le 9e C.A. n’est pas loin de Saint-Quentin. Von Bülow s’adresse directement à von Moltke et finit par obtenir qu’une de ses divisions déboîte vers l’est, sur Origny. Le 18e C.A. parvient jusqu’aux faubourgs de Saint-Quentin mais il doit se replier pour ne pas être pris de flanc.
 
@@ -94,7 +94,7 @@ Les C.A. allemands se hâtent de repasser la rivière et battent en retraite ver
 
 Il en résulte que von Kluck, alors lancé sur Amiens, fait accomplir à son armée une conversion de 90 degrés vers le sud-est pour répondre à l’appel au secours de von Bülow. Ce mouvement marque l’abandon du plan Schlieffen.
 
-Cette manuvre donne à la VIe armée le temps de se constituer et rend impossible une éventuelle retraite des Anglais vers l’ouest. Joffre pourra tendre une nasse dans laquelle les armées allemandes vont s’engouffrer. Sans la bataille de Guise, la victoire de la Marne n’aurait pas été possible.
+Cette manoeuvre donne à la VIe armée le temps de se constituer et rend impossible une éventuelle retraite des Anglais vers l’ouest. Joffre pourra tendre une nasse dans laquelle les armées allemandes vont s’engouffrer. Sans la bataille de Guise, la victoire de la Marne n’aurait pas été possible.
 
 ![La ligne de combat - 39.7 ko](../img/ligne_combat.jpg)
 _La ligne de combat_

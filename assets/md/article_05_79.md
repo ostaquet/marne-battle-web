@@ -13,10 +13,10 @@ d’infanterie. Le commandement en est confié à Foch, général de grande rép
 Le 28, Joffre télégraphie au commandant de la IIe armée (de Castelnau) d’envoyer Foch d’urgence au G.Q.G. afin que lui soit confié le commandement de la nouvelle armée.
 
 - Les troupes confiées à Foch seront :
-  Le 9e C.A.
-  Le 11e C.A.
-  La 9e D.C.
-  La 42e division, dirigée par chemin de fer vers Guignicourt.
+    Le 9e C.A.
+    Le 11e C.A.
+    La 9e D.C.
+    La 42e division, dirigée par chemin de fer vers Guignicourt.
 
 Le chef d’E.M. est le colonel Weygand du 5e hussards, qui restera attaché à l’E.M. de Foch jusqu’à la fin de la guerre.
 
@@ -42,20 +42,20 @@ _Collection privée_
 
 17e division : général Moussy
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 33e brigade | Simon | 68e R.I. (Issoudun)90e R.I. (Châteauroux) |
-| 34e brigade | Guignabaudet | 114e R.I. (Saint-Maixent)125e R.I. (Poitiers) |
-| Elements divisionnaires |  | 7e régiment de hussards (un escadron - Angers)20e R.A.C. (Poitiers) |
+| Unité                   | Commandant   | Régiments                                                           |
+| ----------------------- | ------------ | ------------------------------------------------------------------- |
+| 33e brigade             | Simon        | 68e R.I. (Issoudun)90e R.I. (Châteauroux)                           |
+| 34e brigade             | Guignabaudet | 114e R.I. (Saint-Maixent)125e R.I. (Poitiers)                       |
+| Elements divisionnaires |              | 7e régiment de hussards (un escadron - Angers)20e R.A.C. (Poitiers) |
 
 18e division : général Lefèvre
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 35e brigade | Janin | 32e R.I. (Tours)66e R.I. (Tours) |
-| 36e brigade | Eon | 77e R.I. (Cholet)135e R.I. (Angers) |
-| Eléments divisionnaires |  | 7e régiment de hussards (un escadron - Angers)33e R.A.C. (Angers) |
-| Réserves |  | 210e R.I. (Auxonne)268e R.I. (Issoudun)290e R.A.C. (Châteauroux) |
+| Unité                   | Commandant | Régiments                                                         |
+| ----------------------- | ---------- | ----------------------------------------------------------------- |
+| 35e brigade             | Janin      | 32e R.I. (Tours)66e R.I. (Tours)                                  |
+| 36e brigade             | Eon        | 77e R.I. (Cholet)135e R.I. (Angers)                               |
+| Eléments divisionnaires |            | 7e régiment de hussards (un escadron - Angers)33e R.A.C. (Angers) |
+| Réserves                |            | 210e R.I. (Auxonne)268e R.I. (Issoudun)290e R.A.C. (Châteauroux)  |
 
 **11e C.A. : (Nantes), général Eydoux**
 
@@ -67,20 +67,20 @@ _Collection privée_
 
 21e division : général Radiguet
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 41e brigade | de Teyssière | 64e R.I. (Ancenis)65e R.I. (Nantes) |
-| 42e brigade | Lamey | 93e R.I. (La Roche-sur-Yon)137e R.I. (Fontenay-le-Comte) |
-| Eléments divisionnaires |  | 2e régiment de chasseurs à cheval (un escadron - Pontivy)51e R.A.C. (Nantes) |
+| Unité                   | Commandant   | Régiments                                                                    |
+| ----------------------- | ------------ | ---------------------------------------------------------------------------- |
+| 41e brigade             | de Teyssière | 64e R.I. (Ancenis)65e R.I. (Nantes)                                          |
+| 42e brigade             | Lamey        | 93e R.I. (La Roche-sur-Yon)137e R.I. (Fontenay-le-Comte)                     |
+| Eléments divisionnaires |              | 2e régiment de chasseurs à cheval (un escadron - Pontivy)51e R.A.C. (Nantes) |
 
 22e division : général Pambet
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 43e brigade | Costebonel | 62e R.I. (Lorient)116e R.I. (Vannes) |
-| 44e brigade | Chaplain | 19e R.I. (Brest)118e R.I. (Quimper) |
-| Eléments divisionnaires |  | 2e régiment de chasseurs à cheval (un escadron - Pontivy)35e R.A.C. (Vannes) |
-| Réserves |  | 293e R.I. (La Roche-sur-Yon)317e R.I. (Le Mans)28e R.A.C. (Vannes)3e régiment d’artillerie à pied (Brest) |
+| Unité                   | Commandant | Régiments                                                                                                 |
+| ----------------------- | ---------- | --------------------------------------------------------------------------------------------------------- |
+| 43e brigade             | Costebonel | 62e R.I. (Lorient)116e R.I. (Vannes)                                                                      |
+| 44e brigade             | Chaplain   | 19e R.I. (Brest)118e R.I. (Quimper)                                                                       |
+| Eléments divisionnaires |            | 2e régiment de chasseurs à cheval (un escadron - Pontivy)35e R.A.C. (Vannes)                              |
+| Réserves                |            | 293e R.I. (La Roche-sur-Yon)317e R.I. (Le Mans)28e R.A.C. (Vannes)3e régiment d’artillerie à pied (Brest) |
 
 **42e division, général Grossetti**
 
@@ -88,24 +88,24 @@ _Collection privée_
 _Général Grossetti (42e division)_
 _c Michelin, d’après guide édition 1917, autorisation 06-B-05_
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 83e brigade | Krien | 94e R.I. (Bar-le-Duc)8e bataillon de chasseurs à pied (Amiens, Etain)19e bataillons de chasseurs à pied (Epernay, Verdun) |
-| 84e brigade | Trouchaud | 151e R.I. (Saint-Quentin, Verdun)162e R.I. (Cambrai, Verdun)16e bataillon de chasseurs à pied (Lille, Conflans-en-Jarnisy, Labry) |
-| Eléments divisionnaires |  | 10e régiment de chasseurs à cheval (un escadron - Sampigny)46e R.A.C. (trois groupes - Camp de Châlons)61e R.A.C. (deux groupes - Verdun) |
+| Unité                   | Commandant | Régiments                                                                                                                                 |
+| ----------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 83e brigade             | Krien      | 94e R.I. (Bar-le-Duc)8e bataillon de chasseurs à pied (Amiens, Etain)19e bataillons de chasseurs à pied (Epernay, Verdun)                 |
+| 84e brigade             | Trouchaud  | 151e R.I. (Saint-Quentin, Verdun)162e R.I. (Cambrai, Verdun)16e bataillon de chasseurs à pied (Lille, Conflans-en-Jarnisy, Labry)         |
+| Eléments divisionnaires |            | 10e régiment de chasseurs à cheval (un escadron - Sampigny)46e R.A.C. (trois groupes - Camp de Châlons)61e R.A.C. (deux groupes - Verdun) |
 
 **C.C. de l’Espée**
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 9e D.C. | de Séréville |  |
-| 1e brigade de cuirassiers | de Cugnac | 5e régiment de cuirassiers (Tours)8e régiment de cuirassiers (Tours) |
-| 9e brigade de dragons | de Sailly | 1e régiment de dragons (Lucon)3e régiment de dragons (Nantes) |
-| 16e brigade de dragons | de Séréville | 24e régiment de dragons (Rennes)25e régiment de dragons (Angers)33e R.A.C. |
-| 6e D.C. | de Mitry |  |
-| 5e brigade de cuirassiers | deBuyer | 7e régiment de cuirassiers (Lyon)10e régiment de cuirassiers (Lyon) |
-| 6e brigade de dragons | Laperrine | 2e régiment de dragons (Lyon)14e régiments de dragons (Saint-Etienne) |
-| 6e brigade de cavalerie légère | Morel | 11e régiment de hussards (Tarascon)13e régiment de chasseurs à cheval (Vienne)13e batallion de chasseurs à pied (un groupe cycliste)54e R.A.C. (Sathonay) |
+| Unité                          | Commandant   | Régiments                                                                                                                                                 |
+| ------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9e D.C.                        | de Séréville |                                                                                                                                                           |
+| 1e brigade de cuirassiers      | de Cugnac    | 5e régiment de cuirassiers (Tours)8e régiment de cuirassiers (Tours)                                                                                      |
+| 9e brigade de dragons          | de Sailly    | 1e régiment de dragons (Lucon)3e régiment de dragons (Nantes)                                                                                             |
+| 16e brigade de dragons         | de Séréville | 24e régiment de dragons (Rennes)25e régiment de dragons (Angers)33e R.A.C.                                                                                |
+| 6e D.C.                        | de Mitry     |                                                                                                                                                           |
+| 5e brigade de cuirassiers      | deBuyer      | 7e régiment de cuirassiers (Lyon)10e régiment de cuirassiers (Lyon)                                                                                       |
+| 6e brigade de dragons          | Laperrine    | 2e régiment de dragons (Lyon)14e régiments de dragons (Saint-Etienne)                                                                                     |
+| 6e brigade de cavalerie légère | Morel        | 11e régiment de hussards (Tarascon)13e régiment de chasseurs à cheval (Vienne)13e batallion de chasseurs à pied (un groupe cycliste)54e R.A.C. (Sathonay) |
 
 **Ordre de bataille de la IIe armée allemande**, commandée par le generaloberst von Bülow.
 Chef d’Etat-Major : général von Lauenstein.
@@ -124,21 +124,21 @@ _Collection privée_
 
 13e division d’infanterie : général von dem Borne
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 25. Infanterie-Brigade |  | Infanterie-Regiment Nr. 13 (Münster)7. Lothringisches Infanterie-Regiment Nr. 158 (Paderborn) |
-| 26. Infanterie-Brigade |  | Infanterie-Regiment Nr. 15 (Minden)Infanterie-Regiment Nr. 55 (Detmold)Westfälisches Jäger-Bataillon Nr. 7 (Bückeburg) |
-| Cavalerie divisionnaire |  | Stab u. 3.Eskadron/Ulanen-Regiment Nr. 16 (Salzwedel) |
-| 13. Feldartillerie-Brigade |  | 2. Westfälisches Feldartillerie-Regiment Nr. 22 (Münster)Mindensches Feldartillerie-Regiment Nr. 58 (Minden |
+| Unité                      | Commandant | Régiments                                                                                                              |
+| -------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 25. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 13 (Münster)7. Lothringisches Infanterie-Regiment Nr. 158 (Paderborn)                          |
+| 26. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 15 (Minden)Infanterie-Regiment Nr. 55 (Detmold)Westfälisches Jäger-Bataillon Nr. 7 (Bückeburg) |
+| Cavalerie divisionnaire    |            | Stab u. 3.Eskadron/Ulanen-Regiment Nr. 16 (Salzwedel)                                                                  |
+| 13. Feldartillerie-Brigade |            | 2. Westfälisches Feldartillerie-Regiment Nr. 22 (Münster)Mindensches Feldartillerie-Regiment Nr. 58 (Minden            |
 
 14e division d’infanterie : général Fleck
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 27. Infanterie-Brigade |  | Infanterie-Regiment Nr. 16 (Cologne)5. Westfälisches Infanterie-Regiment Nr. 53 (Cologne) |
-| 79. Infanterie-Brigade |  | Infanterie-Regiment Nr. 56 (Wesel)Infanterie-Regiment  Nr. 57 (Wesel) |
-| Cavalerie divisionnaire |  | 3.Eskadron/Ulanen-Regiment Nr. 16 (Salzwedel) |
-| 14. Feldartillerie-Brigade |  | 1. Westfälisches Feldartillerie-Regiment Nr. 7 (Wesel, Dusseldorf)Klevesches Feldartillerie-Regiment Nr. 43 (Wesel) |
+| Unité                      | Commandant | Régiments                                                                                                           |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------- |
+| 27. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 16 (Cologne)5. Westfälisches Infanterie-Regiment Nr. 53 (Cologne)                           |
+| 79. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 56 (Wesel)Infanterie-Regiment Nr. 57 (Wesel)                                                |
+| Cavalerie divisionnaire    |            | 3.Eskadron/Ulanen-Regiment Nr. 16 (Salzwedel)                                                                       |
+| 14. Feldartillerie-Brigade |            | 1. Westfälisches Feldartillerie-Regiment Nr. 7 (Wesel, Dusseldorf)Klevesches Feldartillerie-Regiment Nr. 43 (Wesel) |
 
 **10e C.A. : (Hannover), général von Emmich**
 
@@ -148,21 +148,21 @@ _Collection privée_
 
 19e division d’infanterie : général Hofmann
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 37. Infanterie-Brigade |  | Infanterie-Regiment Nr. 78 (Osnabrück)Oldenburgisches Infanterie-Regiment Nr. 91 (Oldenburg) |
-| 38. Infanterie-Brigade |  | Füsilier Regiment Nr. 73 (Hannover)1. Hannoversches Infanterie-Regiment Nr. 74 (Hannover) |
-| Cavalerie divisionnaire |  | 3. Eskadron/Braunschweigisches Husaren-Regiment Nr. 17 (Braunschweig) |
-| 19. Feldartillerie-Brigade |  | 2. Hannoversches Feldartillerie-Regiment Nr. 26 (Verden)Ostfriesisches Feldartillerie-Regiment Nr. 62 (Oldenburg) |
+| Unité                      | Commandant | Régiments                                                                                                         |
+| -------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| 37. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 78 (Osnabrück)Oldenburgisches Infanterie-Regiment Nr. 91 (Oldenburg)                      |
+| 38. Infanterie-Brigade     |            | Füsilier Regiment Nr. 73 (Hannover)1. Hannoversches Infanterie-Regiment Nr. 74 (Hannover)                         |
+| Cavalerie divisionnaire    |            | 3. Eskadron/Braunschweigisches Husaren-Regiment Nr. 17 (Braunschweig)                                             |
+| 19. Feldartillerie-Brigade |            | 2. Hannoversches Feldartillerie-Regiment Nr. 26 (Verden)Ostfriesisches Feldartillerie-Regiment Nr. 62 (Oldenburg) |
 
 20. division d’infanterie : général Schmundt
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 39. Infanterie-Brigade |  | Infanterie-Regiment Nr. 79 (Hildesheim)4. Hannoversches Infanterie-Regiment Nr. 164 (Hameln)Hannoversches Jäger-Bataillon Nr. 10 (Goslar) |
-| 40. Infanterie-Brigade |  | 2. Hannoversches Infanterie-Regiment Nr. 77 (Celle)Braunschweigisches Infanterie-Regiment Nr. 92 (Braunschweig) |
-| Cavalerie divisionnaire |  | Stab und "1/2"-Regiment/Braunschweigisches Husaren-Regiment Nr. 17 (Branschweig) |
-| 20. Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 10 (Hannover)Niedersächsisches Feldartillerie-Regiment Nr. 46 (Wolfenbüttel) |
+| Unité                      | Commandant | Régiments                                                                                                                                 |
+| -------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 39. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 79 (Hildesheim)4. Hannoversches Infanterie-Regiment Nr. 164 (Hameln)Hannoversches Jäger-Bataillon Nr. 10 (Goslar) |
+| 40. Infanterie-Brigade     |            | 2. Hannoversches Infanterie-Regiment Nr. 77 (Celle)Braunschweigisches Infanterie-Regiment Nr. 92 (Braunschweig)                           |
+| Cavalerie divisionnaire    |            | Stab und "1/2"-Regiment/Braunschweigisches Husaren-Regiment Nr. 17 (Branschweig)                                                          |
+| 20. Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 10 (Hannover)Niedersächsisches Feldartillerie-Regiment Nr. 46 (Wolfenbüttel)                                  |
 
 **C.A. de la Garde : (Berlin) General der Infanterie von Plettenberg**
 
@@ -172,21 +172,21 @@ _Collection privée_
 
 1. division d’infanterie de la Garde : général von Hutier
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 1. Garde-Infanterie-Brigade |  | 1. Garde-Regiment zu Fuss (Berlin)3. Garde-Regiment zu Fuss (Berlin)Garde-Jäger-Bataillon (Potsdam) |
-| 2. Garde-Infanterie-Brigade |  | 2. Garde-Regiment zu Fuss (Berlin)4. Garde-Regiment zu Fuss (Potsdam) |
-| Cavalerie divisionnaire |  | Leib-Garde-Husaren-Regiment (Potsdam) |
-| 1. Garde-Feldartillerie-Brigade |  | 1. Garde-Feldartillerie-Regiment (Berlin)2. Garde-Feldartillerie-Regiment (Potsdam) |
+| Unité                           | Commandant | Régiments                                                                                           |
+| ------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
+| 1. Garde-Infanterie-Brigade     |            | 1. Garde-Regiment zu Fuss (Berlin)3. Garde-Regiment zu Fuss (Berlin)Garde-Jäger-Bataillon (Potsdam) |
+| 2. Garde-Infanterie-Brigade     |            | 2. Garde-Regiment zu Fuss (Berlin)4. Garde-Regiment zu Fuss (Potsdam)                               |
+| Cavalerie divisionnaire         |            | Leib-Garde-Husaren-Regiment (Potsdam)                                                               |
+| 1. Garde-Feldartillerie-Brigade |            | 1. Garde-Feldartillerie-Regiment (Berlin)2. Garde-Feldartillerie-Regiment (Potsdam)                 |
 
 2. division d’infanterie de la Garde : général von Winckler
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 3. Garde-Infanterie-Brigade |  | Garde-Grenadier-Regiment Nr 1(Berlin)Garde-Grenadier-Regiment Nr 3 (Berlin)Garde-Schützen-Bataillon (Berlin) |
-| 4. Garde-Infanterie-Brigade |  | Garde-Grenadier-Regiment Nr 2 (Berlin)Garde-Grenadier-Regiment Nr 4 (Berlin) |
-| Cavalerie divisionnaire |  | 2. Garde-Ulanen-Regiment (Berlin) |
-| 2. Garde-Feldartillerie-Brigade |  | 2. Garde-Feldartillerie-Regiment (Potsdam)4. Garde-Feldartillerie-Regiment (Potsdam) |
+| Unité                           | Commandant | Régiments                                                                                                    |
+| ------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------ |
+| 3. Garde-Infanterie-Brigade     |            | Garde-Grenadier-Regiment Nr 1(Berlin)Garde-Grenadier-Regiment Nr 3 (Berlin)Garde-Schützen-Bataillon (Berlin) |
+| 4. Garde-Infanterie-Brigade     |            | Garde-Grenadier-Regiment Nr 2 (Berlin)Garde-Grenadier-Regiment Nr 4 (Berlin)                                 |
+| Cavalerie divisionnaire         |            | 2. Garde-Ulanen-Regiment (Berlin)                                                                            |
+| 2. Garde-Feldartillerie-Brigade |            | 2. Garde-Feldartillerie-Regiment (Potsdam)4. Garde-Feldartillerie-Regiment (Potsdam)                         |
 
 **10e C.A.R. : (Hannover), général Günther von Kirchbach**
 
@@ -196,34 +196,34 @@ _Collection privée_
 
 2e div. infanterie de rés. de la Garde : général von Süsskind
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 26. Reserve-Infanterie-Brigade |  | Westfälisches Reserve-Infanterie-Regiment Nr. 15Westfälisches Reserve-Infanterie-Regiment Nr. 55 |
-| 38. Reserve-Infanterie-Brigade |  | Hannoversches Reserve-Infanterie-Regiment Nr. 77Hannoversches Reserve-Infanterie-Regiment Nr. 91Hannoversches Reserve-Jäger-Bataillon Nr. 10 |
-| Cavalerie divisionnaire |  | Reserve-Ulanen-Regiment Nr. 2 |
-| Artillerie |  | Reserve-Feldartillerie-Regiment Nr. 20 |
-| 19e division d’infanterie de réserve de la Garde | von Bahrfeldt |  |
+| Unité                                            | Commandant    | Régiments                                                                                                                                    |
+| ------------------------------------------------ | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26. Reserve-Infanterie-Brigade                   |               | Westfälisches Reserve-Infanterie-Regiment Nr. 15Westfälisches Reserve-Infanterie-Regiment Nr. 55                                             |
+| 38. Reserve-Infanterie-Brigade                   |               | Hannoversches Reserve-Infanterie-Regiment Nr. 77Hannoversches Reserve-Infanterie-Regiment Nr. 91Hannoversches Reserve-Jäger-Bataillon Nr. 10 |
+| Cavalerie divisionnaire                          |               | Reserve-Ulanen-Regiment Nr. 2                                                                                                                |
+| Artillerie                                       |               | Reserve-Feldartillerie-Regiment Nr. 20                                                                                                       |
+| 19e division d’infanterie de réserve de la Garde | von Bahrfeldt |                                                                                                                                              |
 
 1. C.C. : général von Richthofen
 
 Garde-Kavallerie-Division : général von Storch
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 1.  Garde-Kavallerie-Brigade |  | Regt. der Garde du Corps (Potsdam)Garde-Kürassier-Regt. Berlin) |
-| 2. Kavallerie-Brigade |  | 1. Garde-Ulanen-Regt. (Potsdam)3. Garde-Ulanen-Regt. (Potsdam) |
-| 3. Kavallerie-Brigade |  | 1. Garde-Dragoner-Regt. (Berlin)
-2. Garde-Dragoner-Regt. (Berlin) |
-|  |  | Bataillon du 1. Garde-Feldartillerie-Regt. (Berlin)Garde-MG. Abtg. Nr. 1 (Potsdam) |
+| Unité                            | Commandant | Régiments                                                                          |
+| -------------------------------- | ---------- | ---------------------------------------------------------------------------------- |
+| 1. Garde-Kavallerie-Brigade      |            | Regt. der Garde du Corps (Potsdam)Garde-Kürassier-Regt. Berlin)                    |
+| 2. Kavallerie-Brigade            |            | 1. Garde-Ulanen-Regt. (Potsdam)3. Garde-Ulanen-Regt. (Potsdam)                     |
+| 3. Kavallerie-Brigade            |            | 1. Garde-Dragoner-Regt. (Berlin)                                                   |
+| 2. Garde-Dragoner-Regt. (Berlin) |
+|                                  |            | Bataillon du 1. Garde-Feldartillerie-Regt. (Berlin)Garde-MG. Abtg. Nr. 1 (Potsdam) |
 
 5. D.C. : général von Ilsemann
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 9. Kavallerie-Brigade |  | Dragoner-Regt. Nr 4 (Lüben)Ulanen-Regt. Nr 10 (Züllichau) |
-| 11. Kavallerie-Brigade |  | Leib-Kürassier-Regt Nr 1 (Breslau)Dragoner-Regt Nr 8 (Kreutzburg) |
-| 12. Kavallerie-Brigade |  | Husaren-Regt. Nr 4 (Ohlau)Husaren-Regt. Nr 6 (Leobschütz) |
-|  |  | Bataillon du Feldartillerie-Regt. Nr 5 (Sprottau)MG. Abtg. Nr. 1 (Breslau) |
+| Unité                  | Commandant | Régiments                                                                  |
+| ---------------------- | ---------- | -------------------------------------------------------------------------- |
+| 9. Kavallerie-Brigade  |            | Dragoner-Regt. Nr 4 (Lüben)Ulanen-Regt. Nr 10 (Züllichau)                  |
+| 11. Kavallerie-Brigade |            | Leib-Kürassier-Regt Nr 1 (Breslau)Dragoner-Regt Nr 8 (Kreutzburg)          |
+| 12. Kavallerie-Brigade |            | Husaren-Regt. Nr 4 (Ohlau)Husaren-Regt. Nr 6 (Leobschütz)                  |
+|                        |            | Bataillon du Feldartillerie-Regt. Nr 5 (Sprottau)MG. Abtg. Nr. 1 (Breslau) |
 
 Le 7e C.A.R. assiège Maubeuge.
 
@@ -245,41 +245,41 @@ _Collection privée_
 
 23e division : général von Lindemann
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 45. Infanterie-Brigade |  | (Leib-)Grenadier-Regiment Nr. 100 (Dresden)Grenadier-Regiment Nr. 101 (Dresden) |
-| 46. Infanterie-Brigade |  | Schützen (Füsilier)-Regiment Nr. 108 (Dresden)16. Infanterie-Regiment Nr. 182 (Freiberg) |
-| Cavalerie divisionnaire |  | Husaren-Regiment Nr. 20 (Bautzen) |
-| 23. Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 12 (Dresden)Feldartillerie-Regiment Nr. 48 (Dresden) |
+| Unité                      | Commandant | Régiments                                                                                |
+| -------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
+| 45. Infanterie-Brigade     |            | (Leib-)Grenadier-Regiment Nr. 100 (Dresden)Grenadier-Regiment Nr. 101 (Dresden)          |
+| 46. Infanterie-Brigade     |            | Schützen (Füsilier)-Regiment Nr. 108 (Dresden)16. Infanterie-Regiment Nr. 182 (Freiberg) |
+| Cavalerie divisionnaire    |            | Husaren-Regiment Nr. 20 (Bautzen)                                                        |
+| 23. Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 12 (Dresden)Feldartillerie-Regiment Nr. 48 (Dresden)         |
 
 32e division : général von der Planitz
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 63. Infanterie-Brigade |  | Infanterie-Regiment Nr. 102 (Zittau)Infanterie-Regiment Nr. 103 (Bautzen) |
-| 64. Infanterie-Brigade |  | Infanterie-Regiment Nr. 177 (Dresden)Infanterie-Regiment Nr. 178 (Kamenz) |
-| Cavalerie divisionnaire |  | Husaren-Regiment Nr. 18 (Grossenhain) |
-| 32. Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 28 (Bautzen)Feldartillerie-Regiment Nr. 64 (Pirna) |
+| Unité                      | Commandant | Régiments                                                                      |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------ |
+| 63. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 102 (Zittau)Infanterie-Regiment Nr. 103 (Bautzen)      |
+| 64. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 177 (Dresden)Infanterie-Regiment Nr. 178 (Kamenz)      |
+| Cavalerie divisionnaire    |            | Husaren-Regiment Nr. 18 (Grossenhain)                                          |
+| 32. Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 28 (Bautzen)Feldartillerie-Regiment Nr. 64 (Pirna) |
 
 **12e C.A.R. : (Dresde), général Hans von Kirchbach**
 
 23e division réserve : général von Larisch
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 45. Reserve-Infanterie-Brigade |  | Kgl. Sächs. Reserve-Grenadier-Regiment Nr. 100Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 101Kgl. Sächs. Reserve-Jäger-Bataillon Nr. 12 |
-| 46. Reserve-Infanterie-Brigade |  | Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 102Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 103 |
-| Cavalerie |  | Kgl. Sächs. Reserve-Husaren-Regiment |
-| Artillerie |  | Kgl. Sächs. Reserve-Feldartillerie-Regiment Nr. 23 |
+| Unité                          | Commandant | Régiments                                                                                                                               |
+| ------------------------------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 45. Reserve-Infanterie-Brigade |            | Kgl. Sächs. Reserve-Grenadier-Regiment Nr. 100Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 101Kgl. Sächs. Reserve-Jäger-Bataillon Nr. 12 |
+| 46. Reserve-Infanterie-Brigade |            | Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 102Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 103                                          |
+| Cavalerie                      |            | Kgl. Sächs. Reserve-Husaren-Regiment                                                                                                    |
+| Artillerie                     |            | Kgl. Sächs. Reserve-Feldartillerie-Regiment Nr. 23                                                                                      |
 
 24e division réserve : général von Ehrental
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 47. Reserve-Infanterie-Brigade |  | Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 104Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 106Kgl. Sächs. Reserve-Jäger-Bataillon Nr. 13 |
-| 48. Reserve-Infanterie-Brigade |  | Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 107Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 108 |
-| Cavalerie |  | Kgl. Sächs. Reserve-Ulanen-Regiment |
-| Artillerie |  | Kgl. Sächs. Reserve-Feldartillerie-Regiment Nr. 24 |
+| Unité                          | Commandant | Régiments                                                                                                                                |
+| ------------------------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 47. Reserve-Infanterie-Brigade |            | Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 104Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 106Kgl. Sächs. Reserve-Jäger-Bataillon Nr. 13 |
+| 48. Reserve-Infanterie-Brigade |            | Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 107Kgl. Sächs. Reserve-Infanterie-Regiment Nr. 108                                           |
+| Cavalerie                      |            | Kgl. Sächs. Reserve-Ulanen-Regiment                                                                                                      |
+| Artillerie                     |            | Kgl. Sächs. Reserve-Feldartillerie-Regiment Nr. 24                                                                                       |
 
 **19e C.A. : (Leipzig), général von Laffert**
 
@@ -289,24 +289,24 @@ _Collection privée_
 
 24e division : général von Nidda
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 47. Infanterie-Brigade |  | Infanterie-Regiment Nr. 139 (Döbeln)Infanterie-Regiment Nr. 179 (Wurzen) |
-| 48. Infanterie-Brigade |  | Infanterie-Regiment Nr. 106 (Leipzig)Infanterie-Regiment Nr. 107 (Dresden) |
-| Cavalerie divisionnaire |  | Ulanen-Regiment Nr. 18 (Leipzig) |
-| 24. Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 77 (Leipzig)Feldartillerie-Regiment Nr. 78 (Wurzen) |
+| Unité                      | Commandant | Régiments                                                                       |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------- |
+| 47. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 139 (Döbeln)Infanterie-Regiment Nr. 179 (Wurzen)        |
+| 48. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 106 (Leipzig)Infanterie-Regiment Nr. 107 (Dresden)      |
+| Cavalerie divisionnaire    |            | Ulanen-Regiment Nr. 18 (Leipzig)                                                |
+| 24. Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 77 (Leipzig)Feldartillerie-Regiment Nr. 78 (Wurzen) |
 
 40e division : général von Olenhusen
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 88. Infanterie-Brigade |  | Infanterie-Regiment Nr. 104 (Chemnitz)Infanterie-Regiment Nr. 181 (Chemnitz) |
-| 89. Infanterie-Brigade |  | Infanterie-Regiment Nr. 133 (Zwickau)Infanterie-Regiment Nr. 134 (Plauen) |
-| Cavalerie divisionnaire |  | Husaren-Regiment Nr. 19 (Grimma) |
-| 40. Feldartillerie-Brigade |  | Feld-Artillerie-Regiment Nr. 32 (Riesa)Feld-Artillerie-Regiment Nr. 68 (Riesa) |
+| Unité                      | Commandant | Régiments                                                                      |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------ |
+| 88. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 104 (Chemnitz)Infanterie-Regiment Nr. 181 (Chemnitz)   |
+| 89. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 133 (Zwickau)Infanterie-Regiment Nr. 134 (Plauen)      |
+| Cavalerie divisionnaire    |            | Husaren-Regiment Nr. 19 (Grimma)                                               |
+| 40. Feldartillerie-Brigade |            | Feld-Artillerie-Regiment Nr. 32 (Riesa)Feld-Artillerie-Regiment Nr. 68 (Riesa) |
 
 - Une partie du 12e C.A.R. investit Givet.
-  Les 19e C.A. et 19e C.A.R. sont opposés à la IVe armée française.
+    Les 19e C.A. et 19e C.A.R. sont opposés à la IVe armée française.
 
 Comme Moltke s’estime vainqueur sur le front ouest, il prescrit le transport de troupes vers le front oriental, menacé par les Russes, notamment le C.A.R. de la Garde et le 11e C.A. (IIIe armée).
 
@@ -318,14 +318,14 @@ Le plateau de Brie est coupé par la vallée du Petit Morin, rivière qui coule 
 
 Vers le sud-est, le caractère du pays change. Brusquement, l’on perçoit une dénivellation d’une centaine de mètres. C’est le rebord de la première crête concentrique du bassin parisien. Elle forme un cirque autour des marais de Saint-Gond. La crête d’Allemant coupe complètement le pays et offre des vues jusqu’à l’Aube et la Seine. Au milieu de la plaine se dressent quelques pitons isolés comme le Mont Août qui domine les marais au sud ; le Mont Aimé permet de surveiller les routes de Reims à Troyes et de Paris à Châlons.
 
-Dans le vaste amphithéâtre limité au nord et à l’ouest par la côte tertiaire et au sud par la crête d’Allemant  s’étendent les marais de Saint-Gond. Cette zone est en 1914 large de 3 km de longue de 19 km. Cinq routes et trois chemins traversent la zone marécageuse. En dehors de ces voies, les marais sont impraticables.
+Dans le vaste amphithéâtre limité au nord et à l’ouest par la côte tertiaire et au sud par la crête d’Allemant s’étendent les marais de Saint-Gond. Cette zone est en 1914 large de 3 km de longue de 19 km. Cinq routes et trois chemins traversent la zone marécageuse. En dehors de ces voies, les marais sont impraticables.
 
 A l’est des marais s’étend la plaine champenoise. Aucun point dominant ne permet d’avoir une vue d’ensemble du pays. Il y a peu de cours d’eau au milieu de cette plaine à peine ondulée. La Somme, la Vaure et la Maurienne sont des ruisseaux coulant d’est en ouest. Le mouvement de terrain qui se trouve entre la Somme et la Vaure marque la ligne de partage des eaux entre affluents de la Seine et ceux de la Marne. La plaine est partiellement couverte de bois de pins s’étendant sur des hectares de superficie et formant une zone sans grands champs de tir et où l’infanterie peut s’infiltrer.
 
 - Ainsi, le terrain où la IXe armée va livrer bataille présente trois zones caractéristiques :
-  A l’ouest, la Brie, où les Français tiennent une coupure du terrain et où les bois et villages offrent des centres de résistance.
-  Au centre, les marais, dominés au nord par une crête tenue par les Allemands et au sud par l’avancée d’Allemant d’où les observateurs français verront les mouvements de leurs adversaires.
-  A l’est, la plaine champenoise, zone plate et libre, merveilleux terrain pour celui qui attaque.
+    A l’ouest, la Brie, où les Français tiennent une coupure du terrain et où les bois et villages offrent des centres de résistance.
+    Au centre, les marais, dominés au nord par une crête tenue par les Allemands et au sud par l’avancée d’Allemant d’où les observateurs français verront les mouvements de leurs adversaires.
+    A l’est, la plaine champenoise, zone plate et libre, merveilleux terrain pour celui qui attaque.
 
 ### 28 août
 
@@ -373,10 +373,10 @@ _c Michelin, d’après guide édition 1917, autorisation 06-B-05_
 L’ordre de Joffre prescrivant la reprise de l’offensive parvient au Q.G. de la IXe armée vers 2h30. Les C.A. et divisions sont aussitôt avisés de la fin de la retraite.
 
 - Les ordres sont expédiés vers 5h aux différents C.A. par Foch.
-  Le 9e C.A. ne dépassera pas la ligne Connantre - Oeuvy. Ses arrière-gardes tiendront la ligne Aulnay-aux-Planches - Morains-le-Petit - Ecury.
-  La 52e division ne dépassera pas la ligne Allemant - Fère-Champenoise. Elle tiendra les débouchés des marais de Saint-Gond entre Bannes et Oyes.
-  Le 11e C.A., se reliant à gauche avec le 9e s’arrêtera au sud de la Somme.
-  La 9e D.C. couvrira la droite du dispositif, soit sur la ligne des marais de Saint-Gond et le cours de la Somme entre Ecury et Sommesous.
+    Le 9e C.A. ne dépassera pas la ligne Connantre - Oeuvy. Ses arrière-gardes tiendront la ligne Aulnay-aux-Planches - Morains-le-Petit - Ecury.
+    La 52e division ne dépassera pas la ligne Allemant - Fère-Champenoise. Elle tiendra les débouchés des marais de Saint-Gond entre Bannes et Oyes.
+    Le 11e C.A., se reliant à gauche avec le 9e s’arrêtera au sud de la Somme.
+    La 9e D.C. couvrira la droite du dispositif, soit sur la ligne des marais de Saint-Gond et le cours de la Somme entre Ecury et Sommesous.
 
 Les quatre divisions des 9e et 11e C.A. seront établies sur un front d’une vingtaine de km, entre Aulnay-aux-Planches et Sommesous, deux autre divisions formant la réserve. Le dispositif sera couvert à droite par la 9e D.C. et à gauche par la 42e division.
 
@@ -395,12 +395,12 @@ _Artillerie sur le front de Champagne_
 _Collection privée_
 
 - A 17h, Foch donne son ordre pour la journée du 6.
-  La 12e division, liant son attaque à celle du 10e C.A. (Ve armée) vers Montmirail, se portera dans la direction de Vauchamps et de Janvillers pour conquérir et tenir le Petit Morin.
-  Le 9e C.A. s’établira défensivement sur la ligne des marais de Saint-Gond, de Oyes à Bannes. Il maintiendra des avant-gardes fortement organisées au nord des marais. Il tiendra des forces prêtes à déboucher vers Champaubert.
+    La 12e division, liant son attaque à celle du 10e C.A. (Ve armée) vers Montmirail, se portera dans la direction de Vauchamps et de Janvillers pour conquérir et tenir le Petit Morin.
+    Le 9e C.A. s’établira défensivement sur la ligne des marais de Saint-Gond, de Oyes à Bannes. Il maintiendra des avant-gardes fortement organisées au nord des marais. Il tiendra des forces prêtes à déboucher vers Champaubert.
 
 - Le 11e C.A. s’établira défensivement de Morains-le-Petit à Lenharrée, pour barrer les routes venant de Châlons et de Vertus.
 
-- La 9e D.C. à  Vatry tiendra la direction de Châlons à Sommesous.
+- La 9e D.C. à Vatry tiendra la direction de Châlons à Sommesous.
 
 - **Armées allemandes**
 
@@ -420,7 +420,7 @@ Les ordres de l’O.H.L. du 4 septembre amènent von Bülow à modifier quelque 
 Toutefois, les ordres de von Bülow (18h) pour le 6 prescrivent toujours la marche de l’armée, la gauche en avant.
 
 - Le 7e C.A. restera le 6 dans ses cantonnements, en liaison avec la Ie armée.
-  Le 10e C.A., le 10e C.A.R et la Garde atteindront avec leurs avant-gardes la ligne Montmirail - Marigny-le-Grand.
+    Le 10e C.A., le 10e C.A.R et la Garde atteindront avec leurs avant-gardes la ligne Montmirail - Marigny-le-Grand.
 
 ### 6 septembre
 
@@ -520,7 +520,7 @@ Le général Blondlat tient ferme à Bannes et Broussy-le-Grand.
 **9h30 :**
 
 - Le général Dubois envoie un ordre prescrivant :
-  A la 17e division, de se maintenir à tout prix sur le front Toulon - Vert-la-Gravelle et de pousser sa 33e brigade de Broussy-le-Grand vers Broussy-le-Petit.
+    A la 17e division, de se maintenir à tout prix sur le front Toulon - Vert-la-Gravelle et de pousser sa 33e brigade de Broussy-le-Grand vers Broussy-le-Petit.
 
 - A la division du Maroc, de faire tomber la résistance de Congy puis de s’emparer de Baye.
 
@@ -530,7 +530,7 @@ Le général Blondlat tient ferme à Bannes et Broussy-le-Grand.
 
 L’ordre du général Moussy prescrit à l’avant-garde de se retrancher solidement à Toulon-la-Montagne et à Aulnizeux ; l’artillerie doit couvrir les débouchés d’Etrechy et du Mont-Aimé.
 
-Le combat s’engage de bonne heure. L’artillerie française ouvre le feu sur l’artillerie allemande établie au sud-est de Loisy-en-Brie et sur des fractions de cavalerie signalées entre le château de La Gravelle et Etrechy. Une colonne allemande est en marche sur Toulon, une autre descend des hauteurs de Courmont vers Aulnizeux. Le colonel Eon envoie son bataillon en réserve pour barrer la route  à cette colonne.
+Le combat s’engage de bonne heure. L’artillerie française ouvre le feu sur l’artillerie allemande établie au sud-est de Loisy-en-Brie et sur des fractions de cavalerie signalées entre le château de La Gravelle et Etrechy. Une colonne allemande est en marche sur Toulon, une autre descend des hauteurs de Courmont vers Aulnizeux. Le colonel Eon envoie son bataillon en réserve pour barrer la route à cette colonne.
 
 **7h :**
 
@@ -545,8 +545,8 @@ Le 135e a également gagné le Mont Août, mais il a dû refluer à travers Bann
 Devant l’insuccès de l’attaque du 9e C.A., Foch doit prescrire une attitude défensive, en se tenant sur la rive sud des marais de Saint-Gond.
 
 - Le 9e C.A. s’établit pour la nuit au bivouac.
-  La 17e division à la ferme Hozet et environs.
-  La division du Maroc dans la région Montgivroux - Mondement, couverte par la brigade Blondlat sur la ligne Broussy-le-Grand - Broussy-le-Petit,  par des éléments du régiment Fellert vers Reuves et par des éléments du régiment Cros à Oyes.
+    La 17e division à la ferme Hozet et environs.
+    La division du Maroc dans la région Montgivroux - Mondement, couverte par la brigade Blondlat sur la ligne Broussy-le-Grand - Broussy-le-Petit, par des éléments du régiment Fellert vers Reuves et par des éléments du régiment Cros à Oyes.
 
 La 52e division stationne sur ses emplacements, une brigade sur le Mont-Août et une brigade au nord et au nord-est de Fère-Champenoise.
 
@@ -555,9 +555,9 @@ La 52e division stationne sur ses emplacements, une brigade sur le Mont-Août et
 La mission du 11e C.A., située sur le terrain le plus défavorable, est nettement défensive : « s’établir défensivement de Morains-le-Petit à Lenharrée, pour barrer indiscutablement à l’ennemi les routes venant de Châlons et de Vertus »
 
 - Le général Eydoux attribue un front à chacune de ses divisions :
-  21e division : de Morains-le-Petit inclus à Normée inclus.
-  22e division : de Normée exclu à Lenharrée inclus.
-  60e division de réserve : au nord de Fère-Champenoise, en détachant un bataillon à Montépreux.
+    21e division : de Morains-le-Petit inclus à Normée inclus.
+    22e division : de Normée exclu à Lenharrée inclus.
+    60e division de réserve : au nord de Fère-Champenoise, en détachant un bataillon à Montépreux.
 
 Le Q.G. du C.A. est à Connantre.
 Foch compte que le C.A. pourra barrer la route de Sommesous - Fère-Champenoise et insiste pour que l’infanterie se retranche.
@@ -572,7 +572,7 @@ Le 64e réussit à pénétrer dans Ecury mais à peine y est-il installé que la
 
 **13h :**
 
-Normée et Ecury doivent être évacués. Les Français entament une contre-attaque, voulant conserver  Ecury à tout prix. La localité est battue par l’artillerie française afin de rendre le passage intenable à l’infanterie allemande.
+Normée et Ecury doivent être évacués. Les Français entament une contre-attaque, voulant conserver Ecury à tout prix. La localité est battue par l’artillerie française afin de rendre le passage intenable à l’infanterie allemande.
 
 **15h :**
 
@@ -607,10 +607,10 @@ Vers 13h, l’avant-garde est attaquée par une colonne débouchant de Vatry et 
 Le général von Emmich, croyant les Français en retraite, a donné les directions de marche pour le 6 :
 
 - 19e division : Charleville - Les Essarts - Saint-Prix - Lachy - Murs Elle doit traverser le Petit Morin à 8h.
-  20e division : Sézanne.
+    20e division : Sézanne.
 
 - Un régiment de cavalerie renforcé, composé d’éléments des 19e et 20e divisions : Saint-Prix.
-Les colonnes allemandes se trouvent rapidement aux prises avec les avant-gardes françaises et soumises à des tirs d’artillerie vers Le Reclus et Corfélix. Les 78e et 73e R.I. se déploient mais sont en butte à un violent tir d’artillerie et d’infanterie provenant de La Villeneuve et de Soizy-aux-Bois.
+  Les colonnes allemandes se trouvent rapidement aux prises avec les avant-gardes françaises et soumises à des tirs d’artillerie vers Le Reclus et Corfélix. Les 78e et 73e R.I. se déploient mais sont en butte à un violent tir d’artillerie et d’infanterie provenant de La Villeneuve et de Soizy-aux-Bois.
 
 Sur la droite, la 19e division, appuyée par la 2e division de réserve de la Garde, attaque en direction de Charleville. Les hauteurs de la Pommerose sont atteintes sans grandes difficultés. La division contourne Charleville par la droite mais ne peut pas s’approcher du village, puissamment défendu.
 
@@ -627,7 +627,7 @@ Von Bülow reçoit peu de renseignements et croit pouvoir pousser plus loin :
 - Le 10e C.A. vers La Noue - La Forestière - Villenauxe - Barbuisse.
 
 - La Garde sur Broussy - Chichey - Marcilly.
-Le combat reprend avec intensité sur le front du 10e C.A. La 2e division de la Garde repousse les Français au-delà du chemin Charleville - La Recoude, mais le 15e régiment échoue dans son attaque de Charleville. Il subit des pertes considérables, dues partiellement au tir mal ajusté de l’artillerie allemande. A la nuit, il doit bivouaquer au nord de Charleville.
+  Le combat reprend avec intensité sur le front du 10e C.A. La 2e division de la Garde repousse les Français au-delà du chemin Charleville - La Recoude, mais le 15e régiment échoue dans son attaque de Charleville. Il subit des pertes considérables, dues partiellement au tir mal ajusté de l’artillerie allemande. A la nuit, il doit bivouaquer au nord de Charleville.
 
 Von Emmich a donné l’ordre à la 19e D.I. d’attaquer Mondement pour permettre à la 20e D.I. de traverser les marais et le Petit Morin. Le 73e pénètre dans La Villeneuve mais ne peut pas s’y maintenir. Le groupement von Stockhausen finit par s’emparer des hauteurs au sud de Saint-Prix.
 
@@ -730,7 +730,7 @@ Entre temps, le commandant de la 32e division (von der Planitz) avait déjà pri
 
 Les brigades subissent de grosses pertes du fait de l’artillerie française. Vu la violence du combat, von der Planitz demande à son tour d’être couvert par la 23e division.
 
-Quand von Hausen avait donné ses ordres  le 5 au soir, il pensait n’avoir affaire qu’à de fortes arrière-gardes jusqu’à la coupure de la Seine. Vers midi, la situation change : divers éléments semblent annoncer la fin de la retraite française.  Il téléphone à l’O.H.L. où on lui demande des explications pour son arrêt le 5. La IVe armée lui demande être couverte. Pour lui donner satisfaction, il envoie la 23e division sur Coupetz.
+Quand von Hausen avait donné ses ordres le 5 au soir, il pensait n’avoir affaire qu’à de fortes arrière-gardes jusqu’à la coupure de la Seine. Vers midi, la situation change : divers éléments semblent annoncer la fin de la retraite française. Il téléphone à l’O.H.L. où on lui demande des explications pour son arrêt le 5. La IVe armée lui demande être couverte. Pour lui donner satisfaction, il envoie la 23e division sur Coupetz.
 
 **Vers 17h :**
 
@@ -739,10 +739,10 @@ Résultats de la journée
 En fin de journée, ni les Français ni les Allemands n’ont pu atteindre leurs objectifs.
 
 - Il n’est plus question pour Foch d’attaquer avec la 42e division. Elle doit « s’organiser sur le terrain ».
-  La ligne de la Somme a été abandonnée et le 11e C.A. paraît très fatigué.
+    La ligne de la Somme a été abandonnée et le 11e C.A. paraît très fatigué.
 
 - Le 10e C.A. allemand a été arrêté 2 ou 3 km au sud du Petit Morin et n’arrive pas à franchir les marais.
-  La Garde a vu ses attaques se briser et doit demander du secours.
+    La Garde a vu ses attaques se briser et doit demander du secours.
 
 ### 7 septembre
 
@@ -759,7 +759,7 @@ Quand les troupes reçoivent la proclamation solennelle de Joffre, elles sont en
 
 - Le 11e C.A., maintenant sa position de Morains-le-Petit, Ecury, Normée, s’emparera des hauteurs 167, 144 ainsi que de Clamanges ; il se portera ensuite à l’attaque dans la direction Pierre-Morains, Coligny, Mont Aimé.
 
-- La 9e D.C., à Sommesous, surveillera les routes de Vitry-le-François à Châlons et assurera la liaison avec la IVe armée, qui occupera Meix-Tiercelin et Humbeauville  avec détachement au camp de Mailly.
+- La 9e D.C., à Sommesous, surveillera les routes de Vitry-le-François à Châlons et assurera la liaison avec la IVe armée, qui occupera Meix-Tiercelin et Humbeauville avec détachement au camp de Mailly.
 
 - La 18e division (général Lefèvre) sera à 6h en réserve d’armée aux environs d’Oeuvy.
 
@@ -767,7 +767,7 @@ Quand les troupes reçoivent la proclamation solennelle de Joffre, elles sont en
 
 Comme la veille, les Allemands déclenchent une attaque, contre la IXe armée et celles qui sont à sa droite. Il en résultera que la IXe armée, liée à sa gauche à la Ve armée qui progresse en Brie, et liée à sa droite à une armée qui a grand peine à se maintenir, devra effectuer un mouvement de bascule.
 
-Ce mouvement s’effectuera autour du pivot constitué par les hauteurs autour des marais de Saint-Gond. Foch consacrera les forces nécessaires pour que l’aile  gauche de son armée tienne sur place.
+Ce mouvement s’effectuera autour du pivot constitué par les hauteurs autour des marais de Saint-Gond. Foch consacrera les forces nécessaires pour que l’aile gauche de son armée tienne sur place.
 
 **42e division**
 
@@ -783,7 +783,7 @@ L’appui d’artillerie commence mais les Allemands ripostent avec acharnement.
 
 La 42e division est dans une situation critique : la gauche a repris place à hauteur du 10e C.A. (Ve armée) mais la droite s’infléchit sous la poussée allemande. Elle risque de perdre la liaison avec la division du Maroc qui se trouve vers Oyes et la crête du Poirier. Le 94e doit également reculer.
 
-Toutes les unités sont en ligne et les pertes sont élevées. La matinée est marquée par des mouvements de flux et de reflux.  Le 10e C.A. va toutefois pouvoir apporter une aide car entre midi et 14h, selon les unités, les Allemands reculent. Le 10e C.A. entame immédiatement sa poursuite, la 20e division marchant vers Boissy-le-Repos et suivie par la 51e division de réserve. Tandis que la gauche de la 20e division atteint les lisières du Bout-du-Val, la 51e division de réserve met une partie de son artillerie en batterie vers la ferme des Epées pour agir en avant de la ferme Chapton et attaque ensuite le bois de la Branle.
+Toutes les unités sont en ligne et les pertes sont élevées. La matinée est marquée par des mouvements de flux et de reflux. Le 10e C.A. va toutefois pouvoir apporter une aide car entre midi et 14h, selon les unités, les Allemands reculent. Le 10e C.A. entame immédiatement sa poursuite, la 20e division marchant vers Boissy-le-Repos et suivie par la 51e division de réserve. Tandis que la gauche de la 20e division atteint les lisières du Bout-du-Val, la 51e division de réserve met une partie de son artillerie en batterie vers la ferme des Epées pour agir en avant de la ferme Chapton et attaque ensuite le bois de la Branle.
 
 Une vaste poche s’est créée dans la dispositif de la 42e division : le 151e tient toujours à La Villeneuve, le 94e à sa droite s’est infléchi vers le sud-est et s’est relié au 16e chasseurs et au 162e.
 
@@ -867,11 +867,11 @@ Vers 20h parvient l’ordre de l’armée de se replier derrière le Petit Morin
 Von Plettenberg décide de faire appuyer tout son C.A. vers l’est pour attaquer au-delà des marais : la 1e division de la Garde doit prendre la place de la 4e brigade de la Garde. L’axe d’attaque du C.A. sera Ecury - la ferme Hozet - Linthes.
 
 - Les mouvements se sont effectués dans la nuit du 6 au 7.
-  La 1e division vient au nord-est de la route Morains-le-Petit - Ecury-le-Repos.
-  Le 2e régiment vient à l’ouest d’Ecury.
-  Le 1e arrive à minuit à Pierre-Morains.
-  Le 4e régiment atteint également Pierre-Morains.
-L’artillerie prend position au cours de la nuit de part et d’autre de la route Bergères - Morains-le-Petit et le long de la voie ferrée de Bergères à Fère-Champenoise.
+    La 1e division vient au nord-est de la route Morains-le-Petit - Ecury-le-Repos.
+    Le 2e régiment vient à l’ouest d’Ecury.
+    Le 1e arrive à minuit à Pierre-Morains.
+    Le 4e régiment atteint également Pierre-Morains.
+  L’artillerie prend position au cours de la nuit de part et d’autre de la route Bergères - Morains-le-Petit et le long de la voie ferrée de Bergères à Fère-Champenoise.
 
 La ligne Morains-le-Petit - Normée doit être franchie à 6h. Les régiments de la 1e division cherchent à progresser : le 1e régiment de la Garde à pied pénètre dans le bois au sud de la route de Morains-le-Petit à Ecury ; le 2e régiment partant d’Ecury-le-repos avance lentement dans la plaine découverte mais est pris à partie par un violent feu de mousqueterie ; le 4e régiment de Garde à pied subit de lourdes pertes.
 
@@ -966,7 +966,7 @@ La 2e division doit franchir la ligne de la Somme à 3h, son aile droite doit ma
 
 La Somme est atteinte par des bataillons du régiment Königin Augusta, puis la division avance jusqu’à la voie ferrée Fère-Champenoise - Sommesous où elle est arrêtée par une énergique résistance d’infanterie.
 
-La 32e division attaque à 3 heures sans bruit, fusils déchargés. Les bataillons saxons s’avancent en lignes denses de tirailleurs. Le point de direction de la division est Lenharrée. Les 102e, 103e, 177e et 178e  régiments doivent s’emparer des hauteurs entre Vaurefroy et Montepreux. Les avant-postes français installés au nord de la Somme sont complètement surpris mais ils alertent les unités situées à l’arrière. De violents combats de corps à corps se livrent près de l’église de Lenharrée.
+La 32e division attaque à 3 heures sans bruit, fusils déchargés. Les bataillons saxons s’avancent en lignes denses de tirailleurs. Le point de direction de la division est Lenharrée. Les 102e, 103e, 177e et 178e régiments doivent s’emparer des hauteurs entre Vaurefroy et Montepreux. Les avant-postes français installés au nord de la Somme sont complètement surpris mais ils alertent les unités situées à l’arrière. De violents combats de corps à corps se livrent près de l’église de Lenharrée.
 
 **5h30 :**
 
@@ -996,7 +996,7 @@ von Bülow, dont l’armée est en difficulté sur le Petit Morin, presse von Ki
 
 Le groupement continue sa progression, mais plus lentement
 
-Von Kirchbach voudrait repousser les Français vers le sud avant d’opérer une conversion vers le sud-ouest. Il ordonne à ses divisions d’atteindre la  ligne Fère-Champenoise - sud de Connantray - La Motte. La 23e division de réserve doit attaquer vers l’ouest de Montépreux. Dans le courant de l’après-midi, la 32e division repousse les Français au-delà de Connantray.
+Von Kirchbach voudrait repousser les Français vers le sud avant d’opérer une conversion vers le sud-ouest. Il ordonne à ses divisions d’atteindre la ligne Fère-Champenoise - sud de Connantray - La Motte. La 23e division de réserve doit attaquer vers l’ouest de Montépreux. Dans le courant de l’après-midi, la 32e division repousse les Français au-delà de Connantray.
 
 La 23e division s’empare des hauteurs au sud de Sommesous et au nord-est de Montépreux mais est soumise à de violents tirs de batteries françaises. Son aile droite parvient à Montépreux et occupe le village. Les Français sont derrière la Maurienne et tous les espoirs sont permis, le lendemain, pour le camp allemand.
 
@@ -1041,7 +1041,7 @@ Foch avise la 42e division en l’invitant à poursuivre ses attaques en liaison
 
 Tranquille sur sa gauche, Foch se retourne vers la droite : la 9e D.A. a dû abandonner Sommesous. De ce fait, la direction de Montépreux est découverte, donnant ainsi la possibilité de tourner le 11e C.A.
 
-Il prescrit au 11e C.A. de barrer cette direction et à la 9e D.C. de manuvrer sur la route Sommesous - Mailly pour agir vers Montépreux.
+Il prescrit au 11e C.A. de barrer cette direction et à la 9e D.C. de manoeuvrer sur la route Sommesous - Mailly pour agir vers Montépreux.
 
 Il émet le soir son bulletin de renseignements :
 « Les armées allemandes, qui font face à la IXe armée, ont prononcé depuis hier une vigoureuse offensive, dont le but évident est de couvrir la retraite de la Ie armée et d’une partie de la IIe.
@@ -1078,12 +1078,12 @@ Le front défensif à tenir à tout prix, le long de la Maurienne, est la crête
 La 52e division (9e C.A.) doit prononcer une attaque partant des fermes Sainte-Sophie et Morin vers le nord de Fère-Champenoise. Quand la contre-attaque se produira, les troupes placées au point d’appui du moulin de Connantre l’appuieront. De l’artillerie se portera sur les hauteurs de Corroy et sur celles du moulin de Connantre.
 
 - Trois attaques seront dirigées vers Fère-Champenoise :
-  Par la 18e division, débouchant de la crête du moulin de Gourgançon vers Connantray
+    Par la 18e division, débouchant de la crête du moulin de Gourgançon vers Connantray
 
 - Par un détachement partant des hauteurs du moulin de Connantre (290e), s’étendant sur la croupe au nord d’Oeuvy et marchant vers Fère.
 
 - Par la 52e division, partant des fermes Sainte-Sophie et Morin pour se diriger vers le nord de Fère.
-42e division et 10e C.A.
+  42e division et 10e C.A.
 
 Le 10e C.A. (Ve armée), qui doit agir en faveur de la 42e division, ne progresse guère au cours de la journée.
 Le général Grossetti donne ses ordres pour la journée :
@@ -1105,7 +1105,7 @@ Le 151e sort de La Villeneuve et marche sur les Culots mais, en arrivant devant 
 
 **9h :**
 
-Le 10e chasseurs reçoit l’ordre d’aller par la ferme Montalard reprendre le contact. Le régiment  débouche par Montgivroux, puis se porte au sud-ouest d’Oyes. Comme il a été aperçu, des obus de gros calibre s’abattent sur lui. On a l’impression que les Allemands sont encore sur la rive sud du Petit Morin.
+Le 10e chasseurs reçoit l’ordre d’aller par la ferme Montalard reprendre le contact. Le régiment débouche par Montgivroux, puis se porte au sud-ouest d’Oyes. Comme il a été aperçu, des obus de gros calibre s’abattent sur lui. On a l’impression que les Allemands sont encore sur la rive sud du Petit Morin.
 
 Les Allemands organisent les pentes nord de la vallée du Petit Morin, aux hameaux de Talus et de Voizy. Toutes les tentatives de franchir la vallée sont vaines.
 
@@ -1117,7 +1117,7 @@ Les Allemands contre-attaquent ; ils reprennent Saint-Prix ; sur la crête du 
 
 Le général Grossetti ne peut obtenir un appui d’artillerie de la division du Maroc ; il doit se résigner à autoriser le repli de sa droite.
 
-Après avoir occupé la crête du Poirier, les troupes allemandes s’infiltrent dans les bois des Grandes-Garennes, mais ne réussissent pas à atteindre la lisière sud du bois. Le 19e bataillon de chasseurs contre-attaque sur la croupe du Poirier mais est obligé de s’arrêter  devant les trous de tirailleurs creusés par les Hanovriens. Les Français se reforment à l’abri le long de la route de Soizy à Oyes.
+Après avoir occupé la crête du Poirier, les troupes allemandes s’infiltrent dans les bois des Grandes-Garennes, mais ne réussissent pas à atteindre la lisière sud du bois. Le 19e bataillon de chasseurs contre-attaque sur la croupe du Poirier mais est obligé de s’arrêter devant les trous de tirailleurs creusés par les Hanovriens. Les Français se reforment à l’abri le long de la route de Soizy à Oyes.
 
 **En soirée :**
 
@@ -1159,10 +1159,10 @@ C’est l’entrée en ligne d’une division allemande, la 14e division, qui a 
 _Situation des armées le 9 septembre_
 _c Michelin, d’après guide édition 1917, autorisation 06-B-05_
 
-**La manuvre de Foch**
+**La manoeuvre de Foch**
 
-L’ordre déclenchant la manuvre est le suivant :
-« La IXe armée étant fortement engagée par sa droite vers Sommesous et le 10e C.A. étant mis sous nos ordres, les dispositions suivantes seront  prises, le 9 septembre, à la première heure : »
+L’ordre déclenchant la manoeuvre est le suivant :
+« La IXe armée étant fortement engagée par sa droite vers Sommesous et le 10e C.A. étant mis sous nos ordres, les dispositions suivantes seront prises, le 9 septembre, à la première heure : »
 
 « Le 10e C.A. relèvera, dès 5h, la 42e division dans ses attaques contre le front Bannay - Baye, en particulier sur la route de Soizy-aux-Bois à Baye, où il se liera à la division du Maroc, qui tient les bois de Saint-Gond, Montgivroux et Mondement. Il aura, en tout cas, à interdire à l’ennemi, d’une façon indiscutable, le plateau de La Villeneuve-les-Charleville, Montgivroux ainsi que ses abords nord. »
 
@@ -1218,7 +1218,7 @@ Foch insiste sur l’aide que le 10e C.A. doit apporter à l’aile gauche de la
 
 **11h :**
 
-La division marocaine peut rétablir son front  et tenter de reprendre la château de Mondement. La 20e division a franchi le Petit Morin. Le 2e régiment se rabat sur Bannay et le 47e débouche du Thoult en gravissant les pentes nord de la vallée.
+La division marocaine peut rétablir son front et tenter de reprendre la château de Mondement. La 20e division a franchi le Petit Morin. Le 2e régiment se rabat sur Bannay et le 47e débouche du Thoult en gravissant les pentes nord de la vallée.
 
 **16h :**
 
@@ -1355,9 +1355,9 @@ Ce n’est qu’à 15h que Connantre et la ferme Hozet sont pris. Les pertes all
 L’attaque allemande est un succès. Les troupes aux ordres de von Plettenberg ont avancé et bousculé les unités françaises, mais les Allemands sont hors d’état de poursuivre une victoire locale si chèrement achetée.
 
 - Von Hausen prévoit d’attaquer avec trois divisions :
-  la 24e de réserve de Fère-Champenoise sur Connantre.
-  La 32e vers Gourgançon.
-  La 23e de réserve vers Semoine.
+    la 24e de réserve de Fère-Champenoise sur Connantre.
+    La 32e vers Gourgançon.
+    La 23e de réserve vers Semoine.
 
 Suite à une mauvaise coordination, la 24e division reçoit le même terrain d’attaque qu’une partie de la 2e division de la Garde. Il en résulte une confusion dans la manoeuvre. La 24 division avance par la gare de Lenharrée mais le déploiement s’effectue sous un feu violent d’infanterie venant des bois au sud-est de Connantray.
 Von Kirchbach prescrit à la 32e division d’attaquer les hauteurs au nord de la Maurienne.
@@ -1476,7 +1476,7 @@ La 17e division et la 103e brigade ont comme objectifs la route Fère-Champenois
 
 **10h :**
 
-La 17e division se heurte à une résistance allemande. Au nord de Morains-le-Petit, les troupes doivent manuvrer  pour réduire des éléments allemands installés au nord de la route d’Ecury-le-Repos.
+La 17e division se heurte à une résistance allemande. Au nord de Morains-le-Petit, les troupes doivent manoeuvrer pour réduire des éléments allemands installés au nord de la route d’Ecury-le-Repos.
 
 **17h :**
 

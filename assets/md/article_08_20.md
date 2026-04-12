@@ -1,10 +1,10 @@
 # Pourquoi le plan Schlieffen a-t-il échoué ?
 
-Le plan de guerre allemand avait été soigneusement préparé pendant des années par le grand Etat-Major allemand pour mettre l’armée française hors de cause en un mois et demi, et pourtant, les Allemands n’ont pas réussi à envahir la France et à s’emparer de Paris. Cet article analyse le déroulement du plan depuis la bataille des frontières jusqu’à celle de  la Marne.
+Le plan de guerre allemand avait été soigneusement préparé pendant des années par le grand Etat-Major allemand pour mettre l’armée française hors de cause en un mois et demi, et pourtant, les Allemands n’ont pas réussi à envahir la France et à s’emparer de Paris. Cet article analyse le déroulement du plan depuis la bataille des frontières jusqu’à celle de la Marne.
 
 ### La conception du plan
 
-Le comte von Schlieffen, en charge du grand Etat-Major allemand, de 1891 à  1906, a préparé une organisation minutieuse destinée à battre la France en six semaines avant de pouvoir se retourner contre son allié russe, et éviter ainsi une guerre sur deux fronts.
+Le comte von Schlieffen, en charge du grand Etat-Major allemand, de 1891 à 1906, a préparé une organisation minutieuse destinée à battre la France en six semaines avant de pouvoir se retourner contre son allié russe, et éviter ainsi une guerre sur deux fronts.
 
 Comme la frontière Est de la France a été fortifiée par Séré de Rivière (Verdun, Toul et Belfort), il n’y a qu’une solution praticable pour obtenir une victoire rapide :
 
@@ -30,12 +30,12 @@ Après la retraite de Schlieffen en 1906, Helmuth von Moltke devient général e
 
 Voici un tableau montrant les troupes engagées à l’ouest, selon les plans Schlieffen et Moltke.
 
-|  | Schlieffen | Moltke |
-| --- | --- | --- |
-| Corps d’armée | 23 | 17 |
-| Divisions de cavalerie | 8 | 7 |
-| Divisions de réserve | 25 | 9 |
-| Brigades de Landwehr | 16 | 14 |
+|                        | Schlieffen | Moltke |
+| ---------------------- | ---------- | ------ |
+| Corps d’armée          | 23         | 17     |
+| Divisions de cavalerie | 8          | 7      |
+| Divisions de réserve   | 25         | 9      |
+| Brigades de Landwehr   | 16         | 14     |
 
 Les historiens ne sont pas d’accord sur la portée de ces modifications :
 
@@ -77,30 +77,30 @@ Les Allemands ont manqué deux occasions de mettre hors cause l’aile gauche de
 
 Smith Dorrien (IIe C.A.) décide de donner un coup d’arrêt à l’avance de la Ie armée allemande. Les Anglais résistent pendant une journée à des forces écrasantes le long de la route Le Cateau - Maubeuge. Ils doivent rompre le combat en plein jour et au contact de l’ennemi.
 
-Von Kluck pensant que les Anglais, battus grâce à la supériorité numérique, vont opérer une retraite vers les ports de la Manche,  oriente les mouvements de son armée vers l’ouest. Les Anglais, au contraire, effectuent leur retraite vers le sud. C’est une nouvelle occasion manquée pour von Kluck d’encercler les Anglais.
+Von Kluck pensant que les Anglais, battus grâce à la supériorité numérique, vont opérer une retraite vers les ports de la Manche, oriente les mouvements de son armée vers l’ouest. Les Anglais, au contraire, effectuent leur retraite vers le sud. C’est une nouvelle occasion manquée pour von Kluck d’encercler les Anglais.
 
 ### Joffre renforce son aile gauche, von Moltke affaiblit son aile marchante
 
 Après l’échec de la bataille des frontières (Mons, Charleroi, Neufchâteau, Sarrebourg - Morhange), Joffre est contraint d’ordonner la retraite. Elle s’effectue en bon ordre et ne ressemble nullement à une débandade. Comme le point crucial est l’aile gauche, tenue par le corps expéditionnaire britannique, Joffre décide de prélever des troupes de son aile droite, pour venir renforcer ce point faible.
 Voici le résumé des transferts effectués.
 
-| Date | Unité | Départ | Destination |
-| --- | --- | --- | --- |
-| 16/8 | 18e C.A. | Lorraine | Hainaut |
-| 16/8 | 9e C.A. | Nancy | Charleville |
-| 24/8 | 7e C.A. | Belfort | Amiens |
-| 27/8 | 55e et 56e DR | Saint-Mihiel | Montdidier |
-| 27/8 | 63e D.R. | Belfort | Amiens |
-| 31/8 | 10e D.C. | Nancy | Châlons |
-| 31/8 | 8e D.C. | Corcieux | Châlons |
-| 2/9 | 4e C.A. | Ste Ménehould | Paris |
-| 3/9 | 15e et 21e CA |  | Bar-le-Duc |
+| Date | Unité         | Départ        | Destination |
+| ---- | ------------- | ------------- | ----------- |
+| 16/8 | 18e C.A.      | Lorraine      | Hainaut     |
+| 16/8 | 9e C.A.       | Nancy         | Charleville |
+| 24/8 | 7e C.A.       | Belfort       | Amiens      |
+| 27/8 | 55e et 56e DR | Saint-Mihiel  | Montdidier  |
+| 27/8 | 63e D.R.      | Belfort       | Amiens      |
+| 31/8 | 10e D.C.      | Nancy         | Châlons     |
+| 31/8 | 8e D.C.       | Corcieux      | Châlons     |
+| 2/9  | 4e C.A.       | Ste Ménehould | Paris       |
+| 3/9  | 15e et 21e CA |               | Bar-le-Duc  |
 
-Les unités françaises effectuent des mouvements de rocade d’est en ouest via le chemin de fer. Une partie d’entre elles (4e C.A.) constitue la VIe armée, placée sous les ordres de Maunoury. C’est la masse de manuvre qui attaquera le flanc des armées allemandes. Lors de la bataille de la Marne qui va s’ensuivre, les alliés disposeront de la supériorité numérique à leur aile gauche.
+Les unités françaises effectuent des mouvements de rocade d’est en ouest via le chemin de fer. Une partie d’entre elles (4e C.A.) constitue la VIe armée, placée sous les ordres de Maunoury. C’est la masse de manoeuvre qui attaquera le flanc des armées allemandes. Lors de la bataille de la Marne qui va s’ensuivre, les alliés disposeront de la supériorité numérique à leur aile gauche.
 
 Pendant ce temps, les choses ne s’arrangent pas sur le front russe pour les armées allemandes : les Russes envahissent la Prusse orientale (armées de Sansonov et de Rennenkampf). L’empereur Guillaume II ne peut tolérer que des territoires de l’aristocratie des Junker soient envahis et Moltke doit prélever six corps d’armée sur son aile marchante (en réalité, deux).
 
-D’autre part, comme les Belges se sont réfugiés à Anvers, von Kluck doit prélever un C.A. destiné à assiéger la ville et surtout à protéger les communications ferroviaires dont dépend le ravitaillement des armées allemandes, qui s’enfoncent de plus en plus en territoire français.  Ces troupes prélevées sur la Ie armée (3e C.A.R.) sont placées sous le commandement du général von Beseler. Deux divisions doivent également assiéger Givet et la place forte de Maubeuge. L’aile marchante allemande s’est ainsi affaiblie d’un cinquième.
+D’autre part, comme les Belges se sont réfugiés à Anvers, von Kluck doit prélever un C.A. destiné à assiéger la ville et surtout à protéger les communications ferroviaires dont dépend le ravitaillement des armées allemandes, qui s’enfoncent de plus en plus en territoire français. Ces troupes prélevées sur la Ie armée (3e C.A.R.) sont placées sous le commandement du général von Beseler. Deux divisions doivent également assiéger Givet et la place forte de Maubeuge. L’aile marchante allemande s’est ainsi affaiblie d’un cinquième.
 
 ### Les Français contre-attaquent à Guise et les Allemands abandonnent le plan Schlieffen
 

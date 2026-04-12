@@ -20,7 +20,7 @@ La défense naturelle de Nancy se compose de deux parties, l’une à l’est et
 
 Le mont Sainte-Geneviève est la première hauteur du Grand Couronné (nord de Nancy). Au sud de cette colline, le Grand Couronné développe sa figure bosselée : ce ne sont que hauteurs et vallons, pentes et contre-pentes.
 
-Au sud de la coupure de la Pissotte, qui coule de Champenoux vers Dommartin,  le Rembêtant domine la plaine, entre Nancy et Lunéville.
+Au sud de la coupure de la Pissotte, qui coule de Champenoux vers Dommartin, le Rembêtant domine la plaine, entre Nancy et Lunéville.
 
 La région comporte plusieurs forêts : Gremecey, Champenoux, Vitrimont, bois de Faulx.
 
@@ -112,9 +112,9 @@ _Collection privée_
 
 **IIe armée française**
 
-Pour la IIe armée, le 23 août se passe dans un calme relatif : c’est une sorte de trêve de part et d’autre. L’armée de Castelnau s’établit fortement sur ses positions et le Q.G. s’installe à Pont-Saint-Vincent, dans l’intention de surveiller la région de Charmes. L’aile droite de l’armée doit s’opposer au mouvement débordant  des Allemands vers le sud et défendre la rive gauche de la Meurthe en prolongement du Grand Couronné.
+Pour la IIe armée, le 23 août se passe dans un calme relatif : c’est une sorte de trêve de part et d’autre. L’armée de Castelnau s’établit fortement sur ses positions et le Q.G. s’installe à Pont-Saint-Vincent, dans l’intention de surveiller la région de Charmes. L’aile droite de l’armée doit s’opposer au mouvement débordant des Allemands vers le sud et défendre la rive gauche de la Meurthe en prolongement du Grand Couronné.
 
-- Le 16e C.A. est vers Xermaménil - Belchamps, surveillant la route de Lunéville à Bayon. L’artillerie du C.A. se trouve sur les crêtes de Belchamps  et au nord de Brémoncourt.
+- Le 16e C.A. est vers Xermaménil - Belchamps, surveillant la route de Lunéville à Bayon. L’artillerie du C.A. se trouve sur les crêtes de Belchamps et au nord de Brémoncourt.
 
 - Le 15e C.A. est dans la région d’Haussonville.
 
@@ -135,7 +135,7 @@ Les armées allemandes forment un vaste demi cercle dont le sommet est sur les p
 Les ordres donnés sont
 
 - Pour la Ie armée, faire front et lutter sur place.
-  Pour la IIe armée placée perpendiculairement, tomber sur le flanc de l’armée allemande si elle s’engage dans la région au sud-ouest de Lunéville.
+    Pour la IIe armée placée perpendiculairement, tomber sur le flanc de l’armée allemande si elle s’engage dans la région au sud-ouest de Lunéville.
 
 A minuit, les Allemands attaquent par surprise à Celles et à Baccarat. La pression de l’armée de von Heeringen devient très forte sur le 21e C.A. si bien que la 13e division doit se replier. La 43e division se replie également par Baccarat sur la rive gauche de la Meurthe et creuse des tranchées.
 
@@ -155,7 +155,7 @@ Ainsi,
 
 L’artillerie française intervient et écrase l’infanterie allemande sous ses obus.
 
-Il y a, sur le front des 13e et 8e C.A. une zone de manuvre que le haut commandement s’est habilement ménagée et où il espère que les Allemands pénétreront.
+Il y a, sur le front des 13e et 8e C.A. une zone de manoeuvre que le haut commandement s’est habilement ménagée et où il espère que les Allemands pénétreront.
 
 - Les 13e et 21e C.A. tiennent la ligne des crêtes qui, de Vallois à Etival, court parallèlement à la Meurthe et en commande les passages.
 
@@ -173,7 +173,7 @@ Une reconnaissance aérienne signale à la IIe armée la marche d’une forte co
 
 Castelnau prend la décision : il attaquera la longue colonne qui défile devant lui. La 39e division du 20e C.A., la 70e division de réserve, les 34e et 35e brigades du 9e C.A. s’ébranlent des hauteurs du Grand-Couronné, dans la direction de Haraucourt et de Flainval.
 
-Les forces mobiles qui surveillent les passages de la Meurthe et de la Moselle sont constituées du C.C. Conneau. Elles sont placées face aux forces allemandes qui se concentrent à Lunéville, soit trois brigades d’infanterie,  trois régiments d’artillerie et un régiment de uhlans. Le C.C  est attaqué par les troupes remontant ou passant la Mortagne. Vers midi, la 10e D.C. doit se replier vers le bois de Fillières, appuyée à gauche par le 2e bataillon de chasseurs et l’artillerie divisionnaire qui tient le plateau de la Naguée.
+Les forces mobiles qui surveillent les passages de la Meurthe et de la Moselle sont constituées du C.C. Conneau. Elles sont placées face aux forces allemandes qui se concentrent à Lunéville, soit trois brigades d’infanterie, trois régiments d’artillerie et un régiment de uhlans. Le C.C est attaqué par les troupes remontant ou passant la Mortagne. Vers midi, la 10e D.C. doit se replier vers le bois de Fillières, appuyée à gauche par le 2e bataillon de chasseurs et l’artillerie divisionnaire qui tient le plateau de la Naguée.
 
 **14h30**
 
@@ -191,7 +191,7 @@ En fin de journée, les forces françaises occupent le front Champenoux - Rémé
 
 Le 20e C.A. a marché droit devant lui et occupe le soir le front Haraucourt - Flainval - Rosières, maintenant la liaison avec le 15e C.A. par Saffais.
 
-En résumé, les Allemands ont été surpris en s’avançant vers le sud. Ils se sont heurtés au barrage du C.C. Conneau et au nord, l’armée de Castelnau les a pris à  partie dans leur marche et les a refoulés sur leurs positions où la bataille décisive s’engagera le 25.
+En résumé, les Allemands ont été surpris en s’avançant vers le sud. Ils se sont heurtés au barrage du C.C. Conneau et au nord, l’armée de Castelnau les a pris à partie dans leur marche et les a refoulés sur leurs positions où la bataille décisive s’engagera le 25.
 
 **VIe et VIIe armées allemandes**
 
@@ -212,9 +212,9 @@ Dubail veut continuer à contre-attaquer dans la journée du 25. Son P.C. est à
 L’objectif de la droite de l’armée est Raon-l’Etape et Baccarat.
 
 - 21e C.A. : attaquer par la rive gauche de la Meurthe.
-  14e C.A. : attaquer vers Raon-l’Etape par la rive droite.
-  13e C.A. : attaquer sur Ménarmont.
-  8e C.A. : attaquer vers Moriviller.
+    14e C.A. : attaquer vers Raon-l’Etape par la rive droite.
+    13e C.A. : attaquer sur Ménarmont.
+    8e C.A. : attaquer vers Moriviller.
 
 Les forces allemandes avancent avec une confiance extrême. Elles atteignent la ligne en avant de Lunéville - Blainville - Gerbéviller - Saint-Dié.
 
@@ -280,7 +280,7 @@ C’est à ce moment que Castelnau télégraphie à ses C.A. un ordre resté cé
 
 Son armée tout entière s’ébranle ; les Allemands résistent avec vigueur mais finissent par céder. En fin de journée, le 16e C.A. est maître de Rozelieures.
 
-Le 15e C.A. atteint la Meurthe et la Mortagne à Lameth et Blainville mais est arrêté aux portes de Mont-sur-Meurthe. Le C.C. reçoit l’ordre de poursuivre  à fond par Damvillers et de tomber sur les arrières des Allemands en direction de Gerbéviller - Fraimbois - Lunéville - Einville, mais les Allemands sont trop fortement installés sur la rive droite de la Mortagne et la poursuite est vite interrompue.
+Le 15e C.A. atteint la Meurthe et la Mortagne à Lameth et Blainville mais est arrêté aux portes de Mont-sur-Meurthe. Le C.C. reçoit l’ordre de poursuivre à fond par Damvillers et de tomber sur les arrières des Allemands en direction de Gerbéviller - Fraimbois - Lunéville - Einville, mais les Allemands sont trop fortement installés sur la rive droite de la Mortagne et la poursuite est vite interrompue.
 
 **En soirée**
 
@@ -305,7 +305,7 @@ Le 8e C.A. reprend son mouvement en avant en liaison avec la droite de la IIe ar
 
 - Au 15e C.A., la 29e division prend pied dans Lamath, ses éléments avancés à Xermaménil. La 30e division attaque Mont-sur-Meurthe et s’en empare.
 
-- Le 20e C.A.  atteint en fin de journée la ligne La Faisanderie - Friscati - Deuxville (abords de Lunéville) - Maix - Bois de Crévic.
+- Le 20e C.A. atteint en fin de journée la ligne La Faisanderie - Friscati - Deuxville (abords de Lunéville) - Maix - Bois de Crévic.
 
 - Les éléments restants du 9e C.A. se maintiennent dans la région de Réméréville - Courbessaux.
 

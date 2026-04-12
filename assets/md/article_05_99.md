@@ -235,7 +235,7 @@ Le 13e C.A. appuiera à droite pour atteindre les hauteurs entre la Sarre rouge 
     Le 15e C.A. se prépare à déboucher par Dabo.
     Le 14e C.A. est vers Barr et Molsheim.
 
-La VIe armée doit continuer à organiser ses positions et la VIIe commencer son mouvement vers l’ouest pour passer sur le revers occidental des Vosges, en vue de préparer une manuvre d’enveloppement de l’aile droite française.
+La VIe armée doit continuer à organiser ses positions et la VIIe commencer son mouvement vers l’ouest pour passer sur le revers occidental des Vosges, en vue de préparer une manoeuvre d’enveloppement de l’aile droite française.
 
 Le 1e C.A. bavarois recule, selon le plan de von Moltke, depuis le 14 et n’a même pas défendu l’obstacle que constitue le canal de la Marne au Rhin.
 

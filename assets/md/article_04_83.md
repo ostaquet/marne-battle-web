@@ -7,12 +7,12 @@ Comme l’armée de Maunoury a échoué dans sa tentative de déborder l’aile 
 Le G.Q.G., étant sans illusions sur les chances de l’armée Maunoury d’envelopper l’aile droite de von Kluck, décide de prolonger et d’amplifier la manoeuvre entre l’Oise et la Somme.
 
 - Une nouvelle armée est créée dans ce but : l’ordre particulier n° 31 stipule que : « Une armée, placée sous le commandement du général de Castelnau, et dénommée IIe armée, est constituée dans la région au sud d’Amiens.
-Elle comprendra :
-  le 13e C.A.
-  le 4e C.A. (y compris les trois brigades marocaines).
-  le 14e C.A., qui débarquera dans la région de Clermont - Beauvais.
-  le 20e C.A., qui débarquera dans la région de Poix - Grandvillers - Aumale - Froissy à partir du 20 septembre
-  le C.C. Conneau (1e, 5e, 8e, 10e D.C.).
+  Elle comprendra :
+    le 13e C.A.
+    le 4e C.A. (y compris les trois brigades marocaines).
+    le 14e C.A., qui débarquera dans la région de Clermont - Beauvais.
+    le 20e C.A., qui débarquera dans la région de Poix - Grandvillers - Aumale - Froissy à partir du 20 septembre
+    le C.C. Conneau (1e, 5e, 8e, 10e D.C.).
 
 Deux des D.C. (1e et 5e) doivent opérer dans la région de Péronne, les deux autre (8e et 10e) sont en marche vers Compiègne, qu’elles atteindront vraisemblablement le 20 septembre au soir.
 
@@ -40,7 +40,7 @@ Le front de la 36e division est violemment attaqué, en particulier vers la ferm
 
 ### VIe armée française
 
-La manuvre d’enveloppement à effectuer par l’armée échoue définitivement car les Allemands se sont renforcés vers le nord.
+La manoeuvre d’enveloppement à effectuer par l’armée échoue définitivement car les Allemands se sont renforcés vers le nord.
 
 La 37e division française, qui se trouve en flèche, est encerclée et ne pourra décrocher qu’au cours de la nuit, au prix de lourdes pertes.
 
@@ -72,7 +72,7 @@ Von Falkenhayn sait que Joffre prélève des troupes pour les porter vers l’ai
 
 ### VIe armée allemande
 
-L’armée, partie de Lorraine, vient prolonger la droite de la Ie armée (von Kluck) et permet de reprendre la manuvre d’enveloppement.
+L’armée, partie de Lorraine, vient prolonger la droite de la Ie armée (von Kluck) et permet de reprendre la manoeuvre d’enveloppement.
 
 ![Infanterie allemande dans les tranchées - 35.3 ko](../img/infanterie_sturm.jpg)
 _Infanterie allemande dans les tranchées_

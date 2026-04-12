@@ -13,7 +13,7 @@ Joffre insiste pour que le 13e C.A. pousse au-delà de Noyon, en direction de Gu
 ### IIIe armée française
 
 Elle continue à pousser vers le nord
-Le 15e C.A. est à l’ouest de la Meuse vers Cumières. L’armée tient un  front passant par Haraigne - Morgemoulins - Fromezey - Gincrey - Mogeville.
+Le 15e C.A. est à l’ouest de la Meuse vers Cumières. L’armée tient un front passant par Haraigne - Morgemoulins - Fromezey - Gincrey - Mogeville.
 Le 8e C.A. s’embarque dans la région de Charmes et débarque à Saint-Mihiel.
 
 ### IVe armée française
@@ -44,7 +44,7 @@ Au 12e C.A., de Maud’huy ordonne de tenir La Ville-Aux-Bois - Craonne - platea
 
 ### VIe armée française
 
-D’après l’ordre général n° 91, la VIe armée doit briser, le 15, définitivement la résistance allemande en débordant et enveloppant son aile droite. Le rôle principal revient au 4e C.A. Le 13e C.A.  pousserait  les avant-gardes de sa division de tête à Thourotte en couvrant le flanc gauche de l’armée. La 3e D.C. doit se porter sur Noyon.
+D’après l’ordre général n° 91, la VIe armée doit briser, le 15, définitivement la résistance allemande en débordant et enveloppant son aile droite. Le rôle principal revient au 4e C.A. Le 13e C.A. pousserait les avant-gardes de sa division de tête à Thourotte en couvrant le flanc gauche de l’armée. La 3e D.C. doit se porter sur Noyon.
 
 De grand matin, la 37e division atteint Carlepont sans incident, couverte par des fractions du 3e C.A. qui occupe la forêt d’Ourscamp, entre Bailly et Carlepont. Le général Comby est à Carlepont et décide de se porter rapidement sur Laigle, Pommeraye et Cuts, pour tenir la route Noyon - Blérancourt et déborder la droite allemande.
 
@@ -64,20 +64,20 @@ sur la ligne passant par la ferme des Loges et la Bascule de Quennièvres
 
 23h : une brigade allemande sort de Noyon et marche sur Sempigny, en direction de Carlepont.
 
-La masse de manuvre sur laquelle comptait Joffre pour encercler l’armée de von Kluck ne parvient pas à atteindre son objectif.
+La masse de manoeuvre sur laquelle comptait Joffre pour encercler l’armée de von Kluck ne parvient pas à atteindre son objectif.
 
 ### IXe armée française
 
 - Foch prescrit d’attaquer avec toutes les forces.
-  18e division : vers Moronvilliers
-  42e division : vers Aubérive
+    18e division : vers Moronvilliers
+    42e division : vers Aubérive
 
 Ces tentatives ne remportent aucun succès : la 18e division ne gagne que 2 km et ne peut se maintenir. La 42e division et le 10e C.A. rencontrent une résistance semblable.
 A 17h, Foch prescrit de s’organiser sur les positions conquises.
 
 ### O.H.L.
 
-Von Falkenhayn met au point une manuvre débordante au moyen de la VIe armée (provenant de Lorraine). Pour libérer ses transports de toute menace pouvant provenir d’Anvers, il ordonne d’attaquer la place.
+Von Falkenhayn met au point une manoeuvre débordante au moyen de la VIe armée (provenant de Lorraine). Pour libérer ses transports de toute menace pouvant provenir d’Anvers, il ordonne d’attaquer la place.
 
 ![Soldats allemands occupant une tranchée - 31 ko](../img/infanterie_feldbefestigung.jpg)
 _Soldats allemands occupant une tranchée_

@@ -32,11 +32,11 @@ Toutes les dispositions seront prises dans la journée du 5 septembre en vue de 
 
 Dispositif à réaliser pour le 5 septembre au soir :
 
-a)    Toutes les forces disponibles de la VIe armée au nord-est de Meaux, prêtes à franchir l’Ourcq entre Lizy-sur-Ourcq et May-en Multien dans la direction générale de Château-Thierry...
+a) Toutes les forces disponibles de la VIe armée au nord-est de Meaux, prêtes à franchir l’Ourcq entre Lizy-sur-Ourcq et May-en Multien dans la direction générale de Château-Thierry...
 
-b)    L’armée anglaise, établie sur le front Changis - Coulommiers face à l’est, prête à attaquer dans la direction générale de Montmirail.
+b) L’armée anglaise, établie sur le front Changis - Coulommiers face à l’est, prête à attaquer dans la direction générale de Montmirail.
 
-c)    La 5e armée, se resserrant légèrement sur sa gauche, s’établira sur le front général Courtacon - Esternay - Sézanne, prête à attaquer dans la direction générale sud-nord, le C.C. Conneau assurant la liaison entre l’armée anglaise et la Ve armée.
+c) La 5e armée, se resserrant légèrement sur sa gauche, s’établira sur le front général Courtacon - Esternay - Sézanne, prête à attaquer dans la direction générale sud-nord, le C.C. Conneau assurant la liaison entre l’armée anglaise et la Ve armée.
 
 2° La IXe armée (général Foch) couvrira la droite de la Ve armée en tenant les débouchés des marais de Saint-Gond et portant une partie de ses forces sur le plateau au nord de Sézanne.
 
@@ -70,33 +70,33 @@ Galliéni expédie dès 20h30 au général Maunoury un ordre d’opérations pou
 
 I) Tous nos renseignements concordent à démontrer que les gros de la Ie armée allemande, qui faisaient face jusqu’ici à la VIe armée, se sont orientés vers le sud-est. Des colonnes importantes ont été signalées hier soir se dirigeant vers la Marne pour la franchir entre La Ferté-sous-Jouarre et Château-Thierry. Ce mouvement paraît nettement dirigé contre la droite anglaise et la gauche de la Ve armée française. Une colonne allemande, qui paraît constituer la droite allemande, était aujourd’hui en marche de Nanteuil-le-Haudouin sur Meaux et Lizy-sur-Ourcq.
 
-Dans ces conditions, Paris cessant d’être menacé, toutes les forces mobiles de l’armée de Paris doivent manuvrer de manière à conserver le contact avec l’armée allemande et à la suivre pour se tenir prêtes à participer à la bataille à prévoir.
+Dans ces conditions, Paris cessant d’être menacé, toutes les forces mobiles de l’armée de Paris doivent manoeuvrer de manière à conserver le contact avec l’armée allemande et à la suivre pour se tenir prêtes à participer à la bataille à prévoir.
 L’armée anglaise a fait connaître qu’elle se prépare à agir dans le même sens.
 
-II)               ...
+II) ...
 
 III) Le lendemain, la VIe armée se mettra en mouvement dans la direction de l’est en se maintenant sur la rive droite (nord) de la Marne de manière à amener son front à hauteur de Meaux et à être prête à attaquer le 6 au matin en liaison avec l’armée anglaise qui attaquera sur le font Coulommiers - Changis... »
 
 L’ordre de bataille est le suivant :
 
 - 55 et 56e divisions de réserve et une brigade marocaine au nord de Dammartin.
-  7e C.A. entre Dammartin et Othis.
-  14e  division et 63e division de réserve à Rouvres.
-  Brigade de cavalerie Gillet au nord-est de Claye.
-  61 et 62e divisions de réserve à Pontoise, devant rejoindre la ligne de front.
-  45e division algérienne (Drude) à Dammartin comme réserve d’armée.
-  4e C.A. à Gagny.
-  La garnison de Paris (83, 85, 89 et 92e divisions territoriales)
-  La brigade de fusiliers marins de l’amiral Ronarc’h.
+    7e C.A. entre Dammartin et Othis.
+    14e division et 63e division de réserve à Rouvres.
+    Brigade de cavalerie Gillet au nord-est de Claye.
+    61 et 62e divisions de réserve à Pontoise, devant rejoindre la ligne de front.
+    45e division algérienne (Drude) à Dammartin comme réserve d’armée.
+    4e C.A. à Gagny.
+    La garnison de Paris (83, 85, 89 et 92e divisions territoriales)
+    La brigade de fusiliers marins de l’amiral Ronarc’h.
 
 L’armée doit gagner le front Lizy-sur-Ourcq - May-en-Multien. Elle a son centre de gravité entre Dammartin et Luzarches.
 
-En début d’après-midi a lieu un combat de rencontre entre la VIe  armée et le IVe C.A.R., dans la région de Marcilly - Chambry. Le C.A. allemand doit repasser la Thérouanne. Ce sont les premiers combats de la bataille de la Marne.
+En début d’après-midi a lieu un combat de rencontre entre la VIe armée et le IVe C.A.R., dans la région de Marcilly - Chambry. Le C.A. allemand doit repasser la Thérouanne. Ce sont les premiers combats de la bataille de la Marne.
 
 Diverses unités sont transférées vers le champ de bataille principal :
 
 - Une partie du 9e C.A. de Nancy à Troyes.
-  Le 21e C.A. d’Epinal à Gondrecourt.
+    Le 21e C.A. d’Epinal à Gondrecourt.
 
 ![Zouaves - 32.1 ko](../img/Infanterie__coloniale.jpg)
 _Zouaves_
@@ -111,9 +111,9 @@ La direction de l’offensive de la VIe armée sera Château-Thierry, celle de l
 Voici la position des C.A. :
 
 - 1e C.A. : Courpeloy - Pézarches.
-  2e C.A. : La Haussaye - Tigeaux.
-  3e C.A : Bailly.
-  C.C. : Haute-Maison - Coulommiers, en liaison avec le C.A. français.
+    2e C.A. : La Haussaye - Tigeaux.
+    3e C.A : Bailly.
+    C.C. : Haute-Maison - Coulommiers, en liaison avec le C.A. français.
 
 ### Armée belge de campagne
 
@@ -121,7 +121,7 @@ Les Allemands entament une offensive pour couper la ligne de communication entre
 
 8h : de nombreuses troupes allemandes marchent sur Dendermonde : au moins 20.000 hommes.
 
-8h45 : le général Warnant signale qu’il a dû  replier ses postes situés en avant de Dendermonde, étant attaqué par l’est et le sud.
+8h45 : le général Warnant signale qu’il a dû replier ses postes situés en avant de Dendermonde, étant attaqué par l’est et le sud.
 
 10h : le bombardement de Dendermonde commence de plusieurs côtés. La ville est évacuée par les troupes belges. Dans le 4e secteur, le 1e bataillon de la 5e division est attaqué au sud de Kapelle-op-den-Bos et refoulé.
 
@@ -137,7 +137,7 @@ Dès qu’il est mis au courant de la situation, le Roi ordonne de tendre imméd
 
 23h : le 4e secteur (5e division) est attaqué vers Londerzeel et Kapelle-op-den-Bos, par des troupes de toutes armes venant de Grimbergen.
 
-En fin de journée, la situation se stabilise :  la 5e division reste chargée de la défense du 4e secteur et la 2e division doit rester sur la rive droite de l’Escaut, en réserve des 4e et 5e secteurs.
+En fin de journée, la situation se stabilise : la 5e division reste chargée de la défense du 4e secteur et la 2e division doit rester sur la rive droite de l’Escaut, en réserve des 4e et 5e secteurs.
 
 Les survivants du siège de Namur (4e division) débarquent à Oostende et à Zeebrugge.
 
@@ -173,8 +173,8 @@ Moltke prend peur et à 18h, il signe l’ordre télégraphique suivant :
 C’est le troisième plan adopté en neuf jours.
 
 - 27 août : les armées sont orientées vers Paris et la Basse Seine.
-  2 septembre, les armées sont orientées vers le sud-est, pour couper les armées françaises de Paris.
-  4 septembre : Moltke oriente les deux armées de droite face à l’ouest, en direction de Paris et de la Basse Seine.
+    2 septembre, les armées sont orientées vers le sud-est, pour couper les armées françaises de Paris.
+    4 septembre : Moltke oriente les deux armées de droite face à l’ouest, en direction de Paris et de la Basse Seine.
 
 ### Ie armée allemande
 

@@ -6,7 +6,7 @@ Pendant que les Ie et IIe armées françaises doivent retraiter devant celle de 
 
 Joffre apprend qu’au sud de la Sambre, le centre de la Ve armée française est aux prises avec celui de la IIe armée allemande (3 C.A. allemands contre deux français). Il estime que le C.C. Sordet ne s’emploie que médiocrement contre la cavalerie allemande signalée au nord de Mons. Il fait connaître son étonnement à Lanrezac sous les ordres duquel le C.C. est placé. Pour protéger la région de Lille, Tourcoing contre la cavalerie allemande, Joffre demande au ministre de mettre une quatrième division territoriale à la disposition de général d’Amade.
 
-Le G.Q.G. apprend que les  forces russes forment 10 armées dont 7  dirigées contre l’Allemagne et l’Autriche, soit un total de 28 C.A. représentant 1.120.000 hommes. En Prusse orientale, les troupes russes ont dépassé la frontière d’une trentaine de km.
+Le G.Q.G. apprend que les forces russes forment 10 armées dont 7 dirigées contre l’Allemagne et l’Autriche, soit un total de 28 C.A. représentant 1.120.000 hommes. En Prusse orientale, les troupes russes ont dépassé la frontière d’une trentaine de km.
 
 ![Situation le 22 août - 104.3 ko](../img/situation_22_aout.jpg)
 _Situation le 22 août_
@@ -20,9 +20,9 @@ Celle-ci est disloquée et répartie sur d’autres théâtres d’opérations. 
 
 ### Ie armée française
 
-La gauche de l’armée  est attaquée dans la matinée et s’est repliée dans la forêt de Mondon et sur la Meurthe. Le front à tenir est fixé par Dubail :
+La gauche de l’armée est attaquée dans la matinée et s’est repliée dans la forêt de Mondon et sur la Meurthe. Le front à tenir est fixé par Dubail :
 
-- Pour les 21e et 14e C.A. : Baccarat - Badonviller - Allarmont  Col de Hans - Sainte-Marie.
+- Pour les 21e et 14e C.A. : Baccarat - Badonviller - Allarmont Col de Hans - Sainte-Marie.
 
 - Pour les 8e et 13e : région de Rambervillers.
 
@@ -30,25 +30,25 @@ La gauche de l’armée  est attaquée dans la matinée et s’est repliée dans
 
 Castelnau a replié son armée le long d’une forte position dans la région de Nancy, qu’il fait fortifier par des ouvrages de campagne.
 
-Ordre lui est donné par Joffre de tenir le temps nécessaire au développement de la manuvre dans le nord. Sur le front de Lorraine, il ne s’est produit dans la région du Grand-Couronné que des incidents de cavalerie.
+Ordre lui est donné par Joffre de tenir le temps nécessaire au développement de la manoeuvre dans le nord. Sur le front de Lorraine, il ne s’est produit dans la région du Grand-Couronné que des incidents de cavalerie.
 
 ### IIIe armée française : bataille de Longwy
 
-L’armée a rencontré la Ve armée allemande (bataille de Virton et de Longwy) en début de journée  et, au prix de pertes assez sérieuses,  s’est établie sur le front passant entre Joppecourt et Virton.
+L’armée a rencontré la Ve armée allemande (bataille de Virton et de Longwy) en début de journée et, au prix de pertes assez sérieuses, s’est établie sur le front passant entre Joppecourt et Virton.
 
 ### IVe armée française : bataille des Ardennes
 
 La IVe armée est en ligne avec six C.A. et demi :
 
 - 2e C.A. vers Meix - Tintigny.
-  Corps colonial vers Rossignol.
-  12e C.A. vers Neufchâteau.
-  17e C.A. vers Ochamps.
-  11e C.A. vers Maissin.
-  9e C.A. forme l’aile gauche.
+    Corps colonial vers Rossignol.
+    12e C.A. vers Neufchâteau.
+    17e C.A. vers Ochamps.
+    11e C.A. vers Maissin.
+    9e C.A. forme l’aile gauche.
 
 - Plusieurs affrontements ont lieu :
-  Le corps colonial subit un désastre à Rossignol (la 3e division coloniale est encerclée et anéantie).
+    Le corps colonial subit un désastre à Rossignol (la 3e division coloniale est encerclée et anéantie).
 
 - Le 17e C.A. est en retraite, après qu’une de ses divisions ait été écrasée au bois de Luchy par le 18e C.A. allemand.
 
@@ -69,14 +69,14 @@ _Collection privée_
 Voici la position des unités anglaises :
 
 - 2e C.A. à Mons et Saint-Ghislain.
-  1e C.A. le long de la route de Mons à Beaumont jusqu’à Grand Reng.
-  5e brigade de cavalerie à Binche.
-  19e brigade d’infanterie attendue à Valenciennes.
-  Le reste de la cavalerie est à Audregnies derrière l’aile gauche.
+    1e C.A. le long de la route de Mons à Beaumont jusqu’à Grand Reng.
+    5e brigade de cavalerie à Binche.
+    19e brigade d’infanterie attendue à Valenciennes.
+    Le reste de la cavalerie est à Audregnies derrière l’aile gauche.
 
 Joffre avait proposé à French une offensive vers Nivelles, mais, comme Lanrezac s’était replié sur la ligne Thuin - Saint-Gérard après la bataille de Charleroi, il n’est plus question pour les Anglais de prendre l’offensive. French promet toutefois de maintenir ses positions pendant 24 heures.
 
-A l’aube de ce jour,  l’escadron C du 4e Dragon Guards (2e brigade de cavalerie) envoie deux reconnaissances d’officiers d’Obourg en direction de Soignies. L’une d’elles trouve un piquet allemand, ouvre le feu et le chasse. Plus tard, une fraction du même escadron s’avance à la rencontre d’un parti de cavalerie allemande sur la route de Soignies à Mons et le trouve près de Casteau. L’escadron tue trois ou quatre Allemands et fait prisonniers trois autres (4e cuirassiers de la 9e D.C.). Ce sont les premiers coups de feu tirés par l’armée britannique sur le Continent depuis la bataille de Waterloo.
+A l’aube de ce jour, l’escadron C du 4e Dragon Guards (2e brigade de cavalerie) envoie deux reconnaissances d’officiers d’Obourg en direction de Soignies. L’une d’elles trouve un piquet allemand, ouvre le feu et le chasse. Plus tard, une fraction du même escadron s’avance à la rencontre d’un parti de cavalerie allemande sur la route de Soignies à Mons et le trouve près de Casteau. L’escadron tue trois ou quatre Allemands et fait prisonniers trois autres (4e cuirassiers de la 9e D.C.). Ce sont les premiers coups de feu tirés par l’armée britannique sur le Continent depuis la bataille de Waterloo.
 
 ![Cavalerie anglaise en reconnaissance - 37.5 ko](../img/cavaliers__anglais_reconnaissance.jpg)
 _Cavalerie anglaise en reconnaissance_
@@ -118,7 +118,7 @@ L’armée belge est vis-à-vis des forces allemandes dans un rapport de forces 
 
 **[Lien vers croquis](../img/progression_allemands.jpg)**
 
-Moltke vient d’être avisé par le duc de Wurtemberg que les aviateurs de la IVe armée ont repéré de fortes colonnes en marche sur le front Stenay - Montmédy. Au total, les mouvements décelés paraissent comporter six C.A. au moins. Le Kronprinz lui demande d’autre part de pouvoir attaquer. Pour conserver l’alignement entre ses armées dans la manuvre d’ensemble, Moltke considère que si les Français attaquent, la mission de la Ve armée est de se défendre et non d’attaquer. Elle ne doit surtout pas exposer son flanc droit. Cette désapprobation ne dissuade pas le Kronprinz. Il revient  à la charge et Moltke finit par céder.
+Moltke vient d’être avisé par le duc de Wurtemberg que les aviateurs de la IVe armée ont repéré de fortes colonnes en marche sur le front Stenay - Montmédy. Au total, les mouvements décelés paraissent comporter six C.A. au moins. Le Kronprinz lui demande d’autre part de pouvoir attaquer. Pour conserver l’alignement entre ses armées dans la manoeuvre d’ensemble, Moltke considère que si les Français attaquent, la mission de la Ve armée est de se défendre et non d’attaquer. Elle ne doit surtout pas exposer son flanc droit. Cette désapprobation ne dissuade pas le Kronprinz. Il revient à la charge et Moltke finit par céder.
 
 ### Ie armée allemande
 
@@ -128,7 +128,7 @@ Von Kluck apprend que le pays à l’ouest et au nord-ouest est libre mais des p
 
 Von Kluck est persuadé qu’il ne faut plus, si l’on veut déborder l’adversaire, continuer vers le sud, mais faire mouvement vers le sud-ouest. Il se sent bridé par la subordination à von Bülow et ne peut agir suivant l’esprit du plan de campagne. Il prend la décision de passer par-dessus von Bülow et d’en référer directement à l’O.H.L., mais la réponse de l’O.H.L. est négative. Moltke confirme que la Ie armée continuera jusqu’à nouvel ordre à dépendre de la IIe et qu’il approuve pleinement les dispositions de von Bülow. Il ne faut s’étendre à droite qu’après avoir défait l’ennemi.
 
-Il apparaît clairement que Moltke lui-même renonce momentanément à écraser l’adversaire sur le flanc. De dérogation en dérogation, il s’écarte de ses instructions du 17 août. Comment l’expliquer ? La seule explication plausible est que Moltke, enivré par les succès continuels de l’armée depuis le début de la campagne, a acquis la conviction que l’armée allemande est tellement supérieure à ses adversaires que toute manuvre est superflue. Il suffit de courir sus à l’ennemi partout où on le rencontrera pour le disperser ou le détruire.
+Il apparaît clairement que Moltke lui-même renonce momentanément à écraser l’adversaire sur le flanc. De dérogation en dérogation, il s’écarte de ses instructions du 17 août. Comment l’expliquer ? La seule explication plausible est que Moltke, enivré par les succès continuels de l’armée depuis le début de la campagne, a acquis la conviction que l’armée allemande est tellement supérieure à ses adversaires que toute manoeuvre est superflue. Il suffit de courir sus à l’ennemi partout où on le rencontrera pour le disperser ou le détruire.
 
 Les ordres donnés à 9h30 au soir sont de faire mouvement sur une ligne Jemappes - Gramont.
 
@@ -184,9 +184,9 @@ Les cinq C.A. de la Ve armée se portent à la rencontre des Français de part e
 Seul le C.A. de droite marche en direction du sud, traversant la forêt au nord de Virton.
 
 - Le 13e C.A., par la clairière de Virton, marche vers la Chiers
-  Le 6e C.A.R. par le sud de Longwy se dirige vers la Crusnes.
-  Le 16e C.A. marche sur Fillières - Mercy-le-Haut -
-Audun-le-Roman.
+    Le 6e C.A.R. par le sud de Longwy se dirige vers la Crusnes.
+    Le 16e C.A. marche sur Fillières - Mercy-le-Haut -
+  Audun-le-Roman.
 
 Le rabattement de l’armée vers le sud entraîne une déviation de proche en proche. La IVe armée est entraînée dans la bataille. Les IVe et Ve armées vont remporter une victoire ordinaire car dès le début de leur poursuite, les réactions françaises vont faire disparaître l’illusion d’un succès décisif.
 

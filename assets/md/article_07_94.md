@@ -4,7 +4,7 @@ Le combat de Virton est un épisode de la bataille de Longwy - Neufchâteau, met
 
 ### L’ordre d’offensive
 
-Des reconnaissances signalent un glissement des forces allemandes devant les armées françaises. Joffre a l’impression que dans les régions de l’Ardenne et du Luxembourg, le dispositif allemand  présente un point de moindre résistance. Ordre est donc donné à la IVe armée d’acculer à la Meuse les forces adverses qui se trouvent dans cette région et pour cela d’attaquer en direction général de Neufchâteau (ordre particulier n° 16 à la IVe armée du 21 août).
+Des reconnaissances signalent un glissement des forces allemandes devant les armées françaises. Joffre a l’impression que dans les régions de l’Ardenne et du Luxembourg, le dispositif allemand présente un point de moindre résistance. Ordre est donc donné à la IVe armée d’acculer à la Meuse les forces adverses qui se trouvent dans cette région et pour cela d’attaquer en direction général de Neufchâteau (ordre particulier n° 16 à la IVe armée du 21 août).
 
 La IIIe armée a pour mission de couvrir le flanc droit de la IVe contre les forces qui pourraient se trouver dans la région du Luxembourg (ordre particulier n° 17 aux IIIe et IVe armées, du 21 août).
 
@@ -23,19 +23,19 @@ _La guerre du droit_
 ![Général de Trentinian - 29.2 ko](../img/de_trentinian.jpg)
 _Général de Trentinian_
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 13e brigade | Lacotte | 101e R.I. (Dreux, Saint-Cloud / Farret)102e R.I (Chartres, Paris / Valentin)14e régiment de hussards (Alençon / de Hautecloque)26e R.A.C. (Le Mans) |
-| 14e brigade | Félineau | 103e R.I. (Alençon, Paris / Cally)104e R.I. (Argentan, Paris / Drouot)14e régiment de hussards (1 escadron) (Alençon / de Hautecloque |
+| Unité       | Commandant | Régiments                                                                                                                                           |
+| ----------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 13e brigade | Lacotte    | 101e R.I. (Dreux, Saint-Cloud / Farret)102e R.I (Chartres, Paris / Valentin)14e régiment de hussards (Alençon / de Hautecloque)26e R.A.C. (Le Mans) |
+| 14e brigade | Félineau   | 103e R.I. (Alençon, Paris / Cally)104e R.I. (Argentan, Paris / Drouot)14e régiment de hussards (1 escadron) (Alençon / de Hautecloque               |
 
 La 7e division rejoindra la VIe armée (Maunoury) et sera transportée dans les célèbres taxis de la Marne vers Nanteuil-le-Haudouin.
 
 8e division (général de Lartigue)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 15e brigade | Chabrol | 124e R.I. (Laval / Fropo)130e R.I. (Mayenne / Laffargue) |
-| 16e brigade | Desvaux | 115e R.I. (Mamers / Gazan)117e R.I. (Le Mans / Jullien)31e R.A.C. (Le Mans / Wallut)14e régiment de hussards : (Alençon / de Hautecloque) (quatre escadrons actifs, deux de réserve)31e R.A.C. (Le Mans / Sabatier) |
+| Unité       | Commandant | Régiments                                                                                                                                                                                                           |
+| ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 15e brigade | Chabrol    | 124e R.I. (Laval / Fropo)130e R.I. (Mayenne / Laffargue)                                                                                                                                                            |
+| 16e brigade | Desvaux    | 115e R.I. (Mamers / Gazan)117e R.I. (Le Mans / Jullien)31e R.A.C. (Le Mans / Wallut)14e régiment de hussards : (Alençon / de Hautecloque) (quatre escadrons actifs, deux de réserve)31e R.A.C. (Le Mans / Sabatier) |
 
 **IVe armée française (général de Langle de Cary)**
 
@@ -47,16 +47,16 @@ _Collection privée_
 
 3e division (général Regnault)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 5e brigade | Deffontaines | 72e (Amiens / Toulorge)128e R.I. (Abbeville / Lorillard) |
-| 6e brigade | Caré | 51e R.I. (Beauvais / Leroux)87e R.I. (Saint-Quentin / Rauscher)19e régiment de chasseurs à cheval La Fère) (un escadron)17e R.A.C. (La Fère) |
+| Unité      | Commandant   | Régiments                                                                                                                                    |
+| ---------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5e brigade | Deffontaines | 72e (Amiens / Toulorge)128e R.I. (Abbeville / Lorillard)                                                                                     |
+| 6e brigade | Caré         | 51e R.I. (Beauvais / Leroux)87e R.I. (Saint-Quentin / Rauscher)19e régiment de chasseurs à cheval La Fère) (un escadron)17e R.A.C. (La Fère) |
 
 4e division (général Rabier)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 7e brigade | Lejaille | 91e R.I. (Mézières / Blondin)147e R.I. (Sedan / Rémond) |
+| Unité       | Commandant | Régiments                                                                                                                                                                                                  |
+| ----------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7e brigade  | Lejaille   | 91e R.I. (Mézières / Blondin)147e R.I. (Sedan / Rémond)                                                                                                                                                    |
 | 87e brigade | Cordonnier | 120e R.I. (Péronne, Stenay)9e bataillon de chasseurs à pied (Lille, Longuyon)18e bataillons de chasseurs à pied (Amiens, Longuyon)19e régiment de chasseurs à cheval (La Fère)42e R.A.C. (Stenay, La Fère) |
 
 **Ve armée allemande (kronprinz de Prusse)**
@@ -68,25 +68,25 @@ _Collection privée_
 5e C.A. (général von Stranz)
 
 ![Général von Stranz  (5e C.A.) - 35 ko](../img/von_stranz2.jpg)
-_Général von Stranz  (5e C.A.)_
+_Général von Stranz (5e C.A.)_
 _Collection privée_
 
 9e D.I. (général Eduard von Below)à ne pas confondre avec le général Fritz von Below, commandant du 21e C.A.
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 17e brigade | Melms | Infanterie-Regiment Nr. 19e (Görlitz / von Arnim)Posensches Infanterie_regiment Nr. 58e (Glogau /  Zwengler) |
-| 18e brigade | Falkenheimer | Grenadier-Regiment Nr. 7 (Liegnitz / Oscar de Prusse)Niederschlesisches Infanterie-Regiment Nr 154 (Jauer / Daubert)
-Ulanen-Regiment Nr.1 |
-| 9. Feldartillerie-Brigade |  | Feldartillerie-Regiment von Podbielski Nr. 52. Niederschlesisches Feldartillerie-Regiment Nr. 41 |
+| Unité                     | Commandant   | Régiments                                                                                                            |
+| ------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| 17e brigade               | Melms        | Infanterie-Regiment Nr. 19e (Görlitz / von Arnim)Posensches Infanterie_regiment Nr. 58e (Glogau / Zwengler)          |
+| 18e brigade               | Falkenheimer | Grenadier-Regiment Nr. 7 (Liegnitz / Oscar de Prusse)Niederschlesisches Infanterie-Regiment Nr 154 (Jauer / Daubert) |
+| Ulanen-Regiment Nr.1      |
+| 9. Feldartillerie-Brigade |              | Feldartillerie-Regiment von Podbielski Nr. 52. Niederschlesisches Feldartillerie-Regiment Nr. 41                     |
 
 10e D.I. (général von Kosch)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 19e brigade | Liebeskind | Grenadier-Regiment Nr. 8 (Frankfurt a.d. Oder / Heyn)Infanterie-Regiment Nr. 46 (Wreschen / von Arenz) |
-| 20e brigade | Horst | Infanterie-Regiment Nr. 47 (Posen / Triegloff)Niederschlesisches Infanterie-Regiment Nr. 50 (Rawitsch / Distel)Ulanen-Regiment Nr 1 (Militsch-Ostrowo / von Kass)Regiment Königs-Jäger zu Pferde Nr 1 (Posen / comte de Solms-Wildenfels) |
-| 10. Feldartillerie-Brigade | Muller | 1. Posensches Feldartillerie-Regiment Nr. 202. Posensches Feldartillerie-Regiment Nr. 56 |
+| Unité                      | Commandant | Régiments                                                                                                                                                                                                                                 |
+| -------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 19e brigade                | Liebeskind | Grenadier-Regiment Nr. 8 (Frankfurt a.d. Oder / Heyn)Infanterie-Regiment Nr. 46 (Wreschen / von Arenz)                                                                                                                                    |
+| 20e brigade                | Horst      | Infanterie-Regiment Nr. 47 (Posen / Triegloff)Niederschlesisches Infanterie-Regiment Nr. 50 (Rawitsch / Distel)Ulanen-Regiment Nr 1 (Militsch-Ostrowo / von Kass)Regiment Königs-Jäger zu Pferde Nr 1 (Posen / comte de Solms-Wildenfels) |
+| 10. Feldartillerie-Brigade | Muller     | 1. Posensches Feldartillerie-Regiment Nr. 202. Posensches Feldartillerie-Regiment Nr. 56                                                                                                                                                  |
 
 19e détachement d’aviation.
 
@@ -94,7 +94,7 @@ Ulanen-Regiment Nr.1 |
 
 **[Lien vers carte](../img/virton_environs.jpg)**
 
-La région de Virton fait partie de la Gaume, située à 10 km de la frontière française et à 25 km du Grand Duché de Luxembourg. C’est un terrain très accidenté, avec des altitudes variant de 205 m à 350 m, car la région compte plusieurs vallées :  le Ton, la Vire et la Chevratte. Une immense forêt s’étend du nord ouest à l’est. Quelques villages sont situées dans une clairière : Meix-devant-Virton, Sommethonne, Villers-la-Loue et Robelmont, localités situées à l’ouest de Virton. Les villages de Robelmont et le lieu dit de Belle-vue surplombent la région et offrent une vue étendue.
+La région de Virton fait partie de la Gaume, située à 10 km de la frontière française et à 25 km du Grand Duché de Luxembourg. C’est un terrain très accidenté, avec des altitudes variant de 205 m à 350 m, car la région compte plusieurs vallées : le Ton, la Vire et la Chevratte. Une immense forêt s’étend du nord ouest à l’est. Quelques villages sont situées dans une clairière : Meix-devant-Virton, Sommethonne, Villers-la-Loue et Robelmont, localités situées à l’ouest de Virton. Les villages de Robelmont et le lieu dit de Belle-vue surplombent la région et offrent une vue étendue.
 
 ### 20 août
 
@@ -114,7 +114,7 @@ Le 3e dragons français trouve Ethe puis Saint-Léger occupés par de l’infant
 
 **11h30 :**
 
-Le 14e hussards français, qui couvrait la marche du 4e C.A., a été accueilli par des coups de fusil à La Malmaison en direction de  Ruettes. La localité est occupée par de l’infanterie allemande. Les habitants estiment la force à 1500 hommes. Grandcourt est également occupé.
+Le 14e hussards français, qui couvrait la marche du 4e C.A., a été accueilli par des coups de fusil à La Malmaison en direction de Ruettes. La localité est occupée par de l’infanterie allemande. Les habitants estiment la force à 1500 hommes. Grandcourt est également occupé.
 
 **En soirée :**
 
@@ -124,16 +124,16 @@ Tous ces renseignements sont transmis au Q.G. de la IIIe armée, à Verdun. Des 
 
 **IIIe armée française :**
 
-- le 4e C.A. est dans la  région de Virton (sud)  - Latour - Les Ruettes.
-  Le 19e chasseurs à cheval  est à Bellefontaine.
-  Le 120e R.I. est à Meix-devant-Virton.
-  Le 147e est à Villers-la-Loue.
-  Le 18e est à Sommethonne.
-  Le 9e est à Thonne-la-Long.
-  Un bataillon du 147e est à Robelmont, un autre à Villers-la-Loue et le troisième à Houdrigny.
-  Le 91e bivouaque dans le Haut-Bois, entre Sommethonne et Villers-la-Loue.
-  La 6e brigade est à Montmédy.
-  Les 87e et 51e régiments d’infanterie sont à Montmédy.
+- le 4e C.A. est dans la région de Virton (sud) - Latour - Les Ruettes.
+    Le 19e chasseurs à cheval est à Bellefontaine.
+    Le 120e R.I. est à Meix-devant-Virton.
+    Le 147e est à Villers-la-Loue.
+    Le 18e est à Sommethonne.
+    Le 9e est à Thonne-la-Long.
+    Un bataillon du 147e est à Robelmont, un autre à Villers-la-Loue et le troisième à Houdrigny.
+    Le 91e bivouaque dans le Haut-Bois, entre Sommethonne et Villers-la-Loue.
+    La 6e brigade est à Montmédy.
+    Les 87e et 51e régiments d’infanterie sont à Montmédy.
 
 Le général Boëlle donne l’ordre général pour la journée du 22 août.
 
@@ -155,7 +155,7 @@ La 8e division assurera la liaison avec le 2e C.A. et avec la 7e division sur la
 **IVe armée française :**
 
 - Les avant-gardes tiennent la Semois, depuis Alle jusqu’à Bellefontaine, soit à l’ouest de la IIIe armée.
-  Le 2e C.A. (général Gérard), qui constitue la droite de l’armée, est cantonné sur une longueur de 18 km, de Bellefontaine jusqu’à Montmédy.
+    Le 2e C.A. (général Gérard), qui constitue la droite de l’armée, est cantonné sur une longueur de 18 km, de Bellefontaine jusqu’à Montmédy.
 
 **Minuit :**
 
@@ -172,14 +172,14 @@ _Collection privée_
 Quant à l’armée allemande,
 
 - Le 5e C.A. est à Etalle.
-  Le 13e C.A. est à Saint-Léger.
-Les deux C.A. font face à Montmédy, avec des avant-postes à Willancourt, Saint Léger et au bois d’Ethe.
+    Le 13e C.A. est à Saint-Léger.
+  Les deux C.A. font face à Montmédy, avec des avant-postes à Willancourt, Saint Léger et au bois d’Ethe.
 
 **18h :**
 
 - Les ordres de marche sont donnés aux divisions allemandes :
-  9e division vers Virton via Huombois.
-  10e division vers Ethe via Buzenol.
+    9e division vers Virton via Huombois.
+    10e division vers Ethe via Buzenol.
 
 Le 5e C.A. doit se trouver le 22 à 16h30 sur les hauteurs entre Robelmont et virton.
 
@@ -212,9 +212,9 @@ La 3e division (général Regnault) quitte Montmédy et marche très lentement, 
 « I - De faibles cantonnements ennemis sont signalés dans la région Etalle - Arlon. Des groupements importants se trouveraient dans le Luxembourg.
 
 - II - Le C.A. se portera aujourd’hui sur le front Etalle - Châtillon en deux colonnes.
-  A sa droite, la 7e D.I., par Ethe et Saint-Léger.
-  A sa gauche, la 8e D.I., par Virton, Huombois, Etalle.
-....
+    A sa droite, la 7e D.I., par Ethe et Saint-Léger.
+    A sa gauche, la 8e D.I., par Virton, Huombois, Etalle.
+  ....
 
 V - Exécution du mouvement : point initial : bifurcation des chemins Virton et Vieux-Virton, environ 1 km nord-est de Dampicourt.
 .... »
@@ -222,8 +222,8 @@ V - Exécution du mouvement : point initial : bifurcation des chemins Virton e
 Le brouillard rend fort défectueuse la transmission de l’ordre d’alerte à certaines unités. Les chevaux partiront sans avoir mangé d’avoine.
 
 - Les régiments de la 15e brigade ont été alertés :
-  le 124e à 3h20 à Harnoncourt
-  le 130e à 3h40 à Dampicourt.
+    le 124e à 3h20 à Harnoncourt
+    le 130e à 3h40 à Dampicourt.
 
 ![(JPG)](../img/124_RI.jpg)
 _124e R.I. - 8e division_
@@ -232,8 +232,8 @@ _Collection privée_
 Le brouillard est maussade mais l’étape ne sera pas longue.
 
 - Le 124e a 4 km à parcourir avant d’arriver au point, où il doit passer à 4h45.
-  Le cycliste qui cherchait le 117e s’égare et n’arrive à Saint-Mard qu’à 4h55.
-  Le 115e est prêt et attend à la sortie nord de Virton.
+    Le cycliste qui cherchait le 117e s’égare et n’arrive à Saint-Mard qu’à 4h55.
+    Le 115e est prêt et attend à la sortie nord de Virton.
 
 **3h40 :**
 
@@ -245,7 +245,7 @@ La 12e compagnie du 115e occupe la ferme de Bellevue. Une fusillade éclate et l
 **4h :**
 
 - Le 1e bataillon (Busserolles) du 130e , désigné comme tête d’avant-garde, est en route vingt minutes après réception de l’ordre et quitte Dampicourt.
-  Le 124e se met également en route.
+    Le 124e se met également en route.
 
 Le général de Lartigue, commandant de la 8e division, quitte Harnoncourt et se met en route en automobile. Il veut être à la sortie de Virton pour voir défiler l’avant-garde de sa division.
 
@@ -289,7 +289,7 @@ La 8e compagnie est chargée de pousser vers le nord-est, pour appuyer la droite
 Le général von Falkenheimer, commandant l’avant-garde allemande, a reçu l’ordre du général von Below de pousser vigoureusement sur Virton et Bellevue.
 7e grenadiers : les 1e et 3e bataillons du 7e régiment de grenadiers, précédés à très courte distance par une ligne de tirailleurs, se portent à l’attaque, en lignes de colonnes de compagnie, le 1e bataillon à cheval sur la route de Virton, le 3e à gauche. Les 9e et 12e compagnies du 115e résistent à cette avalanche et un combat s’engage à portée de pistolet. Les pertes françaises sont graves : la 12e compagnie perd la moitié de son effectif ; la 9e compagnie est à peu près détruite. Le reste des compagnies tient ferme devant un adversaire dix fois supérieur, composé de troupes d’élite.
 
-**154e R.I. allemand :** trois bataillons du 154e régiment d’infanterie allemand sont mis à la disposition du général von Falkenheimer et deux groupes de batteries sont prêts à entrer en action. Celui-ci lance le 154e  à l’attaque sur le plateau, prolongeant les grenadiers à gauche.
+**154e R.I. allemand :** trois bataillons du 154e régiment d’infanterie allemand sont mis à la disposition du général von Falkenheimer et deux groupes de batteries sont prêts à entrer en action. Celui-ci lance le 154e à l’attaque sur le plateau, prolongeant les grenadiers à gauche.
 
 La 8e compagnie du 115e soutient le choc entre les routes de Virton à Etalle et à Ethe. Elle doit toutefois reculer pied à pied en effectuant des retours offensifs à la baïonnette. Mais cette lutte de quatre compagnies contre cinq bataillons ne peut se prolonger indéfiniment. Elle est acharnée surtout à Bellevue, où les assaillants sont encouragés par la présence du prince Oscar de Prusse.
 
@@ -309,7 +309,7 @@ Le général Boëlle est conduit par le bourgmestre de Virton sur une terrasse q
 
 Le général s’engage à cheval sur la route d’Etalle le long de laquelle le 117e attend des ordres. Non loin des dernières maisons, le général de Lartigue attend. Cinq bataillons ont été engagés sans résultat. Le général Boëlle prescrit au général de Lartigue d’engager le 124e.
 
-**147e R.I. français :** le 2e bataillon du 147e, quittant Robelmont où il avait passé la nuit, y est attaqué. Malgré les reconnaissances, et en raison du brouillard, les avant-gardes n’ont pu se rendre compte de l’importance des forces allemandes. Les patrouilles allemandes sont accueillies à coups de fusil aux premières maisons de Robelmont, puis ordre est donné de rompre le combat et de se replier. Deux compagnies  sont placées à droite et à gauche de la route à la sortie sud de Robelmont, pour couvrir le repli. La compagnie d’arrière-garde rejoint le bataillon qui a commencé le mouvement de retraite. Les troupes cheminent à travers bois jusqu’à Meix-devant-Virton (direction nord-ouest).
+**147e R.I. français :** le 2e bataillon du 147e, quittant Robelmont où il avait passé la nuit, y est attaqué. Malgré les reconnaissances, et en raison du brouillard, les avant-gardes n’ont pu se rendre compte de l’importance des forces allemandes. Les patrouilles allemandes sont accueillies à coups de fusil aux premières maisons de Robelmont, puis ordre est donné de rompre le combat et de se replier. Deux compagnies sont placées à droite et à gauche de la route à la sortie sud de Robelmont, pour couvrir le repli. La compagnie d’arrière-garde rejoint le bataillon qui a commencé le mouvement de retraite. Les troupes cheminent à travers bois jusqu’à Meix-devant-Virton (direction nord-ouest).
 
 **6h45 :**
 
@@ -357,28 +357,28 @@ Le glacis descendant du mamelon 280 sur Houdrigny et sur la route de Meix-devant
 **8e division française :** la situation est fort critique pour la 8e division. Les Allemands sont virtuellement maîtres du plateau de Bellevue qui surplombe Virton.
 
 - Les trois bataillons du 130e ont fondu dans la fournaise. Les débris ont reflué vers Virton. Les dernières unités sont encore sur la route de Dampicourt.
-  Le 117e attend à la sortie nord de Virton, le 2e bataillon (Mercadier) sur la route de Dampicourt, le bataillon Blanc (3e) à la sortie nord de Virton, le 1e bataillon (Treillard), la tête à la Patte d’Oie, le centre à hauteur de la gare. Tout ce régiment est à l’abri au fond de la vallée.
-  Le 124e est encore en colonne pressée dans Virton, sa tête ne dépassant pas les dernières maisons vers le nord.
+    Le 117e attend à la sortie nord de Virton, le 2e bataillon (Mercadier) sur la route de Dampicourt, le bataillon Blanc (3e) à la sortie nord de Virton, le 1e bataillon (Treillard), la tête à la Patte d’Oie, le centre à hauteur de la gare. Tout ce régiment est à l’abri au fond de la vallée.
+    Le 124e est encore en colonne pressée dans Virton, sa tête ne dépassant pas les dernières maisons vers le nord.
 
 ![Halte dinfanterie française - 47.5 ko](../img/halte_infanterie_marche.jpg)
 _Halte d’infanterie française_
 _Collection privée_
 
 - Le général Boëlle complète les ordres donnés vers 6h :
-  Le 124e organisera et tiendra la lisière nord de Virton.
-  Le 117e exécutera un mouvement débordant sur l’axe Houdrigny - Robelmont.
-  Tout ce qui subsiste des 115e et 130e se ralliera dans la région ouest de Virton pour s’y reconstituer et servir de réserve.
-  Un groupe du 31e d’artillerie restera où il est et les deux autres groupes iront chercher des positions de batterie sur les hauteurs sud de Virton.
+    Le 124e organisera et tiendra la lisière nord de Virton.
+    Le 117e exécutera un mouvement débordant sur l’axe Houdrigny - Robelmont.
+    Tout ce qui subsiste des 115e et 130e se ralliera dans la région ouest de Virton pour s’y reconstituer et servir de réserve.
+    Un groupe du 31e d’artillerie restera où il est et les deux autres groupes iront chercher des positions de batterie sur les hauteurs sud de Virton.
 
 Le général Boëlle rejoint ensuite son PC à Virton.
 
-**9e division allemande :** le combat du 7e grenadiers et du 154e se développe favorablement : le 1e bataillon du 7e grenadiers a dépassé la ferme de Bellevue.  Les défenseurs de la ferme (une centaine d’hommes) ont épuisé leurs munitions. Les six bataillons du 7e grenadiers et du 154e régiment prussien n’ont qu’à pousser de l’avant pour bousculer les unités disloquées des 115e et 130e, mais le général von Below arrête l’élan de la brigade von Falkenheimer : on vient de lui signaler la présence de forces françaises considérables échelonnées depuis Villers-la-Loue jusqu’au-delà de Meix-devant-Virton avec de forts éléments vers Robelmont, à la ferme de Verly et dans les bois de Meix. Le 58e régiment, envoyé en direction de Robelmont ne pourrait pas s’opposer à de pareilles masses et le flanc droit de la division risquait de se trouver compromis.
+**9e division allemande :** le combat du 7e grenadiers et du 154e se développe favorablement : le 1e bataillon du 7e grenadiers a dépassé la ferme de Bellevue. Les défenseurs de la ferme (une centaine d’hommes) ont épuisé leurs munitions. Les six bataillons du 7e grenadiers et du 154e régiment prussien n’ont qu’à pousser de l’avant pour bousculer les unités disloquées des 115e et 130e, mais le général von Below arrête l’élan de la brigade von Falkenheimer : on vient de lui signaler la présence de forces françaises considérables échelonnées depuis Villers-la-Loue jusqu’au-delà de Meix-devant-Virton avec de forts éléments vers Robelmont, à la ferme de Verly et dans les bois de Meix. Le 58e régiment, envoyé en direction de Robelmont ne pourrait pas s’opposer à de pareilles masses et le flanc droit de la division risquait de se trouver compromis.
 
 La masse signalée est toute la 3e division du 2e C.A. français, soit le C.A. de droite de la IVe armée française. Ce C.A. faisait route sur Léglise par Tintigny et Mellier, avec pour mission de marcher droit au nord. L’avant-garde devant déboucher de Bellefontaine vers 6h.
 
 **8h15 :**
 
-**91e R.I. :** Le brouillard commence à céder dans le fond de la vallée du ruisseau « Les Forges » et le 3e bataillon du 91e gravit les pentes du mamelon 280. Les compagnies de première ligne ouvrent le feu mais en dépit des efforts des officiers qui fouillent le terrain à la jumelle, aucun objectif allemand n’apparaît. Le commandant prescrit de s’installer sur le mamelon 280 sans s’approcher de la crête. De cette cote, les Français croient enfin apercevoir la ligne feldgrau. L’artillerie allemande, qui semble être à l’est de Robelmont à la lisière du bois, entre en action  et les obus éclatent trop haut au-dessus de la compagnie Petin qui se terre.
+**91e R.I. :** Le brouillard commence à céder dans le fond de la vallée du ruisseau « Les Forges » et le 3e bataillon du 91e gravit les pentes du mamelon 280. Les compagnies de première ligne ouvrent le feu mais en dépit des efforts des officiers qui fouillent le terrain à la jumelle, aucun objectif allemand n’apparaît. Le commandant prescrit de s’installer sur le mamelon 280 sans s’approcher de la crête. De cette cote, les Français croient enfin apercevoir la ligne feldgrau. L’artillerie allemande, qui semble être à l’est de Robelmont à la lisière du bois, entre en action et les obus éclatent trop haut au-dessus de la compagnie Petin qui se terre.
 
 **4e C.A. français :** le général Boëlle, pour faire taire les canons allemands et appuyer l’infanterie, prescrit au commandant d’artillerie du C.A. de constituer un grand groupement d’artillerie sur les hauteurs au sud de Saint-Mard.
 
@@ -389,15 +389,15 @@ _Infanterie allemande retranchée_
 _Collection privée_
 
 - **9e division allemande :** la situation est la suivante :
-  Cinq bataillons sont déployés sur le plateau de Bellevue, l’artillerie divisionnaire est en batterie à la lisière des bois.
-  Trois bataillons du 58e avec une batterie et un escadron observent les régions de Robelmont et de Meix-devant-Virton.
-  Le 2e bataillon du 7e grenadiers est massé en renfort à la lisière du bois, près de la route.
-  Les 1e et 2e bataillons du 19e sont en colonne, leur tête vers les bois de Naux et de Virton.
+    Cinq bataillons sont déployés sur le plateau de Bellevue, l’artillerie divisionnaire est en batterie à la lisière des bois.
+    Trois bataillons du 58e avec une batterie et un escadron observent les régions de Robelmont et de Meix-devant-Virton.
+    Le 2e bataillon du 7e grenadiers est massé en renfort à la lisière du bois, près de la route.
+    Les 1e et 2e bataillons du 19e sont en colonne, leur tête vers les bois de Naux et de Virton.
 
 Le 7e grenadiers et le 3e bataillon du 154e subissent de grosses pertes et ne poussent pas plus loin leur succès après la prise de la ferme de Bellevue.
 Au centre, le 1e bataillon du 154e allemand pousse de l’avant mais ce régiment va être arrêté par la résistance de la 8e compagnie du 115e, accrochée au mamelon 265. Le 2e bataillon du 154e cherche à s’étendre jusqu’à la route d’Ethe pour déborder les positions françaises.
 
-Le brouillard commence à se lever. Le général von Below (9e division allemande)  sent qu’il est pris dans une tenaille et que chaque pas vers Virton l’y engage dangereusement. Il a devant lui des forces françaises considérables et on lui signale une colonne de toutes armes tenant toute la longueur de la route depuis Houdrigny jusqu’au-delà de la Hage. Une offensive de cette colonne pourrait être fatale à la 9e division.
+Le brouillard commence à se lever. Le général von Below (9e division allemande) sent qu’il est pris dans une tenaille et que chaque pas vers Virton l’y engage dangereusement. Il a devant lui des forces françaises considérables et on lui signale une colonne de toutes armes tenant toute la longueur de la route depuis Houdrigny jusqu’au-delà de la Hage. Une offensive de cette colonne pourrait être fatale à la 9e division.
 
 Le général von Below prescrit au général von Falkenheimer de s’arrêter sur le plateau de Bellevue et d’y faire creuser des tranchées. L’artillerie allemande va écraser d’obus Virton, Houdrigny et Villers-la-Loue. Le bataillon du colonel Zwenger va porter le gros de son détachement à la lisière ouest, pour servir de flanc-garde face à Meix-devant-Virton. Le général von Below rend compte de ces dispositions au général von Stranz, commandant du 5e C.A.
 
@@ -407,20 +407,20 @@ La bataille devient dès lors défensive pour la 9e division.
 
 **3e division française :** la division Regnault débouche du Haut-Bois. Le général donne ordre à l’escadron divisionnaire d’aller reconnaître le plateau à l’est d’Houdrigny et de prendre contact avec les unités du 4e C.A., qui auraient dépassé Virton. Une vive fusillade éclate, très rapprochée, vers Houdrigny. Quelques minutes plus tard, le canon tonne vers le nord-est. Un compte-rendu du colonel Blondin (91e R.I.) annonce la présence des troupes allemandes sur le plateau de Bellevue.
 
-Le général Gérard  (2e C.A.) décide de suspendre la marche de la 3e division tant que les Allemands n’auront pas été refoulés. Deux bataillons sont placés sur les pitons dominant Villers-la-Loue, sur la rive droite du ruisseau « Les forges ».
+Le général Gérard (2e C.A.) décide de suspendre la marche de la 3e division tant que les Allemands n’auront pas été refoulés. Deux bataillons sont placés sur les pitons dominant Villers-la-Loue, sur la rive droite du ruisseau « Les forges ».
 
 **8e division française :** le 1e groupe d’artillerie de la division s’installe dans les pépinières du couvent Saint-Joseph et ouvre le feu dans le brouillard, prenant comme objectif Robelmont et les bois au nord de Bellevue.
 Les 2e et 3e groupes s’installent sur la rive gauche du Ton.
 
 - Le 124e R.I. français prend position
-  Le 1e bataillon va occuper le cimetière et ses environs. On n’y perce pas de meurtrières mais y installe des parapets de tir. En moins d’un quart d’heure, le cimetière est transformé en forteresse.
-  Le 2e bataillon se déploie à gauche du premier, vers le mamelon 260, en éventail entre le chemin d’Houdrigny et la route d’Etalle. A peine les Français essaient-ils de dépasser la crête qu’ils sont accueillis par un formidable tir de barrage. Il faut attendre l’appui de l’artillerie.
+    Le 1e bataillon va occuper le cimetière et ses environs. On n’y perce pas de meurtrières mais y installe des parapets de tir. En moins d’un quart d’heure, le cimetière est transformé en forteresse.
+    Le 2e bataillon se déploie à gauche du premier, vers le mamelon 260, en éventail entre le chemin d’Houdrigny et la route d’Etalle. A peine les Français essaient-ils de dépasser la crête qu’ils sont accueillis par un formidable tir de barrage. Il faut attendre l’appui de l’artillerie.
 
 **9h :**
 
 **91e R.I. français :** le colonel Blondin, marchant à la tête de ses 1e et 2e bataillons, est sur le point d’atteindre le passage à niveau de la voie ferrée, à 1 km au nord d’Houdrigny et marche vers Bellefontaine. Pour couvrir le flanc gauche du bataillon Barrard, il détache une compagnie sur la croupe de Berchiwé. Le feu d’infanterie et d’artillerie redouble d’intensité dans la direction de Robelmont, ce qui rendrait la marche vers le nord très coûteuse en hommes. Le colonel décide alors de prendre plutôt part à l’action vers l’est. Un bataillon se porte face à Robelmont. La 2e compagnie (Viot) chemine dans le ravin qui monte de Berchiwé vers Robelmont.
 
-Les feux allemands semblent partir de la lisière de Robelmont. Pour atteindre cette localité, il faut franchir un glacis d’environ 800 m. Très vite, les deux compagnies de tête subissent des pertes et doivent se terrer. Les deux sections de mitrailleuses prennent pour objectif de leur tir la lisière de Robelmont. Le colonel blondin (91e R.I.) demande au  général Lejaille (7e brigade) l’appui de quelques canons. Il constitue une réserve à contre-pente, près du passage  à niveau (2e bataillon Beslay).
+Les feux allemands semblent partir de la lisière de Robelmont. Pour atteindre cette localité, il faut franchir un glacis d’environ 800 m. Très vite, les deux compagnies de tête subissent des pertes et doivent se terrer. Les deux sections de mitrailleuses prennent pour objectif de leur tir la lisière de Robelmont. Le colonel blondin (91e R.I.) demande au général Lejaille (7e brigade) l’appui de quelques canons. Il constitue une réserve à contre-pente, près du passage à niveau (2e bataillon Beslay).
 
 Le régiment entame une offensive, ce qui force le 7e grenadiers, d’abandonner l’objectif de Virton et de s’installer en crochet défensif sur le mamelon 293, mais ce ne sera qu’une alerte.
 
@@ -441,11 +441,11 @@ Dès 9h, la cote 265 est perdue et les unités du 3e bataillon sont pris en éch
 
 **9h05 :**
 
-**87e R.I. français :** le 87e est en tête du 2e C.A. (3e division, 6e brigade). Le général Caré, commandant de la 6e brigade, transmet les ordres du commandant du C.A.  Le 2e bataillon du 87e va aller tout entier sur le mamelon 225, au sud-est de Villers-la-Loue.
+**87e R.I. français :** le 87e est en tête du 2e C.A. (3e division, 6e brigade). Le général Caré, commandant de la 6e brigade, transmet les ordres du commandant du C.A. Le 2e bataillon du 87e va aller tout entier sur le mamelon 225, au sud-est de Villers-la-Loue.
 
 **3e division française :** le commandant de l’escadron divisionnaire (3e division) exécute la reconnaissance prescrite par le général Regnault, vers le ruisseau « Les forges » mais les obus commencent à y tomber. Les cavaliers aperçoivent la ligne du 91e couchée faisant le coup de feu, renvoient les chevaux dans le ravin et se déploient à pied à droite de l’infanterie. Ils rendent compte au général Regnault que la lutte est déjà chaude à l’est d’Houdrigny.
 
-Les trois groupes du 17e régiment d’artillerie se trouvent dans Villers-la-Loue.  Les artilleurs mettent leurs pièces en batterie vers le chemin du bois Lavaux et du bois Grehire, d’où il y a des vues très étendues dans la direction de Virton.
+Les trois groupes du 17e régiment d’artillerie se trouvent dans Villers-la-Loue. Les artilleurs mettent leurs pièces en batterie vers le chemin du bois Lavaux et du bois Grehire, d’où il y a des vues très étendues dans la direction de Virton.
 
 **2e C.A. français :** le général Gérard transporte son poste de commandement à Sommethonne d’où les communications avec Bellefontaine sont assurées par Gérouville.
 
@@ -464,19 +464,19 @@ Le général Boëlle donne l’ordre au colonel Gazan (115e R.I.) de mettre à s
 **117e R.I. français :** le 117e se trouve déployé tout entier et a atteint le chemin de Virton à Houdrigny, la compagnie de gauche étant à proximité de la ferme de Beauregard.
 
 - **8e division française :** la 8e division est tout entière déployée.
-  A droite, face à la crête 265, le 2e bataillon du 115e.
-  A gauche, face au nord et au nord-est, le 124e, moins une compagnie maintenue dans le cimetière transformé en forteresse.
+    A droite, face à la crête 265, le 2e bataillon du 115e.
+    A gauche, face au nord et au nord-est, le 124e, moins une compagnie maintenue dans le cimetière transformé en forteresse.
 
 - La phase de la bataille, qui va se dérouler entre 10h et midi, sous un soleil brûlant, sur un plateau sans couverts, sera marquée :
-  Du côté de la 8e division, par les efforts du 124e et des débris des 115e et 130e, pour se maintenir au nord de Virton, contre un ennemi retranché qu’appuient 80 canons.
-  Du côté du 2e C.A., par l’engagement de la 3e division, au fur et à mesure de leur arrivée sur le champ de bataille.
+    Du côté de la 8e division, par les efforts du 124e et des débris des 115e et 130e, pour se maintenir au nord de Virton, contre un ennemi retranché qu’appuient 80 canons.
+    Du côté du 2e C.A., par l’engagement de la 3e division, au fur et à mesure de leur arrivée sur le champ de bataille.
 
-**9e division allemande :** la 9e division prussienne, puissamment renforcée en artillerie, engage son dernier régiment pour s’assurer la possession du plateau de Bellevue. Le 154e reçoit l’ordre de pousser vers l’avant, débordant la droite française, pour tacher d’aborder Virton par l’est. Cette manuvre échoue suite à la résistance du 2e bataillon du 115e. Les trois bataillons du 154e prussien sont immobilisés sur la crête 265.
+**9e division allemande :** la 9e division prussienne, puissamment renforcée en artillerie, engage son dernier régiment pour s’assurer la possession du plateau de Bellevue. Le 154e reçoit l’ordre de pousser vers l’avant, débordant la droite française, pour tacher d’aborder Virton par l’est. Cette manoeuvre échoue suite à la résistance du 2e bataillon du 115e. Les trois bataillons du 154e prussien sont immobilisés sur la crête 265.
 
 Du côté ouest, le général von Below fait occuper solidement le mamelon 305 de Robelmont et fait renforcer la ligne, où un vide s’est ouvert entre le 154e (face à Virton) et le 7e grenadiers (engagé vers Houdrigny).
 Le lieutenant-colonel von Arnim, commandant du 19e régiment d’infanterie, reçoit l’ordre d’exécuter cette mission.
 
-Le général von Below dispose encore de deux bataillons dans les bois : le 2e bataillon du 58e et le 3e du 19e. L’infanterie allemande est appuyée par toute la brigade d’artillerie divisionnaire et au moins un bataillon du 5e régiment d’artillerie  à pied : au total 80 canons, dont 24 au moins de gros calibre.
+Le général von Below dispose encore de deux bataillons dans les bois : le 2e bataillon du 58e et le 3e du 19e. L’infanterie allemande est appuyée par toute la brigade d’artillerie divisionnaire et au moins un bataillon du 5e régiment d’artillerie à pied : au total 80 canons, dont 24 au moins de gros calibre.
 
 La ligne allemande est renforcée par le 2e bataillon du 154e, qui s’est porté le long des bois jusqu’à la route d’Ethe, poussant quelques unités au sud du Ton, pour tâter les lisières est de Vieux-Virton et de Saint-Mard. Le bataillon Graff est hors d’état de s’opposer à ce mouvement enveloppant. Comme les Allemands s’infiltrent dans la vallée du Ton, les trois compagnies de droite doivent se replier pour ne pas être prises à revers. Les troupes ne peuvent pas se maintenir sur la crête, qui est déjà prise d’enfilade par la rive sud du Ton, et battue en écharpe par l’artillerie de Bellevue. Il faut reculer jusqu’à la lisière de Virton.
 
@@ -502,7 +502,7 @@ Le général Regnault a prescrit verbalement au général Carré, commandant de 
 
 **10h30 :**
 
-**87e R.I. français :** les 2e et 3e bataillons du 87e franchissent sous les obus le ravin d’Houdrigny. Ils ont pour objectif les mamelons situés au nord-est et sud-est du village. A mi-pentes, où déferle un ouragan de fer, les compagnies de tête, prises d’écharpe, se déploient et progressent par bonds. Elles refoulent les patrouilles du 7e grenadiers. Des hauteurs de Villers-la-Loue, deux groupes du 17e d’artillerie accompagnent la progression de l’infanterie. Au-delà de la crête 280 se révèle une autre crête tenue par un ennemi invisible. Les groupes des 87e et 91e  refluent et s’arrêtent derrière la crête 280.
+**87e R.I. français :** les 2e et 3e bataillons du 87e franchissent sous les obus le ravin d’Houdrigny. Ils ont pour objectif les mamelons situés au nord-est et sud-est du village. A mi-pentes, où déferle un ouragan de fer, les compagnies de tête, prises d’écharpe, se déploient et progressent par bonds. Elles refoulent les patrouilles du 7e grenadiers. Des hauteurs de Villers-la-Loue, deux groupes du 17e d’artillerie accompagnent la progression de l’infanterie. Au-delà de la crête 280 se révèle une autre crête tenue par un ennemi invisible. Les groupes des 87e et 91e refluent et s’arrêtent derrière la crête 280.
 
 **11h : Robelmont est enlevé par les Allemands**
 
@@ -516,7 +516,7 @@ Le général Regnault a prescrit verbalement au général Carré, commandant de 
 
 **8e division française :** le général de Lartigue (8e D.I.) se rend au mamelon 260 au nord de Virton pour observer l’état de la situation dans la zone où le 117e va s’engager. Il fouille avec ses jumelles le creux de Dampicourt et les crêtes désertes de Houdrigny et de Robelmont mais n’aperçoit rien.
 
-La crête devant Houdrigny semble infranchissable, car les balles viennent de partout. Le commandant de la 2e section de mitrailleurs du 117e cherche à installer deux machines derrière un tas de pierres entre le bataillon Mercadier et le bataillon Blanc. L’essai échoue.  Le plateau où le 117e devrait se déployer est balayé de balles provenant du nord, du nord-est et de l’est et en marchant sur Robelmont, on prête le flanc aux Allemands.
+La crête devant Houdrigny semble infranchissable, car les balles viennent de partout. Le commandant de la 2e section de mitrailleurs du 117e cherche à installer deux machines derrière un tas de pierres entre le bataillon Mercadier et le bataillon Blanc. L’essai échoue. Le plateau où le 117e devrait se déployer est balayé de balles provenant du nord, du nord-est et de l’est et en marchant sur Robelmont, on prête le flanc aux Allemands.
 
 **2e C.A. français :** le général Gérard, qui a installé son PC à Sommethonne, se rend compte q’un effort peut devenir nécessaire pour dégager le flanc droit de son C.A. et empêcher les Allemands de s’infiltrer dans les bois entre les 3e et 4e divisions. Il décide de placer à la ferme du Hayon trois bataillons du 128e et deux groupes d’artillerie de C.A. à la disposition du général Regnault pour agir sur Robelmont, quand l’occasion paraîtra favorable.
 
@@ -551,7 +551,7 @@ A Bellefontaine, la 4e division est engagée dans une bataille acharnée.
 
 Le général Boëlle décide de se dégager de cette situation pénible et de ressaisir l’initiative des opérations. La 8e division n’a plus les forces nécessaires pour déboucher de Virton sur le plateau de Bellevue, et pourtant, ce débouché importe pour couvrir le flanc droit du 2e C.A. Cette couverture peut encore être réalisée si le 4e C.A. concentre ses forces sur la Basse Vire, de manière à interdire la route de Montmédy pendant que le 117e continuerait, de concert avec le 2e C.A., son offensive contre Robelmont. Entre Dampicourt et Harnoncourt, la route de Montmédy est dominée par deux pitons abrupts, constituant une solide position de résistance : la cote 280, au sud de Saint-Mard et le massif de Montquintin, haut de 320 m.
 
-**4e C.A. français :** Le général Boëlle décide d’occuper la position 280 - Montquintin avec les débris des 115e, 124e et 130e. L’ordre est donné au général de Lartigue d’exécuter cette manuvre. Les officiers des E.M. des C.A. vont porter l’ordre de repli aux troupes engagées.
+**4e C.A. français :** Le général Boëlle décide d’occuper la position 280 - Montquintin avec les débris des 115e, 124e et 130e. L’ordre est donné au général de Lartigue d’exécuter cette manoeuvre. Les officiers des E.M. des C.A. vont porter l’ordre de repli aux troupes engagées.
 
 **124e R.I. français :** Le colonel Fropo, commandant du 124e peut être joint mais les ordres ne parviennent pas à tout le monde, les officiers de liaison sont tués pendant leur mission.
 
@@ -567,12 +567,12 @@ Le bataillon Favier (124e) est disloqué, et l’ordre de repli ne pourra pas lu
 
 **13h :**
 
-Devant le bataillon Brunet (124e), les Allemands semblent se replier et une accalmie se produit. Le bruit court que les autres régiments français battent en retraite et  les tirailleurs quittent individuellement la ligne de feu et se rallient à  la patte d’oie sur la route de Montmédy.
+Devant le bataillon Brunet (124e), les Allemands semblent se replier et une accalmie se produit. Le bruit court que les autres régiments français battent en retraite et les tirailleurs quittent individuellement la ligne de feu et se rallient à la patte d’oie sur la route de Montmédy.
 
 - Situation des troupes allemandes à l’ouest de Virton :
-  Le 58e tient Meix-devant-Virton (nord-ouest de Virton), la lisière du bois, la ferme du Verly et Robelmont, avec une batterie du 41e dans la clairière au nord de Robelmont et un bataillon en réserve dans le bois.
-  Le 1e bataillon du 19e tient Robelmont.
-  Les 1e et 3e bataillons du 7e grenadiers, la 2e bataillon du 19e et le 3e bataillon du 154e développent un système de tranchées pour tireurs debout.
+    Le 58e tient Meix-devant-Virton (nord-ouest de Virton), la lisière du bois, la ferme du Verly et Robelmont, avec une batterie du 41e dans la clairière au nord de Robelmont et un bataillon en réserve dans le bois.
+    Le 1e bataillon du 19e tient Robelmont.
+    Les 1e et 3e bataillons du 7e grenadiers, la 2e bataillon du 19e et le 3e bataillon du 154e développent un système de tranchées pour tireurs debout.
 
 Offensive du 51e français sur Meix-devant-Virton :
 Les 2e et 3e bataillons du 51e continuent leur marche d’approche vers Meix-devant-Virton à travers une région particulièrement tourmentée, taillis, ravins profonds et plateaux dénudés battus par les feux allemands. Meix est dans une cuvette encaissée, entourée de bois et protégée vers le sud par un massif boisé. Ce massif est occupé par des éléments du 58e allemand, disposant de mitrailleuses. Le commandant Berton pousse ses deux compagnies de première ligne déployées au préalable sous le couvert. La 6e compagnie est pourtant réduite à 80 hommes mais les Allemands lâchent pied.
@@ -584,12 +584,12 @@ Les 2e et 3e bataillons du 51e continuent leur marche d’approche vers Meix-dev
 **124e R.I. français :** il reste 300 hommes au bataillon Brunet. Le groupe va rester à la patte d’oie jusqu’au soir, attendant les ordres.
 
 - **117e R.I. français :** le 2e bataillon (Mercadier) a pris pied sur le mamelon 260, au nord-ouest de Virton. Les compagnies sont clouées au sol, dans des champs où l’avoine a été fauchée et liée en gerbes. Certaines compagnies ont un tiers de leur effectif hors de combat.
-  Le 3e bataillon (Blanc) est arrivé à hauteur du bataillon Mercadier mais n’a pas pu franchir la crête descendant de la cote 280 vers l’est.
-  Le bataillon Treillard (1e) a dépassé la crête au sud d’Houdrigny. Il essaie de prendre pied sur le plateau, mais toute progression est impossible à cause du feu intense.
+    Le 3e bataillon (Blanc) est arrivé à hauteur du bataillon Mercadier mais n’a pas pu franchir la crête descendant de la cote 280 vers l’est.
+    Le bataillon Treillard (1e) a dépassé la crête au sud d’Houdrigny. Il essaie de prendre pied sur le plateau, mais toute progression est impossible à cause du feu intense.
 
 **87e R.I. français :** de 14h à 19h, le régiment se trouve sur un vaste plateau dénudé. Les balles giclent et semblent provenir de toutes les directions. Les fantassins ne sont pas à l’abri dans les pentes orientales du mamelon 280, prises d’enfilade de la direction de Robelmont.
 
-**91e  R.I. français :** la situation des trois bataillons du 91e est très précaire. Les balles proviennent du nord et de l’est, ce qui donne l’impression à la première ligne que l’on tire sur elle de l’arrière.
+**91e R.I. français :** la situation des trois bataillons du 91e est très précaire. Les balles proviennent du nord et de l’est, ce qui donne l’impression à la première ligne que l’on tire sur elle de l’arrière.
 
 **14h15 :**
 
@@ -603,7 +603,7 @@ Pour éviter de repasser sous les feux provenant de la ferme de Verly, le batail
 
 Le 1e groupe du 29e d’artillerie et la 6e batterie sont en surveillance sur la croupe 315, face à l’artillerie allemande en position dans la région de Robelmont.
 
-Le colonel Lorillard, commandant du 128e, a donné Meix-devant-Virton (ouest-nord-ouest de Robelmont) comme objectif à son bataillon de droite, de manière à déborder la droite présumée de l’ennemi. Le mouvement est amorcé, le 128e a dépassé la position d’artillerie de la crête 315, puis le général Regnault prescrit à ce régiment de s’orienter vers Robelmont.  Ordre est également donné au colonel Ledoux, commandant du 51e, de participer à l’attaque de Robelmont à partir de Meix-devant-Virton (nord-ouest de Robelmont). La localité, abordée de plusieurs côtés, ne pourrait que tomber.
+Le colonel Lorillard, commandant du 128e, a donné Meix-devant-Virton (ouest-nord-ouest de Robelmont) comme objectif à son bataillon de droite, de manière à déborder la droite présumée de l’ennemi. Le mouvement est amorcé, le 128e a dépassé la position d’artillerie de la crête 315, puis le général Regnault prescrit à ce régiment de s’orienter vers Robelmont. Ordre est également donné au colonel Ledoux, commandant du 51e, de participer à l’attaque de Robelmont à partir de Meix-devant-Virton (nord-ouest de Robelmont). La localité, abordée de plusieurs côtés, ne pourrait que tomber.
 
 Le terrain où le 128e doit opérer est favorable à l’attaque : l’infanterie peut se glisser dans de multiples ravins boisés.
 
@@ -614,21 +614,21 @@ Le commandement allemand est inquiet et donne ordre au 19e R.I. d’évacuer Rob
 **15h :**
 
 - Les troupes sont disposées sur la position 280 - Montquintin de la manière suivante :
-  Derrière la crête 260, couvrant les batteries du 44e régiment d’artillerie, deux compagnies du 317e, venues avec ces batteries.
-  Derrière les canons, le 1e bataillon du 115e.
-  A gauche de ce bataillon, la 2e compagnie du 124e et une section de mitrailleuses.
-  Derrière la crête 280, les restes des trois bataillons du 130e, environ 400 hommes.
-  Sur le chemin de Harnoncourt, la 11e compagnie du 115, intacte, creuse des tranchées.
-  A la patte d’oie, sur la route de Dampicourt, les débris du bataillon Brunet du 124e couvrent cette route.
-  A Montquintin, un détachement de 200 hommes du 130e, 150 hommes du 124e, 150 hommes du 115e. Une ligne de tranchées a été creusée le long de la lisière nord du village.
+    Derrière la crête 260, couvrant les batteries du 44e régiment d’artillerie, deux compagnies du 317e, venues avec ces batteries.
+    Derrière les canons, le 1e bataillon du 115e.
+    A gauche de ce bataillon, la 2e compagnie du 124e et une section de mitrailleuses.
+    Derrière la crête 280, les restes des trois bataillons du 130e, environ 400 hommes.
+    Sur le chemin de Harnoncourt, la 11e compagnie du 115, intacte, creuse des tranchées.
+    A la patte d’oie, sur la route de Dampicourt, les débris du bataillon Brunet du 124e couvrent cette route.
+    A Montquintin, un détachement de 200 hommes du 130e, 150 hommes du 124e, 150 hommes du 115e. Une ligne de tranchées a été creusée le long de la lisière nord du village.
 
 **16h : contre-offensive allemande**
 
 L’ordre du général commandant l’artillerie parvient : les deux groupes du 31e R.A.C. divisionnaire resteront sur le mamelon 280, continuant à tenir sous leur feu les hauteurs de Bellevue et de Robelmont. Un groupe du 44e régiment restera au col 260 pour surveiller la région Latour - Chenois et deux groupes de ce régiment iront à Harnoncourt pour surveiller le couloir de Dampicourt entre les bastions 280 et Montquintin. Depuis midi jusqu’à 17h, les batteries du 31e et 44e demeurent maîtresses du champ de bataille en faisant de la surprise de Virton une bataille indécise.
 
-**128e R.I. français :** Trois bataillons du 128e sont descendus dans la dépression de la Chevratte et s’aligne sur la voie ferrée.  Le général Regnault observe le repli des Allemands vers Robelmont. A 16h, un obus éclate près du général Deffontaines (5e brigade), qui accompagne le 128e. Le général mourra de ses blessures.
+**128e R.I. français :** Trois bataillons du 128e sont descendus dans la dépression de la Chevratte et s’aligne sur la voie ferrée. Le général Regnault observe le repli des Allemands vers Robelmont. A 16h, un obus éclate près du général Deffontaines (5e brigade), qui accompagne le 128e. Le général mourra de ses blessures.
 
-Les Allemands commencent à sortir des bois au nord-ouest de Meix-devant-Virton, menaçant le flanc gauche et les arrières du 128e. Les troupes d’artillerie, menacées d’être prises à revers, se replient sur le chemin de crête qui va de la cote 315 à  la route de Sommethonne.
+Les Allemands commencent à sortir des bois au nord-ouest de Meix-devant-Virton, menaçant le flanc gauche et les arrières du 128e. Les troupes d’artillerie, menacées d’être prises à revers, se replient sur le chemin de crête qui va de la cote 315 à la route de Sommethonne.
 
 Le général Regnault prend immédiatement des mesures :
 Demande est faite au général commandant du 2e C.A. , d’envoyer d’urgence le 72e à la ferme du Hayon afin d’enrayer la contre-offensive allemande. En fait, les Allemands n’avaient aucune force sérieuse de ce côté. Le gros du 58e était dans les bois de Robelmont et les régiments du 6e C.A. se trouvent vers Bellefontaine, nettement plus au nord. Suite à cette fausse alerte, l’offensive du 128e est arrêtée.
@@ -659,7 +659,7 @@ Pendant ce temps, le 3e bataillon du 87e (Chardoillet), pour enrayer la retraite
 
 **91e R.I. français :** Le colonel Blondin donne un ordre de repli sur Sommethonne par le bois Lavaux. Le train de combat part tout de suite.
 
-**117e R.I. français :** Les soldats du 117e R.I. attendent l’ordre de se porter en avant. Or, ils voient à gauche la ligne française reculer et des éléments se retirer du combat. La section de gauche du 117e recule avec les éléments des 87e et 91e. Un lieutenant interpelle la section à qui il ordonne de se porter en avant. Il commande des feux de salve, qui n’ont aucun effet car les Allemands restent invisibles et le jour décline. Comandant Treillard fait sonner la charge et les 3e et 2e bataillons et les fantassins se précipitent en avant dans un élan endiablé. Le colonel Julien se porte en avant sabre à la main. La musique joue la Marseillaise et les soldats la chantent à tue tête. Les fantassins dévalent le ravin qui descend sur la patte d’oie. La partie du ravin franchi par le 1e bataillon est prise en enfilade, de la direction de Robelmont, par des mitrailleuses et des canons.  La première vague, décimée, hésite et tourbillonne. Le désordre devient effroyable dans le fond du ravin et le capitaine Collin doit donner l’ordre de retourner sur ses positions.  Il leur fait prendre position sur la crête 270. Pour la masse, la course continue et le feu allemand cesse subitement. L’obscurité envahit la campagne. Presque partout, les Allemands ont abandonné leurs tranchées.
+**117e R.I. français :** Les soldats du 117e R.I. attendent l’ordre de se porter en avant. Or, ils voient à gauche la ligne française reculer et des éléments se retirer du combat. La section de gauche du 117e recule avec les éléments des 87e et 91e. Un lieutenant interpelle la section à qui il ordonne de se porter en avant. Il commande des feux de salve, qui n’ont aucun effet car les Allemands restent invisibles et le jour décline. Comandant Treillard fait sonner la charge et les 3e et 2e bataillons et les fantassins se précipitent en avant dans un élan endiablé. Le colonel Julien se porte en avant sabre à la main. La musique joue la Marseillaise et les soldats la chantent à tue tête. Les fantassins dévalent le ravin qui descend sur la patte d’oie. La partie du ravin franchi par le 1e bataillon est prise en enfilade, de la direction de Robelmont, par des mitrailleuses et des canons. La première vague, décimée, hésite et tourbillonne. Le désordre devient effroyable dans le fond du ravin et le capitaine Collin doit donner l’ordre de retourner sur ses positions. Il leur fait prendre position sur la crête 270. Pour la masse, la course continue et le feu allemand cesse subitement. L’obscurité envahit la campagne. Presque partout, les Allemands ont abandonné leurs tranchées.
 
 Tout à coup, les clairons sonnent « cessez le feu et halte-là ». Il est possible que les Allemands aient imité les sonneries françaises. L’élan, qui a dépassé les premières tranchées allemandes s’arrête net. Les troupes se regroupent et l’on entend les sifflets des commandants de compagnie. Les quelques éléments qui ont franchi les premières tranchées allemandes sont décimés par un feu violent, doivent se terrer et revenir sur leurs positions en rampant. Si les Allemands avaient tenté une contre-attaque, les troupes françaises auraient été balayées, mais les Allemands restent tapis dans leurs tranchées. Le colonel Julien décide de replier le 117e vers Harnoncourt pour l’y reconstituer. La 1e compagnie (capitaine Collin) reçoit l’ordre de tenir ferme sur le plateau pour permettre au 117e de s’écouler sur Harnoncourt. Les débris du 87e restent également sur le plateau.
 
@@ -680,9 +680,9 @@ Le PC sera à Velosnes.
 Boëlle estime que l’ennemi est trop fort pour continuer l’offensive et qu’une attitude provisoirement défensive s’impose.
 
 - Du côté du 2e C.A., la lutte a pris fin. Le 128e, dont l’attaque sur Robelmont a été suspendue, est resté le long de la voie ferrée, en attendant la reprise des opérations. Le général Regnault n’ordonnera pas cette reprise. Il s’attend à voir déboucher une attaque sur son flanc gauche ;
-  La 5e brigade (général Carré) doit tenir Villers-la-Loue.
-  Le 51e (colonel Leroux) doit laisser son premier bataillon à Meix-devant-Virton, les 2e et 3e devant rester à Villers-la-Loue.
-  Le 87e (colonel Rauscher) doit conserver ses positions sur le mamelon 280 au nord d’Houdrigny, mais deux bataillons doivent se replier sur Sommethonne.
+    La 5e brigade (général Carré) doit tenir Villers-la-Loue.
+    Le 51e (colonel Leroux) doit laisser son premier bataillon à Meix-devant-Virton, les 2e et 3e devant rester à Villers-la-Loue.
+    Le 87e (colonel Rauscher) doit conserver ses positions sur le mamelon 280 au nord d’Houdrigny, mais deux bataillons doivent se replier sur Sommethonne.
 
 ### Conclusion :
 

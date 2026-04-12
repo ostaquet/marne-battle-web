@@ -9,24 +9,24 @@ Le combat de Lagarde est un des premiers combats de la guerre de 1914 - 1918. A 
 
 29e D.I. (général Carbillet)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 57e brigade | Tocanne | 111e R.I. (Antibes / Perrier)112e R.I. (Toulon / Garnier) |
-| 58e brigade | Gasquy | 3e R.I. (Hières-Digne / Dulys)141e R.I. (Marseille / Chartier)6e hussards (un escadron) Uzac55e R.A.C. (trois groupes) (Orange / Bertrand) |
+| Unité       | Commandant | Régiments                                                                                                                                  |
+| ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 57e brigade | Tocanne    | 111e R.I. (Antibes / Perrier)112e R.I. (Toulon / Garnier)                                                                                  |
+| 58e brigade | Gasquy     | 3e R.I. (Hières-Digne / Dulys)141e R.I. (Marseille / Chartier)6e hussards (un escadron) Uzac55e R.A.C. (trois groupes) (Orange / Bertrand) |
 
 30e D.I. (général Colle)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 59e brigade | Marilier | 40e R.I.(Nîmes / Oddon)58e R.I. (Avignon / Jaguin) |
-| 60e brigade | Morgain | 55e R.I. (Aix-en-Provence / Valdant) _ 61e R.I. (Aix-en-Provence / Leblanc)6e hussards (un escadron)19e R.A.C. (Nîmes / Falque) |
+| Unité       | Commandant | Régiments                                                                                                                        |
+| ----------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 59e brigade | Marilier   | 40e R.I.(Nîmes / Oddon)58e R.I. (Avignon / Jaguin)                                                                               |
+| 60e brigade | Morgain    | 55e R.I. (Aix-en-Provence / Valdant) \_ 61e R.I. (Aix-en-Provence / Leblanc)6e hussards (un escadron)19e R.A.C. (Nîmes / Falque) |
 
 2e D.C. (général Lescot)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
+| Unité                          | Commandant         | Régiments                                                                       |
+| ------------------------------ | ------------------ | ------------------------------------------------------------------------------- |
 | 2e brigade de cavalerie légère | de Contades Gizeux | 17e régiment de chasseurs (Prax)18e régiment de chasseurs (de Clermont Tonerre) |
-| 2e brigade de dragons | Chevillote | 8e régiment de dragons (de Gastines)31e régiment de dragons (Dezaunay) |
+| 2e brigade de dragons          | Chevillote         | 8e régiment de dragons (de Gastines)31e régiment de dragons (Dezaunay)          |
 
 Groupe cycliste du 2e bataillon de chasseurs à pied (Pighetti)
 8e R.A.C. (3 batteries)
@@ -36,29 +36,29 @@ Groupe cycliste du 2e bataillon de chasseurs à pied (Pighetti)
 
 41e division (von Bredow)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 59e brigade | von Wurmb | Oberrheinisches Infanterie-Regiment Nr. 97 (Saarburg / von Berger)Unter-Elsässiches Infanterie-Regiment Nr. 138e (Dieuze / von Friedenburg) |
-| 65e brigade |  | Infanterie-Regiment Nr. 17 (Mörchingen / von Estorff)Lothringisches Infanterie-Regiment Nr. 131 (Mörchingen / Neubaur) |
+| Unité       | Commandant | Régiments                                                                                                                                   |
+| ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 59e brigade | von Wurmb  | Oberrheinisches Infanterie-Regiment Nr. 97 (Saarburg / von Berger)Unter-Elsässiches Infanterie-Regiment Nr. 138e (Dieuze / von Friedenburg) |
+| 65e brigade |            | Infanterie-Regiment Nr. 17 (Mörchingen / von Estorff)Lothringisches Infanterie-Regiment Nr. 131 (Mörchingen / Neubaur)                      |
 
 7e régiment de dragons.
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 42e brigade de Feldartillerie | Krahmer | 8e, 15e régiments de Feldartillerie. |
+| Unité                         | Commandant | Régiments                            |
+| ----------------------------- | ---------- | ------------------------------------ |
+| 42e brigade de Feldartillerie | Krahmer    | 8e, 15e régiments de Feldartillerie. |
 
 2e C.A. bavarois (général von Martini)
 
 3e division (général von Breitkopf)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
+| Unité      | Commandant   | Régiments                                       |
+| ---------- | ------------ | ----------------------------------------------- |
 | 3e brigade | Karl theodor | 3e chevauléger (von Tauffkirchen zu Guttenberg) |
 
-4e  division (général von Montgelas)
+4e division (général von Montgelas)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
+| Unité      | Commandant  | Régiments                                                                                                                        |
+| ---------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 4e brigade | von Redwitz | 1e régiment de uhlans bavarois (von Crailsheim)2e régiment de uhlans bavarois (von Faber)2e bataillon de chasseurs (Lettenmayer) |
 
 ### 30 juillet
@@ -99,7 +99,7 @@ La 2e D.C. est en charge de la couverture entre la Seille et le Sanon. Le géné
 
 **16h30**
 
-Les troupes se mettent silencieusement en marche, traversent Parroy et sont dissimulées partiellement par la forêt de Parroy, qui longe le canal.  Des patrouilles sont poussées vers Xures.
+Les troupes se mettent silencieusement en marche, traversent Parroy et sont dissimulées partiellement par la forêt de Parroy, qui longe le canal. Des patrouilles sont poussées vers Xures.
 
 **19h**
 
@@ -119,20 +119,20 @@ Les villageois signalent que des forces allemandes importantes sont cachées dan
 **En soirée**
 
 - Le général von Stetten, commandant de la D.C. bavaroise et le général von Bredow, commandant de la 42e division décident de reprendre Lagarde.
-La manuvre retenue est d’attaquer les Français à la fois par le nord (Bois de la Garenne) et par le sud (Bois Chanal). Les deux attaques doivent couper la ligne de retraite vers l’ouest, le pont de Xures, 1200 m à l’ouest de Lagarde. L’attaque est prévue pour 09h.
-Les unités chagées d’attaquer le village sont
-  Le 2e Jäger Batalion
-  Le 138e R.I., soutenu par six mitrailleuses.
-  Le 131e R.I., accompagné d’une section de mitrailleuses.
+  La manoeuvre retenue est d’attaquer les Français à la fois par le nord (Bois de la Garenne) et par le sud (Bois Chanal). Les deux attaques doivent couper la ligne de retraite vers l’ouest, le pont de Xures, 1200 m à l’ouest de Lagarde. L’attaque est prévue pour 09h.
+  Les unités chagées d’attaquer le village sont
+    Le 2e Jäger Batalion
+    Le 138e R.I., soutenu par six mitrailleuses.
+    Le 131e R.I., accompagné d’une section de mitrailleuses.
 
 ### 11 août
 
 **3h30 :**
 
-- Le 1e groupe du 19e R.A.C. se met en route avec ses batteries pour soutenir les deux bataillons qui se trouvent à Lagarde. Deux positions sont fixées pour le tir  derrière la cote 283 :
-  La 1e batterie en direction de la position probable de l’artillerie allemande (Bourdonnay).
-  La 2e batterie à la lisière de la forêt de Parroy.
-  La 3e vers le bois Chanal.
+- Le 1e groupe du 19e R.A.C. se met en route avec ses batteries pour soutenir les deux bataillons qui se trouvent à Lagarde. Deux positions sont fixées pour le tir derrière la cote 283 :
+    La 1e batterie en direction de la position probable de l’artillerie allemande (Bourdonnay).
+    La 2e batterie à la lisière de la forêt de Parroy.
+    La 3e vers le bois Chanal.
 
 Les batteries sont poussées assez près du village et pourraient être victimes d’une attaque par l’infanterie allemande.
 
@@ -194,7 +194,7 @@ Le bilan pour l’armée française est lourd : 526 hommes de la 2e armée tué
 Le compte rendu envoyé au Q.G. rapporte les événements de la journée :
 « Les deux bataillons envoyés hier soir 12 août par le commandant de la 2e D.C. à Lagarde, ont été attaqués très violemment ce matin par une force évaluée à environ une brigade d’infanterie et trois groupes d’artillerie. - Ces bataillons ont été soutenus par deux autres bataillons de la 59e brigade et un groupe du 19e d’artillerie. - Les troupes d’infanterie ont dû céder, et dans leur retraite, deux batteries sont tombées aux mains de l’ennemi. »
 
-Les Allemands ont tiré parti du combat de Lagarde pour en faire de la propagande, car leurs troupes  ont pu s’emparer du premier drapeau français de toute la guerre.
+Les Allemands ont tiré parti du combat de Lagarde pour en faire de la propagande, car leurs troupes ont pu s’emparer du premier drapeau français de toute la guerre.
 
 ### Souvenirs du combat
 

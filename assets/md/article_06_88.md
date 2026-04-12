@@ -5,13 +5,13 @@ Le fort de Loncin est le symbole de la résistance de Liège. Ce récit complèt
 ### La position fortifiée de Liège
 
 - La position comporte six grands forts :
-  trois sur la rive droite de la Meuse : Barchon, Fléron, Boncelles
-  trois sur la rive gauche : Pontisse, Loncin, Flémalle
+    trois sur la rive droite de la Meuse : Barchon, Fléron, Boncelles
+    trois sur la rive gauche : Pontisse, Loncin, Flémalle
 
 - et six petits forts :
-  trois sur la rive droite : Evegnée, Chaudfontaine,
-Embourg
-  trois sur la rive gauche : Liers, Lantin, Hollogne.
+    trois sur la rive droite : Evegnée, Chaudfontaine,
+  Embourg
+    trois sur la rive gauche : Liers, Lantin, Hollogne.
 
 **[Lien vers carte](../img/forts_liege2.jpg)**
 
@@ -163,9 +163,9 @@ Le fort d’Evegnée tombe
 ### 12 août
 
 - L’armée de von Einem met en batterie les pièces lourdes et le général donne aux C.A. leurs objectifs :
-  9e C.A. : Liers, Pontisse et Fléron.
-  7e C.A. : Chaudfontaine et Embourg.
-  10e C.A. : Boncelles.
+    9e C.A. : Liers, Pontisse et Fléron.
+    7e C.A. : Chaudfontaine et Embourg.
+    10e C.A. : Boncelles.
 
 Lantin, Loncin, Hollogne et Flémalle seront réduits de l’intérieur de la position par des tirs d’artillerie.
 
@@ -258,7 +258,7 @@ Les obusiers de 210 allemands tirent par salves et quatre explosions simultanée
 **12h :**
 
 Brusque accalmie des tirs d’artillerie mais quelques minutes plus tard, le bombardement reprend avec violence.
-Le fort de Lantin succombe. Immédiatement, les canons et obusiers sont braqués sur Loncin. Les mortiers de 420 sont prêts à tirer du champ de manuvres à Bressoux (est de Liège).
+Le fort de Lantin succombe. Immédiatement, les canons et obusiers sont braqués sur Loncin. Les mortiers de 420 sont prêts à tirer du champ de manoeuvres à Bressoux (est de Liège).
 
 Vingt sept obus à la minute s’abattent sur le fort.
 

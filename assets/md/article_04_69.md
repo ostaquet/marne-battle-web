@@ -1,6 +1,6 @@
 # Le 9 septembre 1914
 
-Joffre continue à renforcer la VIe armée par des prélèvements à l’est. Une menace pèse sur les arrières de la IIIe armée française car les Allemands atteignent la Meuse vers Saint-Mihiel. Les Ie et IIe armées allemandes restent séparées par une brèche et von Bülow entame une retraite. von Kluck est isolé et doit également donner un ordre de retraite. Au centre, les Allemands déclenchent une  violente offensive contre l’armée de Foch mais Franchet d’Esperey lui vient en aide, ce qui sauve la situation. L’armée belge entame une seconde sortie d’Anvers vers les lignes de communication de l’armée allemande.
+Joffre continue à renforcer la VIe armée par des prélèvements à l’est. Une menace pèse sur les arrières de la IIIe armée française car les Allemands atteignent la Meuse vers Saint-Mihiel. Les Ie et IIe armées allemandes restent séparées par une brèche et von Bülow entame une retraite. von Kluck est isolé et doit également donner un ordre de retraite. Au centre, les Allemands déclenchent une violente offensive contre l’armée de Foch mais Franchet d’Esperey lui vient en aide, ce qui sauve la situation. L’armée belge entame une seconde sortie d’Anvers vers les lignes de communication de l’armée allemande.
 
 ### G.Q.G. français
 
@@ -11,17 +11,17 @@ _Les armées françaises dans la grande guerre_
 Joffre sent la nécessité de renforcer la VIe armée. Il ordonne à la Ie armée (Dubail) de libérer un C.A. qui sera transporté à partir du 11 septembre vers Paris. Il renforce la VIe armée avec la 37e division d’infanterie, prélevée sur la Ve armée.
 
 - Joffre signe l’instruction particulière n° 20 à 22h.
-  L’armée anglaise poussera vers le nord entre l’Ourcq et Château-Thierry.
-  La VIe armée appuiera l’aile gauche des Anglais.
-  La Ve armée accompagnera le mouvement des anglais par son aile gauche.
+    L’armée anglaise poussera vers le nord entre l’Ourcq et Château-Thierry.
+    La VIe armée appuiera l’aile gauche des Anglais.
+    La Ve armée accompagnera le mouvement des anglais par son aile gauche.
 
 La 6e D.C. est transférée de Mirecourt à Brienne.
 
 ### IIe armée
 
 - Les 20e et 16e C.A. attaquent pour empêcher les Allemands de porter leurs réserves plus au nord.
-  La 70e D.R. attaque entre la forêt de Saint-Paul et les bois d’Haraucourt, la 39e D.I. vers Drouville.
-  Le 16e C.A. dirige la 64e brigade sur Rosières-aux-Salines.
+    La 70e D.R. attaque entre la forêt de Saint-Paul et les bois d’Haraucourt, la 39e D.I. vers Drouville.
+    Le 16e C.A. dirige la 64e brigade sur Rosières-aux-Salines.
 
 Le 20e C.A. réalise d’importants progrès et pénètre jusqu’au milieu de la forêt de Saint-Paul. Sur la rive gauche de la Moselle, la 73e D.R. réoccupe Dieulouard.
 
@@ -29,7 +29,7 @@ Le 20e C.A. réalise d’importants progrès et pénètre jusqu’au milieu de l
 
 ![IIIe armée française - Ve armée allemande - 60.9 ko](../img/marne_revigny_9_septembre2.jpg)
 _IIIe armée française - Ve armée allemande_
-_C Michelin, d’après guide  édition 1918 - autorisation n° 05-B-18_
+_C Michelin, d’après guide édition 1918 - autorisation n° 05-B-18_
 
 La situation continue à être difficile sur les arrières de l’armée, vers Saint-Mihiel et Verdun.
 Sur son front, les Allemands ne gagnent pas un pouce de terrain et les forts de Troyon et de Génicourt tiennent encore. Vers 11h, le fort de Troyon, en ruine, cesse de tirer.
@@ -61,7 +61,7 @@ Les Allemands sont signalés à Poivre-Sainte-Suzanne et à Mailly-le-Grand. Ces
 Malgré l’artillerie lourde qui la soutient au nord-est de Sompuis, la ligne saxonne finit par céder.
 
 - 21e C.A. : A l’extrême gauche du C.A., la 43e division, après avoir réduit au silence l’artillerie allemande, s’avance vers le sud ouest de Sompuis. La 13e division française fait reculer la 23e divison saxonne.
-La 23e division chasse les Allemands d’Humbauville et bivouaque le soir au sud de Sompuis.
+  La 23e division chasse les Allemands d’Humbauville et bivouaque le soir au sud de Sompuis.
 
 - 17e C.A. : Il réussit également à progresser.
 
@@ -81,7 +81,7 @@ _Armée anglaise - Ve armée française - IIe armée allemande_
 _C Michelin, d’après guide édition 1917 - autorisation n° 05-B-18_
 
 - Des reconnaissances d’avions signalent que les colonnes allemandes sont en retraite et Franchet d’Espérey pousse son armée en avant. Il met son C.A. de droite (10e C.A.) à la disposition de la IXe armée.
-  Le 18e C.A. (de Maud’huy) est orienté vers Château-Thierry et s’empare de la localité ; le groupe Valabrègue reste en seconde ligne sur Artonges, au nord de Montmirail.
+    Le 18e C.A. (de Maud’huy) est orienté vers Château-Thierry et s’empare de la localité ; le groupe Valabrègue reste en seconde ligne sur Artonges, au nord de Montmirail.
 
 - Le 3e .C.A. se porte sur Montigny-les-Condé, au sud-est de Château-Thierry.
 
@@ -157,11 +157,11 @@ Galliéni lance un ordre général.
 _IXe armée française - IIe armée allemande_
 _C Michelin, d’après guide édition 1917 - autorisation n° 05-B-18_
 
-Von Bülow et von Hausen se ruent contre l’armée de Foch, avant d’entamer le mouvement de recul imposé par la retraite des armées allemandes de droite. Ils sont prêts de réussir mais l’appui de la Ve armée et une manuvre de Foch rétablissent la situation.
+Von Bülow et von Hausen se ruent contre l’armée de Foch, avant d’entamer le mouvement de recul imposé par la retraite des armées allemandes de droite. Ils sont prêts de réussir mais l’appui de la Ve armée et une manoeuvre de Foch rétablissent la situation.
 
-- Le 10e C.A. est détaché de la Ve armée et mis à la disposition de la IXe.  L’action du 1e C.A. sur le flanc allemand lui permet de progresser et de s’emparer de Corfélix à la tombée du jour. Il passe le petit Morin à La Thoult.
+- Le 10e C.A. est détaché de la Ve armée et mis à la disposition de la IXe. L’action du 1e C.A. sur le flanc allemand lui permet de progresser et de s’emparer de Corfélix à la tombée du jour. Il passe le petit Morin à La Thoult.
 
-- La  51e division a relevé la 42e qui a combattu pendant quatre jours. Elle a l’ordre d’enlever Saint-Prix. Les têtes de colonnes arrivent à cette localité vers 23h.
+- La 51e division a relevé la 42e qui a combattu pendant quatre jours. Elle a l’ordre d’enlever Saint-Prix. Les têtes de colonnes arrivent à cette localité vers 23h.
 
 - Dans le secteur du 9e C.A., les Allemands s’emparent de Mondement et Montgivroux. Une nouvelle progression de trois km leur permettrait de tomber dans le dos de la IXe armée, mais le général Humbert empêche toute avance et les rejette vers les marais.
 
@@ -203,10 +203,10 @@ Joffre couvre la droite de l’armée au moyen d’un nouveau C.C. sous les ordr
 French décide d’accélérer la marche de son armée. Celle-ci franchit la Marne à Nogent-l’Artaud et atteint la route de Château-Thierry à Lizy-sur-Ourcq d’où elle canonne les colonnes allemandes qui retraitent vers le nord.
 
 - En matinée
-Voici l’axe de marche des différents C.A. :
-  1e C.A. entre la route de Sablonnières, Hondevilliers, Nogent-l’Artaud, Saulchery.
-  2e C.A. vers Saacy, Méry, Montreuil.
-  3e C.A. La Ferté-sous-Jouarre, Dhuisy.
+  Voici l’axe de marche des différents C.A. :
+    1e C.A. entre la route de Sablonnières, Hondevilliers, Nogent-l’Artaud, Saulchery.
+    2e C.A. vers Saacy, Méry, Montreuil.
+    3e C.A. La Ferté-sous-Jouarre, Dhuisy.
 
 La marche reprend avant l’aube. Avec sa D.C., Allenby met la main sur les ponts de Charly-sur-Marne et de Saulchery, puis se porte sur le plateau au nord, de façon à couvrir le passage du 1e C.A. qui atteint Domptin.
 
@@ -219,7 +219,7 @@ _Collection privée_
 
 De grand matin, Pulteney engage le 3e C.A. au sud de La Ferté dont les ponts avaient été coupés. Dans cette région (coude de la Marne), la vallée est fortement encaissée. Les Allemands défendent vigoureusement le passage, appuyés par une forte artillerie tirant des hauteurs nord.
 
-La 4e division capture plusieurs bateaux et  les utilise vers 22h pour créer un pont malgré un feu très violent. Un détachement passe la Marne en amont, vers Chamigny, mais le gros ne franchira le pont de La Ferté que dans les premières heures du 10 septembre.
+La 4e division capture plusieurs bateaux et les utilise vers 22h pour créer un pont malgré un feu très violent. Un détachement passe la Marne en amont, vers Chamigny, mais le gros ne franchira le pont de La Ferté que dans les premières heures du 10 septembre.
 
 La ligne de front passe par La Ferté - Bézu - Domptin, la cavalerie est en avant du front.
 Comme French voulait faire border simultanément la Marne par tous ses C.A., il avait freiné la gauche anglaise, ce qui a facilité la retraite de la Ie armée allemande.
@@ -232,8 +232,8 @@ L’armée de von Kluck risque d’être prise en tenaille, surtout le 4e C.A.R.
 Le général de Witte fait attaquer Aarschot par trois colonnes :
 
 - Le 27e de ligne par la chaussée de Lierre.
-  Le 7e et le bataillon cycliste par Betekom.
-  La brigade de lanciers par Testelt.
+    Le 7e et le bataillon cycliste par Betekom.
+    La brigade de lanciers par Testelt.
 
 9h : Le Demer est traversé à Betecom sur une passerelle. Le groupement principal se porte vers les lisières ouest et sud d’Aarschot, menaçant la retraite de la garnison.
 
@@ -290,7 +290,7 @@ Le groupement Kirchbach marche à l’attaque du front Connantre, Mailly-le-Camp
 
 Le corps de la Garde est maître de Mondement. La IXe armée (9e C.A.) reflue d’une dizaine de km, pour atteindre le nord-est de Sézanne. Fère-Champenoise est prise.
 
-Vers 10h, von Bülow apprend que le 18e C.A. français et le C.C. Conneau se dirigent vers Chézy et Château-Thierry. A leur gauche, les 1e et 2e C.A. britanniques, précédés de la cavalerie d’Allenby, se disposent à franchir la Marne dans les environs de Nogent-l’Artaud. Les têtes de colonnes étaient à  9h à Nanteuil-sur-Marne, Citry, Pavant et Nogent-l’Artaud.
+Vers 10h, von Bülow apprend que le 18e C.A. français et le C.C. Conneau se dirigent vers Chézy et Château-Thierry. A leur gauche, les 1e et 2e C.A. britanniques, précédés de la cavalerie d’Allenby, se disposent à franchir la Marne dans les environs de Nogent-l’Artaud. Les têtes de colonnes étaient à 9h à Nanteuil-sur-Marne, Citry, Pavant et Nogent-l’Artaud.
 
 Vers 13h, les attaques de la Garde cessent et vers 17h, le groupement Kirchbach lâche prise.
 

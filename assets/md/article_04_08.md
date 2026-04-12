@@ -108,7 +108,7 @@ Moltke donne les instructions de concentration des sept armées allemandes, grou
 
 - Armées d’Alsace et de Lorraine : VIe armée (Kronprinz de Bavière) et VIIe armée (von Heeringen).
 - Armées du centre : Ve armée (Kronprinz de Prusse) et IVe armée (duc de Wurtemberg).
-- Armées de l’aile droite ou masse de manuvre : IIIe armée (von Hausen), IIe armée (von Bülow) et Ie armée (von Kluck).
+- Armées de l’aile droite ou masse de manoeuvre : IIIe armée (von Hausen), IIe armée (von Bülow) et Ie armée (von Kluck).
 
 Sur 1.400.000 hommes, seuls 360.000 se trouvant en Alsace et en Lorraine.
 

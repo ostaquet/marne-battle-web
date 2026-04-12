@@ -14,7 +14,7 @@ _Collection privée_
 
 Le 12, la gauche de l’armée tente de franchir l’Oise à Verberie, la droite borde l’Aisne, assurant la liaison avec les Anglais. A 19h, le front atteint par l’armée s’étend sur le plateau occidental entre Aisne et Oise, vers Tracy-le-Mont - Moulin-sous-Touvent - Vingré - Nouvion et sur les bords de l’Aisne, de Fontenoy à Soissons.
 
-Les Anglais sont arrivés à peu près à la même heure sur la rive gauche de l’Aisne qu’ils comptent passer entre Soissons et Bucy-le-Long. Le 1e C.A. (Haig) vise Bourg-et- Comin, le 2e (Smith-Dorrien), Vailly et le 3e (Pulteney), Bucy-le-Long. D’après certains indices, French se forme l’opinion que les Allemands ont suspendu leur retraite  et se préparent à disputer le passage de l’Aisne.
+Les Anglais sont arrivés à peu près à la même heure sur la rive gauche de l’Aisne qu’ils comptent passer entre Soissons et Bucy-le-Long. Le 1e C.A. (Haig) vise Bourg-et- Comin, le 2e (Smith-Dorrien), Vailly et le 3e (Pulteney), Bucy-le-Long. D’après certains indices, French se forme l’opinion que les Allemands ont suspendu leur retraite et se préparent à disputer le passage de l’Aisne.
 
 La Ve armée (Franchet d’Esperey) vient de bousculer le 9 septembre le 2e C.A. allemand autour de Montmirail et entame la poursuite, le 18e C.A. à gauche, le 3e au centre et le 1e à droite. Il a atteint la Marne à Château-Thierry mais la nécessité de soutenir la IX armée (Foch) l’a empêché de poursuivre vers le nord.
 
@@ -24,14 +24,14 @@ Dans la journée du 11, le 3e C.A. enlève les hauteurs de aint-Thierry, au nord
 Le 12, de Maud’huy porte sa 35e division sur Fismes et à 15h, les ponts sur l’Ailette sont enlevés et le 18e C.A. marche sur l’Aisne.
 
 - Le 12 au soir,
-  L’extrême gauche de Maunoury franchit l’Oise, les autres éléments ont passé l’Aisne, de Choisy-au-Bac à Fontenoy et l’extrême droite est arrêtée de Fontenoy à Soissons.
+    L’extrême gauche de Maunoury franchit l’Oise, les autres éléments ont passé l’Aisne, de Choisy-au-Bac à Fontenoy et l’extrême droite est arrêtée de Fontenoy à Soissons.
 
-- L’armée anglaise garnit les plateaux  au sud de l’Aisne, qu’elle compte passer entre Soissons et Oeuilly.
+- L’armée anglaise garnit les plateaux au sud de l’Aisne, qu’elle compte passer entre Soissons et Oeuilly.
 
 - La Ve armée est dirigée vers le nord-est, son 18e C.A. peut déboucher entre Pontavert et Berry-au-Bac, son 3e C.A. est en face de Brimont, son 1e C.A. est dans les faubourgs de Reims et son 10e C.A. est en face de Berru et de la Pompelle.
 
 ![Général Franchet dEsperey  (Ve armée) - 20.6 ko](../img/franchet_esperey4.jpg)
-_Général Franchet d’Esperey  (Ve armée)_
+_Général Franchet d’Esperey (Ve armée)_
 _Collection privée_
 
 Le 11 septembre, la Ie armée allemande (von Kluck) bat en retraite dans la direction nord-est, entre l’Oise et la ligne Braine - Laon. La IIe armée opère sa retraite à l’est de la Ie armée, sans parvenir à recréer la liaison.
@@ -46,7 +46,7 @@ Le 12, la Ie armée s’étend de l’Oise à la ligne de chemin de fer Soissons
 
 Le Chemin des Dames est une crête de 30 km de long, entre l’Aisne et l’Ailette. Les falaises abruptes sont exploitées depuis très longtemps et comportent de nombreuses cavernes qui constituent de redoutables positions défensives, à l’abri des tirs d’artillerie. La plus connue est la Caverne du Dragon.
 
-Joffre, connaissant le caractère inexpugnable des falaises de l’Aisne, est persuadé que cet obstacle doit être tourné soit à l’est soit à l’ouest. En fait, il fonde ses principaux espoirs sur la manuvre vers l’ouest. Le massif sera tourné par l’armée de Maunoury (VIe) qui doit engager son gros dans la vallée de l’Oise.
+Joffre, connaissant le caractère inexpugnable des falaises de l’Aisne, est persuadé que cet obstacle doit être tourné soit à l’est soit à l’ouest. En fait, il fonde ses principaux espoirs sur la manoeuvre vers l’ouest. Le massif sera tourné par l’armée de Maunoury (VIe) qui doit engager son gros dans la vallée de l’Oise.
 
 ### 12 et 13 septembre
 
@@ -63,7 +63,7 @@ A 14h, la 70e brigade, ayant passé l’Aisne à Pontavert, se dispose à attaqu
 A 15h, le 5e chasseurs d’Afrique enlève d’un coup de main le pont de Maisy avant que les Allemands aient eu le temps de le détruire et elle aborde les bois de Beaurieux et Craonnelle. Si elle était apparue cinq heures plus tôt, elle aurait trouvés abandonnés Hurtebise et le plateau de Vauclerc car les Allemands s’étaient jetés de l’autre côté de l’Ailette. Ils avaient ensuite réoccupé les positions et après un violent combat, l’infanterie doit s’arrêter à la lisière nord du bois, au sud d’Oulches et de Craonnelle.
 
 A 19h, Corbeny est enlevé, puis Craonne par la 70e brigade.
-Le reste de la Ve armée attaquent sur le front Brimont - Berru - Nogent-l’Abesse  (3e et 2e C.A.)
+Le reste de la Ve armée attaquent sur le front Brimont - Berru - Nogent-l’Abesse (3e et 2e C.A.)
 
 **VIe armée française** :
 
@@ -115,7 +115,7 @@ Sur ces entrefaites, Valabrègue perd ses positions de la rive gauche et la situ
 
 **VIe armée française** :
 
-L’attaque  du plateau échoue. L’espoir réside dans le 13e C.A., en marche dans la vallée de l’Oise. S’il réussit à faire tomber Noyon et s’emparer de Saint-Quentin, le mouvement enveloppant s’amorcerait et la résistance sur le plateau tomberait.
+L’attaque du plateau échoue. L’espoir réside dans le 13e C.A., en marche dans la vallée de l’Oise. S’il réussit à faire tomber Noyon et s’emparer de Saint-Quentin, le mouvement enveloppant s’amorcerait et la résistance sur le plateau tomberait.
 
 En fait, les Allemands massent leurs troupes, résolus à barrer la route à Maunoury. Ce dernier se heurte aux 9e, 2e, 4e et 3e C.A., au 4e C.A.R., soit toute l’armée de von Kluck. Les Allemands sont résolus à résister sur le plateau.
 
@@ -144,7 +144,7 @@ _Collection privée_
 
 **Ve armée française** :
 
-Le 18e C.A. reprend ses attaques, appuyé par le 1e et le groupe Valabrègue peut aller de l’avant. Maud’huy s’apprête à agir dans la trouée entre Craonne et Prouvais lorsque Craonne, violemment attaqué et écrasé par l’artillerie lourde, doit être abandonné. L’offensive sur Prouvais est compromise : il faut pour cela	 reprendre Craonne et Corbeny. La brigade Passaga est chargée de cette mission.
+Le 18e C.A. reprend ses attaques, appuyé par le 1e et le groupe Valabrègue peut aller de l’avant. Maud’huy s’apprête à agir dans la trouée entre Craonne et Prouvais lorsque Craonne, violemment attaqué et écrasé par l’artillerie lourde, doit être abandonné. L’offensive sur Prouvais est compromise : il faut pour cela reprendre Craonne et Corbeny. La brigade Passaga est chargée de cette mission.
 
 **VIe armée française** :
 
@@ -208,12 +208,12 @@ Le flanc de la 1e division est menacé mais une contre-attaque du régiment Nort
 
 **G.Q.G.** :
 
-Joffre est plus que jamais décidé à obtenir la décision vers Noyon. Il pense que la manuvre doit prendre, avec des forces supérieures, une plus large envergure.
+Joffre est plus que jamais décidé à obtenir la décision vers Noyon. Il pense que la manoeuvre doit prendre, avec des forces supérieures, une plus large envergure.
 Il décide le transfert, à gauche de la VIe armée, de la IIe armée (Castelnau), à laquelle seront rattachés les 13e et 4e C.A., repris à la VIe armée.
 
 **VIe armée française** :
 
-Maunoury espère toujours faire aboutir la manuvre de débordement. Le général Ebener réoccupe la ligne Bailly - Tracy-le-Val - Bois de la Montagne et le 4e C.A. gagne la vallée de l’Oise par Compiègne pour prêter main forte au 13e C.A.
+Maunoury espère toujours faire aboutir la manoeuvre de débordement. Le général Ebener réoccupe la ligne Bailly - Tracy-le-Val - Bois de la Montagne et le 4e C.A. gagne la vallée de l’Oise par Compiègne pour prêter main forte au 13e C.A.
 
 **Armée anglaise** :
 
@@ -225,7 +225,7 @@ Il continue à tomber une pluie torrentielle, ce qui rend la marche pénible.
 
 **IIe armée française** :
 
-La manuvre de débordement passe au général Castelnau, qui jette ses forces dans la région de Lassigny (ouest de Noyon).
+La manoeuvre de débordement passe au général Castelnau, qui jette ses forces dans la région de Lassigny (ouest de Noyon).
 
 **Ve armée française** :
 
@@ -257,7 +257,7 @@ _Collection privée_
 
 **Armée anglaise** :
 
-Seul le 1e C.A. est réellement engagé. Son front s’étend du nord de Vailly au Chemin des Dames, en rejoignant le 18e C.A. français. Le reste de l’armée anglaise marque le pas au pied de la falaise de Vailly à  Bucy-le-Long.
+Seul le 1e C.A. est réellement engagé. Son front s’étend du nord de Vailly au Chemin des Dames, en rejoignant le 18e C.A. français. Le reste de l’armée anglaise marque le pas au pied de la falaise de Vailly à Bucy-le-Long.
 
 **O.H.L.** :
 
@@ -295,8 +295,8 @@ Au centre, ils s’efforcent de maintenir les adversaires au pied de la falaise 
 Franchet d’Esperey tente une avance de ses C.A. :
 
 - Le 18e sur Craonne
-  Le 1e sur La Ville-au-Bois et la ferme du Choléra
-  Le groupe Valabrègue sur les hauteurs est de Berry-au-Bac.
+    Le 1e sur La Ville-au-Bois et la ferme du Choléra
+    Le groupe Valabrègue sur les hauteurs est de Berry-au-Bac.
 
 Cette attaque ne fait que des progrès insignifiants.
 Le 18e C.A. continue à tenir les positions conquises de la ferme d’Hurtebise aux lisières sud de Craonne ; le 1e C.A. entame les bois de Ville-au-Bois, prend la ferme du Choléra. et récupère Berry-au-Bac.

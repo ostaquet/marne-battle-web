@@ -4,7 +4,7 @@ L’armée de Langle de Cary, talonnée par celle de von Hausen, livre le combat
 
 ### G.Q.G. français
 
-Joffre s’est enfin rendu compte de la faiblesse de son aile gauche. Le seul salut consiste à renforcer cette aile par des troupes prises à la droite, mais il doit pour cela effectuer un large repli tout en conservant la liaison des armées entre elles, la IIIe armée restant appuyée à Verdun, devenu le pivot de la manuvre. L’ensemble du dispositif se déplace vers le sud.
+Joffre s’est enfin rendu compte de la faiblesse de son aile gauche. Le seul salut consiste à renforcer cette aile par des troupes prises à la droite, mais il doit pour cela effectuer un large repli tout en conservant la liaison des armées entre elles, la IIIe armée restant appuyée à Verdun, devenu le pivot de la manoeuvre. L’ensemble du dispositif se déplace vers le sud.
 
 Gallieni reçoit les pleins pouvoirs à Paris pour mettre la ville en état de défense. Il entame une série de travaux de fortifications.
 
@@ -27,7 +27,7 @@ Malgré la réussite de cette offensive, la menace allemande sur Rambervillers n
 ### IIe armée française
 
 - Castelnau prescrit un effort général pour atteindre la Meurthe.
-  Le 16e C.A. doit opérer une attaque générale sur le front Gerbéviller - Xermaménil. Il reprend Gerbéviller, prend pied sur la rive est de la Mortagne et s’y maintient sous un feu violent d’artillerie, mais les Allemands ont creusé trois lignes de tranchées parallèles à la Mortagne entre Gerbéviller et Moyen et les Français ne parviennent pas à les en déloger. De même, Gerbéviller est défendu par une artillerie lourde dissimulée vers Fraimbois. Il est impossible de la repérer faute d’aéroplanes. Vers 17h ; le 222e se trouve à 1.500 m en amont de Gerbéviller, dans des tranchées faisant face à celles des Allemands.
+    Le 16e C.A. doit opérer une attaque générale sur le front Gerbéviller - Xermaménil. Il reprend Gerbéviller, prend pied sur la rive est de la Mortagne et s’y maintient sous un feu violent d’artillerie, mais les Allemands ont creusé trois lignes de tranchées parallèles à la Mortagne entre Gerbéviller et Moyen et les Français ne parviennent pas à les en déloger. De même, Gerbéviller est défendu par une artillerie lourde dissimulée vers Fraimbois. Il est impossible de la repérer faute d’aéroplanes. Vers 17h ; le 222e se trouve à 1.500 m en amont de Gerbéviller, dans des tranchées faisant face à celles des Allemands.
 
 - Au 15e C.A., l’avant-garde de la 30e division entre dans Rehainviller.
 
@@ -53,7 +53,7 @@ En raison de l’apparition de forces allemandes dans la région de Rocroi - Giv
 _Zouaves en embuscade_
 _Collection privée_
 
-Dès 3h du matin, les avant-gardes de la IIIe armée allemande attaquent, à Bel-Air et à Falluel, les deux  compagnies de zouaves qui forment la tête de la division marocaine. L’infanterie allemande menace de tourner les zouaves et les deux compagnies se replient lentement vers le gros de la brigade, entre Dommery et Signy-l’Abbaye.
+Dès 3h du matin, les avant-gardes de la IIIe armée allemande attaquent, à Bel-Air et à Falluel, les deux compagnies de zouaves qui forment la tête de la division marocaine. L’infanterie allemande menace de tourner les zouaves et les deux compagnies se replient lentement vers le gros de la brigade, entre Dommery et Signy-l’Abbaye.
 
 Le commandant du 9e C.A. (général Dubois), craignant de voir l’adversaire s’emparer de la route de Signy-l’Abbaye à Rethel, décide de prononcer dans cette direction une vigoureuse offensive. Sur tout le front, la bataille fait rage. La division marocaine (général Humbert), appuyée par la 9e D.C., lutte toute la journée avec énergie. Dommery est pris et repris. Les Allemands criblent d’obus de gros calibre les alentours du village de Dommery. A la tombée du jour, les zouaves refoulent les Allemands dans la forêt de Signy-l’Abbaye. Vers l’est, une autre brigade marocaine se rue sur Fosse-à-l’Eau et sur Mesancelles. Après une lutte acharnée, elle reste maîtresse du terrain. La division marocaine perd 3.000 hommes, mais elle a tenu tête à l’armée de von Hausen.
 

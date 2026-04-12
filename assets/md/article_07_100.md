@@ -8,7 +8,7 @@ Le combat d’Ethe est un épisode de la bataille de Longwy - Neufchâteau, mett
 
 ### L’ordre d’offensive
 
-Des reconnaissances signalent un glissement d’est en ouest des forces allemandes devant les armées françaises. Joffre a l’impression que dans les régions de l’Ardenne et du Luxembourg, le dispositif allemand  présente un point de moindre résistance. Ordre est donc donné à la IVe armée d’acculer à la Meuse les forces adverses qui se trouvent dans cette région et pour cela d’attaquer en direction générale de Neufchâteau (ordre particulier n° 16 à la IVe armée du 21 août).
+Des reconnaissances signalent un glissement d’est en ouest des forces allemandes devant les armées françaises. Joffre a l’impression que dans les régions de l’Ardenne et du Luxembourg, le dispositif allemand présente un point de moindre résistance. Ordre est donc donné à la IVe armée d’acculer à la Meuse les forces adverses qui se trouvent dans cette région et pour cela d’attaquer en direction générale de Neufchâteau (ordre particulier n° 16 à la IVe armée du 21 août).
 
 La IIIe armée a pour mission de couvrir le flanc droit de la IVe contre les forces qui pourraient se trouver dans la région du Luxembourg (ordre particuliers n° 17 aux IIIe et IVe armées, du 21 août).
 
@@ -35,27 +35,27 @@ _Aimablement communiqué par Mr J. de Trentinian_
 
 13e brigade (colonel Lacotte)
 
-| Unité | Casernement | Commandant | Bataillons |
-| --- | --- | --- | --- |
-| 101e R.I. | Dreux, Saint-Cloud | Farret | 1e bataillon (Lebaud)2e bataillon (Laplace)3e bataillon (Tisserand) |
-| 102e R.I | Chartres, Paris | Valentin | 1e bataillon (Wilbien)2e bataillon (Signorino)3e bataillon (Le Merdy) |
-| 14e régiment de hussards | Alençon | de Hautecloque | Un escadron |
-| 26e R.A.C. | Le Mans | Bertrand | 1e groupe (Durandin)2e groupe (Appert)3e groupe (Savoureau) |
+| Unité                    | Casernement        | Commandant     | Bataillons                                                            |
+| ------------------------ | ------------------ | -------------- | --------------------------------------------------------------------- |
+| 101e R.I.                | Dreux, Saint-Cloud | Farret         | 1e bataillon (Lebaud)2e bataillon (Laplace)3e bataillon (Tisserand)   |
+| 102e R.I                 | Chartres, Paris    | Valentin       | 1e bataillon (Wilbien)2e bataillon (Signorino)3e bataillon (Le Merdy) |
+| 14e régiment de hussards | Alençon            | de Hautecloque | Un escadron                                                           |
+| 26e R.A.C.               | Le Mans            | Bertrand       | 1e groupe (Durandin)2e groupe (Appert)3e groupe (Savoureau)           |
 
 14e brigade (général Félineau)
 
-| Unité | Casernement | Commandant | Bataillons |
-| --- | --- | --- | --- |
-| 103e R.I. | Alençon, Paris | Cally | 1e bataillon (Rondenay)2e bataillon (Jouvin)3e bataillon (Vicq) |
-| 104e R.I. | Argentan, Paris | Drouot | 1e bataillon (Forcinal)2e bataillon (Henry)3e bataillon (Levin) |
-| 14e régiment de hussards | Alençon | de Hautecloque | Un escadron |
+| Unité                    | Casernement     | Commandant     | Bataillons                                                      |
+| ------------------------ | --------------- | -------------- | --------------------------------------------------------------- |
+| 103e R.I.                | Alençon, Paris  | Cally          | 1e bataillon (Rondenay)2e bataillon (Jouvin)3e bataillon (Vicq) |
+| 104e R.I.                | Argentan, Paris | Drouot         | 1e bataillon (Forcinal)2e bataillon (Henry)3e bataillon (Levin) |
+| 14e régiment de hussards | Alençon         | de Hautecloque | Un escadron                                                     |
 
 Troupes non engagées à Ethe
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 15e brigade | Chabrol | 124e R.I.(Laval / Fropo130e R.I. (Mayenne / Laffargue)14e régiment de hussards (1 escadron) |
-| 16e brigade | Desvaux | 115e R.I (Mamers / Gazan)117e R.I. (Le Mans / Jullien)14e régiment de hussards (Alençon / de Hautecloque)(1 escadron)31e R.A.C.)(Le Mans) |
+| Unité       | Commandant | Régiments                                                                                                                                 |
+| ----------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 15e brigade | Chabrol    | 124e R.I.(Laval / Fropo130e R.I. (Mayenne / Laffargue)14e régiment de hussards (1 escadron)                                               |
+| 16e brigade | Desvaux    | 115e R.I (Mamers / Gazan)117e R.I. (Le Mans / Jullien)14e régiment de hussards (Alençon / de Hautecloque)(1 escadron)31e R.A.C.)(Le Mans) |
 
 .
 
@@ -80,38 +80,38 @@ _Collection privée_
 5e C.A. (général von Stranz)
 
 ![Général von Stranz  (5e C.A.) - 35 ko](../img/von_stranz2.jpg)
-_Général von Stranz  (5e C.A.)_
+_Général von Stranz (5e C.A.)_
 _Collection privée_
 
 9e D.I. (général von Below)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 17e brigade d’infanterie | Melms | Infanterie-Regiment Nr. 19 (Görlitz)Posensches Infanterie-Regiment Nr. 58e (Glogau / Zwenger) |
-| 18e brigade  d’infanterie | Falkenheimer | Grenadier-Regiment Nr. 7 ( Liegnitz / Oscar de Prusse)Niederschlesisches Infanterie-Regiment Nr. 154e (Jauer)Ulanen-régiment Nr. 1 (Militsch-Ostrowo / von Kass) |
-| 9e brigade de Feldartillerie |  | Feldartillerie-Regiment Nr. 5 (Sprottau)Feldartillerie-Regiment Nr. 41 (Glogau) |
+| Unité                        | Commandant   | Régiments                                                                                                                                                        |
+| ---------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 17e brigade d’infanterie     | Melms        | Infanterie-Regiment Nr. 19 (Görlitz)Posensches Infanterie-Regiment Nr. 58e (Glogau / Zwenger)                                                                    |
+| 18e brigade d’infanterie     | Falkenheimer | Grenadier-Regiment Nr. 7 ( Liegnitz / Oscar de Prusse)Niederschlesisches Infanterie-Regiment Nr. 154e (Jauer)Ulanen-régiment Nr. 1 (Militsch-Ostrowo / von Kass) |
+| 9e brigade de Feldartillerie |              | Feldartillerie-Regiment Nr. 5 (Sprottau)Feldartillerie-Regiment Nr. 41 (Glogau)                                                                                  |
 
 Les troupes sont surtout constituées de montagnards des Sudètes.
 
 10e D.I. (général von Kosch)
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 19e brigade d’infanterie | Liebeskind | Grenadier-Regiment Nr. 6 (Posen)Infanterie-Regiment Nr. 46 (Posen) |
-| 20e brigade d’infanterie | von der Horst | Infanterie-Regiment Nr. 47 (Posen)Niederschlesisches Infanterie-Regiment Nr. 50 (Rawitsch)Königs-Jäger zu Pferde Nr. 1 (Posen) |
-| 10e brigade de Feldartillerie | Müller | Posensches Feldartillerie-Regiment Nr. 20 (Posen / Schleicher)Posensches Feldartillerie-Regiment Nr. 56 (Lissa / Lepper) |
+| Unité                         | Commandant    | Régiments                                                                                                                      |
+| ----------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 19e brigade d’infanterie      | Liebeskind    | Grenadier-Regiment Nr. 6 (Posen)Infanterie-Regiment Nr. 46 (Posen)                                                             |
+| 20e brigade d’infanterie      | von der Horst | Infanterie-Regiment Nr. 47 (Posen)Niederschlesisches Infanterie-Regiment Nr. 50 (Rawitsch)Königs-Jäger zu Pferde Nr. 1 (Posen) |
+| 10e brigade de Feldartillerie | Müller        | Posensches Feldartillerie-Regiment Nr. 20 (Posen / Schleicher)Posensches Feldartillerie-Regiment Nr. 56 (Lissa / Lepper)       |
 
 - Les Polonais forment la presque totalité de la division, qui est appuyée en outre par plusieurs autres unités :
-  5e Niederschlesisches Fussartillerie-Regiment Nr. 5 (obusiers de 150 mm)
-  6e régiment de mortiers.
-  6e détachement de mitrailleuses
-  19e escadrille.
+    5e Niederschlesisches Fussartillerie-Regiment Nr. 5 (obusiers de 150 mm)
+    6e régiment de mortiers.
+    6e détachement de mitrailleuses
+    19e escadrille.
 
 ### Le terrain
 
 **[Lien vers carte](../img/ethe2.jpg)**
 
-La région de Virton fait partie de la Gaume, située à 10 km au nord de la frontière française et à 25 km à l’ouest du Grand Duché de Luxembourg. C’est un terrain très accidenté, avec des altitudes variant de 205 m à 350 m, car la région compte plusieurs vallées :  le Ton, la Vire et la Chevratte. Ethe est une petite localité installée dans la vallée du Ton, entourée de forêts.
+La région de Virton fait partie de la Gaume, située à 10 km au nord de la frontière française et à 25 km à l’ouest du Grand Duché de Luxembourg. C’est un terrain très accidenté, avec des altitudes variant de 205 m à 350 m, car la région compte plusieurs vallées : le Ton, la Vire et la Chevratte. Ethe est une petite localité installée dans la vallée du Ton, entourée de forêts.
 
 ### 20 août
 
@@ -133,14 +133,14 @@ La division Kosch (10e division du 5e C.A. allemand) a traversé le bois de Vanc
 
 Le lieutenant-colonel Schleicher, commandant du 20e régiment d’artillerie, installe le groupe de l’avant-garde à l’est de la route, sur le plateau 314, où il se tient prêt à agir dès que le brouillard sera dissipé.
 
-Le général von Kosch (10e division) déploie  ses régiments :
+Le général von Kosch (10e division) déploie ses régiments :
 
 - Le 50e (colonel Diestel) attaquera à la lisière nord d’Ethe.
-  Le 47e (colonel Trieglaff) débordera la localité à l’est, par la lisière du bois de Laclaireau.
-  Le 46e (colonel von Arent) débordera à l’ouest, par le ravin du Chou et prendra Belmont comme objectif.
-  Le 6e grenadiers (lieutenant-colonel Heyn) restera provisoirement en renfort.
-  Le 1e chasseurs royaux (major de Solms) assurera à l’est la liaison avec le 13e C.A., à travers le bois Lefort.
-  Le 1e uhlans assurera la liaison avec la 9e division.
+    Le 47e (colonel Trieglaff) débordera la localité à l’est, par la lisière du bois de Laclaireau.
+    Le 46e (colonel von Arent) débordera à l’ouest, par le ravin du Chou et prendra Belmont comme objectif.
+    Le 6e grenadiers (lieutenant-colonel Heyn) restera provisoirement en renfort.
+    Le 1e chasseurs royaux (major de Solms) assurera à l’est la liaison avec le 13e C.A., à travers le bois Lefort.
+    Le 1e uhlans assurera la liaison avec la 9e division.
 
 ![Réserve d?infanterie allemande - 44.9 ko](../img/in_reserve4.jpg)
 _Réserve d’infanterie allemande_
@@ -210,13 +210,13 @@ Après une première journée de marche, les avant-gardes de la IVe armée tienn
 Les C.A. de la IIIe armée sont arrêtés :
 
 - Le 4e C.A. dans la région de Virton - Latour - Les Ruettes, en liaison à gauche avec le 2e C.A. (IVe armée)
-  Le 5e C.A. se trouve dans la région de Ville-Houdrémont - Gorcy.
-  Le 6e C.A. est à Pierrepont, avec sa 42e division à Mercy-le-Bas - Circourt, sa 40e à Pienne - Norroy-le-Sec.
+    Le 5e C.A. se trouve dans la région de Ville-Houdrémont - Gorcy.
+    Le 6e C.A. est à Pierrepont, avec sa 42e division à Mercy-le-Bas - Circourt, sa 40e à Pienne - Norroy-le-Sec.
 
 Cette dernière division couvre le flanc droit de la IIIe armée, que tout mouvement vers le nord expose à une offensive allemande pouvant déboucher de Metz - Thionville. Son action est prolongée par la 7e D.C., opérant vers Ozérailles et soutenue par le groupe des divisions de réserve concentré dans la région d’Etain.
 
 - Voici les renseignements dont la IIIe armée dispose sur les forces allemandes :
-  La région de Virton - Arlon paraît inoccupée.
+    La région de Virton - Arlon paraît inoccupée.
 
 - Des troupes adverses sont signalées dans la région au nord-est de Thionville, en marche vers le nord-ouest.
 
@@ -224,18 +224,18 @@ Cette dernière division couvre le flanc droit de la IIIe armée, que tout mouve
 
 - Dans le Grand-Duché de Luxembourg, des colonnes allemandes ont traversé, le 20 août, la partie septentrionale, au nord de la Sûre, pour se porter en direction de Neufchâteau.
 
-- Quelques  cantonnements ou bivouacs d’infanterie ou d’artillerie sont signalés entre Etalle et Arlon.
+- Quelques cantonnements ou bivouacs d’infanterie ou d’artillerie sont signalés entre Etalle et Arlon.
 
 - Longwy a été attaqué le 20 août par le sud-est.
 
 - La 8e division (général de Lartigue) a dû chasser de Virton le 3e bataillon du 123e régiment Wurtembergeois.
-Les régiments de la division cantonnent :
-  Le 115e à Virton.
-  Le 117e à Saint-Mard.
-  Le 124e à Harnoncourt.
-  Le 130e à Dampicourt.
-  L’artillerie de C.A. (44e R.A.C.) à Torgny et Lamorteau
-  14e hussards : la moitié à Saint-Mard, la moitié à Chenois.
+  Les régiments de la division cantonnent :
+    Le 115e à Virton.
+    Le 117e à Saint-Mard.
+    Le 124e à Harnoncourt.
+    Le 130e à Dampicourt.
+    L’artillerie de C.A. (44e R.A.C.) à Torgny et Lamorteau
+    14e hussards : la moitié à Saint-Mard, la moitié à Chenois.
 
 La division a ses avant-postes sur les plateaux de la rive nord du Ton, tenant Bellevue, la cote 295 et Houdrigny.
 
@@ -248,9 +248,9 @@ La 7e division (général de Trentinian), arrivée trop tard dans ses cantonneme
 Derrière cette couverture,
 
 - Le 104e (colonel Drouot) cantonne à Ruettes.
-  Le 101e (colonel Farret) cantonne à Grandcourt.
-  Le 102e (colonel Valentin) se trouve à la Malmaison.
-  Le 2e groupe du 26e R.I. se trouve à Grandcourt.
+    Le 101e (colonel Farret) cantonne à Grandcourt.
+    Le 102e (colonel Valentin) se trouve à la Malmaison.
+    Le 2e groupe du 26e R.I. se trouve à Grandcourt.
 
 Les troupes sont fatiguées. Depuis 48h, elles n’ont pas pris un repas substantiel.
 
@@ -259,10 +259,10 @@ L’armée du Kronprinz impérial se trouve largement déployée. Elle est couve
 Cette armée a :
 
 - Son 5e C.A. dans les bois d’Etalle.
-  Le 10e C.A. wurtembergeois dans la région de Châtillon - Meix-le-Tige - Rachecourt.
-  Le 6e C.A.R. à Thil - Villerupt - Cantebronne.
-  Le 16e C.A. à Ottange - Rochonvillers et Angevillers.
-  Le 5e C.A.R. dans les bois de Bettembourg.
+    Le 10e C.A. wurtembergeois dans la région de Châtillon - Meix-le-Tige - Rachecourt.
+    Le 6e C.A.R. à Thil - Villerupt - Cantebronne.
+    Le 16e C.A. à Ottange - Rochonvillers et Angevillers.
+    Le 5e C.A.R. dans les bois de Bettembourg.
 
 Au 4e C.A. français, on sent les Allemands très proches, car les indices suspects se multiplient.
 
@@ -281,9 +281,9 @@ Le 5e et 13e C.A. reçoivent l’ordre de s’installer très solidement sur leu
 **18h :**
 
 - L’ordre d’opérations est lancé pour le 22 :
-  Le 13e C.A. devra refouler les Français au sud de la voie ferrée Virton - Musson, pousser la 26e division sur Ville-Houdlémont et Tellancourt, en se reliant à droite au 5e C.A.
+    Le 13e C.A. devra refouler les Français au sud de la voie ferrée Virton - Musson, pousser la 26e division sur Ville-Houdlémont et Tellancourt, en se reliant à droite au 5e C.A.
 
-- Le 5e C.A. servira de flanc-garde au 13e, la 9e division marchant d’Etalle par Huombois sur Virton, le 10e d’Etalle par Buzenol sur Ethe. Ce dernier C.A.  doit être en position le 22 à 16h30 sur les hauteurs entre Robelmont et Virton, le long de la vallée de la Basse-Vire, jusqu’à Latour. Ses éléments avancés doivent tenir la voie ferrée Virton - Rulles.
+- Le 5e C.A. servira de flanc-garde au 13e, la 9e division marchant d’Etalle par Huombois sur Virton, le 10e d’Etalle par Buzenol sur Ethe. Ce dernier C.A. doit être en position le 22 à 16h30 sur les hauteurs entre Robelmont et Virton, le long de la vallée de la Basse-Vire, jusqu’à Latour. Ses éléments avancés doivent tenir la voie ferrée Virton - Rulles.
 
 - Le 6e C.A.R se dirigera vers l’ouest, au sud de Longwy.
 
@@ -296,13 +296,13 @@ L’offensive doit se déclencher à 05h. Les C.A. sont alertés à minuit.
 **21h30 :**
 
 - Le 4e C.A. français reçoit l’ordre d’offensive à Vélosnes. (instruction personnelle et secrète pour la journée du 22)
-  Couvrir la droite de la IVe armée, qui marche vers le nord.
+    Couvrir la droite de la IVe armée, qui marche vers le nord.
 
 - Faire face à toute attaque venant du nord ou de l’est.
 
-- Une division devra être poussée dans la région d’Etalle et l’autre division dans la région de Saint-Léger - Châtillon, de façon à pouvoir contre-attaquer,  par Etalle et par Vance, toutes les forces qui pourraient déboucher d’Arlon.
+- Une division devra être poussée dans la région d’Etalle et l’autre division dans la région de Saint-Léger - Châtillon, de façon à pouvoir contre-attaquer, par Etalle et par Vance, toutes les forces qui pourraient déboucher d’Arlon.
 
-- Le 5e C.A.  agira entre les routes de Virton - Châtillon - Arlon - Musson - Halanzy - Messancy et viendra dans la région de Meix-le-Tige - Rachecourt avec mission de refouler tout ce qui déboucherait d’Arlon et d’aider le 6e C.A. à déboucher vers Aubange et Athus.
+- Le 5e C.A. agira entre les routes de Virton - Châtillon - Arlon - Musson - Halanzy - Messancy et viendra dans la région de Meix-le-Tige - Rachecourt avec mission de refouler tout ce qui déboucherait d’Arlon et d’aider le 6e C.A. à déboucher vers Aubange et Athus.
 
 **24h :**
 
@@ -405,9 +405,9 @@ Le bataillon Jouvin pénètre dans Ethe par le pont principal.
 La 6e compagnie (Faugière) doit barrer la route, à la sortie ouest de Belmont et s’établir sur le mamelon au nord du village.
 
 - La 7e compagnie (Joué) occupera le mamelon, au nord d’Ethe.
-  La 8e compagnie (Richard) prendra position dans le ravin du chemin de fer vers l’étang de Laclaireau.
-  La 5e compagnie (Grasset) sera disponible dans Ethe.
-Pour gagner du temps, les cartouches ne sont pas distribuées, les voitures restant dans Ethe.
+    La 8e compagnie (Richard) prendra position dans le ravin du chemin de fer vers l’étang de Laclaireau.
+    La 5e compagnie (Grasset) sera disponible dans Ethe.
+  Pour gagner du temps, les cartouches ne sont pas distribuées, les voitures restant dans Ethe.
 
 **07h20 :**
 
@@ -466,7 +466,7 @@ Le bataillon Vicq, soutien de cavalerie, est engagé tout entier dans un violent
 _La difficulté de manoeuvrer une batterie dans des chemins étroits_
 _Collection privée_
 
-La compagnie Moleux (12e) s’est portée en avant. Le brouillard est toujours épais et Moleux n’a pas de carte. La section d’avant-garde doit se diviser  pour longer les deux rives du Ton. Bientôt, les balles sifflent et le tir allemand devient très précis. La section du sous-lieutenant Mousseaux reçoit pour mission de déborder la position allemande, mais, arrivée sur la ligne de feu, elle doit se terrer. Le combat est très vif et les pertes sont graves. Les Français ne voient pas d’où vient le tir et ne peuvent pas répliquer.
+La compagnie Moleux (12e) s’est portée en avant. Le brouillard est toujours épais et Moleux n’a pas de carte. La section d’avant-garde doit se diviser pour longer les deux rives du Ton. Bientôt, les balles sifflent et le tir allemand devient très précis. La section du sous-lieutenant Mousseaux reçoit pour mission de déborder la position allemande, mais, arrivée sur la ligne de feu, elle doit se terrer. Le combat est très vif et les pertes sont graves. Les Français ne voient pas d’où vient le tir et ne peuvent pas répliquer.
 
 Le capitaine Moleux appelle à l’aide le commandant Vicq, qui décide de l’appuyer par la section de mitrailleuses. Les mitrailleurs déchargent les mulets et portent les mitrailleuses sur leurs épaules.
 
@@ -506,7 +506,7 @@ Le bataillon Henry, du 104e R.I., tête d’avant-garde de la division, est dép
 
 Toute la 14e brigade moins trois compagnies est engagée dans le combat dans le fond de la vallée du Ton. La lisière du Jeune Bois a été repérée par l’artillerie allemande et est rendue intenable.
 
-Les six bataillons de la brigade Félineau et le bataillon Laplace  du 101e sont largement déployés sur un front de plus de 3 km contre quinze bataillons allemands appuyés par 90 canons.
+Les six bataillons de la brigade Félineau et le bataillon Laplace du 101e sont largement déployés sur un front de plus de 3 km contre quinze bataillons allemands appuyés par 90 canons.
 
 - Le bataillon Jouvin du 103e est éparpillé sur la lisière nord d’Ethe, depuis Belmont jusqu’à Laclaireau.
 
@@ -540,7 +540,7 @@ Le colonel Lacotte reçoit, à Gomery, ordre du général de Trentinian de pouss
 
 - Deux compagnies (11e et 12e) du bataillon Tisserand (101e) se trouvent à l’entrée de Gomery.
 
-- Derrière se trouvent deux groupes du 26e d’artillerie, les dernières voitures à  la sortie de Ruettes, avec une compagnie (9e) du bataillon Tisserand.
+- Derrière se trouvent deux groupes du 26e d’artillerie, les dernières voitures à la sortie de Ruettes, avec une compagnie (9e) du bataillon Tisserand.
 
 - L’artillerie est suivie du bataillon Lebaud, du 101e et de trois bataillons du 102e, dont les dernières unités attendent sur la route près de la Malmaison.
 
@@ -557,8 +557,8 @@ Le commandant du 26e place un groupe d’artillerie sur la croupe 293 (Gomery). 
 Les éléments disponibles du bataillon Forcinal (2e), déployés face au nord, au-delà du talus de la voie ferrée, se disposent à partir à l’assaut en exécution des ordres du général de division. Devant ces troupes, le terrain présente une pente légèrement ascendante, couverte de hautes avoines. Une crête barre l’horizon à 150 m. Par bonds d’une trentaine de mètres, les sections françaises franchissent le glacis mais dès qu’elles tentent de dépasser la crête, elles sont immédiatement décimées par les rafales de mitrailleuses et les tirs d’artillerie.
 
 - **9h**
-Situation :
-  Le bataillon Forcinal et une partie des bataillons Jouvin et Levin et deux batteries d’artillerie tiennent Ethe et les abords du village.
+  Situation :
+    Le bataillon Forcinal et une partie des bataillons Jouvin et Levin et deux batteries d’artillerie tiennent Ethe et les abords du village.
 
 - A droite, les bataillons Vicq, Henry et quelques compagnies du bataillon Levin défendent le terrain entre Hamawé et la crête de Gevimont.
 
@@ -618,19 +618,19 @@ Des fractions allemandes sont signalées débouchant de Belmont et s’infiltran
 
 **13e brigade**
 
-Les deux bataillons des 101e et 102e  R.I. garnissent la lisière du Jeune Bois et se trouvent ainsi disposés de la gauche vers la droite :
+Les deux bataillons des 101e et 102e R.I. garnissent la lisière du Jeune Bois et se trouvent ainsi disposés de la gauche vers la droite :
 
 - 6e compagnie du 102e (Gérard)
-  2e compagnie du 101e (Segonne) et 3e compagnie du 101e (Nicolas)
-  7e compagnie du 102e (Fromont)
-  4e peloton du 101e et section de mitrailleuses du 102e dont la droite est sur le chemin forestier reliant Ethe à Gomery.
+    2e compagnie du 101e (Segonne) et 3e compagnie du 101e (Nicolas)
+    7e compagnie du 102e (Fromont)
+    4e peloton du 101e et section de mitrailleuses du 102e dont la droite est sur le chemin forestier reliant Ethe à Gomery.
 
 Les autres unités des deux bataillons sont en renfort à l’intérieur du bois.
 
 Quand les unités de première ligne tentent de dépasser la lisière, elles sont accueillies par un feu violent. Tout le terrain en avant, dévalant vers Ethe, est déjà jonché de centaines de cadavres. Le colonel Farret envisage un mouvement enveloppant à exécuter par le bois de Bampont sur Belmont (ouest d’Ethe).
 
 ![(JPG)](../img/101_RI4.jpg)
-_101e R.I. -  13e brigade_
+_101e R.I. - 13e brigade_
 _Collection privée_
 
 Les deux compagnies du bataillon Tisserand, parties les premières au secours de la 14e brigade, sont immobilisées. Elles avaient essayé de déboucher de la lisière du Jeune Bois vers Ethe, à l’est du chemin Ethe-Gomery, mais une grêle de balles les avait clouées au sol. Demeurées à mi-pente, elles ont été décimées.
@@ -715,7 +715,7 @@ Dès que la ligne de tirailleurs allemands essaie de quitter la lisière, elle e
 _115e R.I. - 16e brigade_
 _Collection privée_
 
-La destruction de la 14e brigade semble prochaine. Il vaut tenter de dégager sa gauche et prescrit une contre-attaque. Il faut pour cela franchir deux crêtes sous le feu d’un ennemi invisible. Les pertes sont tout de suite considérables et il faut arrêter à 500 m  de Latour, car les troupes sont soumises à des tirs d’artillerie convergents de l’artillerie postée au nord d’Ethe et dans la région de Bleid.
+La destruction de la 14e brigade semble prochaine. Il vaut tenter de dégager sa gauche et prescrit une contre-attaque. Il faut pour cela franchir deux crêtes sous le feu d’un ennemi invisible. Les pertes sont tout de suite considérables et il faut arrêter à 500 m de Latour, car les troupes sont soumises à des tirs d’artillerie convergents de l’artillerie postée au nord d’Ethe et dans la région de Bleid.
 
 **14h :**
 
@@ -739,7 +739,7 @@ Depuis Belmont jusqu’à Latour, les trois bataillons du 46e allemand envoient 
 
 Tandis que la tenaille allemande menace Gomery, le 13e bataillon se retire vers la Malmaison, laissant le champ libre à l’enveloppement. Le 6e régiment de grenadiers allemand demeure disponible pour un assaut à la lisière du bois d’Etalle.
 
-Et pourtant, la tenaille ne se referme pas, car l’objectif du 13e C.A. allemand est Longwy et non Gomery. Le général Kosch attend le résultat de la manuvre enveloppante du 46e I.R. pour lancer le 6e grenadiers à l’assaut de la lisière nord d’Ethe, mais à ce moment, le commandant du 6e grenadiers et le chef d’E.M. de la 10e division sont tous deux mortellement atteints par le même obus, et l’ordre d’attaque n’est pas donné.
+Et pourtant, la tenaille ne se referme pas, car l’objectif du 13e C.A. allemand est Longwy et non Gomery. Le général Kosch attend le résultat de la manoeuvre enveloppante du 46e I.R. pour lancer le 6e grenadiers à l’assaut de la lisière nord d’Ethe, mais à ce moment, le commandant du 6e grenadiers et le chef d’E.M. de la 10e division sont tous deux mortellement atteints par le même obus, et l’ordre d’attaque n’est pas donné.
 
 ![(JPG)](../img/104eR.I._3.jpg)
 _104e R.I. (14e brigade)_
@@ -747,7 +747,7 @@ _Collection privée_
 
 Le commandant de la 10e division allemande ne se rend pas compte exactement de la situation : il croit que le point d’appui d’Ethe ne constitue qu’une position avancée, la vraie position des Français étant sur les hauteurs du Jeune Bois. Vu la solidité de ces positions, il estime qu’une attaque de front n’aurait aucune chance d’aboutir.
 
-Vers 17h, voyant que l’attaque débordante déclenchée depuis 10h ne produit aucun effet et sentant les défenseurs d’Ethe épuisés et à court de munitions, le commandant du 50e I.R. jette à l’assaut de la lisière nord d’Ethe son dernier bataillon maintenu jusque là en réserve. Ce bataillon qui a 500 m  à parcourir, marche droit au sud à travers les avoines jonchées de cadavres, mais il est immédiatement pris à partie par les compagnies de mitrailleurs du Jeune Bois et, décimé, il se disloque.
+Vers 17h, voyant que l’attaque débordante déclenchée depuis 10h ne produit aucun effet et sentant les défenseurs d’Ethe épuisés et à court de munitions, le commandant du 50e I.R. jette à l’assaut de la lisière nord d’Ethe son dernier bataillon maintenu jusque là en réserve. Ce bataillon qui a 500 m à parcourir, marche droit au sud à travers les avoines jonchées de cadavres, mais il est immédiatement pris à partie par les compagnies de mitrailleurs du Jeune Bois et, décimé, il se disloque.
 
 C’est le dernier effort des allemands durant cette journée, car il sont à bout de souffle : le 50e a perdu 600 hommes, de même que le 47e. L’artillerie a été également éprouvée : en amenant les pièces près des maisons d’Ethe, les Allemands ont subi des pertes en personnel et en matériel.
 

@@ -58,7 +58,7 @@ Les ordres pour le 17 août sont les suivants :
 
 - Le 20e C.A. s’établira face au nord, sa droite sur les hauteurs de Marsal.
 
-- Le 9e C.A. reçoit un ordre d’embarquement. Il est distrait de la IIe armée pour être  transporté vers le nord.
+- Le 9e C.A. reçoit un ordre d’embarquement. Il est distrait de la IIe armée pour être transporté vers le nord.
 
 ### IIIe armée française
 
@@ -72,7 +72,7 @@ De Langle de Cary donne ses ordres pour le 17.
 
 « Les avant-gardes de deux divisions de réserve et du C.A. de gauche seront sur la Semois, tenant les débouchés de la forêt d’Ardenne dans la clairière de Neufchâteau. L’avant-garde du C.A. du centre occupera le fond de la clairière de Florenville, les avant-gardes des C.A. de droite occuperont la clairière de Virton ».
 
-Cet ordre sera toutefois annulé, Joffre estimant la manuvre prématurée.
+Cet ordre sera toutefois annulé, Joffre estimant la manoeuvre prématurée.
 
 ### Ve armée française
 
@@ -142,8 +142,8 @@ L’armée reste en position sur la frontière belge en suivant la ligne Bra - M
 L’armée se porte avec ses trois C.A. sur la ligne de la Moselle.
 
 - 5e C.A. à Koenigsmacher.
-  13e C.A. à Thionville.
-  16e C.A. à Metz.
+    13e C.A. à Thionville.
+    16e C.A. à Metz.
 
 Le Q.G. de l’armée est à Thionville.
 
@@ -156,9 +156,9 @@ Rupprecht de Bavière entame nettement le repli vers la Sarre. Il fait organiser
 A midi,
 
 - Les 3e et 2e C.A. bavarois sont repliés sur la Nied française.
-  Le 21e C.A. est vers Dieuze.
-  Le 1e C.A.R. est à Fenestrange
-  Le 1e C.A. recule derrière Sarrebourg.
+    Le 21e C.A. est vers Dieuze.
+    Le 1e C.A.R. est à Fenestrange
+    Le 1e C.A. recule derrière Sarrebourg.
 
 Moltke doute des intentions des Français : ils n’ont avancé que de 20 km en trois jours et tardent à attaquer. Est-ce une simple démonstration ?
 

@@ -6,7 +6,7 @@ Ce site est l’oeuvre d’un particulier et est consacré aux opérations milit
 _Les deux adversaires : Joffre et Moltke_
 _Collection privée_
 
-L’histoire de la bataille des frontières, de la retraite à travers la Belgique et le Nord de la France et de la bataille de la Marne est l’exemple du redressement spectaculaire d’une situation presque compromise. L’Allemagne avait mis au point un plan longuement élaboré et théoriquement imparable pour battre rapidement l’armée française. Ses troupes possédaient une supériorité en armement, surtout en artillerie, une tactique tenant compte des effets dévastateurs des nouveaux armements. Elle avait constitué une masse de manuvre obligeant l’aile gauche franco-britannique à lutter presque à un contre deux.
+L’histoire de la bataille des frontières, de la retraite à travers la Belgique et le Nord de la France et de la bataille de la Marne est l’exemple du redressement spectaculaire d’une situation presque compromise. L’Allemagne avait mis au point un plan longuement élaboré et théoriquement imparable pour battre rapidement l’armée française. Ses troupes possédaient une supériorité en armement, surtout en artillerie, une tactique tenant compte des effets dévastateurs des nouveaux armements. Elle avait constitué une masse de manoeuvre obligeant l’aile gauche franco-britannique à lutter presque à un contre deux.
 
 Et pourtant, ce plan s’effondra au bout d’un mois après une série ininterrompue de succès, d’où l’on peut se poser les questions :
 

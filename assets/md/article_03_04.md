@@ -9,44 +9,35 @@ D’autre part, les Français avaient fortifié leur frontière Est. Séré de R
 Du nord au sud de la frontière avec l’Allemagne, plusieurs places fortes avaient été créées :
 
 - Montmédy
-
 - Longwy
-
 - Verdun
-
 - Toul
-
 - Epinal
-
 - Belfort
 
 Entre ces places fortes, un rideau de forts avait été tendu.
 
 Une attaque frontale de ces places et de ces forts nécessiterait beaucoup de temps et certainement entraînerait beaucoup de pertes. Pendant ce temps, l’armée russe aurait le temps de se rassembler et de passer à l’offensive.
 
-Faire passer  la masse de manuvre entre Verdun et la frontière belge ne serait pas susceptible de produire des effets suffisants, ce couloir étant trop étroit pour pouvoir déployer les armées. Il faudrait donc élargir le théâtre d’opérations vers le nord.
+Faire passer la masse de manoeuvre entre Verdun et la frontière belge ne serait pas susceptible de produire des effets suffisants, ce couloir étant trop étroit pour pouvoir déployer les armées. Il faudrait donc élargir le théâtre d’opérations vers le nord.
 
-Comme la frontière du nord de la France n’est garnie que d’ouvrages dépassés (Sedan, Givet, Maubeuge, Lille, fort de Curgies), il semble plus logique de contourner la ligne de fortifications par le nord. Cette manuvre implique toutefois la violation de la neutralité de 2 pays : la Belgique et le Luxembourg et  pose plusieurs problèmes :
+Comme la frontière du nord de la France n’est garnie que d’ouvrages dépassés (Sedan, Givet, Maubeuge, Lille, fort de Curgies), il semble plus logique de contourner la ligne de fortifications par le nord. Cette manoeuvre implique toutefois la violation de la neutralité de 2 pays : la Belgique et le Luxembourg et pose plusieurs problèmes :
 
 - La Grande-Bretagne risque d’intervenir dès l’annonce de la violation de la neutralité belge : les Anglais n’ont jamais admis qu’une grande puissance se trouve face à eux de l’autre côté de la Manche (voir les guerres contre Napoléon).
-
 - Pour ne pas traverser le Limbourg hollandais, il faut passer entre Liège et la frontière hollandaise. Cet espace peut être interdit de passage par l’artillerie des forts de Liège, d’où la nécessité de neutraliser cette place forte avant tout mouvement d’une armée.
-
 - L’aile marchante de l’armée (Ie armée) doit parcourir 450 km de la frontière allemande jusqu’à Paris en passant par Bruxelles. Les armées de l’époque se déplacent à pied : une épreuve d’endurance pour les troupes, mais qui ne semble pas soulever de problème pour l’Etat-Major allemand.
 
-Schlieffen  (chef d’Etat-Major de l’armée allemande entre 1891 et 1906) se doute que les Français lanceront une offensive pour tenter de récupérer l’Alsace-Lorraine qui leur ont été ravies après la guerre de 1870. Ce sera tout bénéfice pour l’exécution de son plan car les Français dégarniront leur aile gauche, là où portera précisément le poids de leur attaque.
+Schlieffen (chef d’Etat-Major de l’armée allemande entre 1891 et 1906) se doute que les Français lanceront une offensive pour tenter de récupérer l’Alsace-Lorraine qui leur ont été ravies après la guerre de 1870. Ce sera tout bénéfice pour l’exécution de son plan car les Français dégarniront leur aile gauche, là où portera précisément le poids de leur attaque.
 
 **[Lien vers croquis](../img/olan_schlieffen2.jpg)**
 
 Il met au point son plan définitif en 1905 :
 
 - Un groupe au nord, aussi puissant que possible, progressera rapidement vers le front Bruxelles - Namur. A ce groupe seront affectés neuf C.A. et cinq D.C. en première ligne et en seconde ligne sept C.A. pour la protection de l’aile droite et l’investissement d’Anvers.
-
 - Un groupe du centre, composé de six C.A. et d’une D.C., se dirigera vers la Meuse, de Mézières à Verdun.
-
 - Cinq C.A., s’appuyant sur Metz (position fortifiée allemande), couvriront le flanc gauche contre une attaque venant de la ligne Verdun - Toul. C’est l’aile défensive.
 
-Le groupe nord aura la charge d’envelopper la gauche française, en se dirigeant vers la gauche de la position de l’Aisne (Reims - La Fère), si les Français réussissent  à se retirer sur cette ligne. S’ils parviennent à former un flanc défensif derrière l’Oise, sur la ligne La Fère - Paris, ce flanc sera attaqué en progressant de positions en positions et en encerclant Paris par l’ouest et par le sud.
+Le groupe nord aura la charge d’envelopper la gauche française, en se dirigeant vers la gauche de la position de l’Aisne (Reims - La Fère), si les Français réussissent à se retirer sur cette ligne. S’ils parviennent à former un flanc défensif derrière l’Oise, sur la ligne La Fère - Paris, ce flanc sera attaqué en progressant de positions en positions et en encerclant Paris par l’ouest et par le sud.
 
 L’aile défensive a la mission suivante :
 
@@ -64,8 +55,7 @@ Au lieu de quatre C.A. prévus par Schlieffen, celles-ci se voient dotées de hu
 
 Les forces du front occidental sont réparties en 7 armées.
 
-- La masse de manuvre se trouvant au nord de la Moselstellung (région fortifiée de la Moselle, soit Metz - Thionville), comprend 5 armées, soit 26 C.A. ou 52 divisions + 7 D.C.
-
+- La masse de manoeuvre se trouvant au nord de la Moselstellung (région fortifiée de la Moselle, soit Metz - Thionville), comprend 5 armées, soit 26 C.A. ou 52 divisions + 7 D.C.
 - Au sud de la Moselstellung, il y a 18 divisions + 3 D.C.
 
 Dans le plan Schlieffen, la proportion entre le front mobile et le front statique était de 7 à 1. Avec le plan Moltke, cette proportion n’est plus que de 3 à 1.
@@ -75,15 +65,12 @@ Voici les objectifs des différentes armées :
 La masse principale :
 
 - La Ie armée de 320.000 hommes doit franchir la Meuse au nord de Liège.
-
 - La II armée de 260.000 hommes doit franchir ce fleuve entre Liège et Namur. Ces deux armées doivent marcher sur Bruxelles et Charleroi.
 
 Le centre :
 
 - La IIIe armée de 180.000 hommes est orientée vers Dinant.
-
 - La IVe armée de 200.000 hommes est orientée vers Saint-Hubert.
-
 - La Ve armée de 200.000 hommes a Longwy pour objectif.
 
 L’aile gauche :
@@ -91,27 +78,23 @@ L’aile gauche :
 Les autres armées massées à la frontière franco-allemande (Lorraine et Alsace) ont un rôle défensif : elles doivent reculer lors de l’assaut français et constituer un piège où les armées françaises s’enfonceront.
 
 - La VIe armée compte 220.000 hommes.
-
 - La VIIe armée compte 120.000 hommes.
 
 Le total des forces mises en uvre sur le front occidental représente 1.500.000 hommes, réserves comprises.
 
 La position de Liège doit être réduite. Les forces d’attaque contre Liège doivent franchir la frontière belge dès le troisième jour de la mobilisation et tenter un coup de main contre Liège dès le cinquième jour. En cas d’échec, l’artillerie de gros calibre doit entrer en action dès le onzième jour. Ce n’est que lorsque Liège sera prise et dès que les Ie et IIe armées auront franchi la Meuse que l’O.H.L. enverra l’ordre de mise en route de la masse tournante.
 
-·       La route de Liège doit être forcée le 12e jour de la mobilisation.
+La route de Liège doit être forcée le 12e jour de la mobilisation.
 
 - Bruxelles doit tomber le 19e jour.
-
 - La frontière française doit être atteinte le 22e jour.
-
 - La ligne Thionville - Saint-Quentin doit être franchie le 31e jour.
-
 - Paris tomberait le 39e jour.
 
-Voici la concentration  initiale des armées en août 14
+Voici la concentration initiale des armées en août 14
 
 ![(JPG)](../img/concentration__initiale__armees.jpg)
 _Concentration initiale des armées_
 _La Belgique et la guerre_
 
-L’Etat-Major allemand décide de mettre en première ligne les corps de réserve qui portent le même numéro que les corps actifs. Ce sera la mauvaise surprise pour Joffre qui ne s’y attend pas et ne pense pas que les Allemands mettront en uvre des moyens aussi importants. Se basant sur cette supposition, l’E.M. français ne peut deviner l’ampleur que prendra le mouvement tournant de la masse de manuvre (jusqu’à Bruxelles).
+L’Etat-Major allemand décide de mettre en première ligne les corps de réserve qui portent le même numéro que les corps actifs. Ce sera la mauvaise surprise pour Joffre qui ne s’y attend pas et ne pense pas que les Allemands mettront en uvre des moyens aussi importants. Se basant sur cette supposition, l’E.M. français ne peut deviner l’ampleur que prendra le mouvement tournant de la masse de manoeuvre (jusqu’à Bruxelles).

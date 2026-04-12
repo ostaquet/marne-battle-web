@@ -87,20 +87,20 @@ _Collection privée_
 
 14e division : général de Villaret
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 27e brigade | Berge | 44e R.I. (Lons-le-Saulnier)60e R.I. (Besançon) |
-| 28e brigade | Faës | 35e R.I. (Belfort)42e R.I. (Belfort) |
-| Elements divisionnaires |  | 11e régiment de chasseurs à cheval (un escadron - Vesoul)47e R.A.C. (Héricourt) |
+| Unité                   | Commandant | Régiments                                                                       |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------- |
+| 27e brigade             | Berge      | 44e R.I. (Lons-le-Saulnier)60e R.I. (Besançon)                                  |
+| 28e brigade             | Faës       | 35e R.I. (Belfort)42e R.I. (Belfort)                                            |
+| Elements divisionnaires |            | 11e régiment de chasseurs à cheval (un escadron - Vesoul)47e R.A.C. (Héricourt) |
 
 41e division : général Superbie
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 81e brigade | Bataille | 152e R.I. (Gerardmer)5e bataillon de chasseurs (Besançon, Remiremont)15e bataillon de chasseurs à pied (Montbéliard, Remiremont) |
-| 82e brigade | Coste | 23e R.I. (Bourg en Bresse)133e R.I. (Belley) |
-| Eléments divisionnaires |  | 11e régiment de chasseurs à cheval (un escadron - Vesoul)4e R.A.C. (Besançon) |
-| Réserves |  | 352e R.I. (Gerardmer)45e bataillon de chasseurs à pied55e bataillon de chasseurs à pied11e régiment de chasseurs à cheval (Vesoul)5e R.A.C. (Besançon) |
+| Unité                   | Commandant | Régiments                                                                                                                                              |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 81e brigade             | Bataille   | 152e R.I. (Gerardmer)5e bataillon de chasseurs (Besançon, Remiremont)15e bataillon de chasseurs à pied (Montbéliard, Remiremont)                       |
+| 82e brigade             | Coste      | 23e R.I. (Bourg en Bresse)133e R.I. (Belley)                                                                                                           |
+| Eléments divisionnaires |            | 11e régiment de chasseurs à cheval (un escadron - Vesoul)4e R.A.C. (Besançon)                                                                          |
+| Réserves                |            | 352e R.I. (Gerardmer)45e bataillon de chasseurs à pied55e bataillon de chasseurs à pied11e régiment de chasseurs à cheval (Vesoul)5e R.A.C. (Besançon) |
 
 **5e groupe de divisions de réserve, général de Lamaze**
 
@@ -110,17 +110,17 @@ _La guerre du droit_
 
 55e division d’infanterie de réserve : général Leguay
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 109e brigade d’infanterie | Arrivet | 204e R.I. (Auxerre)282e R.I. (Montargis)289e R.I. (Sens, Paris) |
-| 110e brigade d’infanterie | Malubray | 231e R.I. (Melun, Paris)246e R.I. (Fontainebleau, Paris)276e R.I. (Coulommiers, Paris)32e régiment de dragons (deux escadrons - Versailles)13e R.A.C. (Vincennes)30e R.A.C. (Orléans)45e R.A.C. (Orléans) |
+| Unité                     | Commandant | Régiments                                                                                                                                                                                                 |
+| ------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 109e brigade d’infanterie | Arrivet    | 204e R.I. (Auxerre)282e R.I. (Montargis)289e R.I. (Sens, Paris)                                                                                                                                           |
+| 110e brigade d’infanterie | Malubray   | 231e R.I. (Melun, Paris)246e R.I. (Fontainebleau, Paris)276e R.I. (Coulommiers, Paris)32e régiment de dragons (deux escadrons - Versailles)13e R.A.C. (Vincennes)30e R.A.C. (Orléans)45e R.A.C. (Orléans) |
 
 56e division d’infanterie de réserve : général de Dartein
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 111e brigade | Bonne | 294e R.I. (Bar-le-Duc)354e R.I. (Nar-le-Duc, Lérouville)355e R.I. (Châlons-sur-Marne, Commercy) |
-| 112e brigade d’infanterie | Cornille | 350e R.I. (Soissons, Saint-Mihiel)361e R.I. (Cambrai, Saint-Mihiel)13e régiment de hussards (un escadron - Dinan)25e R.A.C. (un groupe - Châlons-sur-Marne)32e R.A.C. (un groupe - Orléans, Fontainebleau)40e R.A.C. (un groupe - Saint-Mihiel) |
+| Unité                     | Commandant | Régiments                                                                                                                                                                                                                                       |
+| ------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 111e brigade              | Bonne      | 294e R.I. (Bar-le-Duc)354e R.I. (Nar-le-Duc, Lérouville)355e R.I. (Châlons-sur-Marne, Commercy)                                                                                                                                                 |
+| 112e brigade d’infanterie | Cornille   | 350e R.I. (Soissons, Saint-Mihiel)361e R.I. (Cambrai, Saint-Mihiel)13e régiment de hussards (un escadron - Dinan)25e R.A.C. (un groupe - Châlons-sur-Marne)32e R.A.C. (un groupe - Orléans, Fontainebleau)40e R.A.C. (un groupe - Saint-Mihiel) |
 
 **4e C.A. : (Le Mans), général Boëlle**
 
@@ -132,20 +132,20 @@ Ce C.A., qui a déjà participé à la bataille de Longwy, a été prélevé sur
 
 7e division : général de Trentinian
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 13e brigade | de Favrot | 101e R.I. (Saint-Cloud)102e R.I (Chartres, Paris) |
-| 14e brigade | Félineau | 103e R.I. (Alençon, Paris)104 R.I. (Argentan, Paris) |
-| Elements divisionnaires |  | 14e régiment de hussards (un escadron - Alençon)26e R.A.C. (trois groupes - Le Mans) |
+| Unité                   | Commandant | Régiments                                                                            |
+| ----------------------- | ---------- | ------------------------------------------------------------------------------------ |
+| 13e brigade             | de Favrot  | 101e R.I. (Saint-Cloud)102e R.I (Chartres, Paris)                                    |
+| 14e brigade             | Félineau   | 103e R.I. (Alençon, Paris)104 R.I. (Argentan, Paris)                                 |
+| Elements divisionnaires |            | 14e régiment de hussards (un escadron - Alençon)26e R.A.C. (trois groupes - Le Mans) |
 
 8e division : général de Lartigue
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 15e brigade |  | 124e R.I. (Laval)130e R.I. (Mayenne) |
-| 16e brigade | Desvaux | 115e R.I. (Mamers)117e R.I. (Le Mans) |
-| Elements divisionnaires |  | 14e régiment de hussards (un escadron - Alençon)31e R.A.C. (Le Mans) |
-| Réserves |  | 315e R.I. (Mamers)317e R.I. (Le Mans)44e R.A.. (Le Mans) |
+| Unité                   | Commandant | Régiments                                                            |
+| ----------------------- | ---------- | -------------------------------------------------------------------- |
+| 15e brigade             |            | 124e R.I. (Laval)130e R.I. (Mayenne)                                 |
+| 16e brigade             | Desvaux    | 115e R.I. (Mamers)117e R.I. (Le Mans)                                |
+| Elements divisionnaires |            | 14e régiment de hussards (un escadron - Alençon)31e R.A.C. (Le Mans) |
+| Réserves                |            | 315e R.I. (Mamers)317e R.I. (Le Mans)44e R.A.. (Le Mans)             |
 
 **6e groupe de divisions de réserve, général Ebener**
 
@@ -153,25 +153,25 @@ Ce groupe était, lors de la mobilisation, à la disposition du ministre.
 
 61e division d’infanterie de réserve : général Deprez
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 121e brigade | Delarue | 264e R.I. (Ancenis)265e R.I. (Nantes)316e R.I. (Vannes) |
-| 122e brigade | Tesson | 219e R.I. (Brest)262e R.I. (Lorient)318e R.I. (Quimper)1e régiment de dragons (un escadron - Luçon)28e R.A.C. (un groupe - Vannes)35e R.A.C. (un groupe - Vannes)51e R.A.C. (un groupe - Nantes) |
+| Unité        | Commandant | Régiments                                                                                                                                                                                        |
+| ------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 121e brigade | Delarue    | 264e R.I. (Ancenis)265e R.I. (Nantes)316e R.I. (Vannes)                                                                                                                                          |
+| 122e brigade | Tesson     | 219e R.I. (Brest)262e R.I. (Lorient)318e R.I. (Quimper)1e régiment de dragons (un escadron - Luçon)28e R.A.C. (un groupe - Vannes)35e R.A.C. (un groupe - Vannes)51e R.A.C. (un groupe - Nantes) |
 
 62e division d’infanterie de réserve : général Ganeval
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 123e brigade | Peyriague | 263e R.I. (Limoges)278e R.I. (Guéret, Limoges)338e R.I. (Magnac-Laval, Bellac) |
-| 124e brigade | Ninous | 250e R.I. (Périgueux)307e R.I. (Angoulème)308e R.I. (Bergerac)20e régiment de dragons (deux escadrons - Limoges)21e R.A.C. (un groupe - Angoulême)34e R.A.C. (un groupe - Périgueux)52e R.A.C. (un groupe - Angoulême) |
+| Unité        | Commandant | Régiments                                                                                                                                                                                                              |
+| ------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 123e brigade | Peyriague  | 263e R.I. (Limoges)278e R.I. (Guéret, Limoges)338e R.I. (Magnac-Laval, Bellac)                                                                                                                                         |
+| 124e brigade | Ninous     | 250e R.I. (Périgueux)307e R.I. (Angoulème)308e R.I. (Bergerac)20e régiment de dragons (deux escadrons - Limoges)21e R.A.C. (un groupe - Angoulême)34e R.A.C. (un groupe - Périgueux)52e R.A.C. (un groupe - Angoulême) |
 
 **37e division d’infanterie, général Comby**
 
 Cette division, composé de troupes africaines, a été prélevé sur la Ve armée.
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 73e brigade | Degot | régiment marche du 2e zouaves (trois bataillons - Oran)Régiment du marche du 2e tirailleurs (trois bataillons - Mostaganem)Régiment de marche du 5e tirailleurs (deux bataillons - Rabat)Régiment de marche du 6e tirailleurs (deux bataillons - Taourit) |
+| Unité       | Commandant  | Régiments                                                                                                                                                                                                                                                          |
+| ----------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 73e brigade | Degot       | régiment marche du 2e zouaves (trois bataillons - Oran)Régiment du marche du 2e tirailleurs (trois bataillons - Mostaganem)Régiment de marche du 5e tirailleurs (deux bataillons - Rabat)Régiment de marche du 6e tirailleurs (deux bataillons - Taourit)          |
 | 74e brigade | Le Bouhélec | Régiment de marche du 5e zouaves (trois bataillons)3e régiment de tirailleurs (trois bataillons - Constantine)Régiment de marche du 7e tirailleurs (un bataillon - Constantine)6e régiment de chasseurs d’Afrique (un escadron - Mascara)3 groupes de 75 d’Afrique |
 
 **45e division d’infanterie, général Drude**
@@ -180,9 +180,9 @@ Cette division, composé de troupes africaines, a été prélevé sur la Ve arm�
 _Général Drude (45e D.I.)_
 _La guerre du droit_
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 89e brigade | Trafford | Régiment de marche du 1e zouaves (Alger)régiment du 3e zouaves (Batna) |
+| Unité       | Commandant | Régiments                                                                                                                                                                                                                            |
+| ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 89e brigade | Trafford   | Régiment de marche du 1e zouaves (Alger)régiment du 3e zouaves (Batna)                                                                                                                                                               |
 | 90e brigade | Quincandon | régiment de marche du 2e zouaves (Oran)régiment de marche du 2e tirailleurs (Mostaganem)1e régiment de chasseurs d’Afrique (Blida)2e régiment de chasseurs d’Afrique (Tlemcen)1e groupe d’artillerie d’Afrique52e R.A.C. (Angoulême) |
 
 **Brigade de chasseurs indigènes, général Ditte**
@@ -197,30 +197,30 @@ _La guerre du droit_
 
 1e division de cavalerie : général Buisson
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 2e brigade de cuirassiers | Louvat | 1e régiment de cuirassiers (Paris)2e régiment de cuirassiers (Paris) |
-| 5e brigade de dragons | Silvestre | 6e régiment de dragons (Vincennes)23e régiment de dragons (Vincennes) |
-| 11e brigade de dragons | Corvisart | 27e régiment de dragons (Versailles)32e régiments de dragons (Versailles) |
-| Eléments divisionnaires |  | 1e groupe cycliste du 26e bataillon de chasseurs à pied (Vincennes, Pont-à-Mousson)13e R.A.C. (un groupe - Vincennes) |
+| Unité                     | Commandant | Régiments                                                                                                             |
+| ------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------- |
+| 2e brigade de cuirassiers | Louvat     | 1e régiment de cuirassiers (Paris)2e régiment de cuirassiers (Paris)                                                  |
+| 5e brigade de dragons     | Silvestre  | 6e régiment de dragons (Vincennes)23e régiment de dragons (Vincennes)                                                 |
+| 11e brigade de dragons    | Corvisart  | 27e régiment de dragons (Versailles)32e régiments de dragons (Versailles)                                             |
+| Eléments divisionnaires   |            | 1e groupe cycliste du 26e bataillon de chasseurs à pied (Vincennes, Pont-à-Mousson)13e R.A.C. (un groupe - Vincennes) |
 
 3e division de cavalerie : général Dor de Lastours
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 4e brigade de cuirassiers | Gouzil | 4e régiment de cuirassiers (Valenciennes, Cambrai)9e régiment de cuirassiers (Douai) |
-| 13e brigade de dragons | Léorat | 5e régiment de dragons (Compiègne)7e régiment de dragons (Fontainebleau) |
-| 3e brigade de cavalerie légère | de la Villestreux | 3e régiment de hussards (Senlis)8e régiment de hussards (Meaux) |
-| Eléments divisionnaires |  | 3e groupe cycliste du 18e bataillon de chasseurs à pied (Amiens)42e R.A.C. (Stenay) |
+| Unité                          | Commandant        | Régiments                                                                            |
+| ------------------------------ | ----------------- | ------------------------------------------------------------------------------------ |
+| 4e brigade de cuirassiers      | Gouzil            | 4e régiment de cuirassiers (Valenciennes, Cambrai)9e régiment de cuirassiers (Douai) |
+| 13e brigade de dragons         | Léorat            | 5e régiment de dragons (Compiègne)7e régiment de dragons (Fontainebleau)             |
+| 3e brigade de cavalerie légère | de la Villestreux | 3e régiment de hussards (Senlis)8e régiment de hussards (Meaux)                      |
+| Eléments divisionnaires        |                   | 3e groupe cycliste du 18e bataillon de chasseurs à pied (Amiens)42e R.A.C. (Stenay)  |
 
 5e division de cavalerie : général Bridoux
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 3e brigade de dragons | Lallemand | 16e régiment de dragons (Reims)22e régiment de dragons (Reims) |
-| 7e brigade de dragons | de Marcieux | 9e régiment de dragons (Epernay)29e régiment de dragons (Provins) |
-| 5e brigade de cavalerie légère | Cornulier-Lucinière | 5e régiment de chasseurs à cheval (Châlons-sur-Marne)15e régiment de chasseurs à cheval (Châlons-sur-Marne) |
-| Eléments divisionnaires |  | 5e groupe cycliste du 29e bataillon de chasseurs à pied (Epernay, Saint-Mihiel)61e R.A.C. (un groupe - Verdun) |
+| Unité                          | Commandant          | Régiments                                                                                                      |
+| ------------------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 3e brigade de dragons          | Lallemand           | 16e régiment de dragons (Reims)22e régiment de dragons (Reims)                                                 |
+| 7e brigade de dragons          | de Marcieux         | 9e régiment de dragons (Epernay)29e régiment de dragons (Provins)                                              |
+| 5e brigade de cavalerie légère | Cornulier-Lucinière | 5e régiment de chasseurs à cheval (Châlons-sur-Marne)15e régiment de chasseurs à cheval (Châlons-sur-Marne)    |
+| Eléments divisionnaires        |                     | 5e groupe cycliste du 29e bataillon de chasseurs à pied (Epernay, Saint-Mihiel)61e R.A.C. (un groupe - Verdun) |
 
 **Brigade de cavalerie Gillet.**
 
@@ -242,21 +242,21 @@ _Collection privée_
 
 7e division d’infanterie de rés. : général von Schwerin
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 13.Reserve-Infanterie-Brigade |  | Magdeburgisches Reserve-Infanterie-Regiment Nr. 27Reserve-Infanterie-Regiment Nr. 36 |
-| 14.Reserve-Infanterie-Brigade |  | Reserve-Infanterie-Regiment Nr. 66Reserve-Infanterie-Regiment Nr. 72Reserve-Jäger-Bataillon Nr. 4 |
-| Cavalerie |  | Schweres Reserve-Reiter-Regiment Nr. 1 |
-| Artillerie |  | Reserve-Feldartillerie-Regiment Nr. 7 |
+| Unité                         | Commandant | Régiments                                                                                         |
+| ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------- |
+| 13.Reserve-Infanterie-Brigade |            | Magdeburgisches Reserve-Infanterie-Regiment Nr. 27Reserve-Infanterie-Regiment Nr. 36              |
+| 14.Reserve-Infanterie-Brigade |            | Reserve-Infanterie-Regiment Nr. 66Reserve-Infanterie-Regiment Nr. 72Reserve-Jäger-Bataillon Nr. 4 |
+| Cavalerie                     |            | Schweres Reserve-Reiter-Regiment Nr. 1                                                            |
+| Artillerie                    |            | Reserve-Feldartillerie-Regiment Nr. 7                                                             |
 
 22e division d’infanterie de rés.
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 43.Reserve-Infanterie-Brigade |  | Reserve-Infanterie-Regiment Nr. 71Reserve-Infanterie-Regiment Nr. 92 |
-| 44.Reserve-Infanterie-Brigade |  | Reserve-Infanterie-Regiment Nr. 32Reserve-Infanterie-Regiment Nr. 82Reserve-Jäger-Bataillon Nr. 4 |
-| Cavalerie |  | Reserve-Jäger Regiment zu Pferde Nr. 1 |
-| Artillerie |  | Reserve-Feldartillerie-Regiment Nr. 22 |
+| Unité                         | Commandant | Régiments                                                                                         |
+| ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------- |
+| 43.Reserve-Infanterie-Brigade |            | Reserve-Infanterie-Regiment Nr. 71Reserve-Infanterie-Regiment Nr. 92                              |
+| 44.Reserve-Infanterie-Brigade |            | Reserve-Infanterie-Regiment Nr. 32Reserve-Infanterie-Regiment Nr. 82Reserve-Jäger-Bataillon Nr. 4 |
+| Cavalerie                     |            | Reserve-Jäger Regiment zu Pferde Nr. 1                                                            |
+| Artillerie                    |            | Reserve-Feldartillerie-Regiment Nr. 22                                                            |
 
 **2e C.A. : (Stettin), général von Linsingen**
 
@@ -266,21 +266,21 @@ _Collection privée_
 
 3e division d’infanterie : général von Trossel
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 5.Infanterie-Brigade |  | Grenadier-Regiment Nr. 2 (Stettin)Colbergsches-Grenadier-Regiment Nr. 9 (Stagard) |
-| 6.Infanterie-Brigade |  | Füsilier-Regiment Nr. 34 (Stettin)Infanterie-Regiment Nr. 42 Stralsund) |
-| Cavalerie divisionnaire |  | Grenadier-Regiment zu Pferde Nr. 3 |
-| 3.Feldartillerie-Brigade |  | 1. Pommersches Feldartillerie-Regiment Nr. 2 (Kolberg)Vorpommersches Feldartillerie-Regiment Nr. 38 (Stettin) |
+| Unité                    | Commandant | Régiments                                                                                                     |
+| ------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| 5.Infanterie-Brigade     |            | Grenadier-Regiment Nr. 2 (Stettin)Colbergsches-Grenadier-Regiment Nr. 9 (Stagard)                             |
+| 6.Infanterie-Brigade     |            | Füsilier-Regiment Nr. 34 (Stettin)Infanterie-Regiment Nr. 42 Stralsund)                                       |
+| Cavalerie divisionnaire  |            | Grenadier-Regiment zu Pferde Nr. 3                                                                            |
+| 3.Feldartillerie-Brigade |            | 1. Pommersches Feldartillerie-Regiment Nr. 2 (Kolberg)Vorpommersches Feldartillerie-Regiment Nr. 38 (Stettin) |
 
 4e division d’infanterie : général von Pannewitz
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 7.Infanterie-Brigade |  | Infanterie-Regiment Nr. 14 (Bromberg)6. Westpreußisches Infanterie-Regiment Nr. 149 (Schneidemühl) |
-| 8.Infanterie-Brigade |  | 6. Pommersches Infanterie-Regiment Nr. 49 (Gnesen)4. Westpreußisches Infanterie-Regiment Nr. 140 (Hohensalza) |
-| Cavalerie divisionnaire |  | Dragoner-Regiment Nr. 12 (Gnesen) |
-| 4. Feldartillerie-Brigade |  | 2. Pommersches Feldartillerie-Regiment Nr. 17 (Bromberg)Hinterpommersches Feldartillerie-Regiment Nr. 53 (Bromberg) |
+| Unité                     | Commandant | Régiments                                                                                                           |
+| ------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------- |
+| 7.Infanterie-Brigade      |            | Infanterie-Regiment Nr. 14 (Bromberg)6. Westpreußisches Infanterie-Regiment Nr. 149 (Schneidemühl)                  |
+| 8.Infanterie-Brigade      |            | 6. Pommersches Infanterie-Regiment Nr. 49 (Gnesen)4. Westpreußisches Infanterie-Regiment Nr. 140 (Hohensalza)       |
+| Cavalerie divisionnaire   |            | Dragoner-Regiment Nr. 12 (Gnesen)                                                                                   |
+| 4. Feldartillerie-Brigade |            | 2. Pommersches Feldartillerie-Regiment Nr. 17 (Bromberg)Hinterpommersches Feldartillerie-Regiment Nr. 53 (Bromberg) |
 
 **3e C.A. : (Berlin), général von Lochow**
 
@@ -290,21 +290,21 @@ _Collection privée_
 
 5e division d’infanterie : général Wichura
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 9.Infanterie-Brigade |  | Leib-Grenadier-Regiment Nr. 8 (Frankfurt a.d.O.)Infanterie-Regiment Nr. 48 (Cüstrin) |
-| 10.Infanterie-Brigade |  | Grenadier-Regiment Nr. 12 (Frankfurt a.d.O.)Infanterie-Regiment Nr. 52 (Cottbus)Brandenburgisches Jäger-Bataillon Nr. 3 (Lübben) |
-| Cavalerie divisionnaire |  | "1/2" Husaren-Regiment von Zieten (Brandenburgisches) Nr. 3 (Rathenow) |
-| 5.Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 18 (Frankfurt a.d.O.)Neumärkisches Feldartillerie-Regiment Nr. 54 (Cüstrin) |
+| Unité                    | Commandant | Régiments                                                                                                                        |
+| ------------------------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 9.Infanterie-Brigade     |            | Leib-Grenadier-Regiment Nr. 8 (Frankfurt a.d.O.)Infanterie-Regiment Nr. 48 (Cüstrin)                                             |
+| 10.Infanterie-Brigade    |            | Grenadier-Regiment Nr. 12 (Frankfurt a.d.O.)Infanterie-Regiment Nr. 52 (Cottbus)Brandenburgisches Jäger-Bataillon Nr. 3 (Lübben) |
+| Cavalerie divisionnaire  |            | "1/2" Husaren-Regiment von Zieten (Brandenburgisches) Nr. 3 (Rathenow)                                                           |
+| 5.Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 18 (Frankfurt a.d.O.)Neumärkisches Feldartillerie-Regiment Nr. 54 (Cüstrin)                          |
 
 6e division d’infanterie : général von Rohden
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 11.Infanterie-Brigade |  | Infanterie-Regiment Nr. 20 (Wittenberg)Füsilier-Regiment Nr. 35 (Brandenburg a.H.) |
-| 12.Infanterie-Brigade |  | Infanterie-Regiment Nr. 24 (Neu-Ruppin)Infanterie-Regiment Nr. 64 (Angermünde)Brandenburgisches Jäger-Bataillon Nr. 3 (Lübben) |
-| Cavalerie divisionnaire |  | "1/2" Husaren-Regiment von Zieten (Brandenburgisches) Nr. 3 (Rathenow) |
-| 6.Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 3 (Brandenburg a.H.)Kurmärkisches Feldartillerie-Regiment Nr. 39 (Perleberg) |
+| Unité                    | Commandant | Régiments                                                                                                                      |
+| ------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 11.Infanterie-Brigade    |            | Infanterie-Regiment Nr. 20 (Wittenberg)Füsilier-Regiment Nr. 35 (Brandenburg a.H.)                                             |
+| 12.Infanterie-Brigade    |            | Infanterie-Regiment Nr. 24 (Neu-Ruppin)Infanterie-Regiment Nr. 64 (Angermünde)Brandenburgisches Jäger-Bataillon Nr. 3 (Lübben) |
+| Cavalerie divisionnaire  |            | "1/2" Husaren-Regiment von Zieten (Brandenburgisches) Nr. 3 (Rathenow)                                                         |
+| 6.Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 3 (Brandenburg a.H.)Kurmärkisches Feldartillerie-Regiment Nr. 39 (Perleberg)                       |
 
 **4e C.A. : (Magdeburg), général Sixt von Arnim**
 
@@ -314,47 +314,48 @@ _Collection privée_
 
 7e division d’infanterie : général Riedel
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 13.Infanterie-Brigade |  | Infanterie-Regiment Nr. 26 (Magdeburg)3. Magdeburgisches Infanterie-Regiment Nr. 66 (Magdeburg) |
-| 14.Infanterie-Brigade |  | Infanterie-Regiment Nr. 27 (Halberstadt)5. Hannoversches Infanterie-Regiment Nr. 165 (Quedlimburg) |
-| Cavalerie divisionnaire |  | "1/2" Magdeburgisches Husaren-Regiment Nr. 10 (Leobschütz) |
-| 7. Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 4 (Magdeburg)Altmärkisches Feldartillerie-Regiment Nr. 40 (Burg) |
+| Unité                     | Commandant | Régiments                                                                                          |
+| ------------------------- | ---------- | -------------------------------------------------------------------------------------------------- |
+| 13.Infanterie-Brigade     |            | Infanterie-Regiment Nr. 26 (Magdeburg)3. Magdeburgisches Infanterie-Regiment Nr. 66 (Magdeburg)    |
+| 14.Infanterie-Brigade     |            | Infanterie-Regiment Nr. 27 (Halberstadt)5. Hannoversches Infanterie-Regiment Nr. 165 (Quedlimburg) |
+| Cavalerie divisionnaire   |            | "1/2" Magdeburgisches Husaren-Regiment Nr. 10 (Leobschütz)                                         |
+| 7. Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 4 (Magdeburg)Altmärkisches Feldartillerie-Regiment Nr. 40 (Burg)       |
 
 8e division d’infanterie : général Hildebrandt
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 15.Infanterie-Brigade |  | Füsilier-Regiment Nr. 36 (Halle a.S)Anhaltisches Infanterie-Regiment Nr. 93 (Dessau)Magdeburgisches Jäger-Bataillon Nr. 4 (Naumburg a.S.) |
-| 16.Infanterie-Brigade |  | 4. Thüringisches Infanterie-Regiment Nr. 72 (Torgau)8. Thüringisches Infanterie-Regiment Nr. 153 (Altenburg) |
-| Cavalerie divisionnaire |  | "1/2" Magdeburgisches Husaren-Regiment Nr. 10 (Stendal) |
-| 8. Feldartillerie-Brigade |  | Torgauer Feldartillerie-Regiment Nr. 74 (Torgau)Mansfelder Feldartillerie-Regiment Nr. 75 (Halle a.S.) |
+| Unité                     | Commandant | Régiments                                                                                                                                 |
+| ------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 15.Infanterie-Brigade     |            | Füsilier-Regiment Nr. 36 (Halle a.S)Anhaltisches Infanterie-Regiment Nr. 93 (Dessau)Magdeburgisches Jäger-Bataillon Nr. 4 (Naumburg a.S.) |
+| 16.Infanterie-Brigade     |            | 4. Thüringisches Infanterie-Regiment Nr. 72 (Torgau)8. Thüringisches Infanterie-Regiment Nr. 153 (Altenburg)                              |
+| Cavalerie divisionnaire   |            | "1/2" Magdeburgisches Husaren-Regiment Nr. 10 (Stendal)                                                                                   |
+| 8. Feldartillerie-Brigade |            | Torgauer Feldartillerie-Regiment Nr. 74 (Torgau)Mansfelder Feldartillerie-Regiment Nr. 75 (Halle a.S.)                                    |
 
 **9e C.A. : (Altona), général von Quast**
 
 ![Général von Quast  (9e C.A.) - 11.5 ko](../img/von_quast.jpg)
-_Général von Quast  (9e C.A.)_
+_Général von Quast (9e C.A.)_
 _Collection privée_
 
 17e division d’infanterie : général von Bauer
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 33. Infanterie-Brigade |  | Infanterie-Regiment Nr. 75 (Bremen)Infanterie-Regiment Nr. 76 (Hamburg) |
-| 34.Infanterie-Brigade |  | Großherzoglich Mecklenburgisches Grenadier-Regiment Nr. 89 (Schwerin)
+| Unité                  | Commandant | Régiments                                                               |
+| ---------------------- | ---------- | ----------------------------------------------------------------------- |
+| 33. Infanterie-Brigade |            | Infanterie-Regiment Nr. 75 (Bremen)Infanterie-Regiment Nr. 76 (Hamburg) |
+| 34.Infanterie-Brigade  |            | Großherzoglich Mecklenburgisches Grenadier-Regiment Nr. 89 (Schwerin)   |
+
 Großherzoglich Mecklenburgisches Füsilier-Regiment Nr. 90 (Rostock)
 Lauenburgisches Jäger-Bataillon Nr. 9 (Ratzeburg) |
-| Cavalerie divisionnaire |  | Stab u. 3.Eskadron/2. Hannoversches Dragoner-Regiment Nr. 16 (Lüneburg) |
-| 17. Feldartillerie-Brigade |  | Holsteinisches Feldartillerie-Regiment Nr. 24 (Güstrow)Großherzoglich Mecklenburgisches Feldartillerie-Regiment Nr. 60 (Schwerin) |
+| Cavalerie divisionnaire | | Stab u. 3.Eskadron/2. Hannoversches Dragoner-Regiment Nr. 16 (Lüneburg) |
+| 17. Feldartillerie-Brigade | | Holsteinisches Feldartillerie-Regiment Nr. 24 (Güstrow)Großherzoglich Mecklenburgisches Feldartillerie-Regiment Nr. 60 (Schwerin) |
 
 18e division d’infanterie : général von Kluge
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 35. Infanterie-Brigade |  | Infanterie-Regiment Nr. 84 (Haldersleben)Füsilier-Regiment Nr. 86 (Flensburg) |
-| 36. Infanterie-Brigade |  | Infanterie-Regiment Nr. 31 (Altona)Infanterie-Regiment Nr. 85 (Rendsburg) |
-| Cavalerie divisionnaire |  | 3. Eskadron/2. Hannoversches Dragoner-Regiment Nr. 16 (Lüneburg) |
-| 18. Feldartillerie-Brigade |  | Feldartillerie-Regiment Nr. 9 (Itzehoe)Lauenburgisches Feldartillerie-Regiment Nr. 45 (Altona) |
+| Unité                      | Commandant | Régiments                                                                                      |
+| -------------------------- | ---------- | ---------------------------------------------------------------------------------------------- |
+| 35. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 84 (Haldersleben)Füsilier-Regiment Nr. 86 (Flensburg)                  |
+| 36. Infanterie-Brigade     |            | Infanterie-Regiment Nr. 31 (Altona)Infanterie-Regiment Nr. 85 (Rendsburg)                      |
+| Cavalerie divisionnaire    |            | 3. Eskadron/2. Hannoversches Dragoner-Regiment Nr. 16 (Lüneburg)                               |
+| 18. Feldartillerie-Brigade |            | Feldartillerie-Regiment Nr. 9 (Itzehoe)Lauenburgisches Feldartillerie-Regiment Nr. 45 (Altona) |
 
 **9e C.A.R. : (Altona), général von Böhn**
 
@@ -364,21 +365,21 @@ _Collection privée_
 
 17e division de réserve : général Wagener
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 81. Infanterie-Brigade |  | Infanterie-Regiment Nr. 162Schleswig-Holsteinisches Infanterie-Regiment Nr. 163 |
-| 33. Reserve-Infanterie-Brigade |  | Reserve-Infanterie-Regiment Nr. 75Reserve-Infanterie-Regiment Nr. 76 |
-| Cavalerie |  | Reserve-Husaren-Regiment Nr. 6 |
-| Artillerie |  | Reserve-Feldartillerie-Regiment Nr. 17 |
+| Unité                          | Commandant | Régiments                                                                       |
+| ------------------------------ | ---------- | ------------------------------------------------------------------------------- |
+| 81. Infanterie-Brigade         |            | Infanterie-Regiment Nr. 162Schleswig-Holsteinisches Infanterie-Regiment Nr. 163 |
+| 33. Reserve-Infanterie-Brigade |            | Reserve-Infanterie-Regiment Nr. 75Reserve-Infanterie-Regiment Nr. 76            |
+| Cavalerie                      |            | Reserve-Husaren-Regiment Nr. 6                                                  |
+| Artillerie                     |            | Reserve-Feldartillerie-Regiment Nr. 17                                          |
 
 18e division de réserve : général Gronen
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 34. Reserve-Infanterie-Brigade |  | Hanseatisches Reserve-Infanterie-Regiment Nr. 31Großherzoglich Mecklenburgisches Reserve-Infanterie-Regiment Nr. 90 |
-| 35. Reserve-Infanterie-Brigade |  | Schleswigsches Reserve-Infanterie-Regiment Nr. 84Schleswigsches Reserve-Infanterie-Regiment Nr. 86Reserve Jäger-Bataillon Nr. 9 |
-| Cavalerie |  | Reserve-Husaren-Regiment Nr. 7 |
-| Artillerie |  | Reserve-Feldartillerie-Regiment Nr. 18 |
+| Unité                          | Commandant | Régiments                                                                                                                       |
+| ------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 34. Reserve-Infanterie-Brigade |            | Hanseatisches Reserve-Infanterie-Regiment Nr. 31Großherzoglich Mecklenburgisches Reserve-Infanterie-Regiment Nr. 90             |
+| 35. Reserve-Infanterie-Brigade |            | Schleswigsches Reserve-Infanterie-Regiment Nr. 84Schleswigsches Reserve-Infanterie-Regiment Nr. 86Reserve Jäger-Bataillon Nr. 9 |
+| Cavalerie                      |            | Reserve-Husaren-Regiment Nr. 7                                                                                                  |
+| Artillerie                     |            | Reserve-Feldartillerie-Regiment Nr. 18                                                                                          |
 
 **1e C.C., general der Kavallerie von der Marwitz**
 
@@ -388,30 +389,30 @@ _Collection privée_
 
 2. D.C. : général von Krane
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 5.  Kavallerie-Brigade |  | Dragoner-Regt.  Nr 2 (Berlin)Ulanen-Regt. Nr 3 (Potsdam) |
-| 8. Kavallerie-Brigade |  | Kürassier-Regt. Nr 7 (Halberstadt)Husaren-Regt. Nr 12 (Torgau) |
-| Leib-Husaren-Brigade |  | 1. Leib-Husaren-Regt. Nr 1 (Danzig)2. Leib-Husaren-Regt. Nr 2 (Danzig) |
-|  |  | Bataillon du Feldartillerie-Regt. Nr 35 (Eylau)MG. Abtg. Nr. 4 (Thorn) |
+| Unité                 | Commandant | Régiments                                                              |
+| --------------------- | ---------- | ---------------------------------------------------------------------- |
+| 5. Kavallerie-Brigade |            | Dragoner-Regt. Nr 2 (Berlin)Ulanen-Regt. Nr 3 (Potsdam)                |
+| 8. Kavallerie-Brigade |            | Kürassier-Regt. Nr 7 (Halberstadt)Husaren-Regt. Nr 12 (Torgau)         |
+| Leib-Husaren-Brigade  |            | 1. Leib-Husaren-Regt. Nr 1 (Danzig)2. Leib-Husaren-Regt. Nr 2 (Danzig) |
+|                       |            | Bataillon du Feldartillerie-Regt. Nr 35 (Eylau)MG. Abtg. Nr. 4 (Thorn) |
 
 4. D.C. : général von Garnier
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 3. Kavallerie-Brigade |  | Kürassier-Regt. Nr 2 (Pasewalk)Ulanen-Regt. Nr 9 (Demmin) |
-| 17. Kavallerie-Brigade |  | Dragoner-Regt Nr 17 (Ludwigslust)Dragoner-Regt Nr 18 (Parchim) |
-| 18. Kavallerie-Brigade |  | Husaren-Regt. Nr 15 (Wandsbek)Husaren-Regt. Nr 16 (Schleswig) |
-|  |  | Bataillon du Feldartillerie-Regt. Nr 3 (Brandenburg)MG. Abtg. Nr. 2 (Trier) |
+| Unité                  | Commandant | Régiments                                                                   |
+| ---------------------- | ---------- | --------------------------------------------------------------------------- |
+| 3. Kavallerie-Brigade  |            | Kürassier-Regt. Nr 2 (Pasewalk)Ulanen-Regt. Nr 9 (Demmin)                   |
+| 17. Kavallerie-Brigade |            | Dragoner-Regt Nr 17 (Ludwigslust)Dragoner-Regt Nr 18 (Parchim)              |
+| 18. Kavallerie-Brigade |            | Husaren-Regt. Nr 15 (Wandsbek)Husaren-Regt. Nr 16 (Schleswig)               |
+|                        |            | Bataillon du Feldartillerie-Regt. Nr 3 (Brandenburg)MG. Abtg. Nr. 2 (Trier) |
 
 9. D.C. : général von Schmettow
 
-| Unité | Commandant | Régiments |
-| --- | --- | --- |
-| 13. Kavallerie-Brigade |  | Kürassier-Regt. Nr 4 (Münster)Husaren-Regt. Nr 8 (Paderborn) |
-| 14. Kavallerie-Brigade |  | Husaren-Regt Nr 11 (Crefeld)Ulanen-Regt Nr 5 (Düsseldorf) |
-| 19. Kavallerie-Brigade |  | Dragoner-Regt. Nr 19 (Oldenburg)Ulanen-Regt. Nr 13 (Hannover) |
-|  |  | Bataillon du Feldartillerie-Regt. Nr 10 (Hannover)MG. Abtg. Nr. 7 (Köln) |
+| Unité                  | Commandant | Régiments                                                                |
+| ---------------------- | ---------- | ------------------------------------------------------------------------ |
+| 13. Kavallerie-Brigade |            | Kürassier-Regt. Nr 4 (Münster)Husaren-Regt. Nr 8 (Paderborn)             |
+| 14. Kavallerie-Brigade |            | Husaren-Regt Nr 11 (Crefeld)Ulanen-Regt Nr 5 (Düsseldorf)                |
+| 19. Kavallerie-Brigade |            | Dragoner-Regt. Nr 19 (Oldenburg)Ulanen-Regt. Nr 13 (Hannover)            |
+|                        |            | Bataillon du Feldartillerie-Regt. Nr 10 (Hannover)MG. Abtg. Nr. 7 (Köln) |
 
 ### Position des armées la veille de la bataille
 
@@ -423,8 +424,8 @@ L’armée anglaise se trouve à une vingtaine de kilomètres au sud de la Marne
 Lors de sa conversion à travers la Belgique, la Ie armée allemande a laissé son 3e C.A.R. en couverture face à Anvers et la IIe armée son 7e C.A.R. devant Maubeuge : elle s’est affaiblie.
 
 - Quant au gros des armées, la directive de Moltke du 4 septembre avait prescrit que les Ie et IIe armées restent face à Paris :
-  La Ie entre Marne et Oise en tenant les ponts de la Marne à Château-Thierry et à l’ouest de cette localité
-  La IIe entre Marne et Seine.
+    La Ie entre Marne et Oise en tenant les ponts de la Marne à Château-Thierry et à l’ouest de cette localité
+    La IIe entre Marne et Seine.
 
 Von Kluck n’a pas exécuté immédiatement les instructions de Moltke : il a poussé tous ses C.A. au sud de la Marne sauf un en flanc-garde.
 
@@ -487,9 +488,9 @@ La proclamation historique de Joffre parvient aux armées :
 **A l’aube :**
 
 - La VIe armée relance l’offensive
-  Le 7e C.A. attaque les crêtes du Multien
-  La 55e division de réserve s’empare de Monthyon
-  La brigade marocaine s’empare des collines de Penchard
+    Le 7e C.A. attaque les crêtes du Multien
+    La 55e division de réserve s’empare de Monthyon
+    La brigade marocaine s’empare des collines de Penchard
 
 Vers Meaux, les Français s’emparent de Chambry, Barcy et Marcilly, mais les barrages d’artillerie allemande empêchent les troupes de progresser plus avant.
 
@@ -521,7 +522,7 @@ Le 4e C.A. allemand traverse la Marne à La Ferté-sous-Jouarre. Il doit attaque
 
 **Au soir :**
 
-Galliéni se rend compte que les assauts frontaux contre Torcy et Etrepilly ont été vains et il cherche à présent à manoeuvrer vers le nord. Il attend pour cela l’arrivée du 4e C.A. (IIIe armée). La 8e division (de Lartigue) a été placée à la gauche des Anglais. Au nord de Paris, il ne reste que la 7e division. Elle doit être transportée de toute urgence vers Nanteuil-le-Haudouin et pour ce faire est embarquée à bord de 600 taxis parisiens, réquisitionnés. Six autres bataillons sont transportés par chemin de fer. La 7e division pourra  marcher au combat dès le début de la matinée du 7.
+Galliéni se rend compte que les assauts frontaux contre Torcy et Etrepilly ont été vains et il cherche à présent à manoeuvrer vers le nord. Il attend pour cela l’arrivée du 4e C.A. (IIIe armée). La 8e division (de Lartigue) a été placée à la gauche des Anglais. Au nord de Paris, il ne reste que la 7e division. Elle doit être transportée de toute urgence vers Nanteuil-le-Haudouin et pour ce faire est embarquée à bord de 600 taxis parisiens, réquisitionnés. Six autres bataillons sont transportés par chemin de fer. La 7e division pourra marcher au combat dès le début de la matinée du 7.
 
 Les Français occupent la ligne Chambry - Marcilly - Puisieux - Acy-en-Multien.
 
@@ -550,7 +551,7 @@ L’Etat-major de von Kluck rallie la ferme de Beauval où s’est installé von
 
 **04h :**
 
-La VIe armée reprend son offensive. Le 7e C.A., la 5e D.C. et la 61e division de réserve doivent entamer une manuvre de débordement par le nord, mais les Allemands répliquent en envoyant la 7e division du 4e C.A. (von Arnim) qui prend à partie la 61e division du général Desprez. Les combats se déroulent dans le secteur de Nanteuil-le-Haudouin, où les français sont bloqués.
+La VIe armée reprend son offensive. Le 7e C.A., la 5e D.C. et la 61e division de réserve doivent entamer une manoeuvre de débordement par le nord, mais les Allemands répliquent en envoyant la 7e division du 4e C.A. (von Arnim) qui prend à partie la 61e division du général Desprez. Les combats se déroulent dans le secteur de Nanteuil-le-Haudouin, où les français sont bloqués.
 
 **En matinée :**
 
@@ -577,8 +578,8 @@ A Fosse Martin, le colonel Nivelle empêche les français de lâcher pied devant
 Von Linsingen, chef du 2e C.A., a sous son commandement :
 
 - Un groupe nord (Sixt von Arnim) sur la ligne Antilly - Acy-en-Multien
-  Un groupe du centre (von Gronau), sur la ligne Vincy-Manuvre, au nord-ouest de Trocy
-  Un groupe sud (von Trossel) sur le front Trocy - Vareddes.
+    Un groupe du centre (von Gronau), sur la ligne Vincy-manoeuvre, au nord-ouest de Trocy
+    Un groupe sud (von Trossel) sur le front Trocy - Vareddes.
 
 **12h15 :**
 
@@ -737,7 +738,7 @@ La bataille de l’Ourcq, qui a marqué un tournant dans la Grande Guerre a ét�
 - Parce que Joffre a été conseillé par Galliéni, qui a pu saisir l’opportunité qui se présentait.
 
 - Et enfin parce-queles troupes françaises, épuisées par la retraite, ont malgré tout pu attaquer. von Kluck a dit d’elles :
-"Que des hommes ayant reculé pendant dix jours, que des hommes couchés par terre et à demi-morts de fatigue puissent reprendre le fusil et attaquer au son du clairon, c’est là une chose avec laquelle nous n’avions jamais appris à compter".
+  "Que des hommes ayant reculé pendant dix jours, que des hommes couchés par terre et à demi-morts de fatigue puissent reprendre le fusil et attaquer au son du clairon, c’est là une chose avec laquelle nous n’avions jamais appris à compter".
 
 Attaqué de flanc, von Kluck a dû faire remonter ses C.A. vers le nord pour contrer la menace, créant une brèche entre son armée et celle de von Bülow, brèche masquée par un rideau de cavalerie.
 

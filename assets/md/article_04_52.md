@@ -39,7 +39,7 @@ _Collection privée_
 
 ### IIIe armée française
 
-Le 4e C.A. est prélevé sur l’armée et Sarrail n’a plus que deux C.A. (5e et 6e) et un groupe de divisions de réserve pour enrayer les progrès de la Ve armée allemande. Sarrail estime devoir faire tous ses efforts pour assurer jusqu’au bout la défense de Verdun. Il est obligé  d’étendre indéfiniment son front vers le sud pour rester en liaison à la fois avec la IVe armée et avec la place de Verdun.
+Le 4e C.A. est prélevé sur l’armée et Sarrail n’a plus que deux C.A. (5e et 6e) et un groupe de divisions de réserve pour enrayer les progrès de la Ve armée allemande. Sarrail estime devoir faire tous ses efforts pour assurer jusqu’au bout la défense de Verdun. Il est obligé d’étendre indéfiniment son front vers le sud pour rester en liaison à la fois avec la IVe armée et avec la place de Verdun.
 
 ### IVe armée française
 
@@ -84,7 +84,7 @@ Les troupes chargées de l’observation et de la protection de la ligne de comm
 
 **[Lien vers croquis](../img/progression_allemands.jpg)**
 
-La certitude d’avoir remporté la victoire décisive sur les frontières de France commence à s’émousser. La poursuite ne prend pas l’allure d’une simple promenade militaire. Le 27 août, Moltke a voulu reprendre la manuvre de Schlieffen en encerclant les Français par un mouvement autour de Paris, mais a dû y renoncer, car les Français montrent leur force de résistance.  Il faudra livrer une nouvelle bataille.
+La certitude d’avoir remporté la victoire décisive sur les frontières de France commence à s’émousser. La poursuite ne prend pas l’allure d’une simple promenade militaire. Le 27 août, Moltke a voulu reprendre la manoeuvre de Schlieffen en encerclant les Français par un mouvement autour de Paris, mais a dû y renoncer, car les Français montrent leur force de résistance. Il faudra livrer une nouvelle bataille.
 
 Après réflexion, Moltke finit par en prendre son parti. Puisqu’il ne peut déborder la ligne ennemie par l’ouest de Paris, il le fera par l’est, en masquant la capitale avec une partie de la Ie armée.
 
@@ -103,7 +103,7 @@ A 13h10, il en rend compte à Luxembourg par le message radio suivant, émis seu
 
 En fin de journée, le centre et la gauche de l’armée s’alignent au sud de la Marne. Ce mouvement est dû à l’initiative de von Quast (2e C.A.). Au lieu de lui faire faire demi-tour, von Kluck décide de lui faire poursuivre sa route au sud de la Marne. C’est ainsi qu’il ordonne à ses C.A. de gauche et du centre (9e, 3e et 4e) d’atteindre les plateaux au sud du Petit Morin entre Montmirail et Rebais. Le 2e C.A. doit gagner la région de Meaux. Seul le 4e C.A.R. assurera la couverture face à Paris.
 
-En fait, von Kluck poursuit inlassablement un but : écraser l’aile gauche ennemie. Chaque matin, il croit l’avoir atteinte et il constate que ce but a été manqué. On lui apprend enfin qu’on a fixé l’aile gauche adverse, et il estime pouvoir réussir la manuvre.
+En fait, von Kluck poursuit inlassablement un but : écraser l’aile gauche ennemie. Chaque matin, il croit l’avoir atteinte et il constate que ce but a été manqué. On lui apprend enfin qu’on a fixé l’aile gauche adverse, et il estime pouvoir réussir la manoeuvre.
 
 A 21h15, von Kluck expédie l’ordre d’opérations pour le 4 septembre.
 
